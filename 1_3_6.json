@@ -1,0 +1,367 @@
+{
+    "1.3.6_1-20":[
+        {
+            "question": "Was versteht man unter betrieblichen Produktionsfaktoren?",
+            "answers": [
+                { "text": "Es sind materielle und immaterielle Mittel, die in der Produktion verwendet werden.", "correct": true },
+                { "text": "Es sind die gesetzlichen Rahmenbedingungen eines Unternehmens.", "correct": false },
+                { "text": "Es sind die finanziellen Ressourcen, die ein Unternehmen zur Verfügung hat.", "correct": false },
+                { "text": "Es sind die sozialen Beziehungen im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Produktionsfaktoren hat der Wirtschaftswissenschaftler Erich Gutenberg benannt?",
+            "answers": [
+                { "text": "Betriebsmittel, Werkstoffe und ausführende Arbeit.", "correct": true },
+                { "text": "Kapital, Arbeit und technologische Entwicklung.", "correct": false },
+                { "text": "Maschinen, Gebäude und Produktionskosten.", "correct": false },
+                { "text": "Rohstoffe, Transportmittel und Energiequellen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind Werkstoffe im Kontext der betrieblichen Produktionsfaktoren?",
+            "answers": [
+                { "text": "Werkstoffe sind die Hauptbestandteile eines Produktes.", "correct": true },
+                { "text": "Werkstoffe sind die Kosten für Personal.", "correct": false },
+                { "text": "Werkstoffe sind die Standorte eines Unternehmens.", "correct": false },
+                { "text": "Werkstoffe sind die Einnahmen aus dem Verkauf von Produkten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was zählt zu den Betriebsmitteln in einem Produktionsbetrieb?",
+            "answers": [
+                { "text": "Maschinen, Werkzeuge und Betriebsgebäude.", "correct": true },
+                { "text": "Mitarbeiterschulungen und Fortbildungen.", "correct": false },
+                { "text": "Werbung und Marketingmaterialien.", "correct": false },
+                { "text": "Finanzielle Rücklagen und Ersparnisse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die ausführende Arbeit bei den Produktionsfaktoren?",
+            "answers": [
+                { "text": "Es ist die direkte menschliche Arbeitsleistung in der Produktion.", "correct": true },
+                { "text": "Es sind die leitenden und planenden Tätigkeiten im Management.", "correct": false },
+                { "text": "Es ist die Entwicklung neuer Produkte und Dienstleistungen.", "correct": false },
+                { "text": "Es ist die Überwachung der finanziellen Ausgaben im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich die betriebswirtschaftliche von der volkswirtschaftlichen Betrachtung der Produktionsfaktoren?",
+            "answers": [
+                { "text": "Die betriebswirtschaftliche betrachtet die Ressourcen eines einzelnen Unternehmens.", "correct": true },
+                { "text": "Die volkswirtschaftliche fokussiert auf die Einnahmen eines Unternehmens.", "correct": false },
+                { "text": "Die betriebswirtschaftliche untersucht nur den Staatshaushalt.", "correct": false },
+                { "text": "Die volkswirtschaftliche betrachtet die internen Arbeitsabläufe.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche zusätzlichen Produktionsfaktoren sind in der Informationswirtschaft relevant?",
+            "answers": [
+                { "text": "Information und Wissen.", "correct": true },
+                { "text": "Kapital und Grundstücke.", "correct": false },
+                { "text": "Energiequellen und Rohstoffe.", "correct": false },
+                { "text": "Maschinen und Werkzeuge.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was besagt das Maximumprinzip im ökonomischen Kontext?",
+            "answers": [
+                { "text": "Mit gegebenen Mitteln maximalen Erfolg erzielen.", "correct": true },
+                { "text": "Einen bestimmten Erfolg mit minimalem Aufwand erzielen.", "correct": false },
+                { "text": "Das Verhältnis von Aufwand zu Ertrag konstant halten.", "correct": false },
+                { "text": "Den Gewinn durch Kostensenkungen maximieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie definiert sich das Minimumprinzip im ökonomischen Prinzip?",
+            "answers": [
+                { "text": "Einen bestimmten Erfolg mit minimalen Mitteln erreichen.", "correct": true },
+                { "text": "Die Produktivität bei gleichbleibenden Kosten steigern.", "correct": false },
+                { "text": "Mit minimalem Aufwand maximale Einnahmen erzielen.", "correct": false },
+                { "text": "Das Unternehmen durch hohe Investitionen voranbringen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wann kommt das Optimumprinzip (Extremumprinzip) zur Anwendung?",
+            "answers": [
+                { "text": "Wenn sowohl das Ergebnis als auch der Einsatz variabel sind.", "correct": true },
+                { "text": "Wenn nur das Ergebnis vorgegeben ist.", "correct": false },
+                { "text": "Wenn die Kosten minimiert werden sollen.", "correct": false },
+                { "text": "Wenn die Mitarbeiterzufriedenheit gesteigert werden soll.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind materielle Güter und nennen Sie ein Beispiel.",
+            "answers": [
+                { "text": "Materielle Güter sind physische Objekte, wie ein Computer.", "correct": true },
+                { "text": "Materielle Güter sind Dienstleistungen, wie eine Beratung.", "correct": false },
+                { "text": "Materielle Güter sind Patente und Markenrechte.", "correct": false },
+                { "text": "Materielle Güter sind Ideen und Konzepte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheiden sich Konsumgüter von Investitionsgütern?",
+            "answers": [
+                { "text": "Konsumgüter werden vom Endverbraucher genutzt, Investitionsgüter dienen der Produktion.", "correct": true },
+                { "text": "Konsumgüter sind immer immateriell, Investitionsgüter immer materiell.", "correct": false },
+                { "text": "Konsumgüter werden nur von Unternehmen genutzt, Investitionsgüter nur von Haushalten.", "correct": false },
+                { "text": "Konsumgüter haben einen höheren Preis als Investitionsgüter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter immateriellen Gütern und nennen Sie ein Beispiel.",
+            "answers": [
+                { "text": "Immaterielle Güter sind nicht physisch, wie Dienstleistungen.", "correct": true },
+                { "text": "Immaterielle Güter sind physische Produkte, wie ein Auto.", "correct": false },
+                { "text": "Immaterielle Güter sind natürliche Ressourcen, wie Wasser.", "correct": false },
+                { "text": "Immaterielle Güter sind physische Objekte, wie Maschinen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Güter nach ihrer Beziehung zueinander unterschieden werden?",
+            "answers": [
+                { "text": "In komplementäre, substitutive und unverbundene Güter.", "correct": true },
+                { "text": "In physische, digitale und immaterielle Güter.", "correct": false },
+                { "text": "In teure, günstige und mittelpreisige Güter.", "correct": false },
+                { "text": "In essenzielle, optionale und seltene Güter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind komplementäre Güter?",
+            "answers": [
+                { "text": "Güter, die zusammen genutzt werden, wie Drucker und Toner.", "correct": true },
+                { "text": "Güter, die allein genutzt werden, wie ein Buch.", "correct": false },
+                { "text": "Güter, die ähnlich sind, wie Stifte und Papier.", "correct": false },
+                { "text": "Güter, die sich gegenseitig ersetzen, wie Auto und Fahrrad.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden substitutive Güter definiert?",
+            "answers": [
+                { "text": "Güter, die sich gegenseitig ersetzen können, wie Auto und Zug.", "correct": true },
+                { "text": "Güter, die zusammen genutzt werden, wie Kaffee und Zucker.", "correct": false },
+                { "text": "Güter, die nicht miteinander verbunden sind, wie Bücher und Kleidung.", "correct": false },
+                { "text": "Güter, die gemeinsam verkauft werden, wie Computer und Software.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Güter werden als freie Güter bezeichnet?",
+            "answers": [
+                { "text": "Güter, die unbegrenzt verfügbar und kostenlos sind, wie Luft.", "correct": true },
+                { "text": "Güter, die teuer sind und selten, wie Diamanten.", "correct": false },
+                { "text": "Güter, die für den Handel bestimmt sind, wie Produkte im Supermarkt.", "correct": false },
+                { "text": "Güter, die nur in bestimmten Regionen erhältlich sind, wie exotische Früchte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was unterscheidet wirtschaftliche Güter von freien Gütern?",
+            "answers": [
+                { "text": "Wirtschaftliche Güter haben einen Preis, freie Güter nicht.", "correct": true },
+                { "text": "Wirtschaftliche Güter sind immer physisch, freie Güter immateriell.", "correct": false },
+                { "text": "Wirtschaftliche Güter sind immer knapp, freie Güter unendlich.", "correct": false },
+                { "text": "Wirtschaftliche Güter werden vom Staat bereitgestellt, freie Güter von der Natur.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter öffentlichen Gütern?",
+            "answers": [
+                { "text": "Güter, die allen zur Verfügung stehen, wie ein Stadtpark.", "correct": true },
+                { "text": "Güter, die von Privatpersonen erworben werden, wie ein Haus.", "correct": false },
+                { "text": "Güter, die ausschließlich Unternehmen nutzen, wie Maschinen.", "correct": false },
+                { "text": "Güter, die nur für bestimmte Gruppen verfügbar sind, wie exklusive Clubs.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Güter zählen zu den Betriebsstoffen in einem Unternehmen?",
+            "answers": [
+                { "text": "Schmieröle, Brennstoffe und Reinigungsmittel.", "correct": true },
+                { "text": "Computer, Telefone und Drucker.", "correct": false },
+                { "text": "Büromöbel, Dekoration und Pflanzen.", "correct": false },
+                { "text": "Fahrzeuge, Maschinen und Werkzeuge.", "correct": false }
+            ]
+        }
+    ],
+    
+    "1.3.6_21-40":[
+        {
+            "question": "Was versteht man unter klassischen Arbeitsmitteln in einem Unternehmen?",
+            "answers": [
+                { "text": "Computer, Maschinen und Büroausstattung werden als klassische Arbeitsmittel bezeichnet.", "correct": true },
+                { "text": "Alle digitalen und analogen Geräte im Büro gehören zu den klassischen Arbeitsmitteln.", "correct": false },
+                { "text": "Organisatorische Tools wie Kalender und Planer sind typische klassische Arbeitsmittel.", "correct": false },
+                { "text": "Softwarelösungen und technische Systeme zählen zu den klassischen Arbeitsmitteln.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Beispiele gibt es für klassische Gestaltungsmittel in der Aufbau- und Ablauforganisation?",
+            "answers": [
+                { "text": "Organigramme, Stellenbeschreibungen und Kontenrahmen sind klassische Gestaltungsmittel.", "correct": true },
+                { "text": "Moderne Softwarelösungen und digitale Tools sind die klassischen Gestaltungsmittel.", "correct": false },
+                { "text": "Arbeitsanweisungen und Prozessoptimierungssoftware gelten als klassische Gestaltungsmittel.", "correct": false },
+                { "text": "Kundenmanagementsysteme und Buchhaltungssoftware sind klassische Gestaltungsmittel.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind papierlose Arbeitsmittel, und wie unterscheiden sie sich von klassischen Arbeitsmitteln?",
+            "answers": [
+                { "text": "Papierlose Arbeitsmittel sind digitale Geräte und Systeme, die physische Akten ersetzen.", "correct": true },
+                { "text": "Papierlose Arbeitsmittel umfassen alle traditionellen Werkzeuge und Büroausstattungen.", "correct": false },
+                { "text": "Papierlose Arbeitsmittel beziehen sich auf manuelle Werkzeuge und Maschinen im Büro.", "correct": false },
+                { "text": "Papierlose Arbeitsmittel sind ausschließlich für den persönlichen Gebrauch bestimmt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie tragen digitale Gestaltungsmittel zur Effizienz in einem Unternehmen bei?",
+            "answers": [
+                { "text": "Sie ermöglichen eine schnellere Kommunikation und bessere Organisation der Arbeitsprozesse.", "correct": true },
+                { "text": "Digitale Gestaltungsmittel führen zu einer längeren Bearbeitungszeit und komplizierteren Prozessen.", "correct": false },
+                { "text": "Digitale Gestaltungsmittel reduzieren die Mitarbeiterproduktivität durch komplizierte Software.", "correct": false },
+                { "text": "Sie erhöhen die Notwendigkeit für physische Arbeitsmittel und manuelle Prozesse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Kollaboration bei der Nutzung von digitalen Organisationsmitteln?",
+            "answers": [
+                { "text": "Sie fördert die Zusammenarbeit und das gemeinsame Arbeiten an Projekten.", "correct": true },
+                { "text": "Kollaboration führt zu einer geringeren Effizienz und Verzögerungen im Arbeitsprozess.", "correct": false },
+                { "text": "Digitale Organisationsmittel behindern die Zusammenarbeit zwischen Teams.", "correct": false },
+                { "text": "Kollaboration ist irrelevant für den Einsatz digitaler Organisationsmittel.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Ziel des Maximumprinzips im ökonomischen Kontext?",
+            "answers": [
+                { "text": "Mit vorgegebenen Mitteln den größtmöglichen Erfolg zu erzielen, ist das Ziel des Maximumprinzips.", "correct": true },
+                { "text": "Das Maximumprinzip zielt darauf ab, den geringsten Erfolg mit maximalem Aufwand zu erreichen.", "correct": false },
+                { "text": "Es geht darum, mit minimalen Mitteln minimale Erfolge zu erzielen.", "correct": false },
+                { "text": "Das Maximumprinzip legt fest, dass man mit unbegrenzten Ressourcen arbeiten soll.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich das Minimumprinzip vom Maximumprinzip?",
+            "answers": [
+                { "text": "Das Minimumprinzip strebt mit geringstmöglichen Mitteln einen bestimmten Erfolg an.", "correct": true },
+                { "text": "Das Minimumprinzip zielt darauf ab, den maximalen Erfolg mit den meisten Ressourcen zu erreichen.", "correct": false },
+                { "text": "Das Minimumprinzip versucht, mit unbegrenzten Mitteln den minimalen Erfolg zu erzielen.", "correct": false },
+                { "text": "Das Minimumprinzip legt fest, dass man mit vorgegebenen Mitteln maximalen Erfolg erzielt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Optimumprinzip, und wann wird es angewendet?",
+            "answers": [
+                { "text": "Es wird angewendet, wenn sowohl das Ergebnis als auch der Einsatz variabel sind.", "correct": true },
+                { "text": "Das Optimumprinzip kommt zur Anwendung, wenn nur der Einsatz variabel ist.", "correct": false },
+                { "text": "Es wird verwendet, wenn das Ergebnis fest und der Einsatz unbegrenzt ist.", "correct": false },
+                { "text": "Das Optimumprinzip gilt nur in Situationen, in denen der Einsatz konstant bleibt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Beispiele gibt es für materielle Güter, die Unternehmen produzieren oder anbieten können?",
+            "answers": [
+                { "text": "Computer, Fahrzeuge und Gebäude sind Beispiele für materielle Güter.", "correct": true },
+                { "text": "Dienstleistungen und Softwarelösungen gehören zu den materiellen Gütern.", "correct": false },
+                { "text": "Informationsrechte und Urheberrechte zählen zu den materiellen Gütern.", "correct": false },
+                { "text": "Patente und Marken sind typische materielle Güter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind immaterielle Güter, und wie werden sie in Unternehmen genutzt?",
+            "answers": [
+                { "text": "Dienstleistungen und Rechte sind immaterielle Güter, die im Unternehmen genutzt werden.", "correct": true },
+                { "text": "Gebäude und Maschinen sind typische immaterielle Güter in Unternehmen.", "correct": false },
+                { "text": "Rohstoffe und Betriebsmittel gelten als immaterielle Güter.", "correct": false },
+                { "text": "Werkzeuge und Fahrzeuge sind immaterielle Güter, die in Unternehmen eingesetzt werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden Konsumgüter nach ihrem Verwendungszweck unterschieden?",
+            "answers": [
+                { "text": "Konsumgüter werden in Verbrauchsgüter und Gebrauchsgüter unterteilt.", "correct": true },
+                { "text": "Konsumgüter werden nur nach ihrer Haltbarkeit unterschieden.", "correct": false },
+                { "text": "Es gibt keine Unterschiede bei der Einteilung von Konsumgütern.", "correct": false },
+                { "text": "Konsumgüter werden nach ihrer Produktionsweise unterschieden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen Betriebsmitteln und Werkstoffen in der Produktion?",
+            "answers": [
+                { "text": "Betriebsmittel sind technische Ausstattungen, während Werkstoffe zur Erstellung von Produkten benötigt werden.", "correct": true },
+                { "text": "Betriebsmittel und Werkstoffe sind identische Begriffe ohne Unterscheidung.", "correct": false },
+                { "text": "Werkstoffe sind ausschließlich für die Verwaltung vorgesehen, Betriebsmittel für die Produktion.", "correct": false },
+                { "text": "Betriebsmittel und Werkstoffe werden synonym verwendet und unterscheiden sich nicht.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Güterarten gehören zu den Investitionsgütern, und wofür werden sie verwendet?",
+            "answers": [
+                { "text": "Betriebsmittel und Werkstoffe zählen zu den Investitionsgütern, die für die Produktion benötigt werden.", "correct": true },
+                { "text": "Investitionsgüter umfassen nur Konsumgüter, die direkt an den Verbraucher verkauft werden.", "correct": false },
+                { "text": "Dienstleistungen und Rohstoffe sind die wichtigsten Investitionsgüter im Handel.", "correct": false },
+                { "text": "Investitionsgüter sind ausschließlich für den privaten Konsum bestimmt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter komplementären Gütern, und nennen Sie ein Beispiel.",
+            "answers": [
+                { "text": "Komplementäre Güter ergänzen sich in ihrer Nutzung, wie Drucker und Toner.", "correct": true },
+                { "text": "Komplementäre Güter sind Produkte, die sich gegenseitig ersetzen, wie Auto und Bahn.", "correct": false },
+                { "text": "Lebensmittel und Elektronikprodukte sind typische komplementäre Güter.", "correct": false },
+                { "text": "Komplementäre Güter sind immer wirtschaftliche Güter ohne Ausnahmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheiden sich substitutive Güter von unverbundenen Gütern?",
+            "answers": [
+                { "text": "Substitutive Güter ersetzen einander, unverbundene Güter stehen in keinem Zusammenhang.", "correct": true },
+                { "text": "Substitutive Güter ergänzen sich, während unverbundene Güter konkurrieren.", "correct": false },
+                { "text": "Unverbundene Güter sind immer freie Güter, während substitutive Güter knapp sind.", "correct": false },
+                { "text": "Substitutive und unverbundene Güter sind in ihrer Bedeutung identisch.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Beispiele gibt es für freie Güter, die in der Wirtschaft genutzt werden können?",
+            "answers": [
+                { "text": "Atemluft und Sonnenlicht sind typische Beispiele für freie Güter.", "correct": true },
+                { "text": "Elektrizität und Trinkwasser zählen zu den freien Gütern in der Wirtschaft.", "correct": false },
+                { "text": "Autos und Maschinen werden als freie Güter bezeichnet.", "correct": false },
+                { "text": "Rohstoffe und Energiequellen sind die wichtigsten freien Güter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind wirtschaftliche Güter, und warum sind sie wichtig für Unternehmen?",
+            "answers": [
+                { "text": "Wirtschaftliche Güter sind knapp und erfordern einen Preis, sie sind entscheidend für den Unternehmenserfolg.", "correct": true },
+                { "text": "Wirtschaftliche Güter sind unbegrenzt verfügbar und haben keinen Marktwert.", "correct": false },
+                { "text": "Nur öffentliche Güter zählen zu den wirtschaftlichen Gütern in der Praxis.", "correct": false },
+                { "text": "Wirtschaftliche Güter sind immer immateriell und nicht handelbar.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Güter zählen zu den privaten Gütern, und was zeichnet sie aus?",
+            "answers": [
+                { "text": "Computer und Autos sind private Güter, die durch Ausschließbarkeit und Rivalität charakterisiert sind.", "correct": true },
+                { "text": "Öffentliche Dienstleistungen und Infrastrukturprojekte sind typische private Güter.", "correct": false },
+                { "text": "Private Güter sind grundsätzlich für den öffentlichen Gebrauch bestimmt.", "correct": false },
+                { "text": "Stadtparks und Straßenbeleuchtung sind Beispiele für private Güter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter öffentlichen Gütern, und wie werden sie in der Gesellschaft genutzt?",
+            "answers": [
+                { "text": "Öffentliche Güter stehen allen zur Verfügung und sind nicht ausschließbar, wie Parkanlagen und Leuchttürme.", "correct": true },
+                { "text": "Öffentliche Güter sind ausschließlich für private Unternehmen bestimmt.", "correct": false },
+                { "text": "Kinovorstellungen und exklusive Clubs sind Beispiele für öffentliche Güter.", "correct": false },
+                { "text": "Öffentliche Güter werden nur von staatlichen Einrichtungen genutzt und nicht von der Bevölkerung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheiden sich Rohstoffe von Einbaubauteilen im Produktionsprozess eines Unternehmens?",
+            "answers": [
+                { "text": "Rohstoffe sind Grundmaterialien, während Einbaubauteile fertige Komponenten sind.", "correct": true },
+                { "text": "Einbaubauteile und Rohstoffe sind dasselbe und werden synonym verwendet.", "correct": false },
+                { "text": "Rohstoffe werden nur in der Verwaltung verwendet, Einbaubauteile in der Produktion.", "correct": false },
+                { "text": "Einbaubauteile sind immer flüssige Materialien, Rohstoffe dagegen fest.", "correct": false }
+            ]
+        }
+    ]
+}    

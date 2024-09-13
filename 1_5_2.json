@@ -1,0 +1,370 @@
+{
+    "1.5.2_1-20":
+    [
+        {
+            "question": "Welche vier Aspekte sollten vor Beginn der Präsentationsplanung bedacht werden?",
+            "answers": [
+                { "text": "Ziel, Zielgruppe, Rahmenbedingungen und Bewertungskriterien berücksichtigen", "correct": true },
+                { "text": "Nur das Ziel der Präsentation festlegen und die anderen Aspekte ignorieren", "correct": false },
+                { "text": "Den Schwerpunkt ausschließlich auf die Zielgruppe legen und die anderen Faktoren vernachlässigen", "correct": false },
+                { "text": "Die Bewertungskriterien als den wichtigsten Aspekt behandeln und alles andere außer Acht lassen", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, sich über die Bewertungskriterien einer Präsentation im Klaren zu sein?",
+            "answers": [
+                { "text": "Um eine gezielte und effektive Vorbereitung zu gewährleisten", "correct": true },
+                { "text": "Weil die Bewertungskriterien keinen Einfluss auf die Qualität der Präsentation haben", "correct": false },
+                { "text": "Damit die Präsentation möglichst viele visuelle Effekte enthält", "correct": false },
+                { "text": "Um sicherzustellen, dass die Präsentation so lang wie möglich ist", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Zweck eines Bewertungsbogens bei Schulungsveranstaltungen?",
+            "answers": [
+                { "text": "Eine Rückmeldung über den Erfolg der Veranstaltung zu erhalten", "correct": true },
+                { "text": "Eine Möglichkeit zu schaffen, um Kritik an den Teilnehmern zu üben", "correct": false },
+                { "text": "Ein Werkzeug, um die Teilnehmer nach der Präsentation zu beschäftigen", "correct": false },
+                { "text": "Eine Methode, um die technische Ausstattung zu bewerten", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Teilnehmer eine Präsentation bewerten?",
+            "answers": [
+                { "text": "Durch schriftliche oder mündliche Rückmeldungen nach der Präsentation", "correct": true },
+                { "text": "Nur durch eine mündliche Befragung während der Präsentation", "correct": false },
+                { "text": "Ausschließlich durch eine schriftliche Bewertung vor Beginn der Präsentation", "correct": false },
+                { "text": "Indem sie sich am Ende der Präsentation nicht äußern", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind klare Zielvorgaben und eine angemessene Zeitplanung für eine erfolgreiche Präsentation wichtig?",
+            "answers": [
+                { "text": "Sie helfen, die Präsentation strukturiert und effektiv durchzuführen", "correct": true },
+                { "text": "Weil die Präsentation dann länger dauert und mehr Informationen enthält", "correct": false },
+                { "text": "Damit die Präsentation möglichst viele Details behandelt, unabhängig von der Zeit", "correct": false },
+                { "text": "Um sicherzustellen, dass die Präsentation so kurz wie möglich ist", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Analyse der Vorkenntnisse der Teilnehmer bei der Planung einer Präsentation?",
+            "answers": [
+                { "text": "Um den Inhalt an das Wissensniveau der Teilnehmer anzupassen", "correct": true },
+                { "text": "Um die Präsentation so allgemein wie möglich zu gestalten", "correct": false },
+                { "text": "Damit keine Rücksicht auf das Vorwissen genommen werden muss", "correct": false },
+                { "text": "Um den Inhalt der Präsentation komplett zu ignorieren", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflussen die Erwartungen der Teilnehmer die Planung einer Präsentation?",
+            "answers": [
+                { "text": "Sie bestimmen die Tiefe und Breite des behandelten Themas", "correct": true },
+                { "text": "Sie sind irrelevant und können bei der Planung ignoriert werden", "correct": false },
+                { "text": "Sie führen dazu, dass die Präsentation sehr oberflächlich bleibt", "correct": false },
+                { "text": "Sie zwingen den Referenten dazu, die Präsentation unnötig zu verlängern", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Auswahl des Präsentationsraums für den Erfolg einer Präsentation entscheidend?",
+            "answers": [
+                { "text": "Weil die Ausstattung und die Atmosphäre des Raums die Wirkung der Präsentation beeinflussen", "correct": true },
+                { "text": "Weil der Raum keine Rolle spielt, solange der Inhalt gut ist", "correct": false },
+                { "text": "Damit die Präsentation in einem möglichst kleinen Raum stattfindet", "correct": false },
+                { "text": "Um sicherzustellen, dass die Präsentation ohne technische Hilfsmittel durchgeführt wird", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Überlegungen sollten bei der Vorbereitung von Unterlagen für eine Präsentation angestellt werden?",
+            "answers": [
+                { "text": "Welche Informationen für die Teilnehmer nützlich und verständlich sind", "correct": true },
+                { "text": "Wie viele Bilder die Unterlagen enthalten sollen", "correct": false },
+                { "text": "Welche Art von Papier für die Unterlagen verwendet werden soll", "correct": false },
+                { "text": "Ob die Unterlagen in Farbe oder Schwarz-Weiß gedruckt werden sollen", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Methoden können zur Informationsbeschaffung und Recherche vor einer Präsentation verwendet werden?",
+            "answers": [
+                { "text": "Brainstorming, Internetrecherche, Befragungen und Fachbuchrecherche nutzen", "correct": true },
+                { "text": "Nur das Internet als Informationsquelle verwenden", "correct": false },
+                { "text": "Alle Informationen ausschließlich aus persönlichen Erfahrungen sammeln", "correct": false },
+                { "text": "Auf jegliche Recherche verzichten und sich auf das eigene Wissen verlassen", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, einen interessanten Einstieg für eine Präsentation zu wählen?",
+            "answers": [
+                { "text": "Um die Aufmerksamkeit der Teilnehmer von Anfang an zu gewinnen", "correct": true },
+                { "text": "Weil der Einstieg keinen Einfluss auf die Aufmerksamkeit hat", "correct": false },
+                { "text": "Damit die Präsentation länger wirkt, als sie tatsächlich ist", "correct": false },
+                { "text": "Um die Teilnehmer möglichst schnell zu verwirren", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Prinzip der „KISS“-Regel in Bezug auf Präsentationen?",
+            "answers": [
+                { "text": "Die Präsentation kurz und einfach zu halten", "correct": true },
+                { "text": "Die Präsentation so kompliziert wie möglich zu gestalten", "correct": false },
+                { "text": "Die Präsentation nur für Experten verständlich zu machen", "correct": false },
+                { "text": "Die Präsentation so umfangreich wie möglich zu gestalten", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann der Spannungsbogen in einer Präsentation aufrechterhalten werden?",
+            "answers": [
+                { "text": "Durch logischen Aufbau und interessante Inhalte", "correct": true },
+                { "text": "Durch monotone Präsentation und langatmige Erklärungen", "correct": false },
+                { "text": "Indem man alle wichtigen Punkte direkt am Anfang erwähnt", "correct": false },
+                { "text": "Durch ständige Wiederholungen der gleichen Punkte", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet das Arbeiten mit der „10-20-30“-Regel bei der Erstellung einer Präsentation?",
+            "answers": [
+                { "text": "Sie sorgt für eine klare, prägnante und leicht verständliche Präsentation", "correct": true },
+                { "text": "Sie führt dazu, dass die Präsentation sehr oberflächlich bleibt", "correct": false },
+                { "text": "Sie stellt sicher, dass die Präsentation möglichst viele Folien enthält", "correct": false },
+                { "text": "Sie macht die Präsentation unnötig kompliziert", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es notwendig, den Stoff einer Präsentation auf das Wesentliche zu reduzieren?",
+            "answers": [
+                { "text": "Um die Präsentation verständlich und prägnant zu halten", "correct": true },
+                { "text": "Damit die Präsentation möglichst viele Details enthält", "correct": false },
+                { "text": "Um die Präsentation so lang wie möglich zu gestalten", "correct": false },
+                { "text": "Damit die Präsentation komplex und schwer verständlich bleibt", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Prinzipien sollten beim Aufbau einer Präsentation beachtet werden?",
+            "answers": [
+                { "text": "Logische Struktur, roter Faden und klare Gliederung", "correct": true },
+                { "text": "So viele Themen wie möglich in kurzer Zeit behandeln", "correct": false },
+                { "text": "Themen wahllos anordnen, um Abwechslung zu schaffen", "correct": false },
+                { "text": "Auf eine Gliederung verzichten und spontan präsentieren", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können mögliche Zeitprobleme bei der Stoffauswahl für eine Präsentation vermieden werden?",
+            "answers": [
+                { "text": "Durch sorgfältige Planung und Priorisierung der wichtigsten Inhalte", "correct": true },
+                { "text": "Indem man möglichst viele Themen in kurzer Zeit behandelt", "correct": false },
+                { "text": "Durch Verzicht auf eine Zeitplanung und spontane Themenauswahl", "correct": false },
+                { "text": "Indem man alle Themen gleichmäßig ausführlich behandelt", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, sachlogisch vorzugehen und verständlich zu bleiben, während einer Präsentation?",
+            "answers": [
+                { "text": "Damit die Teilnehmer dem Inhalt folgen und die Präsentation verstehen können", "correct": true },
+                { "text": "Damit die Präsentation so komplex wie möglich wird", "correct": false },
+                { "text": "Um die Teilnehmer zu verwirren und zu überraschen", "correct": false },
+                { "text": "Um möglichst viele Fachbegriffe zu verwenden, egal ob sie verstanden werden", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Beispiele in einer Präsentation und wie sollten sie ausgewählt werden?",
+            "answers": [
+                { "text": "Sie sollten relevant und leicht verständlich sein", "correct": true },
+                { "text": "Sie sollten so komplex wie möglich sein, um das Publikum herauszufordern", "correct": false },
+                { "text": "Beispiele sollten vermieden werden, um die Präsentation zu beschleunigen", "correct": false },
+                { "text": "Sie sollten nur in Ausnahmefällen verwendet werden", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die richtige Balance zwischen allgemeiner und spezialisierter Information in einer Präsentation gefunden werden?",
+            "answers": [
+                { "text": "Durch Anpassung der Tiefe an die Zielgruppe und die Rahmenbedingungen", "correct": true },
+                { "text": "Indem man sich ausschließlich auf allgemeine Informationen beschränkt", "correct": false },
+                { "text": "Durch Verwendung möglichst vieler technischer Details", "correct": false },
+                { "text": "Indem man alle Informationen unabhängig von der Zielgruppe gleich behandelt", "correct": false }
+            ]
+        }
+    ],
+
+    "1.5.2_21-40":
+    [
+        {
+            "question": "Welche Faktoren sollten bei der Auswahl der Präsentationsmedien berücksichtigt werden?",
+            "answers": [
+                { "text": "Die technischen Möglichkeiten vor Ort und die Zielgruppe der Präsentation.", "correct": true },
+                { "text": "Die Kosten der Medien und die Größe des Raumes.", "correct": false },
+                { "text": "Die Farbgebung der Folien und die Dauer der Präsentation.", "correct": false },
+                { "text": "Die Anzahl der Zuhörer und das Thema des Vortrags.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, nicht zu viele unterschiedliche Medien in einer Präsentation einzusetzen?",
+            "answers": [
+                { "text": "Zu viele Medien können das Publikum ablenken und die Botschaft verwässern.", "correct": true },
+                { "text": "Zu wenige Medien führen immer zu Langeweile und Desinteresse.", "correct": false },
+                { "text": "Medienvielfalt erhöht stets die Komplexität und das Verständnis.", "correct": false },
+                { "text": "Unterschiedliche Medien verhindern die Konzentration der Zuhörer.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Visualisierungsmöglichkeiten können in einer Präsentation genutzt werden?",
+            "answers": [
+                { "text": "Flip-Chart, Beamer-Präsentation, Whiteboard und OHP-Folien.", "correct": true },
+                { "text": "Nur Whiteboard und OHP-Folien sind für Visualisierungen geeignet.", "correct": false },
+                { "text": "Poster, Tafeln und Broschüren sind die einzigen Mittel.", "correct": false },
+                { "text": "Multimedia-Tools sind generell besser als alle anderen Methoden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Objekte können zur Unterstützung der Präsentation verwendet werden?",
+            "answers": [
+                { "text": "Karten mit Texten, Bilder, Diagramme und Videos.", "correct": true },
+                { "text": "Nur Videos und Bilder sind für Präsentationen geeignet.", "correct": false },
+                { "text": "Texte und Diagramme, aber keine anderen Objekte.", "correct": false },
+                { "text": "Kreide und Tafeln sind die besten Hilfsmittel für jede Präsentation.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Utensilien sind hilfreich für eine gelungene Präsentation?",
+            "answers": [
+                { "text": "Stifte, Zeigestock, Moderatorenkoffer und Marker.", "correct": true },
+                { "text": "Nur Kreide und Zeigestöcke sind notwendig.", "correct": false },
+                { "text": "Projektoren und Mikrofone sind die einzigen Utensilien.", "correct": false },
+                { "text": "Laptops und Smartphones sind die wichtigsten Hilfsmittel.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bieten Multimedia-Tools wie PowerPoint oder Prezi bei Präsentationen?",
+            "answers": [
+                { "text": "Sie ermöglichen eine flexible und visuell ansprechende Gestaltung.", "correct": true },
+                { "text": "Sie ersetzen alle anderen Präsentationsmethoden vollständig.", "correct": false },
+                { "text": "Sie erfordern keine Vorbereitung und machen andere Medien überflüssig.", "correct": false },
+                { "text": "Sie sind kompliziert und daher für die meisten Präsentationen ungeeignet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, die Rahmenbedingungen für den Einsatz von Medien vorab zu klären?",
+            "answers": [
+                { "text": "Um sicherzustellen, dass die Technik reibungslos funktioniert.", "correct": true },
+                { "text": "Um sicherzustellen, dass die Präsentation spannend bleibt.", "correct": false },
+                { "text": "Damit die Inhalte vollständig von den Medien abhängen.", "correct": false },
+                { "text": "Damit die Präsentation unabhängig vom Inhalt erfolgreich ist.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Handouts und Skripte in einer Präsentation?",
+            "answers": [
+                { "text": "Sie unterstützen das Verständnis und geben dem Publikum zusätzliche Informationen.", "correct": true },
+                { "text": "Sie sind nur dekorative Elemente und tragen wenig zum Inhalt bei.", "correct": false },
+                { "text": "Sie dienen hauptsächlich der Ablenkung des Publikums.", "correct": false },
+                { "text": "Sie sollten nur verwendet werden, wenn keine Medien zur Verfügung stehen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Körpersprache genutzt werden, um einen Vortrag zu unterstützen?",
+            "answers": [
+                { "text": "Durch natürliche Gesten, aufrechte Haltung und gezielte Blicke.", "correct": true },
+                { "text": "Durch übertriebene Gesten und lautes Sprechen.", "correct": false },
+                { "text": "Durch ständige Bewegung auf der Bühne und schnelle Handgesten.", "correct": false },
+                { "text": "Durch das Vermeiden von Blickkontakt und ruhig bleiben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Variation von Stimmlage und Tonlage im Vortrag wichtig?",
+            "answers": [
+                { "text": "Um Aufmerksamkeit zu erzeugen und wichtige Inhalte zu betonen.", "correct": true },
+                { "text": "Um den Vortrag möglichst schnell und monoton zu halten.", "correct": false },
+                { "text": "Um sicherzustellen, dass das Publikum einschläft.", "correct": false },
+                { "text": "Um Verwirrung bei den Zuhörern zu stiften.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Techniken können helfen, die Anfangsnervosität vor einem Vortrag zu überwinden?",
+            "answers": [
+                { "text": "Tief einatmen, die Luft anhalten und langsam ausatmen.", "correct": true },
+                { "text": "Schnell anfangen zu sprechen, um die Nervosität zu vergessen.", "correct": false },
+                { "text": "Den Raum verlassen und die Präsentation verschieben.", "correct": false },
+                { "text": "Sich mit dem Rücken zum Publikum stellen und ruhig bleiben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, Blickkontakt zum Publikum zu halten?",
+            "answers": [
+                { "text": "Um eine Verbindung herzustellen und das Interesse der Zuhörer zu sichern.", "correct": true },
+                { "text": "Um sicherzustellen, dass niemand die Präsentation verlässt.", "correct": false },
+                { "text": "Damit der Vortrag kürzer wirkt und schneller vorbei ist.", "correct": false },
+                { "text": "Damit man nicht nervös wird und den Faden verliert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sollte bei der Gestaltung des ersten und letzten Satzes einer Präsentation beachtet werden?",
+            "answers": [
+                { "text": "Sie sollten klar und einprägsam sein, um im Gedächtnis zu bleiben.", "correct": true },
+                { "text": "Sie sollten möglichst lang und kompliziert formuliert werden.", "correct": false },
+                { "text": "Der erste Satz sollte Fragen aufwerfen, der letzte Satz keine Antworten geben.", "correct": false },
+                { "text": "Beide Sätze sollten möglichst unbedeutend sein.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sollte die angekündigte Vortragsdauer nicht überschritten werden?",
+            "answers": [
+                { "text": "Um das Interesse des Publikums aufrechtzuerhalten und die Konzentration nicht zu verlieren.", "correct": true },
+                { "text": "Weil es immer besser ist, die Präsentation so schnell wie möglich zu beenden.", "correct": false },
+                { "text": "Weil das Publikum sonst möglicherweise beleidigt ist.", "correct": false },
+                { "text": "Um sicherzustellen, dass alle Fragen unbeantwortet bleiben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung haben kurze Sätze und Sprechpausen in einem Vortrag?",
+            "answers": [
+                { "text": "Sie erleichtern das Verständnis und halten das Interesse der Zuhörer.", "correct": true },
+                { "text": "Sie machen den Vortrag langweiliger und weniger dynamisch.", "correct": false },
+                { "text": "Sie verhindern, dass das Publikum Fragen stellt.", "correct": false },
+                { "text": "Sie sind nur wichtig, wenn der Vortrag schriftlich vorliegt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann man das Interesse des Publikums während des Vortrags aufrechterhalten?",
+            "answers": [
+                { "text": "Durch interessante Beispiele, klare Sprache und das Einbeziehen des Publikums.", "correct": true },
+                { "text": "Durch monotone Sprache und das Ignorieren des Publikums.", "correct": false },
+                { "text": "Indem man den Vortrag möglichst schnell und ohne Pausen durchzieht.", "correct": false },
+                { "text": "Durch das Vorlesen langer Textblöcke ohne jegliche Erklärung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, den Vortrag laut und deutlich zu beginnen?",
+            "answers": [
+                { "text": "Um das Publikum sofort einzubeziehen und die Aufmerksamkeit zu gewinnen.", "correct": true },
+                { "text": "Um sicherzustellen, dass niemand den Raum verlässt.", "correct": false },
+                { "text": "Weil das Publikum sonst möglicherweise einschläft.", "correct": false },
+                { "text": "Um die Präsentation schneller zu beenden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Körpersprache bei der Interaktion mit dem Publikum?",
+            "answers": [
+                { "text": "Sie verstärkt die Botschaft und schafft eine Verbindung zum Publikum.", "correct": true },
+                { "text": "Sie hat keinen Einfluss auf die Wirkung des Vortrags.", "correct": false },
+                { "text": "Sie sollte vermieden werden, um nicht abzulenken.", "correct": false },
+                { "text": "Sie ist nur wichtig, wenn das Publikum unaufmerksam ist.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sollte die Präsentation in einer angenehmen Lautstärke gehalten werden?",
+            "answers": [
+                { "text": "Um sicherzustellen, dass alle Zuhörer den Vortrag gut verstehen können.", "correct": true },
+                { "text": "Um die Zuhörer zu überfordern und zum Nachdenken zu bringen.", "correct": false },
+                { "text": "Damit das Publikum möglichst wenig vom Inhalt mitbekommt.", "correct": false },
+                { "text": "Damit die Technik keine Rolle mehr spielt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann man das Publikum mit einem interessanten Einstieg gewinnen?",
+            "answers": [
+                { "text": "Durch eine direkte Ansprache, eine provokante Frage oder eine Anekdote.", "correct": true },
+                { "text": "Durch das Vorlesen der Tagesordnungspunkte und einer Begrüßung.", "correct": false },
+                { "text": "Indem man sofort mit den technischen Details beginnt.", "correct": false },
+                { "text": "Durch das Ignorieren des Publikums und den schnellen Einstieg ins Thema.", "correct": false }
+            ]
+        }
+    ]
+}    
+    
