@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Dynamisch das entsprechende JS-File laden
             const script = document.createElement('script');
-            script.src = file;
+            script.src = `/json/${file}`;
             script.onload = function() {
                 infoContainer.style.display = 'none';
                 startContainer.style.display = 'block'; // Zeigt den "Test beginnen"-Button an
@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Funktion zum Laden einer JSON-Datei (synchron)
 function loadJSON(file) {
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', file, false);
+    xhr.open('GET', `/json/${file}`, false);
     xhr.send();
     if (xhr.status === 200) {
         return JSON.parse(xhr.responseText);
@@ -316,7 +316,7 @@ function loadJSON(file) {
 // Funktion zum Laden einer JSON-Datei (asynchron, mit Callback)
 function loadJSON(file, callback) {
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', file, true);
+    xhr.open('GET', `/json/${file}`, true);
     xhr.onload = function () {
         if (xhr.status === 200) {
             callback(JSON.parse(xhr.responseText));
