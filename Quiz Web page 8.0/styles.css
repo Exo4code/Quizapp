@@ -9,42 +9,52 @@
 /* GLOBAL STYLES */
 /* ------------------------------------------------------------ */
 
+:root {
+    --primary-bg: #FFFFFF;
+    --primary-text: #1d1d1f;
+    --secondary-bg: #F5F5F7;
+    --border-color: #1D1D20;
+    --hover-bg: #E6E7EB;
+}
+
 body {
     font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #FFFFFF; /* Setzt den Hintergrund auf Weiß */
-    color: #1d1d1f; /* Setzt die Textfarbe auf ein dunkles Grau/Schwarz */
+    background-color: var(--primary-bg);
+    color: var(--primary-text);
     display: flex;
     flex-direction: column;
     align-items: center;
     scroll-behavior: smooth;
-    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 /* Dark Mode Styles */
 body.dark-mode {
-    background-color: #1d1d1f; /* Dunkler Hintergrund */
-    color: #FFFFFF; /* Heller Text */
+    --primary-bg: #1d1d1f;
+    --primary-text: #FFFFFF;
+    --secondary-bg: #2c2c2e;
+    --border-color: #3a3a3c;
+    --hover-bg: #3a3a3c;
 }
 
 /* ------------------------------------------------------------ */
 /* HEADER & NAVIGATION STYLES */
 /* ------------------------------------------------------------ */
 
-/* Stil für den Header */
 header {
-    background-color: #F5F5F7;
-    border: 1px solid #1D1D20;
-    width: 90%;
+    background-color: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    width: 95%;
     max-width: 800px;
     border-radius: 25px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0.5rem;
-    margin-top: 20px;
-    position: relative; /* Setzt den Header in eine relative Position, damit das Dropdown relativ dazu positioniert werden kann */
+    margin: 0 auto;
+    position: relative;
 }
 
 nav {
@@ -55,17 +65,17 @@ nav {
     position: relative;
 }
 
-/* Theme toggle button */
 .theme-toggle-button {
     background-color: transparent;
     border: none;
     cursor: pointer;
     outline: none;
     margin-left: auto;
-    margin-right: 20px;
+    margin-right: 10px;
     display: flex;
     align-items: center;
     padding: 0;
+    transition: background-color 0.3s ease;
 }
 
 .theme-toggle-button svg {
@@ -75,31 +85,31 @@ nav {
 }
 
 .theme-toggle-button:hover {
-    background-color: rgba(0, 0, 0, 0.1); /* Leicht dunkler Hintergrund */
-    border-radius: 50%; /* Kreisförmiger Hintergrund */
-    padding: 5px; /* Abstand um das Icon herum */
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    padding: 5px;
 }
 
 .home-link {
     font-weight: 500;
-    color: #1D1D20;
+    color: var(--primary-text);
     text-decoration: none;
     font-size: 18px;
-    margin-left: 3rem;
-    padding: 3px 6px 3px 6px;
+    margin-left: 0.5rem;
+    padding: 3px 6px;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
-.home-link:hover {
-    background-color: #E6E7EB; /* Ändert die Hintergrundfarbe beim Hover auf ein sehr helles Grau */
-    color: #000; /* Ändert die Textfarbe beim Hover auf Schwarz */
-    border-radius: 8px;
 
+.home-link:hover {
+    background-color: var(--hover-bg);
+    color: var(--primary-text);
+    border-radius: 8px;
 }
 
 /* ------------------------------------------------------------ */
 /* DROPDOWN MENU STYLES */
 /* ------------------------------------------------------------ */
 
-/* Apple-style Keyframe für das Öffnen des Menüs */
 @keyframes appleMenuOpen {
     0% {
         transform: scaleY(0.5) translateY(-30%);
@@ -116,43 +126,42 @@ nav {
 }
 
 .burger-menu {
-    font-size: 35px; /* Größe des Burger-Menü-Icons */
-    cursor: pointer; /* Cursor-Änderung zu einem Zeiger bei Hover */
-    color: #1d1d1f;
-    display: block; /* Burger-Menü ist immer sichtbar */
-    margin-left: auto; /* Schiebt das Burger-Menü nach rechts */
-    position: relative; /* Setzt das Burger-Menü in eine relative Position */
-    margin-right: 3rem; /* Fügt einen rechten Außenabstand von 3rem hinzu */
+    font-size: 35px;
+    cursor: pointer;
+    color: var(--primary-text);
+    display: block;
+    margin-left: auto;
+    position: relative;
+    margin-right: 0.5rem;
+    transition: color 0.3s ease;
 }
 
+.burger-menu:hover {
+    color: #007AFF;
+}
 
-
-
-/* Dropdown Menü */
 .nav-links {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: none; /* Standardmäßig versteckt */
+    display: none;
     flex-direction: column;
     position: absolute;
-    top: 100%; /* Setzt das Menü direkt unter dem Header */
+    top: 100%;
     left: 0;
-    width: 100%; /* Setzt die Breite des Dropdowns auf 100% der Breite des Headers */
-    background-color: #F5F5F7; /* Gleiche Hintergrundfarbe wie der Header */
-    border-left: 1px solid #1D1D20; /* Rahmen links */
-    border-right: 1px solid #1D1D20; /* Rahmen rechts */
-    border-bottom: 1px solid #1D1D20; /* Rahmen unten */
-    border-radius: 0 0 25px 25px; /* Gleiche Abrundung für die unteren Ecken */
-    z-index: 1001; /* Sicherstellen, dass das Menü über anderen Inhalten liegt */
-    opacity: 0; /* Unsichtbar zu Beginn */
+    width: 100%;
+    background-color: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    border-top: none;
+    border-radius: 0 0 25px 25px;
+    z-index: 1001;
+    opacity: 0;
     transform-origin: top center;
-    max-height: 0; /* Zu Beginn auf 0 setzen, um ein "Einklappen" zu simulieren */
-    overflow: hidden; /* Versteckt überflüssigen Inhalt, wenn max-height aktiv ist */
-    animation: dropdownOpen 0.5s ease forwards; /* Fügt eine Keyframe-Animation hinzu */
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease, opacity 0.5s ease;
 }
 
-/* Stile für die Links im Menü */
 .nav-links li {
     text-align: center;
     margin: 10px 0;
@@ -162,89 +171,77 @@ nav {
     border-radius: 8px;
     padding: 6px;
     text-decoration: none;
-    color: #1D1D20;
+    color: var(--primary-text);
     font-weight: 500;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    display: inline-block;
+    width: 80%;
 }
 
 .nav-links a:hover {
-    background-color: #E6E7EB;
-    color: #000;
+    background-color: var(--hover-bg);
+    color: var(--primary-text);
 }
 
-/* Keyframe-Animation für das Öffnen des Dropdown-Menüs */
-@keyframes dropdownOpen {
+.nav-links.show {
+    display: flex;
+    animation: appleMenuOpen 0.5s ease forwards;
+    max-height: 500px;
+    opacity: 1;
+}
+
+.nav-links.hide {
+    animation: appleMenuClose 0.5s ease forwards;
+}
+
+@keyframes appleMenuClose {
     0% {
+        opacity: 1;
+        transform: scaleY(1);
+        max-height: 500px;
+    }
+    100% {
         opacity: 0;
         transform: scaleY(0.5);
         max-height: 0;
     }
-    100% {
-        opacity: 1;
-        transform: scaleY(1);
-        max-height: 500px; /* Maximale Höhe des Menüs */
-    }
-}
-
-
-.nav-links.show {
-    display: flex;
-    animation: dropdownOpen 0.5s ease forwards;
-}
-
-.nav-links.hide {
-    animation: dropdownClose 0.5s ease forwards;
 }
 
 /* ------------------------------------------------------------ */
 /* MAIN CONTENT STYLES */
 /* ------------------------------------------------------------ */
 
-
-   /* Standardlayout für große Bildschirme */
 main {
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 20px; /* Abstand zwischen Sidebar und Hauptinhalt */
-    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
     max-width: 1200px;
-    margin: 20auto;
-    padding: 20px;
-    background-color: #FFFFFF; /* Setzt die Hintergrundfarbe auf Weiß */
+    margin: 0 auto;
+    padding: 10px;
+    background-color: var(--primary-bg);
     border-radius: 0;
     box-shadow: none;
+    overflow-x: hidden;
 }
 
-/* Dark Mode Styles */
-main.dark-mode {
-    background-color: #1d1d1f; /* Dunkler Hintergrund */
-    color: #FFFFFF; /* Heller Text */
-}
-
-
-/* Hauptinhalt-Anpassungen für große Bildschirme */
-/* Container für den Hauptinhalt */
 .container {
-    flex-grow: 1;
-    background-color: #F5F5F7;
-    padding: 3px; /* Abstand um den inneren Container herum */
-    border-radius: 18px; /* Abgerundete Ecken */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Weicher Schatten */
-    border: 1px solid #C8C9CC;
+    width: 95%;
+    max-width: 800px;
+    background-color: var(--secondary-bg);
+    padding: 3px;
+    border-radius: 18px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-color);
     text-align: center;
-    width: 100%;
-    max-width: 800px; /* Maximale Breite für den Hauptinhalt */
-    /* Falls du willst, dass der Container mindestens eine bestimmte Breite hat, füge min-width hinzu */
-    /* min-width: 600px; */
 }
 
-/* Der innere Container */
 .container-inner {
-    background-color: #E6E7EB;
-    border: 2px solid #121416; /* Dunkler Rand */
-    border-radius: 15px; /* Etwas kleinere Abrundung als der äußere Container */
-    padding: 20px; /* Abstand für den Inhalt innerhalb des Containers */
-    box-shadow: inset 0px 0px 5px rgba(200, 201, 204, 1); /* Innerer Schatten, um die Tiefe zu verstärken */
+    background-color: var(--hover-bg);
+    border: 2px solid var(--border-color);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: inset 0px 0px 5px rgba(200, 201, 204, 0.5);
 }
 
 /* ------------------------------------------------------------ */
@@ -252,21 +249,23 @@ main.dark-mode {
 /* ------------------------------------------------------------ */
 
 .quiz-sets {
-    background-color: #F5F5F7; /* Setzt die Hintergrundfarbe des Quiz-Sets auf #F5F5F7 */
-    border: none;
-    border-radius: 18px;
-    padding: 30px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-top: 20px;
-    max-width: 800px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--secondary-bg);
+    border: 0.0625rem solid var(--border-color);
+    border-radius: 0.75rem;
+    padding: 1.25rem;
+    box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.05);
+    margin: 1.25rem auto;
 }
 
 .quiz-sets h2 {
-    font-size: 28px;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
     font-weight: 600;
-    color: #1d1d1f;
-    text-align: center;
+    color: var(--primary-text);
+    text-align: left;
 }
 
 .quiz-sets ul {
@@ -274,89 +273,103 @@ main.dark-mode {
     padding: 0;
     margin: 0;
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    gap: 10px;
-    justify-content: space-evenly; /* Gleiche Abstände zwischen den Buttons und zum Rand */
+    justify-content: flex-start;
+    gap: 0.125rem;
     width: 100%;
 }
 
 .quiz-sets ul li {
     flex: 1 1 auto;
-    display: flex;
-    justify-content: center;
-    max-width: 150px; /* Maximale Breite der Listenelemente */
 }
 
 .quiz-set-button {
-    padding: 12px 8px;
-    background-color: #1D1D20;
-    color: white;
-    border: 2px solid #666;
-    border-radius: 980px;
-    font-size: 17px;
-    font-weight: 400;
+    padding: 0.75rem 1rem;
+    background-color: var(--border-color);
+    color: var(--primary-bg);
+    border: 0.0625rem solid var(--border-color);
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
     cursor: pointer;
-    transition: all 0.3s;
-    width: 100%;
-    text-align: center;
+    transition: all 0.3s ease;
+    width: auto;
+    text-align: left;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
 }
 
 .quiz-set-button:hover {
-    background-color: #444;
-    border-color: #777;
+    background-color: var(--hover-bg);
+    color: var(--primary-text);
+    transform: translateY(-0.125rem);
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.15);
+}
+
+.quiz-set-button:active {
+    transform: translateY(0);
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 40rem) {
+    .quiz-sets {
+        padding: 1rem;
+    }
+
+    .quiz-sets h2 {
+        font-size: 1.25rem;
+    }
+
+    .quiz-sets ul li {
+        flex-basis: auto;
+    }
+
+    .quiz-set-button {
+        padding: 0.625rem 0.875rem;
+        font-size: 0.8125rem;
+        width: auto;
+    }
 }
 
 /* ------------------------------------------------------------ */
 /* INFO CONTAINER STYLES */
 /* ------------------------------------------------------------ */
 
-#info-container {
-    background-color: #F5F5F7; /* Setzt die Hintergrundfarbe des Info-Containers auf #F5F5F7 */
-    border: 1px solid #1D1D20;
-    padding: 30px;
+#info-container, #start-container {
+    width: 95%;
+    max-width: 600px;
+    background-color: var(--secondary-bg);
+    border: 1px solid var(--border-color);
+    padding: 20px;
     border-radius: 18px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 100%;
-    max-width: 600px;
-    margin-top: 20px;
+    margin: 0 auto;
 }
 
 #info-container p {
     font-size: 18px;
-    color: #1d1d1f;
+    color: var(--primary-text);
     line-height: 1.6;
 }
 
-#start-container {
-    text-align: center;
-    margin-top: 20px;
-    padding: 20px;
-    background-color: #F5F5F7; /* Setzt die Hintergrundfarbe des Start-Containers auf #F5F5F7 */
-    border: 1px solid #1D1D20;
-    border-radius: 18px;
-    width: 100%;
-    max-width: 800px;
-}
-
 #start-quiz-button {
-    background-color: #333;
-    border: 2.5px solid #666;
+    background-color: var(--border-color);
+    border: 2.5px solid var(--border-color);
     border-radius: 12px;
     padding: 10px 20px;
-    color: #fff;
+    color: var(--primary-bg);
     font-size: 16px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
 }
 
 #start-quiz-button:hover {
-    background-color: #444;
-    border-color: #777;
+    background-color: var(--hover-bg);
+    color: var(--primary-text);
 }
 
 /* ------------------------------------------------------------ */
@@ -367,22 +380,12 @@ main.dark-mode {
     margin-bottom: 30px;
     font-size: 32px;
     font-weight: 600;
-    color: #1d1d1f;
+    color: var(--primary-text);
     letter-spacing: 0.004em;
     line-height: 1.125;
 }
 
-/* Zähler für die Fragen */
-.question-counter {
-    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: 14px;
-    color: #86868b;
-    margin-top: 20px;
-    text-align: center;
-}
-
-.category-counter {
-    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+.question-counter, .category-counter {
     font-size: 14px;
     color: #86868b;
     margin-top: 15px;
@@ -398,9 +401,9 @@ main.dark-mode {
     width: 100%;
     margin-bottom: 10px;
     padding: 15px;
-    background-color: #F5F5F7; /* Setzt die Hintergrundfarbe der Antwort-Buttons auf #F5F5F7 */
-    color: #333;
-    border: 1px solid #ccc;
+    background-color: var(--secondary-bg);
+    color: var(--primary-text);
+    border: 1px solid var(--border-color);
     border-radius: 8px;
     font-size: 18px;
     cursor: pointer;
@@ -408,26 +411,26 @@ main.dark-mode {
 }
 
 .answers button:hover {
-    background-color: #E6E7EB;
+    background-color: var(--hover-bg);
 }
 
 .answers button:active {
-    background-color: #D1D2D6;
+    background-color: var(--hover-bg);
 }
 
 .answers button.correct {
-    background-color: #4CAF50; /* Setzt die Hintergrundfarbe des Buttons auf Grün, wenn die Antwort korrekt ist */
-    color: white; /* Setzt die Textfarbe auf Weiß, um einen besseren Kontrast zum grünen Hintergrund zu gewährleisten */
+    background-color: #4CAF50;
+    color: white;
 }
 
 .answers button.wrong {
-    background-color: #F44336; /* Setzt die Hintergrundfarbe des Buttons auf Rot, wenn die Antwort falsch ist */
-    color: white; /* Setzt die Textfarbe auf Weiß, um einen besseren Kontrast zum roten Hintergrund zu gewährleisten */
+    background-color: #F44336;
+    color: white;
 }
 
 .answers button:disabled {
-    opacity: 0.7; /* Verringert die Deckkraft des Buttons, um anzuzeigen, dass er deaktiviert ist */
-    cursor: not-allowed; /* Ändert den Mauszeiger zu einem durchgestrichenen Kreis, um anzuzeigen, dass der Button nicht anklickbar ist */
+    opacity: 0.7;
+    cursor: not-allowed;
 }
 
 /* ------------------------------------------------------------ */
@@ -435,16 +438,16 @@ main.dark-mode {
 /* ------------------------------------------------------------ */
 
 #start-button, .nav-button {
-    padding: 12px 22px; /* Fügt einen Innenabstand von 12px oben/unten und 22px links/rechts hinzu */
+    padding: 12px 22px;
     background: linear-gradient(to right, #3071E3, #2855b1);
-    color: white; /* Setzt die Textfarbe auf Weiß */
-    border: none; /* Entfernt die Standardrahmen */
-    border-radius: 980px; /* Fügt stark abgerundete Ecken hinzu (fast kreisförmig) */
-    font-size: 17px; /* Setzt die Schriftgröße auf 17px */
-    font-weight: 400; /* Legt das Schriftgewicht auf 400 fest (normal) */
-    cursor: pointer; /* Ändert den Mauszeiger in eine Hand bei Hover */
-    transition: all 0.3s; /* Fügt einen sanften Übergang für alle Eigenschaften hinzu */
-    margin: 10px; /* Fügt einen Außenabstand von 10px hinzu */
+    color: white;
+    border: none;
+    border-radius: 980px;
+    font-size: 17px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: all 0.3s;
+    margin: 10px;
 }
 
 #start-button:hover, .nav-button:hover {
@@ -455,175 +458,130 @@ main.dark-mode {
 /* SIDEBAR STYLES */
 /* ------------------------------------------------------------ */
 
-
-
-
-/* Äußerer Container der Sidebar */
 .sidebar-outer {
-    flex: 0 0 300px; /* Feste Breite der Sidebar */
-    background-color: #F8F8F8; /* Hintergrundfarbe des äußeren Containers */
-    padding: 3px; /* Abstand um den inneren Container herum */
-    border-radius: 18px; /* Abgerundete Ecken, um dem Hauptcontainer zu entsprechen */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Weicher Schatten */
-    border: 1px solid #C8C9CC; /* Leicht dunklerer Rand */
+    width: 95%;
+    max-width: 300px;
+    background-color: var(--secondary-bg);
+    padding: 3px;
+    border-radius: 18px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-color);
     text-align: center;
-    position: sticky;
-    top: 20px; /* Sidebar bleibt beim Scrollen fixiert */
-    z-index: 1000;
-    height: 550px;
-    overflow: hidden; /* Verhindert Überlauf des Inhalts */
+    margin: 0 auto;
+    overflow: hidden;
 }
 
-/* Innerer Container der Sidebar */
 .sidebar {
-    background-color: #E6E7EB; /* Hintergrundfarbe des inneren Containers */
-    border: 2px solid #121416; /* Dunklerer Rand, wie im Hauptcontainer */
-    border-radius: 15px; /* Etwas kleinere Abrundung als der äußere Container */
-    padding: 20px; /* Abstand für den Inhalt innerhalb des Containers */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Weicher Schatten, um Tiefe zu erzeugen */
-    overflow-y: auto; /* Ermöglicht vertikales Scrollen bei Überlauf */
-    -webkit-overflow-scrolling: touch; /* Bessere Scroll-Performance auf mobilen Geräten */
-    max-height: calc(100% - 20px); /* Sicherstellen, dass der innere Container innerhalb des äußeren bleibt */
-    position: relative; /* Sicherstellen, dass der Container innerhalb des Elterncontainers bleibt */
+    background-color: var(--hover-bg);
+    border: 2px solid var(--border-color);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    max-height: 550px;
 }
 
-/* Überschrift der Sidebar */
 .sidebar h2 {
     font-size: 24px;
     margin-bottom: 20px;
     font-weight: 600;
-    color: #121416; /* Dunklerer Farbton, um der Schrift des Hauptcontainers zu entsprechen */
+    color: var(--primary-text);
 }
 
-/* Liste in der Sidebar */
 .sidebar ul {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-/* Listenelemente in der Sidebar */
 .sidebar ul li {
     margin-bottom: 12px;
 }
 
-/* Links in der Sidebar */
 .sidebar ul li a {
     text-decoration: none;
-    color: #121416; /* Dunklerer Farbton für die Links */
+    color: var(--primary-text);
     font-weight: 400;
     font-size: 17px;
     display: block;
-    padding: 8px 12px; /* Mehr Innenabstand für mehr Konsistenz */
+    padding: 8px 12px;
     border-radius: 8px;
     transition: color 0.3s, background-color 0.3s;
 }
 
-/* Hover-Effekt für Links */
 .sidebar ul li a:hover {
-    background-color: #F8F8F8; /* Heller Hintergrund beim Hover */
-    color: #000; /* Schwarzer Text beim Hover */
+    background-color: var(--secondary-bg);
+    color: var(--primary-text);
 }
-
-/* ------------------------------------------------------------ */
-/* FOOTER STYLES */
-/* ------------------------------------------------------------ */
-footer {
-    margin-top: 3rem;
-    background-color: #F5F5F7;
-    border-top: 1px solid #1D1D20;
-    width: 100%;
-    padding: 20px;
-    border-radius: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    z-index: 999;
-    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
-}
-
-footer p {
-    font-size: 14px;
-    color: #1d1d1f;
-    margin: 0;
-}
-
-footer a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-footer a:hover {
-    text-decoration: underline;
-}
-
 
 /* ------------------------------------------------------------ */
 /* RESPONSIVE STYLES */
 /* ------------------------------------------------------------ */
-/* Anpassungen für kleinere Bildschirme */
-
-@media (max-width: 768px) {
-    .quiz-sets ul {
-        gap: 15px; /* Abstand zwischen den Elementen in der Spalte */
-        align-items: flex-start; /* Zentriert die Elemente in der Spalte */
-    }
-
-    .quiz-set-button {
-        float: left;
-        min-width: 150px;
-        max-width: 150px;
-    }
-
-    .quiz-sets ul li {
-        max-width: 100%; /* Macht die Listenelemente so breit wie die Spalte */
+@media (max-width: 1024px) {
+    main {
+        flex-direction: column;
+        padding: 10px;
+        width: 95%;
     }
 
     .sidebar-outer {
-        position: relative;
         width: 100%;
+        position: relative;
+        top: auto;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .quiz-sets ul {
+        gap: 15px;
+        align-items: center;
+    }
+
+    .quiz-set-button {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .sidebar-outer, .sidebar {
+        width: 100%;
+        max-width: 100%;
+        position: relative;
         top: 0;
         left: 0;
-        margin-bottom: 20px;
         border-radius: 0;
-        height: auto;
-        box-shadow: none; /* Entfernt den Schatten für ein einfacheres Design auf kleineren Bildschirmen */
+        box-shadow: none;
     }
 
     .sidebar {
-        position: relative;
-        width: 100%;
-        top: 0;
-        left: 0;
-        padding: 10px;
-        margin-bottom: 20px;
-        max-height: 50vh; /* Setzt die Höhe der Sidebar auf die Hälfte der Ansichtshöhe */
-        height: auto;
-        overflow-y: auto; /* Fügt einen vertikalen Scroll hinzu */
+        padding: 15px;
+        max-height: 50vh;
+        overflow-y: auto;
         -webkit-overflow-scrolling: touch;
-        border-radius: 0;
-        box-shadow: none; /* Entfernt den Schatten für ein einfacheres Design auf kleineren Bildschirmen */
     }
 
     footer {
-        padding: 15px 0; /* Reduziertes Padding auf kleineren Bildschirmen */
-        font-size: 14px; /* Kleinere Schriftgröße */
-        position: relative; /* Ändert die Positionierung für ein flexibleres Layout */
+        padding: 10px;
+    }
+
+    footer p {
+        font-size: 12px;
     }
 }
 
 @media (max-width: 600px) {
-    .sidebar-outer {
+    main {
+        width: 100%;
         padding: 5px;
     }
 
-    .sidebar {
+    .sidebar-outer, .sidebar, .container {
         padding: 10px;
-        max-height: 50vh; /* Setzt die Höhe der Sidebar auf die Hälfte der Ansichtshöhe */
-        overflow-y: auto; /* Fügt einen vertikalen Scroll hinzu */
     }
 
     .nav-links {
@@ -640,51 +598,21 @@ footer a:hover {
         margin: 0 0 10px;
     }
 
+    .quiz-set-button {
+        max-width: 200px;
+    }
+}
+
+@media (max-width: 400px) {
+    .quiz-set-button {
+        max-width: 100%;
+    }
+
     footer {
-        padding: 10px 0; /* Noch weiter reduziertes Padding */
-        font-size: 12px; /* Noch kleinere Schriftgröße für sehr kleine Bildschirme */
+        padding: 8px;
     }
 
     footer p {
-        font-size: 12px; /* Angleichung der Schriftgröße im Footer-Text */
-    }
-}
-/* Responsive Anpassungen für Bildschirme unter 1024px */
-@media (max-width: 1024px) {
-    main {
-        flex-direction: column; /* Layout wechselt zu einer Spalte */
-        padding: 10px;
-    }
-
-    .sidebar-outer {
-        width: 100%; /* Sidebar nimmt die gesamte Breite ein */
-        margin-bottom: 20px; /* Abstand zum Hauptinhalt */
-        position: relative;
-        top: auto; /* Aufhebung der sticky Positionierung */
-    }
-
-    .container {
-        width: 100%;
-        max-width: 100%; /* Hauptinhalt nimmt die gesamte Breite ein */
-    }
-}
-
-/* Zusätzliche Anpassungen für sehr kleine Bildschirme */
-@media (max-width: 600px) {
-    .sidebar-outer {
-        padding: 5px;
-    }
-
-    .sidebar {
-        padding: 10px;
-    }
-
-    .container {
-        padding: 10px;
-    }
-
-    footer {
-        padding: 10px;
-        font-size: 12px;
+        font-size: 11px;
     }
 }
