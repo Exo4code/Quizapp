@@ -1,0 +1,550 @@
+{
+    "1.2.3_1-20":[
+        {
+            "question": "Welche Grundprinzipien prägen das soziale Sicherungssystem in Deutschland?",
+            "answers": [
+                { "text": "Solidarität, Subsidiarität und Nachhaltigkeit prägen das soziale Sicherungssystem.", "correct": true },
+                { "text": "Unabhängigkeit, Flexibilität und Freiheit prägen das soziale Sicherungssystem.", "correct": false },
+                { "text": "Wettbewerb, Innovation und Effizienz prägen das soziale Sicherungssystem.", "correct": false },
+                { "text": "Zentralität, Hierarchie und Kontrolle prägen das soziale Sicherungssystem.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter dem Solidaritätsprinzip im sozialen Sicherungssystem?",
+            "answers": [
+                { "text": "Das Solidaritätsprinzip bedeutet, dass alle Bürger die gleichen Steuern zahlen.", "correct": false },
+                { "text": "Das Solidaritätsprinzip bedeutet, dass besserverdienende Bürger höhere Beiträge leisten.", "correct": true },
+                { "text": "Das Solidaritätsprinzip bedeutet, dass alle Bürger die gleichen Leistungen erhalten.", "correct": false },
+                { "text": "Das Solidaritätsprinzip bedeutet, dass Arbeitgeber alle Sozialabgaben übernehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt das Subsidiaritätsprinzip im sozialen Sicherungssystem?",
+            "answers": [
+                { "text": "Das Subsidiaritätsprinzip stellt sicher, dass der Staat alle sozialen Aufgaben übernimmt.", "correct": false },
+                { "text": "Das Subsidiaritätsprinzip stellt sicher, dass nur große Unternehmen Sozialversicherungen zahlen.", "correct": false },
+                { "text": "Das Subsidiaritätsprinzip stellt sicher, dass Familien und Einzelne Eigenverantwortung übernehmen.", "correct": true },
+                { "text": "Das Subsidiaritätsprinzip stellt sicher, dass alle Bürger dieselben Steuern zahlen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie hoch ist die Sozialleistungsquote in Deutschland im Verhältnis zum Bruttoinlandsprodukt (BIP)?",
+            "answers": [
+                { "text": "Die Sozialleistungsquote liegt bei etwa 10% des Bruttoinlandsprodukts.", "correct": false },
+                { "text": "Die Sozialleistungsquote liegt bei etwa 20% des Bruttoinlandsprodukts.", "correct": false },
+                { "text": "Die Sozialleistungsquote liegt bei etwa 30% des Bruttoinlandsprodukts.", "correct": true },
+                { "text": "Die Sozialleistungsquote liegt bei etwa 40% des Bruttoinlandsprodukts.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wer trägt den größten Anteil an den Sozialausgaben in Deutschland?",
+            "answers": [
+                { "text": "Die Arbeitnehmer tragen den größten Anteil an den Sozialausgaben.", "correct": false },
+                { "text": "Die Arbeitgeber tragen den größten Anteil an den Sozialausgaben.", "correct": false },
+                { "text": "Der Staat trägt den größten Anteil an den Sozialausgaben.", "correct": false },
+                { "text": "Die Arbeitnehmer und Arbeitgeber tragen gemeinsam den größten Anteil an den Sozialausgaben.", "correct": true }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben übernehmen die Sozialversicherungsträger gemäß dem Sozialgesetzbuch (SGB)?",
+            "answers": [
+                { "text": "Die Sozialversicherungsträger übernehmen die Sicherung von Privatvermögen.", "correct": false },
+                { "text": "Die Sozialversicherungsträger übernehmen die Absicherung von sozialen Risiken.", "correct": true },
+                { "text": "Die Sozialversicherungsträger übernehmen die Kontrolle über alle Steuerzahlungen.", "correct": false },
+                { "text": "Die Sozialversicherungsträger übernehmen die Verwaltung von Staatsvermögen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Bürger ihre Risiken außerhalb der staatlichen Grundsicherung absichern?",
+            "answers": [
+                { "text": "Bürger können ihre Risiken durch den Abschluss von Lebensversicherungen absichern.", "correct": false },
+                { "text": "Bürger können ihre Risiken durch den Kauf von Aktien absichern.", "correct": false },
+                { "text": "Bürger können ihre Risiken durch den Abschluss von Privatversicherungen absichern.", "correct": true },
+                { "text": "Bürger können ihre Risiken durch den Erwerb von Immobilien absichern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Prinzipien sollen die soziale Marktwirtschaft in Deutschland fördern?",
+            "answers": [
+                { "text": "Die Prinzipien von Freiheit, Unabhängigkeit und Innovation sollen die soziale Marktwirtschaft fördern.", "correct": false },
+                { "text": "Die Prinzipien von Solidarität, Subsidiarität und Nachhaltigkeit sollen die soziale Marktwirtschaft fördern.", "correct": true },
+                { "text": "Die Prinzipien von Kontrolle, Überwachung und Regulierung sollen die soziale Marktwirtschaft fördern.", "correct": false },
+                { "text": "Die Prinzipien von Gewinnstreben, Wettbewerb und Effizienz sollen die soziale Marktwirtschaft fördern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Europäische Sozialcharta und was garantiert sie?",
+            "answers": [
+                { "text": "Die Europäische Sozialcharta ist ein Völkerabkommen, das soziale Rechte garantiert.", "correct": true },
+                { "text": "Die Europäische Sozialcharta ist ein EU-Gesetz, das wirtschaftliche Freiheit garantiert.", "correct": false },
+                { "text": "Die Europäische Sozialcharta ist ein Handelsabkommen, das faire Preise garantiert.", "correct": false },
+                { "text": "Die Europäische Sozialcharta ist ein Steuerabkommen, das gleiche Abgaben garantiert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Steuerfreibeträge und Steuerklassen im deutschen Steuersystem?",
+            "answers": [
+                { "text": "Steuerfreibeträge und Steuerklassen reduzieren die Steuerlast aller Bürger gleichermaßen.", "correct": false },
+                { "text": "Steuerfreibeträge und Steuerklassen erhöhen die Steuerlast für alle Bürger.", "correct": false },
+                { "text": "Steuerfreibeträge und Steuerklassen ermöglichen eine sozial gerechte Steuererhebung.", "correct": true },
+                { "text": "Steuerfreibeträge und Steuerklassen sorgen dafür, dass nur Reiche Steuern zahlen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Möglichkeiten haben Bürger, wenn sie sich sozial ungerecht behandelt fühlen?",
+            "answers": [
+                { "text": "Bürger können den Sozialgerichten vorlegen, wenn sie sich ungerecht behandelt fühlen.", "correct": true },
+                { "text": "Bürger können das Bundesverfassungsgericht anrufen, wenn sie sich ungerecht behandelt fühlen.", "correct": false },
+                { "text": "Bürger können die Europäische Kommission anrufen, wenn sie sich ungerecht behandelt fühlen.", "correct": false },
+                { "text": "Bürger können das Parlament anrufen, wenn sie sich ungerecht behandelt fühlen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was müssen Bürger tun, um ihren Lebensstandard auch außerhalb der gesetzlichen Sicherungssysteme zu sichern?",
+            "answers": [
+                { "text": "Bürger müssen private Rücklagen bilden und entsprechende Versicherungen abschließen.", "correct": true },
+                { "text": "Bürger müssen ihren Konsum stark einschränken und auf öffentliche Hilfen verzichten.", "correct": false },
+                { "text": "Bürger müssen ausschließlich auf staatliche Unterstützung und Renten verlassen.", "correct": false },
+                { "text": "Bürger müssen nur in wertstabile Immobilien investieren und staatliche Hilfe beantragen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arten von Privatversicherungen können Bürger zur Absicherung ihrer Lebensrisiken abschließen?",
+            "answers": [
+                { "text": "Bürger können private Krankenversicherungen, Haftpflichtversicherungen und Unfallversicherungen abschließen.", "correct": true },
+                { "text": "Bürger können private Krankenversicherungen, Aktienfonds und Lebensversicherungen abschließen.", "correct": false },
+                { "text": "Bürger können private Krankenversicherungen, Sparkonten und Rentenversicherungen abschließen.", "correct": false },
+                { "text": "Bürger können private Krankenversicherungen, Unternehmensbeteiligungen und Haftpflichtversicherungen abschließen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Institutionen sind für die Durchsetzung der sozialen Rechte in Deutschland verantwortlich?",
+            "answers": [
+                { "text": "Die Finanzämter und das Bundesverfassungsgericht sind für die Durchsetzung der sozialen Rechte verantwortlich.", "correct": false },
+                { "text": "Die Sozialgerichte und das Bundesministerium für Arbeit und Soziales sind verantwortlich.", "correct": true },
+                { "text": "Die Rentenversicherungen und Krankenkassen sind für die Durchsetzung der sozialen Rechte verantwortlich.", "correct": false },
+                { "text": "Die Kommunen und die Sozialversicherungen sind für die Durchsetzung der sozialen Rechte verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Hauptaufgaben der Sozialgerichtsbarkeit in Deutschland?",
+            "answers": [
+                { "text": "Die Sozialgerichtsbarkeit entscheidet über Streitigkeiten zwischen Bürgern und ihren Arbeitgebern.", "correct": false },
+                { "text": "Die Sozialgerichtsbarkeit entscheidet über Streitigkeiten zwischen Versicherten und Sozialversicherungsträgern.", "correct": true },
+                { "text": "Die Sozialgerichtsbarkeit entscheidet über die Verteilung staatlicher Mittel an Unternehmen.", "correct": false },
+                { "text": "Die Sozialgerichtsbarkeit entscheidet über die Vergabe von Sozialwohnungen an Bedürftige.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden die Beiträge für die gesetzliche Sozialversicherung erhoben?",
+            "answers": [
+                { "text": "Die Beiträge werden nach einem festen Prozentsatz vom Nettogehalt erhoben.", "correct": false },
+                { "text": "Die Beiträge werden nach einem festen Prozentsatz vom Bruttogehalt erhoben.", "correct": true },
+                { "text": "Die Beiträge werden nach einem festen Betrag unabhängig vom Einkommen erhoben.", "correct": false },
+                { "text": "Die Beiträge werden nach dem Familienstand und der Anzahl der Kinder erhoben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Möglichkeiten gibt es für Selbstständige bezüglich der Mitgliedschaft in der gesetzlichen Sozialversicherung?",
+            "answers": [
+                { "text": "Selbstständige können wählen, ob sie Mitglied in der gesetzlichen Sozialversicherung werden.", "correct": true },
+                { "text": "Selbstständige sind verpflichtet, in der gesetzlichen Sozialversicherung Mitglied zu werden.", "correct": false },
+                { "text": "Selbstständige dürfen keine Mitgliedschaft in der gesetzlichen Sozialversicherung abschließen.", "correct": false },
+                { "text": "Selbstständige müssen nur eine Unfallversicherung in der gesetzlichen Sozialversicherung abschließen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche fünf Hauptbereiche decken die Sozialversicherungsträger in Deutschland ab?",
+            "answers": [
+                { "text": "Krankenversicherung, Rentenversicherung, Unfallversicherung, Arbeitslosenversicherung, Pflegeversicherung.", "correct": true },
+                { "text": "Krankenversicherung, Bildungsversicherung, Pflegeversicherung, Unfallversicherung, Rentenversicherung.", "correct": false },
+                { "text": "Krankenversicherung, Rentenversicherung, Unfallversicherung, Bildungsversicherung, Pflegeversicherung.", "correct": false },
+                { "text": "Krankenversicherung, Unfallversicherung, Pflegeversicherung, Bildungsversicherung, Rentenversicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Versicherung ist für die Absicherung im Falle von Arbeitslosigkeit zuständig?",
+            "answers": [
+                { "text": "Die Rentenversicherung ist für die Absicherung bei Arbeitslosigkeit zuständig.", "correct": false },
+                { "text": "Die Pflegeversicherung ist für die Absicherung bei Arbeitslosigkeit zuständig.", "correct": false },
+                { "text": "Die Unfallversicherung ist für die Absicherung bei Arbeitslosigkeit zuständig.", "correct": false },
+                { "text": "Die Arbeitslosenversicherung ist für die Absicherung bei Arbeitslosigkeit zuständig.", "correct": true }
+            ]
+        },
+        {
+            "question": "Welche Versicherung ist dafür verantwortlich, die Renten der Bürger in Deutschland zu sichern?",
+            "answers": [
+                { "text": "Die Unfallversicherung ist für die Rentenabsicherung verantwortlich.", "correct": false },
+                { "text": "Die Rentenversicherung ist für die Rentenabsicherung verantwortlich.", "correct": true },
+                { "text": "Die Pflegeversicherung ist für die Rentenabsicherung verantwortlich.", "correct": false },
+                { "text": "Die Krankenversicherung ist für die Rentenabsicherung verantwortlich.", "correct": false }
+            ]
+        }
+    ],
+
+        "1.2.3_21-40":[
+            {
+                "question": "Welche Rolle spielen Rollenerwartungen in der nachhaltigen Existenzsicherung?",
+                "answers": [
+                    { "text": "Rollenerwartungen definieren die individuellen Pflichten in Beruf und Familie.", "correct": true },
+                    { "text": "Rollenerwartungen beeinflussen die sozialen Normen in Beruf und Freizeit.", "correct": false },
+                    { "text": "Rollenerwartungen bestimmen die rechtlichen Anforderungen im Arbeitsleben.", "correct": false },
+                    { "text": "Rollenerwartungen legen die finanzielle Absicherung im Alter fest.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Maßnahmen fördern Mobilität und Flexibilität im Berufsleben?",
+                "answers": [
+                    { "text": "Jobrotation und flexible Arbeitszeiten fördern Mobilität und Flexibilität im Berufsleben.", "correct": true },
+                    { "text": "Feste Arbeitszeiten und klare Hierarchien fördern Mobilität und Flexibilität im Berufsleben.", "correct": false },
+                    { "text": "Regelmäßige Teambesprechungen und Schulungen fördern Mobilität und Flexibilität im Berufsleben.", "correct": false },
+                    { "text": "Langfristige Verträge und stabile Arbeitsbedingungen fördern Mobilität und Flexibilität im Berufsleben.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist der Zweck von beruflicher Fortbildung und Umschulung?",
+                "answers": [
+                    { "text": "Berufliche Fortbildung und Umschulung verbessern Fachkenntnisse und eröffnen neue Berufsperspektiven.", "correct": true },
+                    { "text": "Berufliche Fortbildung und Umschulung verlängern die Arbeitszeit und steigern das Gehalt.", "correct": false },
+                    { "text": "Berufliche Fortbildung und Umschulung reduzieren die Arbeitslast und ermöglichen Teilzeit.", "correct": false },
+                    { "text": "Berufliche Fortbildung und Umschulung fördern Freizeitaktivitäten und persönliche Interessen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie können staatliche Fördermaßnahmen zur nachhaltigen Existenzsicherung beitragen?",
+                "answers": [
+                    { "text": "Staatliche Fördermaßnahmen bieten finanzielle Unterstützung für Weiterbildung und Existenzgründung.", "correct": true },
+                    { "text": "Staatliche Fördermaßnahmen ersetzen private Vorsorge für das Alter und die Gesundheit.", "correct": false },
+                    { "text": "Staatliche Fördermaßnahmen garantieren eine feste Anstellung nach der Ausbildung.", "correct": false },
+                    { "text": "Staatliche Fördermaßnahmen gewähren Steuererleichterungen für alle Arbeitnehmer.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Faktoren werden in der Analyse für nachhaltige Existenzsicherung berücksichtigt?",
+                "answers": [
+                    { "text": "Die Faktoren Familie, Karriere und Potenziale werden in der Analyse berücksichtigt.", "correct": true },
+                    { "text": "Die Faktoren Einkommen, Ausgaben und Steuerlast werden in der Analyse berücksichtigt.", "correct": false },
+                    { "text": "Die Faktoren Freizeit, Gesundheit und Umwelt werden in der Analyse berücksichtigt.", "correct": false },
+                    { "text": "Die Faktoren Wohnort, Mobilität und Verkehr werden in der Analyse berücksichtigt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist der Europass und wie unterstützt er die berufliche Mobilität?",
+                "answers": [
+                    { "text": "Der Europass dokumentiert Qualifikationen und Erfahrungen für internationale Bewerbungen.", "correct": true },
+                    { "text": "Der Europass organisiert Auslandsaufenthalte und Praktika für junge Berufstätige.", "correct": false },
+                    { "text": "Der Europass finanziert Weiterbildungen und Sprachkurse im Ausland.", "correct": false },
+                    { "text": "Der Europass vermittelt Stellenangebote und Arbeitsverträge in Europa.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Vorteile bietet das Erasmus-Programm für Auszubildende?",
+                "answers": [
+                    { "text": "Das Erasmus-Programm bietet finanzielle Unterstützung und internationale Berufserfahrung.", "correct": true },
+                    { "text": "Das Erasmus-Programm bietet garantierte Anstellungen in europäischen Unternehmen.", "correct": false },
+                    { "text": "Das Erasmus-Programm bietet kostenlose Sprachkurse und Reisen in Europa.", "correct": false },
+                    { "text": "Das Erasmus-Programm bietet Steuererleichterungen und Versicherungsschutz im Ausland.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie können Ausbildungsbegleitende Hilfen (abH) von der Arbeitsagentur unterstützen?",
+                "answers": [
+                    { "text": "Ausbildungsbegleitende Hilfen bieten Unterstützung bei Lernschwierigkeiten und Prüfungsvorbereitung.", "correct": true },
+                    { "text": "Ausbildungsbegleitende Hilfen bieten finanzielle Zuschüsse für die Ausbildung.", "correct": false },
+                    { "text": "Ausbildungsbegleitende Hilfen bieten garantierte Anstellungen nach der Ausbildung.", "correct": false },
+                    { "text": "Ausbildungsbegleitende Hilfen bieten Versicherungsleistungen während der Ausbildung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rolle spielt die Potenzialanalyse in der individuellen Lebensplanung?",
+                "answers": [
+                    { "text": "Die Potenzialanalyse hilft bei der Ermittlung von Stärken und Schwächen zur Karriereplanung.", "correct": true },
+                    { "text": "Die Potenzialanalyse hilft bei der Planung von Freizeitaktivitäten und Hobbys.", "correct": false },
+                    { "text": "Die Potenzialanalyse hilft bei der Auswahl von Versicherungen und Anlageformen.", "correct": false },
+                    { "text": "Die Potenzialanalyse hilft bei der Organisation von Haushaltsaufgaben und Einkäufen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Warum ist Mobilität und Flexibilität wichtig für eine erfolgreiche Lebensplanung?",
+                "answers": [
+                    { "text": "Mobilität und Flexibilität ermöglichen bessere Karrierechancen und Anpassungsfähigkeit.", "correct": true },
+                    { "text": "Mobilität und Flexibilität führen zu mehr Freizeit und kürzeren Arbeitszeiten.", "correct": false },
+                    { "text": "Mobilität und Flexibilität erhöhen die finanzielle Unabhängigkeit und das Einkommen.", "correct": false },
+                    { "text": "Mobilität und Flexibilität reduzieren die Arbeitsbelastung und verbessern die Gesundheit.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Fördermöglichkeiten gibt es für Existenzgründungen und Start-ups?",
+                "answers": [
+                    { "text": "Fördermöglichkeiten umfassen Zuschüsse, Darlehen und Beratungsdienste für Gründer.", "correct": true },
+                    { "text": "Fördermöglichkeiten umfassen Steuererleichterungen und kostenlose Büroräume.", "correct": false },
+                    { "text": "Fördermöglichkeiten umfassen garantierte Aufträge und Aufträge der Regierung.", "correct": false },
+                    { "text": "Fördermöglichkeiten umfassen kostenlose Werbung und Marketingunterstützung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Arten von beruflicher Fortbildung werden laut BBiG unterschieden?",
+                "answers": [
+                    { "text": "Erhaltungsfortbildung, Anpassungsfortbildung und Aufstiegsfortbildung werden unterschieden.", "correct": true },
+                    { "text": "Finanzfortbildung, Sprachfortbildung und Technikfortbildung werden unterschieden.", "correct": false },
+                    { "text": "Theoriefortbildung, Praxisfortbildung und Onlinefortbildung werden unterschieden.", "correct": false },
+                    { "text": "Persönlichkeitsfortbildung, Teamfortbildung und Führungsfortbildung werden unterschieden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was versteht man unter Jobrotation und wie trägt es zur Arbeitsplatzgestaltung bei?",
+                "answers": [
+                    { "text": "Jobrotation fördert Fachkenntnisse und verhindert Arbeitsmonotonie durch systematischen Wechsel.", "correct": true },
+                    { "text": "Jobrotation ermöglicht flexible Arbeitszeiten und fördert die Teamarbeit.", "correct": false },
+                    { "text": "Jobrotation reduziert die Arbeitszeit und erhöht die Freizeit.", "correct": false },
+                    { "text": "Jobrotation bietet höhere Gehälter und bessere Sozialleistungen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Maßnahmen gehören zu den flexiblen Arbeitszeitmodellen?",
+                "answers": [
+                    { "text": "Gleitzeit, Schichtarbeit und Homeoffice gehören zu flexiblen Arbeitszeitmodellen.", "correct": true },
+                    { "text": "Feste Arbeitszeiten, Überstunden und Nachtarbeit gehören zu flexiblen Arbeitszeitmodellen.", "correct": false },
+                    { "text": "Schichtarbeit, Überstunden und Wochenendarbeit gehören zu flexiblen Arbeitszeitmodellen.", "correct": false },
+                    { "text": "Homeoffice, Teilzeitarbeit und Minijobs gehören zu flexiblen Arbeitszeitmodellen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist ein Businessplan und warum ist er für eine Existenzgründung wichtig?",
+                "answers": [
+                    { "text": "Ein Businessplan beschreibt die Geschäftsidee und ist wichtig für die Finanzierung und Planung.", "correct": true },
+                    {
+                        "text": "Ein Businessplan listet alle Mitarbeiter auf und ist wichtig für die Teamorganisation.", "correct": false },
+                        { "text": "Ein Businessplan erklärt die Unternehmensziele und ist wichtig für das Marketing.", "correct": false },
+                        { "text": "Ein Businessplan zeigt die Arbeitszeiten und ist wichtig für die Personalplanung.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie trägt die private Altersvorsorge zur nachhaltigen Existenzsicherung bei?",
+                    "answers": [
+                        { "text": "Die private Altersvorsorge sichert den Lebensstandard im Alter durch Zusatzrenten und Vermögen.", "correct": true },
+                        { "text": "Die private Altersvorsorge garantiert eine staatliche Rente und Gesundheitsversorgung.", "correct": false },
+                        { "text": "Die private Altersvorsorge reduziert die monatlichen Ausgaben und steigert das Einkommen.", "correct": false },
+                        { "text": "Die private Altersvorsorge bietet steuerfreie Ersparnisse und Sozialleistungen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Arten der Weiterbildung vertiefen oder erweitern die berufliche Vorbildung?",
+                    "answers": [
+                        { "text": "Weiterbildungskurse und Seminare vertiefen oder erweitern die berufliche Vorbildung.", "correct": true },
+                        { "text": "Freizeitkurse und Hobbygruppen vertiefen oder erweitern die berufliche Vorbildung.", "correct": false },
+                        { "text": "Online-Tutorials und Webinare vertiefen oder erweitern die berufliche Vorbildung.", "correct": false },
+                        { "text": "Sprachkurse und Sportveranstaltungen vertiefen oder erweitern die berufliche Vorbildung.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie kann ein flexibler Arbeitsort zur Lebensplanung beitragen?",
+                    "answers": [
+                        { "text": "Ein flexibler Arbeitsort ermöglicht die bessere Vereinbarkeit von Beruf und Familie.", "correct": true },
+                        { "text": "Ein flexibler Arbeitsort erhöht die Arbeitsstunden und reduziert die Freizeit.", "correct": false },
+                        { "text": "Ein flexibler Arbeitsort garantiert eine höhere Rente und Sozialleistungen.", "correct": false },
+                        { "text": "Ein flexibler Arbeitsort sichert eine feste Anstellung und regelmäßiges Einkommen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was sind die Hauptziele des lebenslangen Lernens?",
+                    "answers": [
+                        { "text": "Lebenslanges Lernen zielt auf die kontinuierliche Verbesserung von Fähigkeiten und Wissen.", "correct": true },
+                        { "text": "Lebenslanges Lernen zielt auf die Steigerung von Einkommen und Vermögen.", "correct": false },
+                        { "text": "Lebenslanges Lernen zielt auf die Reduzierung von Arbeitszeit und Arbeitsbelastung.", "correct": false },
+                        { "text": "Lebenslanges Lernen zielt auf die Erhöhung von Freizeit und sozialen Aktivitäten.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Rolle spielen Banken und Geldgeber bei der Unternehmensgründung?",
+                    "answers": [
+                        { "text": "Banken und Geldgeber finanzieren Start-ups und verlangen einen Businessplan.", "correct": true },
+                        { "text": "Banken und Geldgeber bieten kostenloses Marketing und Beratung für Start-ups.", "correct": false },
+                        { "text": "Banken und Geldgeber organisieren die Mitarbeiter und die Betriebsabläufe.", "correct": false },
+                        { "text": "Banken und Geldgeber übernehmen die rechtliche Beratung und Steuerplanung.", "correct": false }
+                    ]
+                }
+            ],
+            "1.2.3_41-60":[
+                {
+                    "question": "Was sollte mindestens in einer Bewerbung enthalten sein?",
+                    "answers": [
+                        { "text": "Anschreiben, Lebenslauf, Zeugniskopien, gegebenenfalls Arbeitsproben.", "correct": true },
+                        { "text": "Nur ein Anschreiben und der Lebenslauf reichen aus.", "correct": false },
+                        { "text": "Ein Anschreiben und eine Liste von Referenzen sind erforderlich.", "correct": false },
+                        { "text": "Lebenslauf und ein Empfehlungsschreiben von einer früheren Arbeitsstelle.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Arten von Zeugnissen können bei einer Bewerbung eingereicht werden?",
+                    "answers": [
+                        { "text": "Staatliche Zeugnisse, Arbeitszeugnisse, gegebenenfalls Zwischenzeugnisse.", "correct": true },
+                        { "text": "Nur staatliche Zeugnisse und eine Liste von beruflichen Erfolgen.", "correct": false },
+                        { "text": "Nur Arbeitszeugnisse und eine Beschreibung der beruflichen Fähigkeiten.", "correct": false },
+                        { "text": "Arbeitszeugnisse, Empfehlungsschreiben, keine weiteren Dokumente.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was bedeutet der Ausdruck 'zu unserer Zufriedenheit' in einem Arbeitszeugnis?",
+                    "answers": [
+                        { "text": "Die Arbeitsleistung war insgesamt ausreichend und erfüllt die Mindestanforderungen.", "correct": true },
+                        { "text": "Die Arbeitsleistung war hervorragend und übertraf alle Erwartungen.", "correct": false },
+                        { "text": "Die Arbeitsleistung war ungenügend und nicht zufriedenstellend.", "correct": false },
+                        { "text": "Die Arbeitsleistung war gut und erfüllte die Anforderungen in vollem Umfang.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Quellen können genutzt werden, um interne oder externe Stellenanzeigen zu finden?",
+                    "answers": [
+                        { "text": "Intranet, Aushänge im Betrieb, Zeitungen, Online-Jobportale.", "correct": true },
+                        { "text": "Nur Zeitungen und Fachzeitschriften sollten genutzt werden.", "correct": false },
+                        { "text": "Lediglich Aushänge im Betrieb und interne Mitteilungen sind zulässig.", "correct": false },
+                        { "text": "Nur Online-Jobportale und Social-Media-Plattformen sind nützlich.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was ist eine Initiativbewerbung?",
+                    "answers": [
+                        { "text": "Eine Bewerbung ohne Stellenanzeige, die an ein Wunschunternehmen geschickt wird.", "correct": true },
+                        { "text": "Eine Bewerbung, die nur auf eine spezifische Stellenanzeige reagiert.", "correct": false },
+                        { "text": "Eine Bewerbung, die über ein Vermittlungsbüro eingereicht wird.", "correct": false },
+                        { "text": "Eine Bewerbung, die ausschließlich über persönliche Kontakte erfolgt.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was ist der Zweck eines Assessment-Centers im Auswahlverfahren?",
+                    "answers": [
+                        { "text": "Die Überprüfung von Soft Skills und Teamfähigkeit der Bewerber.", "correct": true },
+                        { "text": "Die alleinige Beurteilung der fachlichen Kenntnisse der Bewerber.", "correct": false },
+                        { "text": "Die Ermittlung der gesundheitlichen Eignung für die Stelle.", "correct": false },
+                        { "text": "Die Feststellung des allgemeinen Erscheinungsbildes der Bewerber.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Warum ist es wichtig, Zeugnisbewertungen zu entschlüsseln?",
+                    "answers": [
+                        { "text": "Zeugnisbewertungen können versteckte Botschaften über die tatsächliche Leistung enthalten.", "correct": true },
+                        { "text": "Zeugnisbewertungen sind immer wörtlich zu verstehen und klar formuliert.", "correct": false },
+                        { "text": "Zeugnisbewertungen geben nur allgemeine Informationen ohne Bedeutung.", "correct": false },
+                        { "text": "Zeugnisbewertungen sind nur formal und haben keine rechtliche Relevanz.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Rolle spielt ein Telefoninterview im Auswahlverfahren?",
+                    "answers": [
+                        { "text": "Es dient zur persönlichen Vorprüfung des Bewerbers vor einem möglichen Vorstellungsgespräch.", "correct": true },
+                        { "text": "Es ist die finale Entscheidung über die Einstellung des Bewerbers.", "correct": false },
+                        { "text": "Es wird nur zur Überprüfung der Sprachkenntnisse genutzt.", "correct": false },
+                        { "text": "Es hat keinen Einfluss auf die Entscheidung über den Bewerber.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie sollten Bewerbungsunterlagen eingereicht werden, um die besten Chancen zu haben?",
+                    "answers": [
+                        { "text": "Die Unterlagen sollten ordentlich, vollständig und auf die ausgeschriebene Stelle abgestimmt sein.", "correct": true },
+                        { "text": "Die Unterlagen sollten so kurz wie möglich gehalten werden.", "correct": false },
+                        { "text": "Die Unterlagen sollten handgeschrieben und persönlich übergeben werden.", "correct": false },
+                        { "text": "Die Unterlagen sollten nur digital ohne Beachtung der Formatierung eingereicht werden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was könnte ein Bewerber bei einem Vorstellungsgespräch gefragt werden?",
+                    "answers": [
+                        { "text": "Was hat Sie motiviert, sich gerade auf diese Stelle zu bewerben?", "correct": true },
+                        { "text": "Welche Religion üben Sie aus und wie oft gehen Sie zur Kirche?", "correct": false },
+                        { "text": "Planen Sie in naher Zukunft eine Familie zu gründen?", "correct": false },
+                        { "text": "Welche politischen Parteien unterstützen Sie aktiv?", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Fragen darf ein Bewerber selbst im Vorstellungsgespräch stellen?",
+                    "answers": [
+                        { "text": "Fragen nach dem Vorgesetzten, den Arbeitszeiten und den Entwicklungschancen.", "correct": true },
+                        { "text": "Fragen nach den politischen Ansichten des Unternehmens.", "correct": false },
+                        { "text": "Fragen nach den Gehaltsangaben anderer Mitarbeiter.", "correct": false },
+                        { "text": "Fragen nach den persönlichen Vorlieben des Interviewers.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Warum ist es wichtig, sich auf mögliche Fragen im Vorstellungsgespräch vorzubereiten?",
+                    "answers": [
+                        { "text": "Um auf häufige und unerwartete Fragen vorbereitet zu sein und souverän zu antworten.", "correct": true },
+                        { "text": "Um die Interviewer durch überraschende Antworten zu verwirren.", "correct": false },
+                        { "text": "Um sicherzustellen, dass das Interview schnell beendet wird.", "correct": false },
+                        { "text": "Um zu verhindern, dass Fragen zur beruflichen Qualifikation gestellt werden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Fragen dürfen im Vorstellungsgespräch aus rechtlichen Gründen nicht gestellt werden?",
+                    "answers": [
+                        { "text": "Fragen zur Partei-/Religionszugehörigkeit und Familienplanung.", "correct": true },
+                        { "text": "Fragen zu den bisherigen beruflichen Erfahrungen und Leistungen.", "correct": false },
+                        { "text": "Fragen zur Verfügbarkeit und Reisebereitschaft für die Stelle.", "correct": false },
+                        { "text": "Fragen zum bisherigen Arbeitgeber und den Kündigungsgründen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Informationen können in einem qualifizierten Arbeitszeugnis enthalten sein?",
+                    "answers": [
+                        { "text": "Angaben zu Leistung, Verhalten und Art der ausgeführten Tätigkeiten.", "correct": true },
+                        { "text": "Nur Angaben zur Dauer des Beschäftigungsverhältnisses.", "correct": false },
+                        { "text": "Nur eine allgemeine Beurteilung ohne spezifische Angaben.", "correct": false },
+                        { "text": "Nur Angaben zur Art der ausgeführten Tätigkeiten ohne Bewertung.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie können Arbeitsproben in einem Bewerbungsverfahren genutzt werden?",
+                    "answers": [
+                        { "text": "Sie dienen zur Demonstration spezifischer Fähigkeiten und Qualifikationen.", "correct": true },
+                        { "text": "Sie sind optional und haben keinen Einfluss auf die Entscheidung.", "correct": false },
+                        { "text": "Sie sollten vermieden werden, um den Bewerbungsprozess nicht zu verlängern.", "correct": false },
+                        { "text": "Sie sind nur für kreative Berufe relevant und sonst nicht erforderlich.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was sind die wichtigsten Faktoren bei der Vorbereitung auf ein Vorstellungsgespräch?",
+                    "answers": [
+                        { "text": "Recherche über das Unternehmen, Vorbereitung auf mögliche Fragen und Selbstpräsentation.", "correct": true },
+                        { "text": "Nur die Vorbereitung auf die Gehaltsverhandlungen ist entscheidend.", "correct": false },
+                        { "text": "Es ist ausreichend, einfach zum Interview zu erscheinen.", "correct": false },
+                        { "text": "Es ist nur wichtig, die richtige Kleidung zu tragen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Warum sind Initiativbewerbungen eine wertvolle Strategie bei der Jobsuche?",
+                    "answers": [
+                        { "text": "Sie ermöglichen es, sich bei einem Unternehmen zu bewerben, ohne dass eine Stelle ausgeschrieben ist.", "correct": true },
+                        { "text": "Sie garantieren immer eine Einladung zum Vorstellungsgespräch.", "correct": false },
+                        { "text": "Sie sind weniger formell und erfordern keine vollständigen Bewerbungsunterlagen.", "correct": false },
+                        { "text": "Sie sind nur nützlich, wenn das Unternehmen keine offenen Stellen hat.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Rolle spielt ein qualifiziertes Arbeitszeugnis bei der Bewerbung?",
+                    "answers": [
+                        { "text": "Es gibt detaillierte Auskunft über die Arbeitsleistung und das Verhalten des Arbeitnehmers.", "correct": true },
+                        { "text": "Es bestätigt nur die Dauer des Beschäftigungsverhältnisses ohne Bewertung.", "correct": false },
+                        { "text": "Es enthält ausschließlich Informationen über die Arbeitszeit des Mitarbeiters.", "correct": false },
+                        { "text": "Es ist nur für Führungspositionen relevant und sonst nicht erforderlich.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Fragen sollte ein Bewerber bei einem Vorstellungsgespräch vermeiden?",
+                    "answers": [
+                        { "text": "Fragen nach der politischen Einstellung des Arbeitgebers oder privaten Themen.", "correct": true },
+                        { "text": "Fragen nach den nächsten Schritten im Bewerbungsprozess.", "correct": false },
+                        { "text": "Fragen nach den Verantwortungsbereichen in der zukünftigen Position.", "correct": false },
+                        { "text": "Fragen nach den Möglichkeiten zur Weiterbildung und Entwicklung.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie sollte ein Lebenslauf im Bewerbungsverfahren gestaltet sein?",
+                    "answers": [
+                        { "text": "Der Lebenslauf sollte klar strukturiert, vollständig und an die Stelle angepasst sein.", "correct": true },
+                        { "text": "Der Lebenslauf sollte möglichst kurz und allgemein gehalten sein.", "correct": false },
+                        { "text": "Der Lebenslauf sollte nur die letzten beruflichen Stationen enthalten.", "correct": false },
+                        { "text": "Der Lebenslauf sollte hauptsächlich auf persönliche Interessen eingehen.", "correct": false }
+                    ]
+                }
+            ]
+            }

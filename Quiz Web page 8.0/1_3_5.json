@@ -1,0 +1,736 @@
+{
+    "1.3.5_1-20": [
+        {
+            "question": "Was ist das Ziel jedes Unternehmens in Bezug auf die Wertschöpfung?",
+            "answers": [
+                { "text": "Maximierung der Wertschöpfung aus der Leistungserbringung", "correct": true },
+                { "text": "Minimierung der Inputkosten", "correct": false },
+                { "text": "Maximierung der Lagerbestände", "correct": false },
+                { "text": "Minimierung der Steuern", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Tätigkeiten zählen nicht zur Wertschöpfungskette eines Unternehmens?",
+            "answers": [
+                { "text": "Personalwesen", "correct": true },
+                { "text": "Marketing", "correct": false },
+                { "text": "Service", "correct": false },
+                { "text": "Verkauf", "correct": false }
+            ]
+        },
+        {
+            "question": "Was beschreibt der Begriff 'Wertschöpfung'?",
+            "answers": [
+                { "text": "Die Differenz zwischen Output und Input einer Leistung", "correct": true },
+                { "text": "Die Gesamtsumme der Einnahmen eines Unternehmens", "correct": false },
+                { "text": "Die Anzahl der verkauften Produkte", "correct": false },
+                { "text": "Die Gesamtsumme der Ausgaben eines Unternehmens", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Branche umfasst Tätigkeiten wie Beratung, Wartung und Hosting?",
+            "answers": [
+                { "text": "Dienstleistungen", "correct": true },
+                { "text": "Industrie", "correct": false },
+                { "text": "Handel", "correct": false },
+                { "text": "Landwirtschaft", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter negativen Wertschöpfungsfaktoren?",
+            "answers": [
+                { "text": "Wenn der Inputwert den Outputwert übersteigt", "correct": true },
+                { "text": "Wenn die Produktionskosten sinken", "correct": false },
+                { "text": "Wenn der Lagerbestand erhöht wird", "correct": false },
+                { "text": "Wenn die Mitarbeiterzahl steigt", "correct": false }
+            ]
+        },
+        {
+            "question": "Was gehört zu den positiven Wertschöpfungsfaktoren?",
+            "answers": [
+                { "text": "Wertsteigerung durch Lagerung und Installation", "correct": true },
+                { "text": "Schlechteres Marketing", "correct": false },
+                { "text": "Erhöhte Retourenquote", "correct": false },
+                { "text": "Konjunkturschwäche", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen die Mitarbeiter in der Wertschöpfung eines Unternehmens?",
+            "answers": [
+                { "text": "Sie beeinflussen die Wertschöpfung durch ihre Produktivität", "correct": true },
+                { "text": "Sie haben keinen direkten Einfluss auf die Wertschöpfung", "correct": false },
+                { "text": "Sie tragen nur indirekt zur Wertschöpfung bei", "correct": false },
+                { "text": "Sie erhöhen die Wertschöpfung durch ihre Abwesenheit", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat das Marketing in der Wertschöpfungskette?",
+            "answers": [
+                { "text": "Erhöhung der Kundenzufriedenheit und Absatzförderung", "correct": true },
+                { "text": "Steigerung der Lagerbestände", "correct": false },
+                { "text": "Reduzierung der Produktionskosten", "correct": false },
+                { "text": "Verwaltung von Personalakten", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Branche ist hauptsächlich mit der Herstellung und dem Verkauf von Industrieprodukten befasst?",
+            "answers": [
+                { "text": "Industriebranche", "correct": true },
+                { "text": "Dienstleistungsbranche", "correct": false },
+                { "text": "Handelsbranche", "correct": false },
+                { "text": "Landwirtschaft", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Wertschöpfung berechnet?",
+            "answers": [
+                { "text": "Outputleistungen - Inputleistungen - Wertminderungen", "correct": true },
+                { "text": "Inputleistungen - Outputleistungen - Abschreibungen", "correct": false },
+                { "text": "Outputleistungen + Lagerbestand - Steuern", "correct": false },
+                { "text": "Nettoerlöse - Lagerbestand + Wertminderungen", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Beispiel für eine negative Wertschöpfung?",
+            "answers": [
+                { "text": "Höhere Wertminderungen (Abschreibungen)", "correct": true },
+                { "text": "Erhöhte Kundenbindung", "correct": false },
+                { "text": "Effektives Marketing", "correct": false },
+                { "text": "Verbesserte Serviceleistungen", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Kennzahl vergleicht die Produktivität eines Unternehmens?",
+            "answers": [
+                { "text": "Wertschöpfung pro Mitarbeiter", "correct": true },
+                { "text": "Umsatz pro Mitarbeiter", "correct": false },
+                { "text": "Gewinn pro Mitarbeiter", "correct": false },
+                { "text": "Kosten pro Mitarbeiter", "correct": false }
+            ]
+        },
+        {
+            "question": "Welcher Wertschöpfungsbereich ist in allen Branchen gleich?",
+            "answers": [
+                { "text": "Service", "correct": true },
+                { "text": "Lagerung", "correct": false },
+                { "text": "Marketing", "correct": false },
+                { "text": "Beschaffung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die digitale Transformation in der Wertschöpfung?",
+            "answers": [
+                { "text": "Sie ermöglicht effizientere Reaktionen auf Kundenwünsche", "correct": true },
+                { "text": "Sie reduziert die Kosten für Rohstoffe", "correct": false },
+                { "text": "Sie erhöht den Lagerbestand", "correct": false },
+                { "text": "Sie verringert die Anzahl der Mitarbeiter", "correct": false }
+            ]
+        },
+        {
+            "question": "Was beschreibt die Wertschöpfungstiefe eines Unternehmens?",
+            "answers": [
+                { "text": "Das Verhältnis von Wertschöpfung zur Gesamtleistung", "correct": true },
+                { "text": "Die Differenz zwischen den höchsten und niedrigsten Gehältern", "correct": false },
+                { "text": "Die Anzahl der Produkte auf Lager", "correct": false },
+                { "text": "Die Höhe der Steuern, die ein Unternehmen zahlt", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Tätigkeiten gehören zur Wertschöpfungskette eines Dienstleistungsbetriebs?",
+            "answers": [
+                { "text": "Marketing, Beschaffung, Dienstleistung", "correct": true },
+                { "text": "Herstellung, Lagerung, Verkauf", "correct": false },
+                { "text": "Beschaffung, Marketing, Verkauf", "correct": false },
+                { "text": "Verkauf, Lagerung, Service", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wirkt sich eine hohe Wertschöpfung auf ein Unternehmen aus?",
+            "answers": [
+                { "text": "Sie ermöglicht bessere Gehälter und Boni für Mitarbeiter", "correct": true },
+                { "text": "Sie erhöht die Kosten für Fremdkapital", "correct": false },
+                { "text": "Sie verringert die Investitionen in Innovationen", "correct": false },
+                { "text": "Sie führt zu einem höheren Lagerbestand", "correct": false }
+            ]
+        },
+        {
+            "question": "Welcher Faktor kann die Wertschöpfung eines Unternehmens negativ beeinflussen?",
+            "answers": [
+                { "text": "Schlechte Kundenbindung", "correct": true },
+                { "text": "Effektives Marketing", "correct": false },
+                { "text": "Hohe Qualität der Produktübergabe", "correct": false },
+                { "text": "Geringe Abschreibungen", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff 'Inputleistungen'?",
+            "answers": [
+                { "text": "Einkauf von Vorprodukten und Dienstleistungen", "correct": true },
+                { "text": "Verkauf von Produkten an Kunden", "correct": false },
+                { "text": "Lagerung von Fertigprodukten", "correct": false },
+                { "text": "Verwaltung von Personalakten", "correct": false }
+            ]
+        },
+        {
+            "question": "Wer sind die Nutznießer der Wertschöpfung eines Unternehmens?",
+            "answers": [
+                { "text": "Mitarbeiter, Fremdkapitalgeber, Staat, Eigenkapitalgeber", "correct": true },
+                { "text": "Nur die Eigentümer des Unternehmens", "correct": false },
+                { "text": "Nur die Mitarbeiter des Unternehmens", "correct": false },
+                { "text": "Nur die Kunden des Unternehmens", "correct": false }
+            ]
+        }
+    ],
+    "1.3.5_21-40":[
+        {
+            "question": "Was versteht man unter dem Begriff Digitalisierung im Unternehmenskontext?",
+            "answers": [
+                { "text": "Die Umstellung von analogen auf digitale Prozesse und Datenbearbeitung.", "correct": true },
+                { "text": "Die Einführung von neuen analogen Geschäftsprozessen.", "correct": false },
+                { "text": "Die Reduzierung von digitalen Prozessen zugunsten von manuellen Methoden.", "correct": false },
+                { "text": "Die Verwendung von Papierdokumenten zur Datenspeicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die digitale Transformation die Wertschöpfungsketten in Unternehmen?",
+            "answers": [
+                { "text": "Sie verändert Wertschöpfungs- und Geschäftsprozesse durch digitale Technologien.", "correct": true },
+                { "text": "Sie eliminiert den Bedarf an digitalen Technologien in der Produktion.", "correct": false },
+                { "text": "Sie verhindert den Einsatz von digitalen Werkzeugen im Unternehmen.", "correct": false },
+                { "text": "Sie führt zu einer vollständigen Abkehr von digitalen Prozessen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen digitaler Transformation und digitaler Disruption?",
+            "answers": [
+                { "text": "Digitale Disruption schafft neue Geschäftsmodelle durch innovative Lösungen.", "correct": true },
+                { "text": "Digitale Transformation ersetzt digitale Technologien durch analoge Methoden.", "correct": false },
+                { "text": "Digitale Transformation beseitigt den Einsatz von Technologie in Unternehmen.", "correct": false },
+                { "text": "Digitale Disruption verhindert technologische Veränderungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Social-Media-Anwendungen in der digitalen Wertschöpfungskette?",
+            "answers": [
+                { "text": "Sie fördern die Kundenbindung durch interaktive Kommunikation.", "correct": true },
+                { "text": "Sie verhindern den Kundenkontakt und isolieren das Unternehmen.", "correct": false },
+                { "text": "Sie sind irrelevant für die Kundenbindung und Wertschöpfung.", "correct": false },
+                { "text": "Sie werden hauptsächlich zur Vermeidung von Kundeninteraktion genutzt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff E-Procurement in der Wertschöpfungskette von Handelsbetrieben?",
+            "answers": [
+                { "text": "Die elektronische Beschaffung von Waren und Dienstleistungen.", "correct": true },
+                { "text": "Die manuelle Bestellung von Produkten ohne digitale Hilfsmittel.", "correct": false },
+                { "text": "Die Vermeidung von digitalen Plattformen in der Beschaffung.", "correct": false },
+                { "text": "Die ausschließliche Nutzung von Papierdokumenten zur Beschaffung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Online-Plattformen als Kooperationspartner die Wertschöpfungsketten von Unternehmen verändern?",
+            "answers": [
+                { "text": "Sie können die Effizienz steigern und neue Märkte erschließen.", "correct": true },
+                { "text": "Sie reduzieren die Möglichkeiten, neue Märkte zu erreichen.", "correct": false },
+                { "text": "Sie machen den Einsatz von digitalen Plattformen überflüssig.", "correct": false },
+                { "text": "Sie verhindern jegliche digitale Zusammenarbeit zwischen Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Auswirkungen kann die Einbindung fremder Plattformen auf die Wertschöpfungskette haben?",
+            "answers": [
+                { "text": "Sie kann die Wertschöpfung positiv oder negativ beeinflussen.", "correct": true },
+                { "text": "Sie führt immer zu einem Verlust von Wertschöpfung.", "correct": false },
+                { "text": "Sie hat keinen Einfluss auf die Wertschöpfungskette.", "correct": false },
+                { "text": "Sie macht die Wertschöpfungskette komplett irrelevant.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Smart Factory in der digitalen Transformation von Industriebetrieben?",
+            "answers": [
+                { "text": "Eine Fabrik, die durch IoT-Technologien automatisiert und vernetzt ist.", "correct": true },
+                { "text": "Eine manuell betriebene Fabrik ohne digitale Einflüsse.", "correct": false },
+                { "text": "Eine traditionelle Produktionsstätte ohne technologische Neuerungen.", "correct": false },
+                { "text": "Eine Fabrik, die ausschließlich auf menschliche Arbeitskraft setzt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann digitale Disruption bestehende Geschäftsmodelle verändern?",
+            "answers": [
+                { "text": "Sie kann völlig neue Geschäftsmodelle schaffen und bestehende ersetzen.", "correct": true },
+                { "text": "Sie unterstützt nur die Beibehaltung alter Geschäftsmodelle.", "correct": false },
+                { "text": "Sie verhindert jede Art von Veränderung in Geschäftsmodellen.", "correct": false },
+                { "text": "Sie hat keinen Einfluss auf Geschäftsmodelle und ihre Entwicklung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet die Integration von Cloud-Providing in die Wertschöpfungskette?",
+            "answers": [
+                { "text": "Erhöhte Flexibilität und Effizienz durch nutzungsabhängige Dienstleistungen.", "correct": true },
+                { "text": "Kompletter Verzicht auf digitale Dienstleistungen im Unternehmen.", "correct": false },
+                { "text": "Reduzierte Flexibilität durch manuelle Prozesse.", "correct": false },
+                { "text": "Erhöhte Abhängigkeit von traditionellen Geschäftsprozessen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die Nutzung von E-Logistics die Lagerung in Handelsbetrieben?",
+            "answers": [
+                { "text": "Sie optimiert den Lagerprozess durch digitale Steuerung.", "correct": true },
+                { "text": "Sie verhindert den Einsatz digitaler Technologien in der Lagerung.", "correct": false },
+                { "text": "Sie erhöht die Notwendigkeit manueller Lagerprozesse.", "correct": false },
+                { "text": "Sie reduziert die Effizienz durch Vermeidung digitaler Steuerung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche digitalen Plattformen können von Unternehmen genutzt werden, um ihre Wertschöpfungskette zu erweitern?",
+            "answers": [
+                { "text": "Marktplätze, Cloud-Providing und Social-Media-Plattformen.", "correct": true },
+                { "text": "Nur analoge Plattformen und manuelle Prozesse.", "correct": false },
+                { "text": "Ausschließlich interne Systeme ohne externe Anbindung.", "correct": false },
+                { "text": "Plattformen, die keine digitale Anbindung erfordern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt das Internet of Things (IoT) in der digitalen Transformation von Produktionsprozessen?",
+            "answers": [
+                { "text": "Es ermöglicht die Vernetzung und Automatisierung von Produktionsanlagen.", "correct": true },
+                { "text": "Es reduziert die Vernetzungsmöglichkeiten in der Produktion.", "correct": false },
+                { "text": "Es fördert die manuelle Steuerung von Produktionsanlagen.", "correct": false },
+                { "text": "Es verhindert die Nutzung digitaler Technologien in der Produktion.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Nutzung von Social Commerce den Verkaufsprozess in Dienstleistungsbetrieben beeinflussen?",
+            "answers": [
+                { "text": "Es ermöglicht eine direktere Kundenansprache und höhere Verkaufszahlen.", "correct": true },
+                { "text": "Es verhindert die direkte Kommunikation mit Kunden.", "correct": false },
+                { "text": "Es reduziert die Effizienz im Verkaufsprozess erheblich.", "correct": false },
+                { "text": "Es hat keinen Einfluss auf die Verkaufsstrategien in Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet E-Services in der Wertschöpfungskette von Dienstleistungsbetrieben?",
+            "answers": [
+                { "text": "Digitale Dienstleistungen, die online bereitgestellt und genutzt werden.", "correct": true },
+                { "text": "Ausschließlich analoge Dienste, die offline angeboten werden.", "correct": false },
+                { "text": "Die Vermeidung jeglicher digitaler Dienstleistungen.", "correct": false },
+                { "text": "Der Einsatz von nicht-digitalen Werkzeugen und Methoden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Marktplätze wie B2C, B2B und B2A in die digitale Wertschöpfungskette integriert werden?",
+            "answers": [
+                { "text": "Durch die Nutzung digitaler Plattformen für den Handel zwischen Unternehmen und Kunden.", "correct": true },
+                { "text": "Durch die vollständige Abschaffung digitaler Handelswege.", "correct": false },
+                { "text": "Durch den Verzicht auf digitale Marktplätze und Plattformen.", "correct": false },
+                { "text": "Durch die Bevorzugung von traditionellen analogen Handelsmethoden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche neuen Geschäftsmodelle entstehen durch digitale Disruption in traditionellen Branchen?",
+            "answers": [
+                { "text": "Neue Modelle, die bestehende Lösungen auf innovative Weise ersetzen.", "correct": true },
+                { "text": "Modelle, die keine Veränderungen in traditionellen Branchen bewirken.", "correct": false },
+                { "text": "Ausschließlich traditionelle Geschäftsmodelle ohne digitale Einflüsse.", "correct": false },
+                { "text": "Modelle, die auf alten, überholten Technologien basieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Nutzung von Cloud-Infrastrukturen die Geschäftsprozesse in Unternehmen optimieren?",
+            "answers": [
+                { "text": "Durch flexible, skalierbare und kosteneffiziente IT-Ressourcen.", "correct": true },
+                { "text": "Durch den Verzicht auf digitale Technologien und IT-Ressourcen.", "correct": false },
+                { "text": "Durch die Beibehaltung veralteter IT-Strukturen.", "correct": false },
+                { "text": "Durch die Einschränkung der Nutzung von digitalen Plattformen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arten von digitalen Plattformen können Unternehmen nutzen, um ihre Reichweite zu erhöhen?",
+            "answers": [
+                { "text": "Soziale Netzwerke, E-Commerce-Plattformen und Cloud-Dienste.", "correct": true },
+                { "text": "Ausschließlich nicht-digitale, manuelle Werkzeuge.", "correct": false },
+                { "text": "Plattformen, die keine Verbindung zum Internet haben.", "correct": false },
+                { "text": "Traditionelle analoge Plattformen ohne digitale Integration.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die Digitalisierung die Kundenbindung und Wertschöpfung in Unternehmen?",
+            "answers": [
+                { "text": "Durch verbesserte Kundeninteraktionen und effizientere Prozesse.", "correct": true },
+                { "text": "Durch die Reduzierung von Kundeninteraktionen und der Effizienz.", "correct": false },
+                { "text": "Durch die vollständige Abschaffung digitaler Kommunikationswege.", "correct": false },
+                { "text": "Durch die Bevorzugung manueller und analoger Prozesse.", "correct": false }
+            ]
+        }
+    ], 
+
+    "1.3.5_41-60":[
+        {
+            "question": "Was versteht man unter einem digitalen Plattform-Ökosystem?",
+            "answers": [
+                { "text": "Ein Netzwerk von Software-Tools, die für die Automatisierung von Aufgaben verwendet werden.", "correct": false },
+                { "text": "Eine Gemeinschaft von Unternehmen, die auf einer gemeinsamen Plattform interagieren und kooperieren.", "correct": true },
+                { "text": "Ein System von Datenbanken, die in einem Unternehmen zur Verwaltung von Informationen verwendet werden.", "correct": false },
+                { "text": "Eine Plattform, die ausschließlich für den Verkauf von digitalen Produkten entwickelt wurde.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Unternehmen haben die Entwicklung digitaler Plattform-Ökosysteme vorangetrieben?",
+            "answers": [
+                { "text": "Unternehmen aus der Automobilindustrie wie Volkswagen und Ford.", "correct": false },
+                { "text": "Banken und Finanzinstitute wie JPMorgan und Goldman Sachs.", "correct": false },
+                { "text": "Technologieführer wie Google, Amazon, Facebook und Apple.", "correct": true },
+                { "text": "Supermarktketten wie Walmart und Carrefour.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind Partnerauswahl und Kundendialog entscheidend für den Erfolg eines digitalen Ökosystems?",
+            "answers": [
+                { "text": "Sie ermöglichen den einfachen Zugriff auf Kapital und finanzielle Unterstützung.", "correct": false },
+                { "text": "Sie helfen bei der schnellen Entwicklung neuer Produkte für den Markt.", "correct": false },
+                { "text": "Sie tragen zur Verbesserung der Mitarbeiterbindung und der internen Kommunikation bei.", "correct": false },
+                { "text": "Sie sorgen für die richtige Kombination von Kompetenzen und die Ausrichtung auf Kundenbedürfnisse.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen einem geschlossenen und einem offenen digitalen Ökosystem?",
+            "answers": [
+                { "text": "Ein geschlossenes System ist für eine breitere Zielgruppe verfügbar als ein offenes System.", "correct": false },
+                { "text": "Ein offenes System wird durch Sicherheitsprotokolle stärker geschützt als ein geschlossenes System.", "correct": false },
+                { "text": "Ein geschlossenes System wird von einem Unternehmen kontrolliert, während ein offenes System durch mehrere Partner geteilt wird.", "correct": true },
+                { "text": "Ein offenes System ist für den Verkauf von physischen Produkten konzipiert, während ein geschlossenes System nur digitale Produkte verkauft.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen API-Schnittstellen in digitalen Ökosystemen?",
+            "answers": [
+                { "text": "Sie ermöglichen es Kunden, Produkte direkt über Social Media zu kaufen.", "correct": false },
+                { "text": "Sie sorgen für die Überwachung und Wartung von physischen Netzwerken.", "correct": false },
+                { "text": "Sie erleichtern die Integration von Anwendungen und Diensten innerhalb des Ökosystems.", "correct": true },
+                { "text": "Sie dienen der Kommunikation zwischen Mitarbeitern innerhalb eines Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Unternehmen durch die Nutzung digitaler Ökosysteme eine marktführende Stellung erreichen?",
+            "answers": [
+                { "text": "Durch die Reduzierung ihrer Marketingbudgets und Fokussierung auf traditionelle Medien.", "correct": false },
+                { "text": "Durch die Verbesserung ihrer Logistik und Lieferketten durch eigene Transportsysteme.", "correct": false },
+                { "text": "Durch die Integration von innovativen Technologien und die Schaffung eines starken Partnernetzwerks.", "correct": true },
+                { "text": "Durch die Beschränkung ihrer Angebote auf lokale Märkte und die Vermeidung internationaler Expansion.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Hauptvorteile eines „Walled Garden“-Ökosystems?",
+            "answers": [
+                { "text": "Einfache Integration mit externen Systemen und Tools anderer Unternehmen.", "correct": false },
+                { "text": "Schnellere Entwicklung und geringere Kosten durch Outsourcing von Projekten.", "correct": false },
+                { "text": "Hohe Kontrolle über das Ökosystem und starke Kundenbindung durch exklusive Dienste.", "correct": true },
+                { "text": "Mehr Flexibilität bei der Wahl der Plattformpartner und der angebotenen Dienste.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Risiken sind mit der Entwicklung digitaler Ökosysteme verbunden?",
+            "answers": [
+                { "text": "Die Gefahr einer zu schnellen Expansion ohne Rücksicht auf Qualitätsstandards.", "correct": false },
+                { "text": "Hohe Entwicklungskosten, langer Vorlauf und hohes Risiko bei der Markteinführung.", "correct": true },
+                { "text": "Unzureichende Schulung der Mitarbeiter und mangelnde Kundenbetreuung.", "correct": false },
+                { "text": "Hohe Abhängigkeit von einem einzigen Technologieanbieter und Verlust an Marktreichweite.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können digitale Ökosysteme zu Wettbewerbsvorteilen führen?",
+            "answers": [
+                { "text": "Durch die Optimierung der internen Prozesse und Reduzierung der Betriebskosten.", "correct": false },
+                { "text": "Durch die Schaffung von Netzwerkeffekten, die den Wert für alle Beteiligten erhöhen.", "correct": true },
+                { "text": "Durch die Implementierung von flexiblen Arbeitsmodellen und Home-Office-Optionen.", "correct": false },
+                { "text": "Durch die Fokussierung auf Nachhaltigkeit und umweltfreundliche Praktiken.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum müssen Behörden und Politik auf die Entwicklung marktbeherrschender Ökosysteme achten?",
+            "answers": [
+                { "text": "Um die vollständige Integration von E-Commerce-Plattformen zu fördern.", "correct": false },
+                { "text": "Um sicherzustellen, dass kleine Unternehmen Zugang zu digitalen Märkten erhalten.", "correct": false },
+                { "text": "Um die Monopolisierung zu verhindern und den fairen Wettbewerb zu gewährleisten.", "correct": true },
+                { "text": "Um die Nutzung von API-Schnittstellen in offenen Systemen zu standardisieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff „digitale Disruption“ im Kontext von digitalen Ökosystemen?",
+            "answers": [
+                { "text": "Ein langsamer Prozess der digitalen Transformation eines Unternehmens.", "correct": false },
+                { "text": "Die Schaffung neuer Geschäftsmodelle durch innovative Technologien.", "correct": true },
+                { "text": "Eine Umstrukturierung der internen Organisation durch digitale Tools.", "correct": false },
+                { "text": "Die Einführung von E-Commerce auf einer globalen Ebene.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Technologien werden häufig in digitalen Ökosystemen genutzt?",
+            "answers": [
+                { "text": "Technologien zur Energieerzeugung und Umweltüberwachung.", "correct": false },
+                { "text": "Technologien zur Analyse von physischen Produktionsprozessen.", "correct": false },
+                { "text": "Cloud-Technologien, API-Schnittstellen und künstliche Intelligenz.", "correct": true },
+                { "text": "Technologien zur Entwicklung von medizinischen Geräten und Produkten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie tragen digitale Ökosysteme zur Kundenbindung bei?",
+            "answers": [
+                { "text": "Durch den Verkauf von Produkten zu höheren Preisen als die Konkurrenz.", "correct": false },
+                { "text": "Durch die Bereitstellung exklusiver Dienstleistungen und kontinuierlicher Updates.", "correct": true },
+                { "text": "Durch die Verlagerung aller Geschäftsprozesse auf traditionelle Kanäle.", "correct": false },
+                { "text": "Durch die Reduzierung der Anzahl der angebotenen Produkte und Dienstleistungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Herausforderungen bei der Entwicklung eines digitalen Ökosystems?",
+            "answers": [
+                { "text": "Die Integration von analogen Prozessen in ein digitales Umfeld.", "correct": false },
+                { "text": "Die Verwaltung und der Schutz von Kundendaten vor unbefugtem Zugriff.", "correct": true },
+                { "text": "Die Reduzierung der Produktionskosten durch Outsourcing von Aufgaben.", "correct": false },
+                { "text": "Die Einschränkung des Zugangs zu digitalen Tools für externe Partner.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Entwicklungsgeschwindigkeit ein wichtiger Faktor in digitalen Ökosystemen?",
+            "answers": [
+                { "text": "Sie beeinflusst die Kosten für Marketing- und Werbemaßnahmen erheblich.", "correct": false },
+                { "text": "Sie bestimmt die Anzahl der verfügbaren Mitarbeiter für die Projektumsetzung.", "correct": false },
+                { "text": "Sie kann über den Erfolg oder Misserfolg der Markteinführung entscheiden.", "correct": true },
+                { "text": "Sie reduziert die Anzahl der Fehler und Probleme in den digitalen Prozessen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Unternehmen ihre Marktposition durch die Integration von Cloud-Technologien in digitale Ökosysteme verbessern?",
+            "answers": [
+                { "text": "Durch die Minimierung von Arbeitsplätzen und Reduzierung der Mitarbeiteranzahl.", "correct": false },
+                { "text": "Durch die Einführung von papierbasierten Prozessen zur Datenverwaltung.", "correct": false },
+                { "text": "Durch die Nutzung von Cloud-Services zur Steigerung der Flexibilität und Skalierbarkeit.", "correct": true },
+                { "text": "Durch die Reduzierung der Kommunikationswege innerhalb des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Beispiele gibt es für digitale Ökosysteme von großen internationalen IT-Playern?",
+            "answers": [
+                { "text": "Google, Amazon, Facebook und Apple mit verschiedenen digitalen Diensten.", "correct": true },
+                { "text": "Automobilhersteller wie BMW und Mercedes mit ihren Produktionssystemen.", "correct": false },
+                { "text": "Supermarktketten wie Aldi und Lidl mit ihren Lieferkettenmanagementsystemen.", "correct": false },
+                { "text": "Fluggesellschaften wie Lufthansa und Delta mit ihren Buchungssystemen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt künstliche Intelligenz in den digitalen Ökosystemen von Google und Amazon?",
+            "answers": [
+                { "text": "Künstliche Intelligenz wird verwendet, um Energieeffizienz in Produktionsstätten zu überwachen.", "correct": false },
+                { "text": "Künstliche Intelligenz dient der Optimierung der physischen Logistik und Lagerhaltung.", "correct": false },
+                { "text": "Künstliche Intelligenz verbessert die Benutzererfahrung und ermöglicht personalisierte Angebote.", "correct": true },
+                { "text": "Künstliche Intelligenz hilft bei der Entwicklung neuer Produktdesigns und Materialien.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflussen digitale Ökosysteme den E-Commerce und den Einzelhandel?",
+            "answers": [
+                { "text": "Sie erhöhen die Abhängigkeit von physischen Geschäften und traditionellen Verkaufsmethoden.", "correct": false },
+                { "text": "Sie bieten Kunden mehr Flexibilität und bessere Einkaufserfahrungen durch Online-Plattformen.", "correct": true },
+                { "text": "Sie reduzieren die Anzahl der verfügbaren Produkte auf dem Markt erheblich.", "correct": false },
+                { "text": "Sie verlagern den Fokus auf die Entwicklung von physischen Verkaufsstellen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es für Unternehmen wichtig, digitale Ökosysteme aufzubauen, um langfristige Erlöse zu erzielen?",
+            "answers": [
+                { "text": "Sie ermöglichen es Unternehmen, traditionelle Geschäftsmodelle beizubehalten.", "correct": false },
+                { "text": "Sie helfen Unternehmen, die Zahl der benötigten Arbeitskräfte zu minimieren.", "correct": false },
+                { "text": "Sie fördern die kontinuierliche Innovation und Anpassung an Marktveränderungen.", "correct": true },
+                { "text": "Sie begrenzen den Zugang zu neuen Technologien und digitalen Tools.", "correct": false }
+            ]
+        }
+    ],
+
+    "1.3.5_61-80":
+    [
+        {
+            "question": "Was versteht man unter einem Geschäftsprozess?",
+            "answers": [
+                { "text": "Ein Geschäftsprozess ist eine zeitliche und sachlogische Abfolge von Aktivitäten, die zur Erreichung eines Ziels im Unternehmen beitragen.", "correct": true },
+                { "text": "Ein Geschäftsprozess ist eine zufällige Abfolge von Aufgaben, die gelegentlich im Unternehmen anfallen.", "correct": false },
+                { "text": "Ein Geschäftsprozess ist eine einfache Aufgabenliste, die jeden Tag abgearbeitet wird.", "correct": false },
+                { "text": "Ein Geschäftsprozess ist eine zufällige Sammlung von Aufgaben ohne festgelegte Ziele.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben zählen zu den Kernprozessen eines Unternehmens?",
+            "answers": [
+                { "text": "Aufgaben, die für die Wertschöpfung und den Kundenkontakt von zentraler Bedeutung sind, zählen zu den Kernprozessen.", "correct": true },
+                { "text": "Aufgaben, die keine direkte Wertschöpfung erbringen, aber notwendig sind, zählen zu den Kernprozessen.", "correct": false },
+                { "text": "Aufgaben, die selten im Unternehmen anfallen und keine Kundenkontakte erfordern, zählen zu den Kernprozessen.", "correct": false },
+                { "text": "Aufgaben, die nur von der Unternehmensleitung durchgeführt werden, zählen zu den Kernprozessen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen Kernprozessen und Supportprozessen?",
+            "answers": [
+                { "text": "Kernprozesse sind wertschöpfungsintensiv und kundennah, während Supportprozesse unterstützende Aufgaben übernehmen.", "correct": true },
+                { "text": "Kernprozesse sind Aufgaben, die von externen Dienstleistern übernommen werden, während Supportprozesse intern abgewickelt werden.", "correct": false },
+                { "text": "Kernprozesse betreffen nur das Top-Management, während Supportprozesse von allen Mitarbeitern erledigt werden.", "correct": false },
+                { "text": "Kernprozesse und Supportprozesse sind identisch, da sie beide zur Wertschöpfung beitragen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird der Begriff „Workflow“ im Unternehmenskontext definiert?",
+            "answers": [
+                { "text": "Ein Workflow ist ein automatisierter Teilprozess, der durch ein Managementsystem gesteuert wird.", "correct": true },
+                { "text": "Ein Workflow ist eine manuelle Tätigkeit, die ausschließlich von Mitarbeitern durchgeführt wird.", "correct": false },
+                { "text": "Ein Workflow ist ein Planungsdokument, das die Arbeitszeiten der Mitarbeiter regelt.", "correct": false },
+                { "text": "Ein Workflow ist eine Strategie zur Verbesserung der Unternehmenskultur.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt das E-Procurement in der Beschaffung?",
+            "answers": [
+                { "text": "E-Procurement ermöglicht den elektronischen Einkauf von Gütern über spezielle Beschaffungsplattformen.", "correct": true },
+                { "text": "E-Procurement dient ausschließlich der physischen Lagerung von Waren im Unternehmen.", "correct": false },
+                { "text": "E-Procurement ist eine Methode zur Verwaltung der Gehaltsabrechnungen im Unternehmen.", "correct": false },
+                { "text": "E-Procurement ist ein Prozess zur Entwicklung neuer Produkte in der Fertigung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützt ein Supplier-Relationship-Management (SRM) System ein Unternehmen?",
+            "answers": [
+                { "text": "Ein SRM-System optimiert die Beziehungen zu Lieferanten und verbessert den Beschaffungsprozess.", "correct": true },
+                { "text": "Ein SRM-System überwacht ausschließlich die Arbeitszeiten der Mitarbeiter.", "correct": false },
+                { "text": "Ein SRM-System dient der Verwaltung von Kundendaten im Marketingbereich.", "correct": false },
+                { "text": "Ein SRM-System ist ein Tool zur Steuerung der internen Kommunikation zwischen Abteilungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Ziel des Supply-Chain-Managements (SCM)?",
+            "answers": [
+                { "text": "Das Ziel des SCM ist die Verwaltung integrierter Logistikketten über den gesamten Wertschöpfungsprozess.", "correct": true },
+                { "text": "Das Ziel des SCM ist die Überwachung der Arbeitszeiten der Mitarbeiter in der Produktion.", "correct": false },
+                { "text": "Das Ziel des SCM ist die Entwicklung neuer Produkte ohne Rücksicht auf den Kundenbedarf.", "correct": false },
+                { "text": "Das Ziel des SCM ist die Verwaltung der Finanzbuchhaltung im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktionen übernimmt ein PPS-System in der Produktion?",
+            "answers": [
+                { "text": "Ein PPS-System unterstützt die Planung und Steuerung der Produktion im Unternehmen.", "correct": true },
+                { "text": "Ein PPS-System überwacht ausschließlich die Kosten der Mitarbeiterschulungen.", "correct": false },
+                { "text": "Ein PPS-System dient der Entwicklung neuer Marketingstrategien.", "correct": false },
+                { "text": "Ein PPS-System ist für die Verwaltung der IT-Infrastruktur verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist Customer-Relationship-Management (CRM) wichtig für Unternehmen?",
+            "answers": [
+                { "text": "CRM unterstützt die systematische Gestaltung der Kundenbeziehungen und fördert die Kundenbindung.", "correct": true },
+                { "text": "CRM dient ausschließlich der internen Kommunikation zwischen Mitarbeitern.", "correct": false },
+                { "text": "CRM ist ein System zur Überwachung der Lieferketten von Rohstoffen.", "correct": false },
+                { "text": "CRM ist eine Methode zur Entwicklung neuer Produktionsmaschinen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann Social-Media-Marketing (SMM) den Absatz eines Unternehmens steigern?",
+            "answers": [
+                { "text": "SMM steigert den Absatz, indem es über soziale Medien die Kundenbindung fördert und den Absatz ergänzt.", "correct": true },
+                { "text": "SMM dient nur der internen Kommunikation und hat keinen Einfluss auf den Absatz.", "correct": false },
+                { "text": "SMM ist ein Prozess zur Verwaltung von Lagerbeständen im Unternehmen.", "correct": false },
+                { "text": "SMM unterstützt die Produktionsplanung, aber nicht den direkten Kundenkontakt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben werden durch ein Enterprise-Ressource-Planning (ERP) System unterstützt?",
+            "answers": [
+                { "text": "Ein ERP-System unterstützt die Verwaltung von Unternehmensressourcen wie Lagerhaltung, Rechnungswesen und Gehaltsabrechnung.", "correct": true },
+                { "text": "Ein ERP-System ist ausschließlich für die Kommunikation zwischen Lieferanten und dem Unternehmen verantwortlich.", "correct": false },
+                { "text": "Ein ERP-System dient der Überwachung der Produktionszeiten der Mitarbeiter.", "correct": false },
+                { "text": "Ein ERP-System ist ein Tool zur Entwicklung neuer IT-Lösungen für das Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützt ein Dokumentenmanagementsystem (DMS) die Verwaltung elektronischer Dokumente?",
+            "answers": [
+                { "text": "Ein DMS verwaltet elektronisch gespeicherte Dokumente in einer zentralen Datenbank und ermöglicht deren einfachen Zugriff.", "correct": true },
+                { "text": "Ein DMS überwacht die Produktionszeiten in der Fertigung und stellt sicher, dass alle Aufträge termingerecht abgeschlossen werden.", "correct": false },
+                { "text": "Ein DMS ist ein Tool zur Verwaltung der Kundendaten und zur Entwicklung von Marketingstrategien.", "correct": false },
+                { "text": "Ein DMS ist eine Methode zur Entwicklung und Implementierung neuer IT-Lösungen im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Enterprise Information Management (EIM)?",
+            "answers": [
+                { "text": "EIM dient der strukturierten Verwaltung und Organisation von Informationen im Unternehmen.", "correct": true },
+                { "text": "EIM ist ein System zur Überwachung der Lieferketten von Rohstoffen.", "correct": false },
+                { "text": "EIM unterstützt die Entwicklung und Verwaltung von Kundenbeziehungen.", "correct": false },
+                { "text": "EIM ist ein Tool zur Planung und Steuerung von Produktionsprozessen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet Business-Process-Management (BPM) für Unternehmen?",
+            "answers": [
+                { "text": "BPM optimiert Geschäftsprozesse und hilft, die Effizienz im Unternehmen zu steigern.", "correct": true },
+                { "text": "BPM ist ein Tool zur Verwaltung von Lagerbeständen im Unternehmen.", "correct": false },
+                { "text": "BPM unterstützt die Entwicklung und Überwachung von IT-Prozessen.", "correct": false },
+                { "text": "BPM dient ausschließlich der internen Kommunikation zwischen Mitarbeitern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie hilft Business-Intelligence-Software (BI) bei der Entscheidungsfindung in Unternehmen?",
+            "answers": [
+                { "text": "BI verwendet entscheidungsrelevante Daten zur Erstellung automatisierter Berichte für Entscheidungsträger.", "correct": true },
+                { "text": "BI ist ein Tool zur Überwachung der Produktionszeiten der Mitarbeiter.", "correct": false },
+                { "text": "BI unterstützt die Entwicklung neuer Produkte in der Fertigung.", "correct": false },
+                { "text": "BI ist ein System zur Verwaltung von Kundendaten und zur Entwicklung von Marketingstrategien.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Data Mining und wie wird es im Unternehmenskontext verwendet?",
+            "answers": [
+                { "text": "Data Mining analysiert große Datenmengen, um Muster und Trends für bessere Geschäftsentscheidungen zu identifizieren.", "correct": true },
+                { "text": "Data Mining ist ein Prozess zur Verwaltung der Gehaltsabrechnungen im Unternehmen.", "correct": false },
+                { "text": "Data Mining unterstützt die Kommunikation zwischen Lieferanten und dem Unternehmen.", "correct": false },
+                { "text": "Data Mining ist ein Tool zur Überwachung der Produktionszeiten in der Fertigung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktionen erfüllt ein Data Warehouse in einem Unternehmen?",
+            "answers": [
+                { "text": "Ein Data Warehouse speichert große Mengen an Unternehmensdaten zentral und ermöglicht deren Analyse.", "correct": true },
+                { "text": "Ein Data Warehouse ist ein System zur Verwaltung der Lieferketten von Rohstoffen.", "correct": false },
+                { "text": "Ein Data Warehouse unterstützt die Entwicklung neuer Produkte im Unternehmen.", "correct": false },
+                { "text": "Ein Data Warehouse ist ein Tool zur Planung und Steuerung von Projekten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützt Kollaboratives Projektmanagement (CPM) die Planung und Steuerung von Projekten?",
+            "answers": [
+                { "text": "CPM ermöglicht die koordinierte Zusammenarbeit in verteilten Projekten und verbessert die Projektergebnisse.", "correct": true },
+                { "text": "CPM ist ein Tool zur Verwaltung von Lagerbeständen im Unternehmen.", "correct": false },
+                { "text": "CPM unterstützt die Überwachung der Produktionszeiten der Mitarbeiter.", "correct": false },
+                { "text": "CPM ist ein System zur Entwicklung und Verwaltung von Kundenbeziehungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind Supportprozesse wichtig, obwohl sie nicht direkt zur Wertschöpfung beitragen?",
+            "answers": [
+                { "text": "Supportprozesse unterstützen die Kernprozesse und tragen zur Effizienz und Stabilität des Unternehmens bei.", "correct": true },
+                { "text": "Supportprozesse sind für die direkte Produktion und den Verkauf von Waren verantwortlich.", "correct": false },
+                { "text": "Supportprozesse ersetzen die Kernprozesse in Zeiten hoher Nachfrage.", "correct": false },
+                { "text": "Supportprozesse haben keinen Einfluss auf die Unternehmensabläufe und sind daher nicht notwendig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Digitalisierung für die Optimierung von Workflows in Unternehmen?",
+            "answers": [
+                { "text": "Die Digitalisierung ermöglicht die Automatisierung und Optimierung von Workflows, wodurch die Effizienz gesteigert wird.", "correct": true },
+                { "text": "Die Digitalisierung ist ausschließlich für die Verwaltung der Finanzbuchhaltung verantwortlich.", "correct": false },
+                { "text": "Die Digitalisierung hat keinen Einfluss auf Workflows und wird nur in der Produktion verwendet.", "correct": false },
+                { "text": "Die Digitalisierung ersetzt die manuelle Verwaltung von Lagerbeständen durch automatisierte Prozesse.", "correct": false }
+            ]
+        }
+    ]
+}    
+    
+    
+    

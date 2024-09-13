@@ -1,0 +1,735 @@
+{
+    "1.2.1_1-20":
+    [
+        {
+            "question": "Welche Verpflichtung hat der Ausbildende gemäß § 14 BBiG bezüglich der Vermittlung von Fertigkeiten und Kenntnissen?",
+            "answers": [
+                { "text": "Der Ausbildende muss die Ausbildungsmittel kostenfrei zur Verfügung stellen.", "correct": false },
+                { "text": "Der Ausbildende muss die Ausbildungsdauer entsprechend der Vorgaben anpassen.", "correct": false },
+                { "text": "Der Ausbildende muss die Ausbildungsinhalte planmäßig und systematisch vermitteln.", "correct": true },
+                { "text": "Der Ausbildende muss den Auszubildenden über alle betrieblichen Vorgänge informieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Lernpflicht des Auszubildenden gemäß § 13 BBiG?",
+            "answers": [
+                { "text": "Der Auszubildende muss regelmäßig Berichte über den Lernfortschritt schreiben.", "correct": false },
+                { "text": "Der Auszubildende muss sich bemühen, die erforderlichen Kenntnisse zu erwerben.", "correct": true },
+                { "text": "Der Auszubildende muss die Ausbildungsdauer verkürzen, wenn möglich.", "correct": false },
+                { "text": "Der Auszubildende muss an allen betrieblichen Veranstaltungen teilnehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rechte hat der Auszubildende im Hinblick auf die Freistellung für den Berufsschulunterricht gemäß § 14 BBiG?",
+            "answers": [
+                { "text": "Der Auszubildende darf während des Unterrichts auf eigenen Wunsch arbeiten.", "correct": false },
+                { "text": "Der Auszubildende wird für den Berufsschulunterricht von der Arbeit freigestellt.", "correct": true },
+                { "text": "Der Auszubildende kann den Unterricht besuchen, wenn es der Ausbildende genehmigt.", "correct": false },
+                { "text": "Der Auszubildende muss die Berufsschule außerhalb der Arbeitszeit besuchen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Weisungsgebundenheit des Auszubildenden gemäß § 13 BBiG?",
+            "answers": [
+                { "text": "Der Auszubildende muss nur den Weisungen des Geschäftsführers folgen.", "correct": false },
+                { "text": "Der Auszubildende muss den Anweisungen der weisungsberechtigten Personen folgen.", "correct": true },
+                { "text": "Der Auszubildende muss ausschließlich den Anweisungen des Ausbilders folgen.", "correct": false },
+                { "text": "Der Auszubildende muss den Anweisungen aller Mitarbeiter folgen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufsichtspflicht hat der Ausbildende für minderjährige Auszubildende gemäß § 1631 BGB?",
+            "answers": [
+                { "text": "Der Ausbildende muss den minderjährigen Auszubildenden jederzeit beaufsichtigen.", "correct": false },
+                { "text": "Der Ausbildende muss die Aufsicht nur während der Pausen gewährleisten.", "correct": false },
+                { "text": "Der Ausbildende muss die Aufsichtspflicht an eine Aufsichtsperson delegieren.", "correct": false },
+                { "text": "Der Ausbildende muss die Aufsicht nur während der Arbeitszeit sicherstellen.", "correct": true }
+            ]
+        },
+        {
+            "question": "Welche Verantwortung trägt der Ausbildende bei der Ausbildungsnachweiskontrolle gemäß § 14 BBiG?",
+            "answers": [
+                { "text": "Der Ausbildende muss die Ausbildungsnachweise alle zwei Wochen überprüfen.", "correct": false },
+                { "text": "Der Ausbildende muss die ordnungsgemäße Führung der Ausbildungsnachweise überwachen.", "correct": true },
+                { "text": "Der Ausbildende muss die Ausbildungsnachweise täglich kontrollieren.", "correct": false },
+                { "text": "Der Ausbildende muss die Ausbildungsnachweise nur bei Bedarf einsehen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Verpflichtung hat der Ausbildende bezüglich der Bereitstellung von Ausbildungsmitteln gemäß § 14 BBiG?",
+            "answers": [
+                { "text": "Der Ausbildende muss die Ausbildungsmittel gegen Gebühr zur Verfügung stellen.", "correct": false },
+                { "text": "Der Ausbildende muss die Ausbildungsmittel für die Prüfung kostenpflichtig bereitstellen.", "correct": false },
+                { "text": "Der Ausbildende muss die Ausbildungsmittel kostenfrei bereitstellen.", "correct": true },
+                { "text": "Der Ausbildende muss die Ausbildungsmittel nur für den Unterricht bereitstellen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie sind Auszubildende verpflichtet, die ihnen zur Verfügung gestellten Ausbildungsmittel zu behandeln?",
+            "answers": [
+                { "text": "Die Ausbildungsmittel dürfen nur während der Arbeitszeit genutzt werden.", "correct": false },
+                { "text": "Die Ausbildungsmittel müssen sorgfältig und pfleglich behandelt werden.", "correct": true },
+                { "text": "Die Ausbildungsmittel dürfen auch privat genutzt werden.", "correct": false },
+                { "text": "Die Ausbildungsmittel müssen nach jedem Gebrauch zurückgegeben werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Regelungen gelten für die Urlaubsgewährung für Auszubildende nach dem BurlG?",
+            "answers": [
+                { "text": "Der Urlaub muss immer im Dezember des Ausbildungsjahres genommen werden.", "correct": false },
+                { "text": "Der Urlaub muss zusammenhängend und nach gesetzlichen Bestimmungen gewährt werden.", "correct": true },
+                { "text": "Der Urlaub kann auf Wunsch des Auszubildenden jederzeit genommen werden.", "correct": false },
+                { "text": "Der Urlaub muss immer während der Berufsschulferien genommen werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Pflicht hat der Ausbildende hinsichtlich der Vergütung des Auszubildenden gemäß § 17 BBiG?",
+            "answers": [
+                { "text": "Die Vergütung muss mindestens einmal im Jahr gezahlt werden.", "correct": false },
+                { "text": "Die Vergütung muss bis zum 15. des Folgemonats gezahlt werden.", "correct": false },
+                { "text": "Die Vergütung muss spätestens am letzten Arbeitstag des Monats gezahlt werden.", "correct": true },
+                { "text": "Die Vergütung muss nach Abschluss der Ausbildung gezahlt werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Sorgfaltspflicht des Auszubildenden bei der Ausführung von Aufgaben gemäß § 13 BBiG?",
+            "answers": [
+                { "text": "Der Auszubildende muss die Aufgaben so schnell wie möglich erledigen.", "correct": false },
+                { "text": "Der Auszubildende muss die Aufgaben mit größter Sorgfalt und Genauigkeit ausführen.", "correct": true },
+                { "text": "Der Auszubildende muss die Aufgaben nur bei direkter Aufsicht ausführen.", "correct": false },
+                { "text": "Der Auszubildende muss die Aufgaben nur während der Arbeitszeit ausführen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Verpflichtung hat der Ausbildende bei der Übertragung von Aufgaben an Auszubildende?",
+            "answers": [
+                { "text": "Der Ausbildende muss sicherstellen, dass die Aufgaben dem Ausbildungszweck dienen.", "correct": true },
+                { "text": "Der Ausbildende muss sicherstellen, dass die Aufgaben jederzeit überprüfbar sind.", "correct": false },
+                { "text": "Der Ausbildende muss sicherstellen, dass die Aufgaben immer anspruchsvoll sind.", "correct": false },
+                { "text": "Der Ausbildende muss sicherstellen, dass die Aufgaben von anderen Mitarbeitern erledigt werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Geheimhaltungspflichten hat der Auszubildende gemäß § 13 BBiG?",
+            "answers": [
+                { "text": "Der Auszubildende darf keine Informationen an Kollegen weitergeben.", "correct": false },
+                { "text": "Der Auszubildende muss über Betriebs- und Geschäftsgeheimnisse Stillschweigen bewahren.", "correct": true },
+                { "text": "Der Auszubildende darf keine Informationen an den Ausbildenden weitergeben.", "correct": false },
+                { "text": "Der Auszubildende muss alle Informationen offenlegen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Zeugnispflicht hat der Ausbildende bei Beendigung des Ausbildungsverhältnisses gemäß § 16 BBiG?",
+            "answers": [
+                { "text": "Der Ausbildende muss dem Auszubildenden ein einfaches Arbeitszeugnis ausstellen.", "correct": false },
+                { "text": "Der Ausbildende muss dem Auszubildenden ein qualifiziertes Arbeitszeugnis ausstellen.", "correct": false },
+                { "text": "Der Ausbildende muss dem Auszubildenden ein schriftliches Zeugnis über die Ausbildungszeit ausstellen.", "correct": true },
+                { "text": "Der Ausbildende muss dem Auszubildenden ein mündliches Zeugnis ausstellen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Ausbildungszeit gemäß § 8 BBiG verkürzt oder verlängert werden?",
+            "answers": [
+                { "text": "Die Ausbildungszeit kann auf Antrag des Ausbildenden verlängert werden.", "correct": false },
+                { "text": "Die Ausbildungszeit kann auf Antrag des Auszubildenden verkürzt oder verlängert werden.", "correct": true },
+                { "text": "Die Ausbildungszeit kann auf Antrag des Ausbildenden verkürzt werden.", "correct": false },
+                { "text": "Die Ausbildungszeit kann nicht geändert werden, sie ist immer festgelegt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Regelungen bestehen hinsichtlich der Probezeit gemäß § 20 BBiG?",
+            "answers": [
+                { "text": "Die Probezeit beträgt immer genau drei Monate.", "correct": false },
+                { "text": "Die Probezeit beträgt mindestens einen Monat und maximal vier Monate.", "correct": true },
+                { "text": "Die Probezeit beträgt mindestens zwei Wochen und maximal drei Monate.", "correct": false },
+                { "text": "Die Probezeit beträgt genau vier Monate für alle Auszubildenden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Pflichten hat der Auszubildende, wenn er der betrieblichen Ausbildung fernbleibt?",
+            "answers": [
+                { "text": "Der Auszubildende muss den Ausbildenden unverzüglich über das Fernbleiben informieren.", "correct": true },
+                { "text": "Der Auszubildende muss nur bei längeren Abwesenheiten den Ausbildenden informieren.", "correct": false },
+                { "text": "Der Auszubildende muss das Fernbleiben nur im Nachhinein mitteilen.", "correct": false },
+                { "text": "Der Auszubildende muss den Ausbildenden nur bei Krankheit informieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie sind die Regelungen bezüglich der Beendigung der Ausbildung gemäß §§ 21 und 24 BBiG?",
+            "answers": [
+                { "text": "Die Ausbildung endet automatisch nach drei Jahren.", "correct": false },
+                { "text": "Die Ausbildung endet nach Bestehen der Abschlussprüfung.", "correct": true },
+                { "text": "Die Ausbildung endet mit dem Abschluss der Berufsschule.", "correct": false },
+                { "text": "Die Ausbildung endet mit der Ausstellung des Zeugnisses.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Verpflichtungen hat der Ausbildende bei der Benennung weisungsberechtigter Personen?",
+            "answers": [
+                { "text": "Der Ausbildende muss dem Auszubildenden die weisungsberechtigten Personen bekannt machen.", "correct": true },
+                { "text": "Der Ausbildende muss nur dem Ausbilder die weisungsberechtigten Personen mitteilen.", "correct": false },
+                { "text": "Der Ausbildende muss keine weisungsberechtigten Personen benennen.", "correct": false },
+                { "text": "Der Ausbildende muss alle Mitarbeiter über die Weisungsberechtigten informieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Voraussetzungen für die Anrechnung beruflicher Vorbildung auf die Ausbildungszeit gemäß § 7 BBiG?",
+            "answers": [
+                { "text": "Die Vorbildung muss durch eine anerkannte Schule oder Institution erworben worden sein.", "correct": false },
+                { "text": "Die Vorbildung muss in einem ähnlichen Berufsfeld wie die Ausbildung liegen.", "correct": false },
+                { "text": "Die Vorbildung muss durch den Ausbildenden und die IHK anerkannt werden.", "correct": true },
+                { "text": "Die Vorbildung muss eine gewisse Dauer und inhaltliche Übereinstimmung aufweisen.", "correct": false }
+            ]
+        }
+    ],
+
+        "1.2.1_21-40": [
+            {
+                "question": "Was ist die Ausbildungspflicht des Ausbildenden?",
+                "answers": [
+                    { "text": "Planmäßige Vermittlung der notwendigen Fertigkeiten, Kenntnisse und Erfahrungen", "correct": true },
+                    { "text": "Sicherstellung der beruflichen Weiterbildung nach der Ausbildung", "correct": false },
+                    { "text": "Bereitstellung von Verpflegung während der Arbeitszeit", "correct": false },
+                    { "text": "Organisation von Freizeitaktivitäten für Auszubildende", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Pflicht hat der Ausbildende hinsichtlich des Berufsschulunterrichts?",
+                "answers": [
+                    { "text": "Freistellung der Auszubildenden für den Berufsschulunterricht", "correct": true },
+                    { "text": "Teilnahme an den Prüfungen der Auszubildenden", "correct": false },
+                    { "text": "Bereitstellung von Lehrmaterialien für den Berufsschulunterricht", "correct": false },
+                    { "text": "Organisation von Nachhilfeunterricht bei Bedarf", "correct": false }
+                ]
+            },
+            {
+                "question": "Was umfasst die Aufsichtspflicht des Ausbildenden?",
+                "answers": [
+                    { "text": "Überwachung minderjähriger Auszubildender und geflüchteter Menschen während der Ausbildung", "correct": true },
+                    { "text": "Überwachung der Freizeitaktivitäten der Auszubildenden", "correct": false },
+                    { "text": "Aufsicht über die berufliche Weiterentwicklung nach der Ausbildung", "correct": false },
+                    { "text": "Kontrolle der Anwesenheit bei Schulungen", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist die Pflicht des Ausbildenden bezüglich der Ausbildungsnachweise?",
+                "answers": [
+                    { "text": "Kontrolle und kostenlose Bereitstellung der Ausbildungsnachweise", "correct": true },
+                    { "text": "Aufbewahrung der Nachweise für mindestens 10 Jahre", "correct": false },
+                    { "text": "Übergabe der Nachweise an die IHK", "correct": false },
+                    { "text": "Verpflichtung zur Führung der Nachweise durch den Ausbildenden", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Pflicht hat der Ausbildende in Bezug auf die Ausbildungsmittel?",
+                "answers": [
+                    { "text": "Kostenlose Bereitstellung der benötigten Ausbildungsmittel", "correct": true },
+                    { "text": "Regelmäßige Aktualisierung der Ausbildungsmittel", "correct": false },
+                    { "text": "Rückforderung der Ausbildungsmittel nach Beendigung der Ausbildung", "correct": false },
+                    { "text": "Erhebung einer Gebühr für die Nutzung der Ausbildungsmittel", "correct": false }
+                ]
+            },
+            {
+                "question": "Wann muss der Ausbildende Urlaub gewähren?",
+                "answers": [
+                    { "text": "Gemäß den gesetzlichen und tariflichen Bestimmungen", "correct": true },
+                    { "text": "Nur nach erfolgreichem Abschluss der Berufsschule", "correct": false },
+                    { "text": "Nur während der schulischen Ferienzeiten", "correct": false },
+                    { "text": "Immer nach der Hälfte der Ausbildungszeit", "correct": false }
+                ]
+            },
+            {
+                "question": "Was umfasst die Vergütungspflicht des Ausbildenden?",
+                "answers": [
+                    { "text": "Zahlung einer angemessenen Vergütung, mindestens in Höhe der Mindestausbildungsvergütung", "correct": true },
+                    { "text": "Zahlung eines Zuschusses für öffentliche Verkehrsmittel", "correct": false },
+                    { "text": "Bereitstellung von kostenlosen Mahlzeiten während der Arbeitszeit", "correct": false },
+                    { "text": "Zahlung eines Bonus am Ende der Ausbildung", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Art von Aufgaben darf der Ausbildende einem Auszubildenden übertragen?",
+                "answers": [
+                    { "text": "Nur Aufgaben, die dem Ausbildungszweck dienen und körperlich angemessen sind", "correct": true },
+                    { "text": "Alle Aufgaben, die innerhalb des Unternehmens anfallen", "correct": false },
+                    { "text": "Hauptsächlich administrative Aufgaben", "correct": false },
+                    { "text": "Nur einfache und ungefährliche Aufgaben", "correct": false }
+                ]
+            },
+            {
+                "question": "Wann ist der Ausbildende verpflichtet, ein Zeugnis auszustellen?",
+                "answers": [
+                    { "text": "Bei Beendigung des Ausbildungsverhältnisses", "correct": true },
+                    { "text": "Nach jedem Ausbildungsjahr", "correct": false },
+                    { "text": "Nur bei bestandener Abschlussprüfung", "correct": false },
+                    { "text": "Nur auf ausdrücklichen Wunsch des Auszubildenden", "correct": false }
+                ]
+            },
+            {
+                "question": "Was umfasst die Lernpflicht des Auszubildenden?",
+                "answers": [
+                    { "text": "Bemühen um den Erwerb der notwendigen Fertigkeiten, Kenntnisse und Erfahrungen", "correct": true },
+                    { "text": "Teilnahme an außerbetrieblichen Freizeitangeboten", "correct": false },
+                    { "text": "Erwerb von zusätzlichen Qualifikationen außerhalb der Ausbildungszeit", "correct": false },
+                    { "text": "Unterstützung anderer Auszubildender bei deren Aufgaben", "correct": false }
+                ]
+            },
+            {
+                "question": "Wozu ist der Auszubildende in Bezug auf den Berufsschulunterricht verpflichtet?",
+                "answers": [
+                    { "text": "Pflicht zur Teilnahme am Berufsschulunterricht und an Prüfungen", "correct": true },
+                    { "text": "Freiwillige Teilnahme an zusätzlichen Schulungen", "correct": false },
+                    { "text": "Nur Teilnahme an praktischen Prüfungen", "correct": false },
+                    { "text": "Teilnahme an Schulungen nach Abschluss der Ausbildung", "correct": false }
+                ]
+            },
+            {
+                "question": "Was bedeutet die Weisungsgebundenheit des Auszubildenden?",
+                "answers": [
+                    { "text": "Verpflichtung, den Weisungen der weisungsberechtigten Personen zu folgen", "correct": true },
+                    { "text": "Freiheit, eigene Entscheidungen zu treffen", "correct": false },
+                    { "text": "Nur Verpflichtung zur Befolgung der Anweisungen des Ausbilders", "correct": false },
+                    { "text": "Verpflichtung zur Befolgung aller Anweisungen innerhalb des Unternehmens", "correct": false }
+                ]
+            },
+            {
+                "question": "Was umfasst die Pflicht zur Einhaltung der Ordnung durch den Auszubildenden?",
+                "answers": [
+                    { "text": "Beachtung der Ordnungsvorschriften der Ausbildungsstätte", "correct": true },
+                    { "text": "Pflicht zur Ordnung der persönlichen Arbeitsumgebung", "correct": false },
+                    { "text": "Einhaltung der Verhaltensregeln gegenüber Kunden", "correct": false },
+                    { "text": "Pflicht zur Einhaltung der Pausenzeiten", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist die Pflicht des Auszubildenden bezüglich der Ausbildungsnachweise?",
+                "answers": [
+                    { "text": "Ordnungsgemäße Führung und Vorlage der Ausbildungsnachweise", "correct": true },
+                    { "text": "Führung der Nachweise durch den Ausbildenden", "correct": false },
+                    { "text": "Erstellung eines wöchentlichen Berichts für den Ausbildenden", "correct": false },
+                    { "text": "Pflicht zur Vorlage der Nachweise nach jedem Ausbildungsjahr", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie hat der Auszubildende mit den Ausbildungsmitteln umzugehen?",
+                "answers": [
+                    { "text": "Sorgfältiger Umgang mit den zur Verfügung gestellten Ausbildungsmitteln", "correct": true },
+                    { "text": "Freie Nutzung der Ausbildungsmittel auch für private Zwecke", "correct": false },
+                    { "text": "Rückgabe der Ausbildungsmittel am Ende jedes Ausbildungsjahres", "correct": false },
+                    { "text": "Anschaffung eigener Ausbildungsmittel, falls gewünscht", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist die Erholungspflicht des Auszubildenden?",
+                "answers": [
+                    { "text": "Unterlassung jeder dem Urlaubszweck widersprechenden Erwerbstätigkeit während des Urlaubs", "correct": true },
+                    { "text": "Teilnahme an Fortbildungen während des Urlaubs", "correct": false },
+                    { "text": "Meldung beim Ausbildungsbetrieb während des Urlaubs", "correct": false },
+                    { "text": "Pflicht zur Planung von Erholungsmaßnahmen während des Urlaubs", "correct": false }
+                ]
+            },
+            {
+                "question": "Was umfasst die Benachrichtigungspflicht des Auszubildenden?",
+                "answers": [
+                    { "text": "Sofortige Benachrichtigung des Ausbildenden bei Fernbleiben, Krankheit oder Unfall", "correct": true },
+                    { "text": "Benachrichtigung des Ausbildenden nach einer Woche Abwesenheit", "correct": false },
+                    { "text": "Meldung von Krankheitsfällen nur am Ende der Woche", "correct": false },
+                    { "text": "Benachrichtigung des Ausbildenden nur bei schwerwiegenden Unfällen", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Sorgfaltspflicht hat der Auszubildende bei der Ausführung von Aufgaben?",
+                "answers": [
+                    { "text": "Sorgfältige Ausführung der übertragenen Aufgaben", "correct": true },
+                    { "text": "Erfüllung der Aufgaben nach eigenem Ermessen", "correct": false },
+                    { "text": "Delegierung der Aufgaben an andere Auszubildende", "correct": false },
+                    { "text": "Erledigung der Aufgaben nur unter Aufsicht des Ausbildenden", "correct": false }
+                ]
+            },
+            {
+                "question": "Was umfasst die Vergütungspflicht des Ausbildenden gemäß der gesetzlichen Bestimmungen?",
+                "answers": [
+                    { "text": "Zahlung einer jährlich steigenden und angemessenen Vergütung, mindestens in Höhe der Mindestausbildungsvergütung", "correct": true },
+                    { "text": "Zahlung eines festen monatlichen Betrags unabhängig von der Leistung", "correct": false },
+                    { "text": "Bereitstellung von Unterkunft und Verpflegung anstelle einer Vergütung", "correct": false },
+                    { "text": "Zahlung einer Vergütung nur bei erfolgreicher Teilnahme an Prüfungen", "correct": false }
+                ]
+            },
+            {
+                "question": "Was bedeutet die Geheimhaltungspflicht für Auszubildende?",
+                "answers": [
+                    { "text": "Wahrung der Verschwiegenheit über Betriebs- und Geschäftsgeheimnisse", "correct": true },
+                    { "text": "Verpflichtung zur Veröffentlichung von Unternehmensinformationen", "correct": false },
+                    { "text": "Meldung vertraulicher Informationen an andere Auszubildende", "correct": false },
+                    { "text": "Erlaubnis zur Weitergabe von Informationen nach Beendigung der Ausbildung", "correct": false }
+                ]
+            }
+        ],
+        
+            "1.2.1_41-60": [
+    {
+        "question": "Welche Parteien müssen den Berufsausbildungsvertrag unterzeichnen, bevor die Ausbildung beginnt?",
+        "answers": [
+            { "text": "Nur der Ausbildende und der Auszubildende müssen den Vertrag unterzeichnen.", "correct": false },
+            { "text": "Der Ausbildende, der Auszubildende und die IHK müssen den Vertrag unterzeichnen.", "correct": false },
+            { "text": "Der Ausbildende, der Auszubildende und die gesetzlichen Vertreter müssen den Vertrag unterzeichnen.", "correct": true },
+            { "text": "Nur die gesetzlichen Vertreter des Auszubildenden müssen den Vertrag unterzeichnen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wann muss der Berufsausbildungsvertrag bei der IHK eingereicht werden?",
+        "answers": [
+            { "text": "Spätestens einen Monat nach Beginn der Ausbildung.", "correct": false },
+            { "text": "Direkt nach der Unterzeichnung und vor Beginn der Ausbildung.", "correct": true },
+            { "text": "Innerhalb von sechs Wochen nach Ausbildungsbeginn.", "correct": false },
+            { "text": "Erst nach der Probezeit der Ausbildung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Informationen sind im Anhang des Ausbildungsvertrages enthalten?",
+        "answers": [
+            { "text": "Angaben zu den beruflichen Rechten und Pflichten des Ausbilders.", "correct": false },
+            { "text": "Hinweise auf die zu verwendenden Ausbildungsmaterialien.", "correct": false },
+            { "text": "Wichtige Informationen über Rechte und Pflichten im Ausbildungsverhältnis.", "correct": true },
+            { "text": "Eine Übersicht über die Prüfungsanforderungen der IHK.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Vereinbarungen dürfen im Ausbildungsvertrag nicht getroffen werden?",
+        "answers": [
+            { "text": "Vereinbarungen, die den Ausbildungszweck fördern.", "correct": false },
+            { "text": "Vereinbarungen, die mit dem Berufsbildungsgesetz übereinstimmen.", "correct": false },
+            { "text": "Vereinbarungen, die nicht mit dem Sinn und Zweck der Ausbildung übereinstimmen.", "correct": true },
+            { "text": "Vereinbarungen, die auf einer freiwilligen Basis getroffen werden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Mit welchem Antrag ist das Formular des Berufsausbildungsvertrages verknüpft?",
+        "answers": [
+            { "text": "Mit dem Antrag auf Verlängerung der Probezeit.", "correct": false },
+            { "text": "Mit dem Antrag auf Eintragung in das Verzeichnis der Berufsausbildungsverhältnisse.", "correct": true },
+            { "text": "Mit dem Antrag auf Reduzierung der Arbeitszeit.", "correct": false },
+            { "text": "Mit dem Antrag auf Anerkennung der Berufsausbildung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche zusätzlichen Dokumente müssen dem Antrag zur Eintragung in das Verzeichnis der Berufsausbildungsverhältnisse beigefügt werden?",
+        "answers": [
+            { "text": "Ein Nachweis über die ärztliche Untersuchung und das Abschlusszeugnis der Schule.", "correct": false },
+            { "text": "Ein Ausbildungsplan und Nachweise über die bisherige Berufserfahrung.", "correct": false },
+            { "text": "Ein Ausbildungsplan mit der sachlichen und zeitlichen Gliederung sowie weitere Anlagen.", "correct": true },
+            { "text": "Ein Schreiben des Ausbildenden über die Auswahlkriterien für die Ausbildung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Warum hat der Gesetzgeber Mindestbestandteile für den Ausbildungsvertrag festgelegt?",
+        "answers": [
+            { "text": "Um die Rechte des Ausbildenden zu stärken und die Pflichten des Auszubildenden zu klären.", "correct": false },
+            { "text": "Um sicherzustellen, dass der Ausbildungsvertrag rechtlich korrekt ist.", "correct": false },
+            { "text": "Um die Gleichstellung der Auszubildenden im gesamten Ausbildungsprozess zu gewährleisten.", "correct": false },
+            { "text": "Um frühzeitig Klarheit über Rechte und Pflichten zu schaffen und Missverständnisse zu vermeiden.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Rolle spielt die IHK bei der Information über Rechte und Pflichten im Ausbildungsvertrag?",
+        "answers": [
+            { "text": "Die IHK erstellt alle Verträge und informiert über die Ausbildungsinhalte.", "correct": false },
+            { "text": "Die IHK stellt die Ausbildungsplätze bereit und übernimmt die Prüfungen.", "correct": false },
+            { "text": "Die IHK ergänzt die Verträge und informiert über gesetzliche Vorgaben und Rechte.", "correct": true },
+            { "text": "Die IHK überprüft die Arbeitsbedingungen und die Berufsschulnoten der Auszubildenden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Maßnahmen außerhalb der Ausbildungsstätte können im Ausbildungsvertrag festgelegt werden?",
+        "answers": [
+            { "text": "Nur berufliche Weiterbildungen und Aufstiegsfortbildungen.", "correct": false },
+            { "text": "Nur Maßnahmen zur Erholung und Freizeitgestaltung.", "correct": false },
+            { "text": "Maßnahmen wie IT-Kurse, Sprachkurse oder Auslandseinsätze.", "correct": true },
+            { "text": "Maßnahmen wie betriebliche Schulungen und Praktika.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie viel Prozent der Ausbildungsdauer können Auszubildende im Ausland verbringen?",
+        "answers": [
+            { "text": "Bis zu einem Drittel der Ausbildungsdauer kann im Ausland verbracht werden.", "correct": false },
+            { "text": "Bis zu einem Fünftel der Ausbildungsdauer kann im Ausland verbracht werden.", "correct": false },
+            { "text": "Bis zu einem Viertel der Ausbildungsdauer kann im Ausland verbracht werden.", "correct": true },
+            { "text": "Bis zur Hälfte der Ausbildungsdauer kann im Ausland verbracht werden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Informationsquellen werden empfohlen, um sich über Rechte und Pflichten im Ausbildungsvertrag zu informieren?",
+        "answers": [
+            { "text": "Die Webseiten der IHK und die Vertragsunterlagen des Ausbildungsbetriebs.", "correct": false },
+            { "text": "Die Webseiten des Ausbildungsbetriebs und die Informationen der Berufsschule.", "correct": false },
+            { "text": "Die Webseiten der IHK und die Anhänge zum Ausbildungsvertrag.", "correct": true },
+            { "text": "Die Webseiten der Berufsschule und die Informationen der IHK.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Bestandteile müssen laut § 11 BBiG im Berufsausbildungsvertrag enthalten sein?",
+        "answers": [
+            { "text": "Die Dauer der Berufsausbildung, die Höhe der Vergütung und die Urlaubsregelungen.", "correct": false },
+            { "text": "Die Art, die Gliederung und das Ziel der Berufsausbildung sowie die Probezeit.", "correct": true },
+            { "text": "Die Arbeitszeit, die Prüfungsanforderungen und die Vergütungshöhe.", "correct": false },
+            { "text": "Die Probezeit, die Zahl der Berufsschultage und die Ausbildungsvergütung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was regelt die sachliche und zeitliche Gliederung im Berufsausbildungsvertrag?",
+        "answers": [
+            { "text": "Die Verteilung der Unterrichtsstunden in der Berufsschule.", "correct": false },
+            { "text": "Die Aufteilung der Aufgaben im Ausbildungsbetrieb.", "correct": false },
+            { "text": "Die inhaltliche und zeitliche Struktur der gesamten Ausbildung.", "correct": true },
+            { "text": "Die Dauer der täglichen Arbeitszeit und der Pausen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist der Zweck der Festlegung der Dauer der Probezeit im Ausbildungsvertrag?",
+        "answers": [
+            { "text": "Um die Ausbildungsdauer insgesamt zu verlängern.", "correct": false },
+            { "text": "Um die Eignung des Auszubildenden für den Beruf zu überprüfen.", "correct": true },
+            { "text": "Um den Auszubildenden zu mehr Verantwortung zu ermutigen.", "correct": false },
+            { "text": "Um die gesetzlichen Vorgaben der Ausbildung zu erfüllen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Angaben zur Vergütung müssen im Ausbildungsvertrag enthalten sein?",
+        "answers": [
+            { "text": "Die Höhe der monatlichen Vergütung und die Anpassung während der Ausbildung.", "correct": true },
+            { "text": "Die Höhe der Prüfungsgebühren und die Zahlungsmodalitäten.", "correct": false },
+            { "text": "Die Höhe der Vergütung und die Kosten für Arbeitsmittel.", "correct": false },
+            { "text": "Die Höhe der Vergütung und die Beiträge zur Sozialversicherung.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie wird die Dauer des Urlaubs im Berufsausbildungsvertrag festgelegt?",
+        "answers": [
+            { "text": "Durch die gesetzliche Mindestdauer und die betrieblichen Regelungen.", "correct": false },
+            { "text": "Durch die Urlaubsregelungen im Tarifvertrag und die schulischen Ferienzeiten.", "correct": false },
+            { "text": "Durch die gesetzlichen Vorgaben und die Vereinbarung im Ausbildungsvertrag.", "correct": true },
+            { "text": "Durch die Vereinbarung zwischen dem Auszubildenden und dem Ausbildenden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Bedingungen müssen erfüllt sein, um den Berufsausbildungsvertrag zu kündigen?",
+        "answers": [
+            { "text": "Es müssen gravierende Verstöße gegen die Betriebsordnung vorliegen.", "correct": false },
+            { "text": "Es muss ein schriftlicher Antrag des Auszubildenden oder Ausbildenden vorliegen.", "correct": false },
+            { "text": "Es müssen die gesetzlichen Kündigungsfristen und die Vertragsbedingungen eingehalten werden.", "correct": true },
+            { "text": "Es muss eine Genehmigung der IHK und der Berufsschule vorliegen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche tariflichen und betrieblichen Vereinbarungen müssen im Ausbildungsvertrag berücksichtigt werden?",
+        "answers": [
+            { "text": "Die Vereinbarungen zu den Arbeitszeiten und den Pausenregelungen.", "correct": false },
+            { "text": "Die Vereinbarungen zu den Prüfungsanforderungen und den Vergütungen.", "correct": false },
+            { "text": "Die Vereinbarungen zu den Arbeitszeiten und den Urlaubstagen.", "correct": false },
+            { "text": "Die Vereinbarungen zu den Tarifverträgen und den Betriebsvereinbarungen.", "correct": true }
+        ]
+    },
+    {
+        "question": "Welche Form des Ausbildungsnachweises kann im Ausbildungsvertrag festgelegt werden?",
+        "answers": [
+            { "text": "Die schriftliche oder digitale Führung des Ausbildungsnachweises.", "correct": true },
+            { "text": "Die regelmäßige Kontrolle des Ausbildungsnachweises durch die IHK.", "correct": false },
+            { "text": "Die alleinige Führung des Nachweises durch den Ausbildenden.", "correct": false },
+            { "text": "Die mündliche Erfassung der Ausbildungsinhalte durch den Auszubildenden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Warum ist eine Recherche zu den Rechten und Pflichten im Berufsausbildungsvertrag nützlich?",
+        "answers": [
+            { "text": "Um sicherzustellen, dass alle Beteiligten die gleichen Informationen haben.", "correct": false },
+            { "text": "Um Missverständnisse zu vermeiden und eine klare Kommunikation zu gewährleisten.", "correct": false },
+            { "text": "Um die Einhaltung der gesetzlichen Vorgaben und den Schutz der Auszubildenden zu gewährleisten.", "correct": true },
+            { "text": "Um sicherzustellen, dass der Ausbildungsvertrag rechtlich bindend ist und eingehalten wird.", "correct": false }
+        ]
+    }
+],
+            
+                "1.2.1_61-80": [
+                    {
+                        "question": "Für welche Altersgruppe gilt das Jugendarbeitsschutzgesetz (JArbSchG)?",
+                        "answers": [
+                            { "text": "Für alle Personen unter 20 Jahren, die in einem Arbeitsverhältnis stehen.", "correct": false },
+                            { "text": "Für alle Personen unter 18 Jahren, die in einem Arbeitsverhältnis stehen.", "correct": true },
+                            { "text": "Für alle Personen unter 16 Jahren, die in einem Arbeitsverhältnis stehen.", "correct": false },
+                            { "text": "Für alle Personen unter 21 Jahren, die in einem Arbeitsverhältnis stehen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Verpflichtung hat ein Arbeitgeber vor Beginn der Berufsausbildung eines Jugendlichen gemäß JArbSchG?",
+                        "answers": [
+                            { "text": "Der Arbeitgeber muss den Jugendlichen über die Rechte im Arbeitsvertrag informieren.", "correct": false },
+                            { "text": "Der Arbeitgeber muss den Jugendlichen zu einer Erstuntersuchung schicken.", "correct": true },
+                            { "text": "Der Arbeitgeber muss den Jugendlichen für die Berufsschule freistellen.", "correct": false },
+                            { "text": "Der Arbeitgeber muss den Jugendlichen über die Betriebsordnung informieren.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wie lange darf die tägliche Arbeitszeit für Jugendliche gemäß JArbSchG maximal betragen?",
+                        "answers": [
+                            { "text": "Die Arbeitszeit darf täglich höchstens 6 Stunden betragen.", "correct": false },
+                            { "text": "Die Arbeitszeit darf täglich höchstens 8 Stunden betragen.", "correct": true },
+                            { "text": "Die Arbeitszeit darf täglich höchstens 10 Stunden betragen.", "correct": false },
+                            { "text": "Die Arbeitszeit darf täglich höchstens 7 Stunden betragen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Unter welchen Bedingungen ist eine Samstags- oder Sonntagsarbeit für Jugendliche erlaubt?",
+                        "answers": [
+                            { "text": "Nur bei dringenden betrieblichen Erfordernissen und mit Einwilligung der Eltern.", "correct": false },
+                            { "text": "Nur bei dringenden betrieblichen Erfordernissen und mit Zustimmung des Betriebsrats.", "correct": false },
+                            { "text": "Nur bei dringenden betrieblichen Erfordernissen und mit Genehmigung der IHK.", "correct": false },
+                            { "text": "Nur bei Notfällen oder wenn andere Mitarbeiter nicht verfügbar sind.", "correct": true }
+                        ]
+                    },
+                    {
+                        "question": "Zu welcher Uhrzeit darf die Arbeit für Jugendliche in mehrschichtigen Betrieben enden?",
+                        "answers": [
+                            { "text": "Die Arbeit muss spätestens um 20 Uhr enden.", "correct": false },
+                            { "text": "Die Arbeit muss spätestens um 22 Uhr enden.", "correct": false },
+                            { "text": "Die Arbeit muss spätestens um 21 Uhr enden.", "correct": false },
+                            { "text": "Die Arbeit muss spätestens um 23 Uhr enden.", "correct": true }
+                        ]
+                    },
+                    {
+                        "question": "Wie lange muss die Ruhezeit für Jugendliche nach der Arbeitszeit gemäß JArbSchG mindestens betragen?",
+                        "answers": [
+                            { "text": "Die Ruhezeit muss mindestens 10 Stunden betragen.", "correct": false },
+                            { "text": "Die Ruhezeit muss mindestens 12 Stunden betragen.", "correct": true },
+                            { "text": "Die Ruhezeit muss mindestens 8 Stunden betragen.", "correct": false },
+                            { "text": "Die Ruhezeit muss mindestens 14 Stunden betragen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Mindestpausenzeit ist bei einer Arbeitszeit von mehr als viereinhalb Stunden für Jugendliche erforderlich?",
+                        "answers": [
+                            { "text": "Es muss eine Pause von mindestens 15 Minuten gewährt werden.", "correct": false },
+                            { "text": "Es muss eine Pause von mindestens 30 Minuten gewährt werden.", "correct": true },
+                            { "text": "Es muss eine Pause von mindestens 45 Minuten gewährt werden.", "correct": false },
+                            { "text": "Es muss eine Pause von mindestens 60 Minuten gewährt werden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wie viele Urlaubstage stehen einem Jugendlichen unter 16 Jahren gemäß JArbSchG zu?",
+                        "answers": [
+                            { "text": "Einem Jugendlichen stehen 25 Urlaubstage zu.", "correct": false },
+                            { "text": "Einem Jugendlichen stehen 27 Urlaubstage zu.", "correct": false },
+                            { "text": "Einem Jugendlichen stehen 30 Urlaubstage zu.", "correct": true },
+                            { "text": "Einem Jugendlichen stehen 28 Urlaubstage zu.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wann sollte der Urlaub für Jugendliche vorzugsweise genommen werden?",
+                        "answers": [
+                            { "text": "Der Urlaub sollte vorzugsweise während der Schulferien genommen werden.", "correct": false },
+                            { "text": "Der Urlaub sollte vorzugsweise während der Prüfungszeit genommen werden.", "correct": false },
+                            { "text": "Der Urlaub sollte vorzugsweise während der Betriebsferien genommen werden.", "correct": false },
+                            { "text": "Der Urlaub sollte vorzugsweise während der Berufsschulferien genommen werden.", "correct": true }
+                        ]
+                    },
+                    {
+                        "question": "Welche Regelung gilt für den Ausgleich von Mehrarbeit bei Jugendlichen gemäß JArbSchG?",
+                        "answers": [
+                            { "text": "Die Mehrarbeit muss in den folgenden zwei Wochen ausgeglichen werden.", "correct": false },
+                            { "text": "Die Mehrarbeit muss in den folgenden drei Wochen ausgeglichen werden.", "correct": true },
+                            { "text": "Die Mehrarbeit muss in den folgenden vier Wochen ausgeglichen werden.", "correct": false },
+                            { "text": "Die Mehrarbeit muss in den folgenden fünf Wochen ausgeglichen werden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Freistellungsregelung gilt für Jugendliche am Tag vor einer schriftlichen Prüfung?",
+                        "answers": [
+                            { "text": "Jugendliche müssen am Tag vor der Prüfung für die Dauer von zwei Stunden freigestellt werden.", "correct": false },
+                            { "text": "Jugendliche müssen am Tag vor der Prüfung für die Dauer von vier Stunden freigestellt werden.", "correct": false },
+                            { "text": "Jugendliche müssen am Tag vor der Prüfung den ganzen Tag freigestellt werden.", "correct": true },
+                            { "text": "Jugendliche müssen am Tag vor der Prüfung nur für die Dauer der Prüfung freigestellt werden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche zusätzliche Betreuung muss in Betrieben mit einem Betriebsarzt oder einer Fachkraft für Arbeitssicherheit für Jugendliche gewährleistet werden?",
+                        "answers": [
+                            { "text": "Die Jugendlichen müssen regelmäßig zu Gesundheits- und Sicherheitsschulungen geschickt werden.", "correct": false },
+                            { "text": "Die Jugendlichen müssen betriebsärztlich oder sicherheitstechnisch betreut werden.", "correct": true },
+                            { "text": "Die Jugendlichen müssen an speziellen Erste-Hilfe-Kursen teilnehmen.", "correct": false },
+                            { "text": "Die Jugendlichen müssen eine jährliche Sicherheitsüberprüfung bestehen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wie wird die Höhe der Ausbildungsvergütung festgelegt, wenn kein Tarifvertrag oder keine Betriebsvereinbarung vorliegt?",
+                        "answers": [
+                            { "text": "Die Höhe der Vergütung wird individuell zwischen Ausbildendem und Auszubildendem vereinbart.", "correct": true },
+                            { "text": "Die Höhe der Vergütung wird durch die IHK festgelegt.", "correct": false },
+                            { "text": "Die Höhe der Vergütung wird durch das Berufsausbildungsgesetz bestimmt.", "correct": false },
+                            { "text": "Die Höhe der Vergütung wird durch die Arbeitsagentur festgelegt.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche gesetzliche Mindestvergütung ist für das erste Ausbildungsjahr bis 2023 festgelegt?",
+                        "answers": [
+                            { "text": "Die Mindestvergütung beträgt 700,00 €.", "correct": false },
+                            { "text": "Die Mindestvergütung beträgt 600,00 €.", "correct": false },
+                            { "text": "Die Mindestvergütung beträgt 620,00 €.", "correct": true },
+                            { "text": "Die Mindestvergütung beträgt 650,00 €.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Was muss gemäß § 17 BBiG mit der Ausbildungsvergütung jährlich geschehen?",
+                        "answers": [
+                            { "text": "Die Vergütung muss jährlich gekürzt werden.", "correct": false },
+                            { "text": "Die Vergütung muss jährlich unverändert bleiben.", "correct": false },
+                            { "text": "Die Vergütung muss jährlich steigen.", "correct": true },
+                            { "text": "Die Vergütung muss jährlich überprüft werden.", "correct": false }
+                        ]
+                    },
+                    {
+                            "question": "Welche Abzüge können von der vereinbarten Ausbildungsvergütung vorgenommen werden, wenn bestimmte Freigrenzen überschritten werden?",
+                            "answers": [
+                            { "text": "Es können Abzüge für die betriebliche Altersvorsorge vorgenommen werden.", "correct": false },
+                            { "text": "Es können Abzüge für Lohnsteuer, Kirchensteuer und Solidaritätszuschlag vorgenommen werden.", "correct": true },
+                            { "text": "Es können Abzüge für die betriebliche Krankenversicherung vorgenommen werden.", "correct": false },
+                            { "text": "Es können Abzüge für die private Unfallversicherung vorgenommen werden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wer trägt die Kosten der betrieblichen Unfallversicherung bei der jeweiligen Berufsgenossenschaft?",
+                        "answers": [
+                            { "text": "Die Kosten trägt ausschließlich der Auszubildende.", "correct": false },
+                            { "text": "Die Kosten trägt ausschließlich der Ausbildende.", "correct": true },
+                            { "text": "Die Kosten werden zwischen Ausbildendem und Auszubildendem geteilt.", "correct": false },
+                            { "text": "Die Kosten trägt ausschließlich die Berufsgenossenschaft.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Bedingungen müssen erfüllt sein, um eine Teilzeitausbildung gemäß § 8 BBiG beantragen zu können?",
+                        "answers": [
+                            { "text": "Der Auszubildende muss älter als 18 Jahre sein und einen Antrag bei der IHK stellen.", "correct": false },
+                            { "text": "Der Auszubildende muss die Ausbildung allein finanzieren können.", "correct": false },
+                            { "text": "Der Auszubildende muss besondere Gründe wie Elternschaft oder Pflege vorweisen können.", "correct": true },
+                            { "text": "Der Auszubildende muss die Ausbildung in einem Betrieb mit mehr als 50 Mitarbeitern absolvieren.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wie viele Wochenstunden kann die Ausbildungszeit bei einer Teilzeitausbildung betragen, einschließlich der Berufsschule?",
+                        "answers": [
+                            { "text": "Die Ausbildungszeit kann 15 bis 25 Wochenstunden betragen.", "correct": false },
+                            { "text": "Die Ausbildungszeit kann 25 bis 35 Wochenstunden betragen.", "correct": false },
+                            { "text": "Die Ausbildungszeit kann 20 bis 30 Wochenstunden betragen.", "correct": true },
+                            { "text": "Die Ausbildungszeit kann 10 bis 20 Wochenstunden betragen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welcher Antrag muss gemeinsam mit dem Ausbildenden bei der IHK eingereicht werden, wenn eine Teilzeitausbildung gewünscht wird?",
+                        "answers": [
+                            { "text": "Ein Antrag auf Verkürzung der Probezeit muss eingereicht werden.", "correct": false },
+                            { "text": "Ein Antrag auf Teilzeitausbildung muss eingereicht werden.", "correct": true },
+                            { "text": "Ein Antrag auf Verlängerung der Ausbildungszeit muss eingereicht werden.", "correct": false },
+                            { "text": "Ein Antrag auf Erhöhung der Ausbildungsvergütung muss eingereicht werden.", "correct": false }
+                        ]
+                    }
+                        
+                ]
+            }

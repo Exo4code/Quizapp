@@ -1,0 +1,548 @@
+{
+    "1.3.2_1-20":[
+        {
+            "question": "Was ist die Hauptcharakteristik von kleinen und mittleren Unternehmen (KMU) in Deutschland?",
+            "answers": [
+                { "text": "Sie machen weniger als 50% der Unternehmen in Deutschland aus.", "correct": false },
+                { "text": "Sie beschäftigen mehr als 500 Mitarbeiter in der Regel.", "correct": false },
+                { "text": "Sie werden zu über 95% der Unternehmen in Deutschland gezählt.", "correct": true },
+                { "text": "Sie sind ausschließlich in der Dienstleistungsbranche tätig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie viele Unternehmen in Deutschland gehören zu den freien Berufen?",
+            "answers": [
+                { "text": "Etwa 500.000 Unternehmen in Deutschland zählen zu den freien Berufen.", "correct": false },
+                { "text": "Etwa 1,4 Millionen Unternehmen in Deutschland zählen zu den freien Berufen.", "correct": true },
+                { "text": "Etwa 2 Millionen Unternehmen in Deutschland zählen zu den freien Berufen.", "correct": false },
+                { "text": "Etwa 3 Millionen Unternehmen in Deutschland zählen zu den freien Berufen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche drei Leistungsstufen werden in der Produktion und Weiterverarbeitung unterschieden?",
+            "answers": [
+                { "text": "Primär, sekundär und tertiär sind die drei Leistungsstufen in der Produktion.", "correct": true },
+                { "text": "Anfang, Mitte und Ende sind die drei Leistungsstufen in der Produktion.", "correct": false },
+                { "text": "Beschaffung, Herstellung und Vertrieb sind die drei Leistungsstufen in der Produktion.", "correct": false },
+                { "text": "Planung, Produktion und Verkauf sind die drei Leistungsstufen in der Produktion.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist ein einzelnes Unternehmen in der Regel nicht in der Lage, alle Leistungen in allen Leistungsstufen anzubieten?",
+            "answers": [
+                { "text": "Weil es oft an qualifiziertem Personal mangelt.", "correct": false },
+                { "text": "Weil die gesetzlichen Bestimmungen es nicht erlauben.", "correct": false },
+                { "text": "Weil es zu kostspielig wäre, alle Leistungsstufen abzudecken.", "correct": true },
+                { "text": "Weil es keine Nachfrage nach solchen Angeboten gibt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter volkswirtschaftlicher Arbeitsteilung?",
+            "answers": [
+                { "text": "Dass jedes Unternehmen alle Produkte selbst herstellt.", "correct": false },
+                { "text": "Dass Unternehmen spezialisierte Leistungen anbieten, die sie am besten beherrschen.", "correct": true },
+                { "text": "Dass Unternehmen sich in alle Leistungsstufen gleichmäßig einbringen.", "correct": false },
+                { "text": "Dass alle Unternehmen weltweit die gleichen Produkte anbieten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wirkt sich die Arbeitsteilung auf die Produktivität eines Unternehmens aus?",
+            "answers": [
+                { "text": "Die Arbeitsteilung verringert die Produktivität erheblich.", "correct": false },
+                { "text": "Die Arbeitsteilung führt zu einem Rückgang der Produktivität.", "correct": false },
+                { "text": "Die Arbeitsteilung steigert die Produktivität durch Spezialisierung.", "correct": true },
+                { "text": "Die Arbeitsteilung hat keinen Einfluss auf die Produktivität.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist eine globale Zusammenarbeit in der ITK-Wirtschaft notwendig?",
+            "answers": [
+                { "text": "Weil lokale Märkte keine Nachfrage haben.", "correct": false },
+                { "text": "Weil ITK-Produkte nur in einem Land hergestellt werden können.", "correct": false },
+                { "text": "Weil die technologischen Anforderungen global sehr komplex sind.", "correct": true },
+                { "text": "Weil es gesetzlich vorgeschrieben ist, weltweit zusammenzuarbeiten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt Deutschland im globalen Export von Automobilen, Maschinen und Anlagen?",
+            "answers": [
+                { "text": "Deutschland ist einer der weltweit führenden Exporteure in diesen Bereichen.", "correct": true },
+                { "text": "Deutschland exportiert nur sehr wenige Automobile und Maschinen.", "correct": false },
+                { "text": "Deutschland importiert hauptsächlich diese Produkte aus dem Ausland.", "correct": false },
+                { "text": "Deutschland hat keine nennenswerte Rolle in diesen Bereichen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bereiche der IT-Produkte (z.B. Hard- und Software) werden mehr importiert als exportiert?",
+            "answers": [
+                { "text": "IT-Produkte aus Deutschland werden weltweit am meisten exportiert.", "correct": false },
+                { "text": "IT-Produkte aus Deutschland werden hauptsächlich importiert.", "correct": true },
+                { "text": "IT-Produkte aus Deutschland werden gleichmäßig importiert und exportiert.", "correct": false },
+                { "text": "IT-Produkte aus Deutschland werden hauptsächlich exportiert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Herausforderungen bringt die Globalisierung für Unternehmen mit sich?",
+            "answers": [
+                { "text": "Geringere Anforderungen an die Produktqualität.", "correct": false },
+                { "text": "Weniger Wettbewerb und Marktmonopole.", "correct": false },
+                { "text": "Erhöhte Transport- und Logistikkosten sowie Umweltbelastungen.", "correct": true },
+                { "text": "Einfachere Marktregulierung und Gesetze.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile ergeben sich durch die Globalisierung für Unternehmen?",
+            "answers": [
+                { "text": "Höhere Produktionskosten und geringere Gewinne.", "correct": false },
+                { "text": "Verbesserte internationale Zusammenarbeit und geringere Handelsbarrieren.", "correct": true },
+                { "text": "Weniger Wettbewerb und mehr Marktmonopole.", "correct": false },
+                { "text": "Erhöhte gesetzliche Anforderungen und Bürokratie.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die Globalisierung die Lebensverhältnisse in Entwicklungsländern?",
+            "answers": [
+                { "text": "Die Globalisierung verschlechtert die Lebensverhältnisse in Entwicklungsländern.", "correct": false },
+                { "text": "Die Globalisierung hat keinen Einfluss auf die Lebensverhältnisse in Entwicklungsländern.", "correct": false },
+                { "text": "Die Globalisierung verbessert die Lebensverhältnisse durch Förderung und Austausch.", "correct": true },
+                { "text": "Die Globalisierung verschärft die wirtschaftlichen Probleme in Entwicklungsländern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können internationale Wettbewerbsstreitigkeiten im Rahmen der Globalisierung gelöst werden?",
+            "answers": [
+                { "text": "Durch den Einsatz von militärischen Maßnahmen.", "correct": false },
+                { "text": "Durch internationale Abkommen und Schlichtungsverfahren.", "correct": true },
+                { "text": "Durch den vollständigen Verzicht auf internationalen Handel.", "correct": false },
+                { "text": "Durch einseitige Sanktionen und Handelsbarrieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Auswirkung hat die volkswirtschaftliche Arbeitsteilung auf die Preise von Produkten und Dienstleistungen?",
+            "answers": [
+                { "text": "Die Preise werden durch Arbeitsteilung in der Regel günstiger.", "correct": true },
+                { "text": "Die Preise steigen durch Arbeitsteilung stark an.", "correct": false },
+                { "text": "Die Preise bleiben durch Arbeitsteilung unverändert.", "correct": false },
+                { "text": "Die Arbeitsteilung hat keinen Einfluss auf die Preise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff 'Kernkompetenz' in Bezug auf Unternehmen?",
+            "answers": [
+                { "text": "Dass Unternehmen alle Aufgaben gleich gut beherrschen.", "correct": false },
+                { "text": "Dass Unternehmen sich auf ihre stärksten Fähigkeiten konzentrieren.", "correct": true },
+                { "text": "Dass Unternehmen immer nur eine Dienstleistung anbieten.", "correct": false },
+                { "text": "Dass Unternehmen alle Bereiche gleich stark abdecken.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Innovationsleistung wichtig für Unternehmen, die im starken Wettbewerb stehen?",
+            "answers": [
+                { "text": "Weil sie dadurch weniger Geld für Forschung und Entwicklung ausgeben müssen.", "correct": false },
+                { "text": "Weil sie dadurch ihre Marktposition halten und ausbauen können.", "correct": true },
+                { "text": "Weil sie dadurch keine Konkurrenz mehr haben.", "correct": false },
+                { "text": "Weil sie dadurch staatliche Subventionen erhalten.", "correct": false }
+            ]
+        }, 
+        {
+            "question": "Was kann ein Nachteil der Globalisierung in Bezug auf internationale Beziehungen sein?",
+            "answers": [
+                { "text": "Verminderung von Konflikten und Spannungen zwischen Ländern.", "correct": false },
+                { "text": "Erhöhte internationale Zusammenarbeit und Frieden.", "correct": false },
+                { "text": "Zunahme von internationalen Streitigkeiten und Konflikten.", "correct": true },
+                { "text": "Reduzierung von Zöllen und Handelsbeschränkungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt der freie Handel im Kontext der Globalisierung?",
+            "answers": [
+                { "text": "Freier Handel führt zu weniger Marktchancen für Entwicklungsländer.", "correct": false },
+                { "text": "Freier Handel erleichtert den Zugang zu internationalen Märkten.", "correct": true },
+                { "text": "Freier Handel verhindert den Austausch von Kulturen und Ideen.", "correct": false },
+                { "text": "Freier Handel reduziert die Anzahl der Unternehmen weltweit.", "correct": false }
+            ]
+        },  
+    { 
+        "question": "Wie trägt die Globalisierung zur Angleichung der Lebensverhältnisse bei?",
+        "answers": [
+            { "text": "Durch die Erhöhung der Arbeitslosigkeit in Entwicklungsländern.", "correct": false },
+            { "text": "Durch die Förderung von Bildung und Infrastrukturprojekten.", "correct": true },
+            { "text": "Durch die Abschaffung von Sozialleistungen in Industrieländern.", "correct": false },
+            { "text": "Durch die Reduzierung von Handelsbeziehungen zwischen Ländern.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Auswirkungen kann die Globalisierung auf die Umwelt haben?",
+        "answers": [
+            { "text": "Die Globalisierung verbessert den globalen Umweltschutz erheblich.", "correct": false },
+            { "text": "Die Globalisierung erhöht den Energieverbrauch und die Umweltbelastungen.", "correct": true },
+            { "text": "Die Globalisierung reduziert den Bedarf an natürlichen Ressourcen.", "correct": false },
+            { "text": "Die Globalisierung hat keinen Einfluss auf die Umwelt.", "correct": false }
+        ]
+    }
+],
+    "1.3.2_21-40":[
+        {
+            "question": "Was unterscheidet ein Gewerbebetrieb von einer freiberuflichen Tätigkeit?",
+            "answers": [
+                { "text": "Ein Gewerbebetrieb ist immer in der Produktion tätig, eine freiberufliche Tätigkeit hingegen in der Dienstleistung.", "correct": false },
+                { "text": "Ein Gewerbebetrieb ist gewerbesteuerpflichtig, eine freiberufliche Tätigkeit ist davon befreit.", "correct": true },
+                { "text": "Ein Gewerbebetrieb ist an die IHK gebunden, eine freiberufliche Tätigkeit nicht.", "correct": false },
+                { "text": "Ein Gewerbebetrieb benötigt eine spezielle Lizenz, eine freiberufliche Tätigkeit nicht.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rechtsform müssen Unternehmen wählen, wenn sie gewerbesteuerpflichtig sind?",
+            "answers": [
+                { "text": "Unternehmen müssen sich als Kapitalgesellschaften oder Personengesellschaften registrieren lassen.", "correct": false },
+                { "text": "Unternehmen müssen sich als gemeinnützige Organisationen oder Vereine registrieren lassen.", "correct": false },
+                { "text": "Unternehmen müssen sich als Einzelunternehmen oder GmbH registrieren lassen.", "correct": true },
+                { "text": "Unternehmen müssen sich als Aktiengesellschaft oder Genossenschaft registrieren lassen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche wirtschaftliche Einheit bezeichnet man als Betrieb?",
+            "answers": [
+                { "text": "Ein Betrieb ist eine organisatorische Einheit, die Dienstleistungen anbietet.", "correct": false },
+                { "text": "Ein Betrieb ist eine technische Einheit, die Waren produziert.", "correct": false },
+                { "text": "Ein Betrieb ist eine organisatorisch-technische Einheit, die Güter erstellt.", "correct": true },
+                { "text": "Ein Betrieb ist eine Verwaltungseinheit, die ausschließlich verwaltet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einem erwerbswirtschaftlichen Unternehmen?",
+            "answers": [
+                { "text": "Ein erwerbswirtschaftliches Unternehmen arbeitet auf gemeinnütziger Basis.", "correct": false },
+                { "text": "Ein erwerbswirtschaftliches Unternehmen strebt nach Gewinnmaximierung.", "correct": true },
+                { "text": "Ein erwerbswirtschaftliches Unternehmen arbeitet nur für den Eigenbedarf.", "correct": false },
+                { "text": "Ein erwerbswirtschaftliches Unternehmen verfolgt keine Gewinnabsicht.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein gemeinwirtschaftliches Unternehmen und welches Ziel verfolgt es?",
+            "answers": [
+                { "text": "Ein gemeinwirtschaftliches Unternehmen strebt nach Gewinnmaximierung.", "correct": false },
+                { "text": "Ein gemeinwirtschaftliches Unternehmen deckt nur die Selbstkosten.", "correct": true },
+                { "text": "Ein gemeinwirtschaftliches Unternehmen arbeitet nur für den Eigenbedarf.", "correct": false },
+                { "text": "Ein gemeinwirtschaftliches Unternehmen strebt nach maximaler Effizienz.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich ein Sozialunternehmen von einem erwerbswirtschaftlichen Unternehmen?",
+            "answers": [
+                { "text": "Ein Sozialunternehmen strebt primär nach sozialem Nutzen, ein erwerbswirtschaftliches Unternehmen nach Gewinn.", "correct": true },
+                { "text": "Ein Sozialunternehmen ist gewinnorientiert, ein erwerbswirtschaftliches Unternehmen nicht.", "correct": false },
+                { "text": "Ein Sozialunternehmen ist gemeinnützig, ein erwerbswirtschaftliches Unternehmen arbeitet auf Selbstkostenbasis.", "correct": false },
+                { "text": "Ein Sozialunternehmen arbeitet nur für den Eigenbedarf, ein erwerbswirtschaftliches Unternehmen nicht.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Tätigkeiten sind typisch für den primären Wirtschaftssektor?",
+            "answers": [
+                { "text": "Der primäre Sektor umfasst Dienstleistungen wie Banken und Versicherungen.", "correct": false },
+                { "text": "Der primäre Sektor umfasst die Verarbeitung von Rohstoffen zu Endprodukten.", "correct": false },
+                { "text": "Der primäre Sektor umfasst die Gewinnung von Rohstoffen wie Bergbau und Landwirtschaft.", "correct": true },
+                { "text": "Der primäre Sektor umfasst die Fertigung von Maschinen und Anlagen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was charakterisiert den sekundären Wirtschaftssektor?",
+            "answers": [
+                { "text": "Der sekundäre Sektor umfasst die Herstellung und Weiterverarbeitung von Gütern.", "correct": true },
+                { "text": "Der sekundäre Sektor umfasst den Handel und Vertrieb von Produkten.", "correct": false },
+                { "text": "Der sekundäre Sektor umfasst die Bereitstellung von Dienstleistungen.", "correct": false },
+                { "text": "Der sekundäre Sektor umfasst die Förderung und Gewinnung von Rohstoffen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Unternehmen gehören zum tertiären Wirtschaftssektor?",
+            "answers": [
+                { "text": "Unternehmen des tertiären Sektors betreiben Landwirtschaft und Rohstoffabbau.", "correct": false },
+                { "text": "Unternehmen des tertiären Sektors sind in der Fertigung und Produktion tätig.", "correct": false },
+                { "text": "Unternehmen des tertiären Sektors bieten Dienstleistungen wie Handel und Bildung an.", "correct": true },
+                { "text": "Unternehmen des tertiären Sektors entwickeln neue Technologien und Maschinen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einem Start-up-Unternehmen in der IT-Branche?",
+            "answers": [
+                { "text": "Ein Start-up ist ein langjähriges Unternehmen mit stabiler Marktposition.", "correct": false },
+                { "text": "Ein Start-up ist ein neues Unternehmen mit innovativen Ideen und hohem Wachstumspotenzial.", "correct": true },
+                { "text": "Ein Start-up ist ein Unternehmen, das sich auf traditionelle Technologien spezialisiert.", "correct": false },
+                { "text": "Ein Start-up ist ein großes Unternehmen mit vielen Tochtergesellschaften.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen einem KMU und einem Konzern?",
+            "answers": [
+                { "text": "KMU sind kleine bis mittlere Unternehmen, ein Konzern ist eine Vereinigung von Unternehmen.", "correct": true },
+                { "text": "KMU sind immer familiengeführt, ein Konzern ist staatlich geführt.", "correct": false },
+                { "text": "KMU sind international tätig, ein Konzern ist regional tätig.", "correct": false },
+                { "text": "KMU sind gemeinnützig, ein Konzern strebt nach Gewinnmaximierung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die ITK-Branche in der deutschen Wirtschaft?",
+            "answers": [
+                { "text": "Die ITK-Branche ist eine der kleinsten Branchen mit geringem Einfluss auf die Wirtschaft.", "correct": false },
+                { "text": "Die ITK-Branche ist die führende Branche und dominiert alle anderen Sektoren.", "correct": false },
+                { "text": "Die ITK-Branche ist eine der größten Branchen und wächst durch Digitalisierung weiter.", "correct": true },
+                { "text": "Die ITK-Branche hat keinen Einfluss auf die deutsche Wirtschaft.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen ITK-Verbände wie Bitkom oder eco.de?",
+            "answers": [
+                { "text": "ITK-Verbände kümmern sich um den internationalen Vertrieb von Produkten.", "correct": false },
+                { "text": "ITK-Verbände vertreten die Interessen von Unternehmen der ITK-Branche.", "correct": true },
+                { "text": "ITK-Verbände betreiben ausschließlich Forschung und Entwicklung.", "correct": false },
+                { "text": "ITK-Verbände regulieren die Arbeitsbedingungen in der Landwirtschaft.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Unternehmen werden als B2B-Unternehmen bezeichnet?",
+            "answers": [
+                { "text": "B2B-Unternehmen bieten Dienstleistungen direkt an Endverbraucher an.", "correct": false },
+                { "text": "B2B-Unternehmen bieten ihre Leistungen ausschließlich an Behörden an.", "correct": false },
+                { "text": "B2B-Unternehmen bieten ihre Produkte und Dienstleistungen an andere Unternehmen an.", "correct": true },
+                { "text": "B2B-Unternehmen verkaufen ausschließlich Produkte über Online-Plattformen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet B2C im Kontext von Unternehmenstypen?",
+            "answers": [
+                { "text": "B2C-Unternehmen bieten ihre Produkte und Dienstleistungen an andere Unternehmen an.", "correct": false },
+                { "text": "B2C-Unternehmen bieten ihre Produkte und Dienstleistungen an Verbraucher an.", "correct": true },
+                { "text": "B2C-Unternehmen bieten ihre Produkte und Dienstleistungen an Behörden an.", "correct": false },
+                { "text": "B2C-Unternehmen bieten ihre Produkte und Dienstleistungen nur online an.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bezeichnet man als B2A im Kontext von Unternehmenstypen?",
+            "answers": [
+                { "text": "B2A-Unternehmen bieten ihre Dienstleistungen ausschließlich an andere Unternehmen an.", "correct": false },
+                { "text": "B2A-Unternehmen bieten ihre Dienstleistungen direkt an Endverbraucher an.", "correct": false },
+                { "text": "B2A-Unternehmen bieten ihre Dienstleistungen und Produkte an Behörden und öffentliche Einrichtungen an.", "correct": true },
+                { "text": "B2A-Unternehmen bieten ihre Dienstleistungen und Produkte ausschließlich über das Internet an.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Globalisierung für Unternehmen?",
+            "answers": [
+                { "text": "Globalisierung ermöglicht es Unternehmen, ihre Produkte nur lokal zu verkaufen.", "correct": false },
+                { "text": "Globalisierung bedeutet, dass Unternehmen sich ausschließlich auf den heimischen Markt konzentrieren.", "correct": false },
+                { "text": "Globalisierung fördert die internationale Arbeitsteilung und den freien Handel.", "correct": true },
+                { "text": "Globalisierung schränkt den Handel durch erhöhte Zölle und Handelsbarrieren ein.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein wesentlicher Nachteil der Globalisierung?",
+            "answers": [
+                { "text": "Globalisierung führt zu einer vollständigen Abschottung der Märkte.", "correct": false },
+                { "text": "Globalisierung fördert die Konzentration von Produktion in Entwicklungsländern.", "correct": false },
+                { "text": "Globalisierung erhöht die Umweltbelastung durch mehr Transporte und Logistik.", "correct": true },
+                { "text": "Globalisierung reduziert die internationale Zusammenarbeit und Kommunikation.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die ITK-Branche auf internationale Zusammenarbeit angewiesen?",
+            "answers": [
+                { "text": "Die ITK-Branche ist auf internationale Zusammenarbeit angewiesen, um Zugang zu billigen Arbeitskräften zu erhalten.", "correct": false },
+                { "text": "Die ITK-Branche ist auf internationale Zusammenarbeit angewiesen, um die technologischen Anforderungen zu erfüllen und im Wettbewerb zu bestehen.", "correct": true },
+                { "text": "Die ITK-Branche ist auf internationale Zusammenarbeit angewiesen, um ausschließlich Produkte zu importieren.", "correct": false },
+                { "text": "Die ITK-Branche ist auf internationale Zusammenarbeit angewiesen, um Steuervorteile zu nutzen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter volkswirtschaftlicher Arbeitsteilung?",
+            "answers": [
+                { "text": "Volkswirtschaftliche Arbeitsteilung bedeutet, dass jedes Unternehmen alle Produkte selbst herstellt.", "correct": false },
+                { "text": "Volkswirtschaftliche Arbeitsteilung bedeutet, dass Unternehmen ihre Kernkompetenzen nutzen, um spezialisierte Produkte herzustellen.", "correct": true },
+                { "text": "Volkswirtschaftliche Arbeitsteilung bedeutet, dass alle Unternehmen weltweit die gleichen Produkte anbieten.", "correct": false },
+                { "text": "Volkswirtschaftliche Arbeitsteilung bedeutet, dass Unternehmen keine Konkurrenz auf dem Markt haben.", "correct": false }
+            ]
+        }
+    ],
+    "1.3.2_41-60": [
+        {
+            "question": "Was versteht man unter dem Begriff 'Stakeholder' in einem Unternehmen?",
+            "answers": [
+                { "text": "Stakeholder sind Personen oder Gruppen, die am Unternehmen finanziell beteiligt sind.", "correct": false },
+                { "text": "Stakeholder sind alle, die ein berechtigtes Interesse am Handeln des Unternehmens haben.", "correct": true },
+                { "text": "Stakeholder sind ausschließlich die Aktionäre des Unternehmens.", "correct": false },
+                { "text": "Stakeholder sind nur die Kunden des Unternehmens, die Produkte kaufen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Kapitalgeber als Stakeholder eines Unternehmens?",
+            "answers": [
+                { "text": "Kapitalgeber erwarten keine finanziellen Erträge und unterstützen das Unternehmen uneigennützig.", "correct": false },
+                { "text": "Kapitalgeber erwarten finanzielle Erträge und haben Interesse an der wirtschaftlichen Stabilität.", "correct": true },
+                { "text": "Kapitalgeber sind nur an kurzfristigen Investitionen interessiert und haben keine langfristigen Ziele.", "correct": false },
+                { "text": "Kapitalgeber haben keinen Einfluss auf die Entscheidungen des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie profitieren Mitarbeiter als Stakeholder von einem Unternehmen?",
+            "answers": [
+                { "text": "Mitarbeiter profitieren durch Gehälter, Arbeitsplätze und soziale Sicherheiten.", "correct": true },
+                { "text": "Mitarbeiter profitieren nur durch die Möglichkeit, Aktien des Unternehmens zu kaufen.", "correct": false },
+                { "text": "Mitarbeiter profitieren durch die Nutzung von Unternehmensprodukten zu reduzierten Preisen.", "correct": false },
+                { "text": "Mitarbeiter profitieren ausschließlich durch Boni, die unabhängig von der Unternehmensleistung sind.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Ansprüche haben Kommunen und Behörden als Stakeholder an ein Unternehmen?",
+            "answers": [
+                { "text": "Kommunen und Behörden haben keine Ansprüche an Unternehmen und agieren unabhängig.", "correct": false },
+                { "text": "Kommunen und Behörden erwarten Steuereinnahmen und wirtschaftliche Unterstützung.", "correct": true },
+                { "text": "Kommunen und Behörden erwarten, dass Unternehmen ausschließlich soziale Projekte finanzieren.", "correct": false },
+                { "text": "Kommunen und Behörden haben Ansprüche nur, wenn es um Umweltschutz geht.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter 'Compliance' im Unternehmenskontext?",
+            "answers": [
+                { "text": "Compliance bedeutet, dass Unternehmen alle rechtlichen Vorschriften und Standards einhalten.", "correct": true },
+                { "text": "Compliance bedeutet, dass Unternehmen nur wirtschaftliche Ziele verfolgen und keine Gesetze einhalten müssen.", "correct": false },
+                { "text": "Compliance bedeutet, dass Unternehmen sich ausschließlich an den Interessen der Mitarbeiter orientieren.", "correct": false },
+                { "text": "Compliance bedeutet, dass Unternehmen alle Anfragen von Kunden sofort bearbeiten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe haben Gewerbe- und Ordnungsämter in Bezug auf Unternehmen?",
+            "answers": [
+                { "text": "Gewerbe- und Ordnungsämter kümmern sich um die Einhaltung von Sicherheitsstandards in Privatwohnungen.", "correct": false },
+                { "text": "Gewerbe- und Ordnungsämter kümmern sich um die An- und Ummeldung von Gewerbebetrieben.", "correct": true },
+                { "text": "Gewerbe- und Ordnungsämter kümmern sich um die Überwachung internationaler Handelsgeschäfte.", "correct": false },
+                { "text": "Gewerbe- und Ordnungsämter kümmern sich um die Erstellung von Unternehmensberichten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wofür sind die Gewerbeaufsichtsbehörden zuständig?",
+            "answers": [
+                { "text": "Gewerbeaufsichtsbehörden sind für die Überwachung von Freizeitaktivitäten zuständig.", "correct": false },
+                { "text": "Gewerbeaufsichtsbehörden sind für die Einhaltung von Arbeits- und Umweltschutzvorschriften zuständig.", "correct": true },
+                { "text": "Gewerbeaufsichtsbehörden sind für die Kontrolle von Steuererklärungen zuständig.", "correct": false },
+                { "text": "Gewerbeaufsichtsbehörden sind für die Förderung von Auslandsgeschäften zuständig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden gewerbliche Berufsgenossenschaften finanziert?",
+            "answers": [
+                { "text": "Gewerbliche Berufsgenossenschaften werden vollständig durch staatliche Zuschüsse finanziert.", "correct": false },
+                { "text": "Gewerbliche Berufsgenossenschaften werden durch Mitgliedsbeiträge der Beschäftigten finanziert.", "correct": false },
+                { "text": "Gewerbliche Berufsgenossenschaften werden vollständig durch Beiträge der Unternehmen finanziert.", "correct": true },
+                { "text": "Gewerbliche Berufsgenossenschaften werden durch eine Mischung aus Unternehmensbeiträgen und Spenden finanziert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat das Finanzamt für Unternehmen?",
+            "answers": [
+                { "text": "Das Finanzamt vergibt Kredite und Darlehen an Unternehmen.", "correct": false },
+                { "text": "Das Finanzamt verwaltet und treibt Steuern ein, die Unternehmen zu entrichten haben.", "correct": true },
+                { "text": "Das Finanzamt stellt Unternehmenslizenzen aus und reguliert den Wettbewerb.", "correct": false },
+                { "text": "Das Finanzamt überwacht ausschließlich den internationalen Zahlungsverkehr der Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wer ist für die Bearbeitung der Lohnsteuererklärung einer Arbeitsstätte zuständig?",
+            "answers": [
+                { "text": "Das örtliche Finanzamt des Arbeitnehmers ist immer zuständig.", "correct": false },
+                { "text": "Das Betriebsstättenfinanzamt ist für die Lohnsteuererklärung der Arbeitsstätte zuständig.", "correct": true },
+                { "text": "Die Gewerbeaufsichtsbehörde ist für die Lohnsteuererklärung der Arbeitsstätte zuständig.", "correct": false },
+                { "text": "Die örtliche IHK ist für die Lohnsteuererklärung der Arbeitsstätte zuständig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Sozialversicherungsträger im Zusammenhang mit Unternehmen?",
+            "answers": [
+                { "text": "Sozialversicherungsträger überwachen die Buchführung der Unternehmen.", "correct": false },
+                { "text": "Sozialversicherungsträger sind für die Erhebung und Verwaltung von Sozialversicherungsbeiträgen zuständig.", "correct": true },
+                { "text": "Sozialversicherungsträger stellen Unternehmenszertifikate für die Umweltfreundlichkeit aus.", "correct": false },
+                { "text": "Sozialversicherungsträger regulieren den Export von IT-Produkten ins Ausland.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Ziel des Wettbewerbsrechts?",
+            "answers": [
+                { "text": "Das Wettbewerbsrecht zielt darauf ab, Monopole zu schaffen und zu schützen.", "correct": false },
+                { "text": "Das Wettbewerbsrecht zielt darauf ab, den freien und fairen Wettbewerb zwischen Marktteilnehmern zu gewährleisten.", "correct": true },
+                { "text": "Das Wettbewerbsrecht zielt darauf ab, den staatlichen Einfluss auf Unternehmensentscheidungen zu stärken.", "correct": false },
+                { "text": "Das Wettbewerbsrecht zielt darauf ab, die Marktpreise auf einem konstanten Niveau zu halten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird der faire Leistungswettbewerb zwischen Marktteilnehmern rechtlich gesichert?",
+            "answers": [
+                { "text": "Durch das Strafgesetzbuch wird der faire Leistungswettbewerb gesichert.", "correct": false },
+                { "text": "Durch das Arbeitsrecht wird der faire Leistungswettbewerb gesichert.", "correct": false },
+                { "text": "Durch das Gesetz gegen den unlauteren Wettbewerb (UWG) wird der faire Leistungswettbewerb gesichert.", "correct": true },
+                { "text": "Durch das Verbraucherschutzgesetz wird der faire Leistungswettbewerb gesichert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was regelt das Gesetz gegen Wettbewerbsbeschränkungen (GWB)?",
+            "answers": [
+                { "text": "Das GWB regelt die Arbeitsbedingungen und Löhne der Arbeitnehmer.", "correct": false },
+                { "text": "Das GWB regelt die Marktanteile und Marktverhalten von Unternehmen, um fairen Wettbewerb zu gewährleisten.", "correct": true },
+                { "text": "Das GWB regelt die Steuerpflichten von Unternehmen und Einzelpersonen.", "correct": false },
+                { "text": "Das GWB regelt die Einfuhrzölle und Handelsbeschränkungen für importierte Waren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion haben Arbeitgeberorganisationen und Wirtschaftsverbände für Unternehmen?",
+            "answers": [
+                { "text": "Arbeitgeberorganisationen und Wirtschaftsverbände kontrollieren die staatlichen Steuerforderungen.", "correct": false },
+                { "text": "Arbeitgeberorganisationen und Wirtschaftsverbände vertreten die Interessen der Unternehmen und unterstützen sie.", "correct": true },
+                { "text": "Arbeitgeberorganisationen und Wirtschaftsverbände stellen den Unternehmen Betriebsprüfer zur Verfügung.", "correct": false },
+                { "text": "Arbeitgeberorganisationen und Wirtschaftsverbände übernehmen die Buchführung für kleine Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützen Gewerkschaften die Mitarbeiter von Unternehmen?",
+            "answers": [
+                { "text": "Gewerkschaften stellen den Mitarbeitern private Versicherungen zur Verfügung.", "correct": false },
+                { "text": "Gewerkschaften verhandeln Tarifverträge und vertreten die Interessen der Mitarbeiter.", "correct": true },
+                { "text": "Gewerkschaften kümmern sich ausschließlich um die Freizeitgestaltung der Mitarbeiter.", "correct": false },
+                { "text": "Gewerkschaften übernehmen die Verwaltung der Gehaltsabrechnungen der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Anforderungen stellen Lieferanten als Stakeholder an ein Unternehmen?",
+            "answers": [
+                { "text": "Lieferanten erwarten keine Bezahlung, solange sie regelmäßig Bestellungen erhalten.", "correct": false },
+                { "text": "Lieferanten erwarten pünktliche Zahlung und langfristige Geschäftsbeziehungen.", "correct": true },
+                { "text": "Lieferanten erwarten, dass das Unternehmen ihre Produkte kostenlos bewirbt.", "correct": false },
+                { "text": "Lieferanten erwarten, dass das Unternehmen ihre Produkte ausschließlich intern verwendet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, dass Unternehmen mit den Gewerbeaufsichtsbehörden gut zusammenarbeiten?",
+            "answers": [
+                { "text": "Unternehmen sollten gut zusammenarbeiten, um günstigere Kredite von Banken zu erhalten.", "correct": false },
+                { "text": "Unternehmen sollten gut zusammenarbeiten, um eine rechtzeitige Genehmigung und Einhaltung von Vorschriften zu gewährleisten.", "correct": true },
+                { "text": "Unternehmen sollten gut zusammenarbeiten, um staatliche Subventionen für Umweltschutzprojekte zu erhalten.", "correct": false },
+                { "text": "Unternehmen sollten gut zusammenarbeiten, um ihre Produkte schneller auf den Markt zu bringen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben haben Berufsgenossenschaften im Zusammenhang mit Betriebsunfällen?",
+            "answers": [
+                { "text": "Berufsgenossenschaften sind für die Erstellung von Gehaltsabrechnungen zuständig.", "correct": false },
+                { "text": "Berufsgenossenschaften übernehmen die Finanzierung und Betreuung von Unfallprävention und Unfallversicherung.", "correct": true },
+                { "text": "Berufsgenossenschaften kümmern sich ausschließlich um die Rechtsstreitigkeiten zwischen Unternehmen.", "correct": false },
+                { "text": "Berufsgenossenschaften stellen kostenlose Schulungen für Führungskräfte zur Verfügung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat das Gesetz gegen den unlauteren Wettbewerb (UWG) für Unternehmen?",
+            "answers": [
+                { "text": "Das UWG ermöglicht es Unternehmen, Monopole zu bilden und zu schützen.", "correct": false },
+                { "text": "Das UWG schützt die Verbraucher vor unfairen Geschäftspraktiken und sichert den Wettbewerb.", "correct": true },
+                { "text": "Das UWG legt die Steuersätze für Unternehmen fest und reguliert deren Gewinne.", "correct": false },
+                { "text": "Das UWG überwacht den internationalen Handel und schützt inländische Unternehmen vor Konkurrenz.", "correct": false }
+            ]
+        }
+    ]
+}

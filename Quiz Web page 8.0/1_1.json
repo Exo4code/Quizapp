@@ -1,0 +1,915 @@
+{
+    "1.1_1-20": [
+        {
+            "question": "Welche IT-Berufe werden seit der Neuordnung 2020 ausgebildet?",
+            "answers": [
+                { "text": "IT-Systemelektroniker, Mediengestalter und Kaufleute im E-Commerce", "correct": false },
+                { "text": "IT-Systemelektroniker, Fachinformatiker und Kaufleute für Digitalisierungsmanagement", "correct": true },
+                { "text": "Fachinformatiker, IT-Sicherheitsspezialisten und Kaufleute für Marketing", "correct": false },
+                { "text": "IT-Systemelektroniker, Datenanalysten und Fachinformatiker für Softwareentwicklung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Fachrichtungen gibt es für den Beruf des Fachinformatikers?",
+            "answers": [
+                { "text": "Anwendungsentwicklung, Systemintegration, IT-Sicherheit, Webdesign", "correct": false },
+                { "text": "Systemintegration, Datenanalyse, IT-Sicherheit, Cloud-Computing", "correct": false },
+                { "text": "Anwendungsentwicklung, Systemintegration, Digitale Vernetzung, Daten- und Prozessanalyse", "correct": true },
+                { "text": "Daten- und Prozessanalyse, IT-Consulting, Cloud-Computing, Systemintegration", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die gestreckte Prüfung in den IT-Berufen strukturiert?",
+            "answers": [
+                { "text": "Ein Teil schriftlich, ein Teil mündlich, ein Teil praktisch", "correct": false },
+                { "text": "Zwei Teile schriftlich, einer praktisch, einer mündlich", "correct": false },
+                { "text": "Zwei Teile schriftlich, ein Teil mündlich mit Projektarbeit", "correct": true },
+                { "text": "Ein Teil praktisch, zwei Teile schriftlich mit mündlicher Prüfung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche spezifischen Kenntnisse erlangen IT-Systemelektroniker während ihrer Ausbildung?",
+            "answers": [
+                { "text": "Kenntnisse in der Netzwerkanalyse und Webdesign", "correct": false },
+                { "text": "Kenntnisse in der IT-Infrastruktur und Systemintegration", "correct": true },
+                { "text": "Kenntnisse in der Datenbankadministration und Webentwicklung", "correct": false },
+                { "text": "Kenntnisse in der Cloud-Administration und IT-Sicherheit", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben übernehmen Kaufleute für IT-Systemmanagement im Bereich IT-Sicherheit?",
+            "answers": [
+                { "text": "Sie erstellen Sicherheitsrichtlinien und führen IT-Audits durch", "correct": false },
+                { "text": "Sie entwickeln und programmieren Sicherheitssysteme", "correct": false },
+                { "text": "Sie implementieren Sicherheitsmaßnahmen und überwachen deren Einhaltung", "correct": true },
+                { "text": "Sie überwachen Netzwerke und konfigurieren Firewalls", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche neuen Anforderungen führten zur Einführung der Fachrichtungen „Digitale Vernetzung“ und „Daten- und Prozessanalyse“?",
+            "answers": [
+                { "text": "Die Zunahme an Cloud-basierten Anwendungen und mobilen Endgeräten", "correct": false },
+                { "text": "Der wachsende Bedarf an Big Data-Analysen und cyber-physischen Systemen", "correct": true },
+                { "text": "Die Einführung neuer Programmiersprachen und Datenbankmanagementsysteme", "correct": false },
+                { "text": "Die Entwicklung neuer Verschlüsselungstechnologien und Firewalls", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung haben berufsprofilgebende Fachqualifikationen (FQ) in der IT-Ausbildung?",
+            "answers": [
+                { "text": "Sie bilden die Grundlage für die Projektarbeit im dritten Ausbildungsjahr", "correct": false },
+                { "text": "Sie spezialisieren die Auszubildenden auf ihren zukünftigen Beruf", "correct": true },
+                { "text": "Sie vermitteln die notwendigen Kenntnisse für die Abschlussprüfung", "correct": false },
+                { "text": "Sie ermöglichen den Auszubildenden den Wechsel in andere IT-Berufe", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden Auszubildende in den IT-Berufen auf die Integration in reale Arbeitsprozesse vorbereitet?",
+            "answers": [
+                { "text": "Durch Praktika und spezifische Projektarbeiten im zweiten Jahr", "correct": false },
+                { "text": "Durch Schulungen und Simulationsprojekte im ersten Jahr", "correct": false },
+                { "text": "Durch praxisnahe Aufgaben und Einsätze in den Einsatzgebieten", "correct": true },
+                { "text": "Durch betriebliche Übungen und Gruppenarbeiten während der Ausbildung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Projektarbeit im dritten Teil der gestreckten Prüfung?",
+            "answers": [
+                { "text": "Sie testet das Verständnis für betriebliche Abläufe und Aufgaben", "correct": false },
+                { "text": "Sie prüft die praktische Umsetzung eines realen IT-Projekts", "correct": true },
+                { "text": "Sie bewertet die Kommunikationsfähigkeit mit den Kunden", "correct": false },
+                { "text": "Sie analysiert die Teamfähigkeit der Auszubildenden", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich die Ausbildung der Kaufleute für IT-Systemmanagement von der der Kaufleute für Digitalisierungsmanagement?",
+            "answers": [
+                { "text": "Kaufleute für IT-Systemmanagement fokussieren auf IT-Infrastruktur, Kaufleute für Digitalisierungsmanagement auf Geschäftsprozesse", "correct": true },
+                { "text": "Kaufleute für IT-Systemmanagement spezialisieren sich auf Webdesign, Kaufleute für Digitalisierungsmanagement auf App-Entwicklung", "correct": false },
+                { "text": "Kaufleute für IT-Systemmanagement fokussieren auf IT-Sicherheit, Kaufleute für Digitalisierungsmanagement auf Netzwerktechnik", "correct": false },
+                { "text": "Kaufleute für IT-Systemmanagement spezialisieren sich auf Marketing, Kaufleute für Digitalisierungsmanagement auf Datenbanken", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben übernehmen Fachinformatiker in der Fachrichtung „Anwendungsentwicklung“?",
+            "answers": [
+                { "text": "Sie entwickeln mobile Apps und führen Penetrationstests durch", "correct": false },
+                { "text": "Sie programmieren Softwarelösungen und integrieren diese in IT-Systeme", "correct": true },
+                { "text": "Sie betreuen Datenbanken und administrieren Netzwerke", "correct": false },
+                { "text": "Sie entwickeln IT-Sicherheitsstrategien und konfigurieren Firewalls", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche rechtlichen Grundlagen regeln die Ausbildung in den IT-Berufen?",
+            "answers": [
+                { "text": "Berufsbildungsgesetz, Bundesdatenschutzgesetz, Ausbildungsverordnung", "correct": false },
+                { "text": "Bundesdatenschutzgesetz, IT-Sicherheitsgesetz, Arbeitsschutzgesetz", "correct": false },
+                { "text": "Berufsbildungsgesetz, Ausbildungsverordnung, Rahmenlehrpläne", "correct": true },
+                { "text": "Bundesdatenschutzgesetz, Rahmenlehrpläne, Arbeitsschutzgesetz", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die zunehmende Digitalisierung die Rolle der Kaufleute für Digitalisierungsmanagement?",
+            "answers": [
+                { "text": "Sie übernehmen vermehrt Aufgaben in der IT-Sicherheit und Netzwerkadministration", "correct": false },
+                { "text": "Sie managen die Digitalisierung von Geschäftsprozessen und optimieren IT-Infrastrukturen", "correct": true },
+                { "text": "Sie entwickeln neue Softwarelösungen für digitale Geschäftsprozesse", "correct": false },
+                { "text": "Sie verwalten Cloud-Computing-Systeme und programmieren neue IT-Lösungen", "correct": false }
+            ]
+        },
+        {
+            "question": "In welchem Ausbildungsjahr spezialisieren sich die Auszubildenden auf bestimmte Einsatzgebiete?",
+            "answers": [
+                { "text": "Im ersten Jahr durch spezifische Projekte und Aufgaben", "correct": false },
+                { "text": "Im zweiten Jahr durch praxisnahe Einsätze im Unternehmen", "correct": false },
+                { "text": "Im dritten Jahr durch gezielte Einsätze und Projektarbeit", "correct": true },
+                { "text": "Im vierten Jahr durch Spezialisierungsseminare und Workshops", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Kernqualifikationen in der Ausbildung der IT-Berufe?",
+            "answers": [
+                { "text": "Sie legen die Grundlage für die spätere Spezialisierung im dritten Jahr", "correct": false },
+                { "text": "Sie vermitteln grundlegende IT-Kenntnisse für den Einstieg in das zweite            Jahr", "correct": false },
+            { "text": "Sie bieten die Basis für die übergreifenden Qualifikationen in der IT-Branche", "correct": true },
+            { "text": "Sie ermöglichen den Auszubildenden, sich auf bestimmte IT-Bereiche zu konzentrieren", "correct": false }
+        ]
+    },
+    {
+        "question": "Warum ist die Ausbildung in den IT-Berufen besonders in der ITK-Branche gefragt?",
+        "answers": [
+            { "text": "Aufgrund der hohen Nachfrage nach spezialisierten IT-Sicherheitsexperten", "correct": false },
+            { "text": "Aufgrund des großen Bedarfs an Fachkräften für IT-Sicherheit und Netzwerkadministration", "correct": false },
+            { "text": "Aufgrund der vielseitigen Einsatzmöglichkeiten und des hohen Bedarfs an Fachinformatikern", "correct": true },
+            { "text": "Aufgrund der wachsenden Nachfrage nach IT-Consulting und Webdesign-Experten", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Aufgaben übernehmen Fachinformatiker in der Fachrichtung „Systemintegration“?",
+        "answers": [
+            { "text": "Sie entwickeln neue IT-Sicherheitsstrategien und Netzwerklösungen", "correct": false },
+            { "text": "Sie konzipieren, installieren und administrieren vernetzte IT-Systeme", "correct": true },
+            { "text": "Sie programmieren Softwarelösungen und entwickeln mobile Apps", "correct": false },
+            { "text": "Sie analysieren Datenbanken und optimieren Geschäftsprozesse", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie können Auszubildende ihre Ausbildung in den IT-Berufen verkürzen oder verlängern?",
+        "answers": [
+            { "text": "Durch gute Leistungen in den ersten beiden Ausbildungsjahren", "correct": false },
+            { "text": "Durch Anrechnung von Vorleistungen oder besondere Gründe", "correct": true },
+            { "text": "Durch Teilnahme an zusätzlichen Weiterbildungen und Kursen", "correct": false },
+            { "text": "Durch erfolgreiche Teilnahme an speziellen Schulungen", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Schnittstellen gibt es zwischen den verschiedenen IT-Berufen und den Wirtschaftsbereichen?",
+        "answers": [
+            { "text": "IT-Berufe sind nur in der ITK-Branche gefragt", "correct": false },
+            { "text": "IT-Berufe sind in vielen Wirtschaftsbereichen und Organisationen gefragt", "correct": true },
+            { "text": "IT-Berufe sind ausschließlich in Unternehmen der IT-Branche tätig", "correct": false },
+            { "text": "IT-Berufe finden nur in öffentlichen Institutionen Anstellung", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche beruflichen Perspektiven haben IT-Systemelektroniker nach ihrer Ausbildung?",
+        "answers": [
+            { "text": "Beschäftigung in der IT-Sicherheitsberatung und Penetrationstests", "correct": false },
+            { "text": "Beschäftigung bei Herstellern und Betreibern von IT-Infrastrukturen", "correct": true },
+            { "text": "Beschäftigung als Webentwickler oder IT-Consultant in IT-Unternehmen", "correct": false },
+            { "text": "Beschäftigung in der Netzwerkanalyse und Datenbankadministration", "correct": false }
+        ]
+    }
+],
+                
+
+        "1.1_21-40": [
+            {
+                "question": "Wie ist das duale System der Berufsausbildung in Deutschland geregelt?",
+                "answers": [
+                    { "text": "Es wird durch das Arbeitsschutzgesetz geregelt.", "correct": false },
+                    { "text": "Es wird durch das Berufsbildungsgesetz (BBiG) geregelt.", "correct": true },
+                    { "text": "Es wird durch das Sozialgesetzbuch geregelt.", "correct": false },
+                    { "text": "Es wird durch das Bildungsförderungsgesetz geregelt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Ziele verfolgt die Berufsausbildung nach dem Berufsbildungsgesetz (BBiG)?",
+                "answers": [
+                    { "text": "Erwerb allgemeiner beruflicher Kenntnisse und Fähigkeiten.", "correct": false },
+                    { "text": "Vermittlung spezieller IT-Kenntnisse für Fachinformatiker.", "correct": false },
+                    { "text": "Vermittlung von Fertigkeiten für eine qualifizierte Tätigkeit.", "correct": true },
+                    { "text": "Erwerb von Kenntnissen für die universitäre Ausbildung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Inhalte werden in den ersten sechs Lernfeldern der IT-Berufsausbildung vermittelt?",
+                "answers": [
+                    { "text": "Grundlagen der Elektrotechnik und Netzwerktechnik.", "correct": false },
+                    { "text": "Spezifische Programmierkenntnisse und Softwaretests.", "correct": false },
+                    { "text": "Allgemeine IT-Kenntnisse und betriebliche Handlungskompetenzen.", "correct": true },
+                    { "text": "Detaillierte Kenntnisse der Datenbankadministration.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie unterscheiden sich die Lernfelder 7 bis 9 zwischen technischen und kaufmännischen IT-Berufen?",
+                "answers": [
+                    { "text": "Technische Berufe fokussieren auf Netzwerke, kaufmännische auf Marketing.", "correct": false },
+                    { "text": "Technische Berufe fokussieren auf Systemintegration, kaufmännische auf Beschaffungsprozesse.", "correct": true },
+                    { "text": "Technische Berufe fokussieren auf Webentwicklung, kaufmännische auf Kundenberatung.", "correct": false },
+                    { "text": "Technische Berufe fokussieren auf IT-Sicherheit, kaufmännische auf Personalführung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rolle spielt die Industrie- und Handelskammer (IHK) im dualen System der IT-Berufe?",
+                "answers": [
+                    { "text": "Sie übernimmt die Rolle des Ausbilders im Betrieb.", "correct": false },
+                    { "text": "Sie überwacht die Einhaltung der Ausbildungsordnung.", "correct": true },
+                    { "text": "Sie stellt die Berufsschullehrer bereit.", "correct": false },
+                    { "text": "Sie entwickelt die schulischen Lehrpläne.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Anforderungen werden an die Projektarbeit im Rahmen der Abschlussprüfung gestellt?",
+                "answers": [
+                    { "text": "Die Projektarbeit muss in einer Gruppe durchgeführt werden.", "correct": false },
+                    { "text": "Die Projektarbeit muss praktische Kenntnisse anwenden.", "correct": true },
+                    { "text": "Die Projektarbeit muss eine schriftliche Prüfung ersetzen.", "correct": false },
+                    { "text": "Die Projektarbeit muss ausschließlich theoretisch sein.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Aufgaben hat der Ausbildungsbetrieb im Rahmen der dualen Berufsausbildung?",
+                "answers": [
+                    { "text": "Er stellt ausschließlich die Lernmaterialien zur Verfügung.", "correct": false },
+                    { "text": "Er vermittelt die praktischen Fertigkeiten und Kenntnisse.", "correct": true },
+                    { "text": "Er organisiert den Unterricht in der Berufsschule.", "correct": false },
+                    { "text": "Er stellt die Prüfungsfragen für die Abschlussprüfung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rolle spielt der Ausbildungsplan im Rahmen der dualen Berufsausbildung?",
+                "answers": [
+                    { "text": "Er regelt die Freizeitaktivitäten der Auszubildenden.", "correct": false },
+                    { "text": "Er legt die Inhalte und Reihenfolge der Ausbildung fest.", "correct": true },
+                    { "text": "Er beschreibt die Lehrmethoden der Berufsschule.", "correct": false },
+                    { "text": "Er enthält die Abschlussprüfungsfragen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie wird der Berufsschulunterricht im dualen System der IT-Berufsausbildung organisiert?",
+                "answers": [
+                    { "text": "Der Unterricht findet an Wochenenden statt.", "correct": false },
+                    { "text": "Der Unterricht wird in Blöcken oder an bestimmten Tagen organisiert.", "correct": true },
+                    { "text": "Der Unterricht erfolgt nur in den Schulferien.", "correct": false },
+                    { "text": "Der Unterricht wird vollständig im Betrieb abgehalten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Aufgaben übernimmt der Ausbilder im dualen System der Berufsausbildung?",
+                "answers": [
+                    { "text": "Der Ausbilder organisiert die Projektarbeiten an der Hochschule.", "correct": false },
+                    { "text": "Der Ausbilder prüft die schriftlichen Prüfungsaufgaben.", "correct": false },
+                    { "text": "Der Ausbilder vermittelt praktische Fertigkeiten im Betrieb.", "correct": true },
+                    { "text": "Der Ausbilder ist für die Lehre an der Berufsschule verantwortlich.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie unterstützt die Berufsschule die Vorbereitung auf die IHK-Prüfungen in den IT-Berufen?",
+                "answers": [
+                    { "text": "Durch praktische Übungen im Betrieb.", "correct": false },
+                    { "text": "Durch theoretischen Unterricht in relevanten Lernfeldern.", "correct": true },
+                    { "text": "Durch die Bereitstellung von Lernmaterialien aus dem Betrieb.", "correct": false },
+                    { "text": "Durch die Organisation von externen Prüfungen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Bedeutung haben die Lernfelder 10 bis 13 für die IT-Berufsausbildung?",
+                "answers": [
+                    { "text": "Sie sind auf spezifische Anforderungen der IT-Berufe ausgerichtet.", "correct": true },
+                    { "text": "Sie vertiefen die allgemeinbildenden Fächer wie Mathematik.", "correct": false },
+                    { "text": "Sie fokussieren ausschließlich auf die Berufsschularbeit.", "correct": false },
+                    { "text": "Sie wiederholen die Grundlagen der IT-Berufe.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie unterscheidet sich die Beschulung in den IT-Berufen im dritten Ausbildungsjahr?",
+                "answers": [
+                    { "text": "Es gibt keinen Unterschied zur Beschulung im zweiten Jahr.", "correct": false },
+                    { "text": "Es gibt eine stärkere Fokussierung auf berufsprofilgebende Fachqualifikationen.", "correct": true },
+                    { "text": "Es wird ausschließlich auf allgemeine Fächer fokussiert.", "correct": false },
+                    { "text": "Es gibt keine praktischen Inhalte mehr im dritten Jahr.", "correct": false }
+                ]
+            },
+            {
+                "question": "Warum ist der Berufsschulunterricht auch in allgemeinbildenden Fächern wichtig?",
+                "answers": [
+                    { "text": "Weil diese Fächer die Grundlage für den IHK-Abschluss bilden.", "correct": false },
+                    { "text": "Weil sie die Vermittlung von sozialen und beruflichen Kompetenzen unterstützen.", "correct": true },
+                    { "text": "Weil sie keine direkte Relevanz für den Beruf haben.", "correct": false },
+                    { "text": "Weil sie nur für die allgemeine Schulbildung notwendig sind.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Aufgaben hat die Schulleitung in der Aufsicht des Berufsschulunterrichts für IT-Berufe?",
+                "answers": [
+                    { "text": "Sie koordiniert die praktischen Einsätze im Betrieb.", "correct": false },
+                    { "text": "Sie stellt die Prüfungsfragen für die IHK-Prüfungen.", "correct": false },
+                    { "text": "Sie sorgt für die Einhaltung des schulischen Curriculums.", "correct": true },
+                    { "text": "Sie überwacht die technische Ausstattung des Betriebs.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Kompetenzen sollen IT-Auszubildende durch die duale Berufsausbildung entwickeln?",
+                "answers": [
+                    { "text": "Sie sollen nur theoretische Kenntnisse erwerben.", "correct": false },
+                    { "text": "Sie sollen nur praktische Fertigkeiten im Betrieb erwerben.", "correct": false },
+                    { "text": "Sie sollen berufliche Handlungskompetenzen erwerben.", "correct": true },
+                    { "text": "Sie sollen nur allgemeinbildende Fächer vertiefen.", "correct": false }
+                ]
+                },
+                {
+                    "question": "Warum ist die Dokumentation der Ausbildungsinhalte im Ausbildungsnachweis wichtig?",
+                    "answers": [
+                        { "text": "Weil der Nachweis für die Abschlussprüfung benötigt wird.", "correct": true },
+                        { "text": "Weil sie die Grundlage für die Berufsschulnoten bildet.", "correct": false },
+                        { "text": "Weil sie als Grundlage für die IHK-Prüfungsfragen dient.", "correct": false },
+                        { "text": "Weil sie keine Bedeutung für die Ausbildung hat.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Weiterbildungsmöglichkeiten gibt es für IT-Mitarbeiter, die ein nicht-IT-spezifisches Studium abgeschlossen haben?",
+                    "answers": [
+                        { "text": "IT-Mitarbeiter können keine weiteren Qualifikationen erwerben.", "correct": false },
+                        { "text": "IT-Mitarbeiter können über Weiterbildungsmaßnahmen IT-Kenntnisse vertiefen.", "correct": true },
+                        { "text": "IT-Mitarbeiter können direkt als Ausbilder tätig werden.", "correct": false },
+                        { "text": "IT-Mitarbeiter müssen keine zusätzlichen Qualifikationen erwerben.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie bereiten sich IT-Auszubildende auf Teil 1 der gestreckten Prüfung vor?",
+                    "answers": [
+                        { "text": "Durch ausschließliche Teilnahme an praktischen Übungen.", "correct": false },
+                        { "text": "Durch theoretischen und praktischen Unterricht in den Lernfeldern 1 bis 6.", "correct": true },
+                        { "text": "Durch Vorbereitungsseminare in den Schulferien.", "correct": false },
+                        { "text": "Durch Teilnahme an zusätzlichen Schulungen in den Betrieben.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Qualifikationen werden durch das duale System der Berufsausbildung in der IT vermittelt?",
+                    "answers": [
+                        { "text": "Es werden nur grundlegende IT-Kenntnisse vermittelt.", "correct": false },
+                        { "text": "Es werden umfassende berufliche Handlungsfähigkeiten vermittelt.", "correct": true },
+                        { "text": "Es werden ausschließlich theoretische Kenntnisse vermittelt.", "correct": false },
+                        { "text": "Es werden nur Fähigkeiten für weiterführende Studien vermittelt.", "correct": false }
+                    ]
+                }
+            ],
+
+        "1.1_41-60": [
+            {
+                "question": "Welche Voraussetzungen muss ein Betrieb erfüllen, um Auszubildende ausbilden zu dürfen?",
+                "answers": [
+                    { "text": "Der Betrieb muss mindestens drei Jahre existieren.", "correct": false },
+                    { "text": "Der Betrieb muss bei der IHK zugelassen sein.", "correct": true },
+                    { "text": "Der Betrieb muss jährlich neue Auszubildende einstellen.", "correct": false },
+                    { "text": "Der Betrieb muss eine eigene Berufsschule haben.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rolle spielt die IHK bei der Ausbildung von Auszubildenden im Betrieb?",
+                "answers": [
+                    { "text": "Die IHK prüft die Noten der Auszubildenden.", "correct": false },
+                    { "text": "Die IHK stellt die Ausbilder im Betrieb ein.", "correct": false },
+                    { "text": "Die IHK überwacht die Ausbildungsordnung.", "correct": true },
+                    { "text": "Die IHK organisiert die Pausen der Auszubildenden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Qualifikationen muss ein Ausbilder im Betrieb nachweisen, um ausbilden zu dürfen?",
+                "answers": [
+                    { "text": "Der Ausbilder muss mindestens 30 Jahre alt sein.", "correct": false },
+                    { "text": "Der Ausbilder muss eine pädagogische Ausbildung haben.", "correct": false },
+                    { "text": "Der Ausbilder muss persönlich und fachlich geeignet sein.", "correct": true },
+                    { "text": "Der Ausbilder muss in allen Fächern gut sein.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Verantwortung trägt ein Betrieb für das Verhalten seiner Auszubildenden gegenüber Dritten?",
+                "answers": [
+                    { "text": "Der Betrieb ist nur für die eigenen Mitarbeiter verantwortlich.", "correct": false },
+                    { "text": "Der Betrieb trägt die Verantwortung für alle Mitarbeiter.", "correct": false },
+                    { "text": "Der Betrieb trägt die Verantwortung für die Auszubildenden.", "correct": true },
+                    { "text": "Der Betrieb trägt keine Verantwortung für Auszubildende.", "correct": false }
+                ]
+            },
+            {
+                "question": "Warum ist es für Auszubildende wichtig, zu Beginn der Ausbildung viele Fragen zu stellen?",
+                "answers": [
+                    { "text": "Um Fehler und Missverständnisse zu vermeiden.", "correct": true },
+                    { "text": "Um schneller mit den Kollegen in Kontakt zu kommen.", "correct": false },
+                    { "text": "Um weniger Arbeiten erledigen zu müssen.", "correct": false },
+                    { "text": "Um schneller eine Beförderung zu erhalten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Aufgaben haben die Berufsschulen im Rahmen der dualen Ausbildung?",
+                "answers": [
+                    { "text": "Die Berufsschulen organisieren die Abschlussprüfungen.", "correct": false },
+                    { "text": "Die Berufsschulen planen und kontrollieren Lernsituationen.", "correct": true },
+                    { "text": "Die Berufsschulen vergeben die Ausbildungsplätze.", "correct": false },
+                    { "text": "Die Berufsschulen erstellen die Ausbildungspläne.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Pflichten haben Auszubildende in Bezug auf Verschwiegenheit und Diskretion?",
+                "answers": [
+                    { "text": "Sie müssen alle betrieblichen Informationen geheim halten.", "correct": true },
+                    { "text": "Sie müssen nur private Informationen geheim halten.", "correct": false },
+                    { "text": "Sie müssen die Geheimhaltungspflicht nicht beachten.", "correct": false },
+                    { "text": "Sie müssen nur vertrauliche Kundeninformationen schützen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rolle spielen die Mitarbeiter des Ausbildungsbetriebs bei der Einarbeitung der Auszubildenden?",
+                "answers": [
+                    { "text": "Sie übernehmen die Aufsicht während der Pausen.", "correct": false },
+                    { "text": "Sie helfen, die Arbeitsbereiche kennenzulernen.", "correct": true },
+                    { "text": "Sie organisieren den Unterricht in der Berufsschule.", "correct": false },
+                    { "text": "Sie führen die Prüfungen im Betrieb durch.", "correct": false }
+                ]
+            },
+            {
+                "question": "Warum sollten Auszubildende ihre Aufgaben zu Beginn nur nach Anweisung oder Einweisung durchführen?",
+                "answers": [
+                    { "text": "Um sicherzustellen, dass keine Fehler gemacht werden.", "correct": true },
+                    { "text": "Um mehr praktische Erfahrung zu sammeln.", "correct": false },
+                    { "text": "Um die Arbeitsabläufe schneller zu lernen.", "correct": false },
+                    { "text": "Um die Kollegen besser kennenzulernen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie sollte ein Auszubildender sich auf den Beginn der Ausbildung im Betrieb vorbereiten?",
+                "answers": [
+                    { "text": "Durch das Besuchen der Website des Betriebs.", "correct": true },
+                    { "text": "Durch das Besuchen von Fortbildungen im Voraus.", "correct": false },
+                    { "text": "Durch das Erstellen eines eigenen Ausbildungsplans.", "correct": false },
+                    { "text": "Durch das Kennenlernen der zukünftigen Kollegen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Informationen sollte ein Auszubildender vor Ausbildungsbeginn recherchieren?",
+                "answers": [
+                    { "text": "Informationen über die Mitarbeiter und Kunden.", "correct": false },
+                    { "text": "Informationen über den Ausbildungsbetrieb.", "correct": true },
+                    { "text": "Informationen über die Gehälter der Kollegen.", "correct": false },
+                    { "text": "Informationen über die Freizeitmöglichkeiten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Bedeutung hat der Ausbildungsvertrag und wer unterzeichnet ihn?",
+                "answers": [
+                    { "text": "Der Vertrag ist nicht wichtig und wird von allen unterschrieben.", "correct": false },
+                    { "text": "Der Vertrag regelt die Freizeit und wird von den Kollegen unterschrieben.", "correct": false },
+                    { "text": "Der Vertrag regelt die Ausbildung und wird vom Betrieb unterschrieben.", "correct": true },
+                    { "text": "Der Vertrag ist nicht verpflichtend und wird nur vom Ausbilder unterschrieben.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rolle spielt der Geschäftsführer im Rahmen der Ausbildung?",
+                "answers": [
+                    { "text": "Der Geschäftsführer stellt den Auszubildenden ein.", "correct": true },
+                    { "text": "Der Geschäftsführer unterrichtet die Auszubildenden.", "correct": false },
+                    { "text": "Der Geschäftsführer überwacht die Prüfungen.", "correct": false },
+                    { "text": "Der Geschäftsführer erstellt die Lehrpläne.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie unterstützt die IHK die Ausbildung von Auszubildenden?",
+                "answers": [
+                    { "text": "Die IHK stellt den Auszubildenden einen Mentor zur Seite.", "correct": false },
+                    { "text": "Die IHK überwacht die Abschlussprüfungen der Auszubildenden.", "correct": true },
+                    { "text": "Die IHK stellt den Auszubildenden die Lehrmaterialien zur Verfügung.", "correct": false },
+                    { "text": "Die IHK vermittelt Ausbildungsplätze an die Auszubildenden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Warum ist es wichtig, dass Auszubildende Notizen machen und Fragen stellen?",
+                "answers": [
+                    { "text": "Um das Lernen zu erleichtern und Fehler zu vermeiden.", "correct": true },
+                    { "text": "Um eine gute Note in der Abschlussprüfung zu bekommen.", "correct": false },
+                    { "text": "Um schneller eine Beförderung zu erhalten.", "correct": false },
+                    { "text": "Um mit den Kollegen in Kontakt zu treten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Punkte sollten in der Checkliste eines Auszubildenden enthalten sein?",
+                "answers": [
+                    { "text": "Informationen zu Pausen und Freizeitaktivitäten.", "correct": false },
+                    { "text": "Informationen zu den Zuständigkeiten im Betrieb.", "correct": true },
+                    { "text": "Informationen zu den Prüfungsfragen der IHK.", "correct": false },
+                    { "text": "Informationen zu den Urlaubsmöglichkeiten im Betrieb.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was sind die typischen Pflichten eines Auszubildenden im Umgang mit vertraulichen Informationen?",
+                "answers": [
+                    { "text": "Vertrauliche Informationen sind jederzeit offenzulegen.", "correct": false },
+                    { "text": "Vertrauliche Informationen sind geheim zu halten.", "correct": true },
+                    { "text": "Vertrauliche Informationen sind an Kollegen weiterzugeben.", "correct": false },
+                    { "text": "Vertrauliche Informationen sind nur teilweise zu schützen.", "correct": false }
+                ]
+            },
+            {    
+                "question": "Welche Hilfestellungen bietet der Ausbildungsberater der IHK an?",
+                "answers": [
+                    { "text": "Der Berater hilft bei der Suche nach Prüfungsfragen.", "correct": false },
+                    { "text": "Der Berater hilft bei allen Fragen zur Berufsausbildung.", "correct": true },
+                    { "text": "Der Berater hilft bei der Organisation der Prüfungen.", "correct": false },
+                    { "text": "Der Berater hilft bei der Auswahl des Berufsschulunterrichts.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Kommunikationswege sollten Auszubildende im Betrieb kennen?",
+                "answers": [
+                    { "text": "Die Kommunikationswege zwischen den Mitarbeitern.", "correct": true },
+                    { "text": "Die Kommunikationswege zu den Kunden des Betriebs.", "correct": false },
+                    { "text": "Die Kommunikationswege zu den Kollegen der Berufsschule.", "correct": false },
+                    { "text": "Die Kommunikationswege zum Prüfungsamt der IHK.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Erwartungen haben Ausbildungsbetriebe an das Verhalten neuer Auszubildender?",
+                "answers": [
+                    { "text": "Die Auszubildenden sollten eigenständig arbeiten.", "correct": false },
+                    { "text": "Die Auszubildenden sollten stets respektvoll handeln.", "correct": true },
+                    { "text": "Die Auszubildenden sollten alle Aufgaben selbst lösen.", "correct": false },
+                    { "text": "Die Auszubildenden sollten keine Fragen stellen.", "correct": false }
+                ]
+            }
+        ],
+                       "1.1_61-80":[
+                        {
+                            "question": "Warum ist lebenslanges Lernen in der modernen Arbeitswelt unerlässlich?",
+                            "answers": [
+                                { "text": "Weil es die berufliche Ausbildung verkürzt.", "correct": false },
+                                { "text": "Weil es die Anpassung an neue Anforderungen erleichtert.", "correct": true },
+                                { "text": "Weil es die Arbeitszeiten flexibler gestaltet.", "correct": false },
+                                { "text": "Weil es die Zusammenarbeit mit Kollegen verbessert.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Rolle spielen projektspezifisch zusammengestellte Teams in modernen Unternehmen?",
+                            "answers": [
+                                { "text": "Sie ermöglichen die Einführung von Pausenregelungen.", "correct": false },
+                                { "text": "Sie erlauben eine strukturierte und starre Arbeitsweise.", "correct": false },
+                                { "text": "Sie fördern flexible und anpassungsfähige Arbeitsprozesse.", "correct": true },
+                                { "text": "Sie schaffen feste Hierarchien und unflexible Aufgaben.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was versteht man unter Handlungskompetenz und welche Dimensionen umfasst sie?",
+                            "answers": [
+                                { "text": "Handlungskompetenz umfasst nur soziale Fähigkeiten.", "correct": false },
+                                { "text": "Handlungskompetenz besteht aus Fach-, Sozial- und Selbstkompetenz.", "correct": true },
+                                { "text": "Handlungskompetenz ist eine rein fachliche Fähigkeit.", "correct": false },
+                                { "text": "Handlungskompetenz betrifft nur technische Fertigkeiten.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie beeinflussen technische Entwicklungen die Notwendigkeit von Flexibilität am Arbeitsplatz?",
+                            "answers": [
+                                { "text": "Sie machen Flexibilität überflüssig.", "correct": false },
+                                { "text": "Sie erhöhen den Bedarf an festen Arbeitsabläufen.", "correct": false },
+                                { "text": "Sie verlangen von Mitarbeitern mehr Flexibilität.", "correct": true },
+                                { "text": "Sie reduzieren die Notwendigkeit für Anpassungen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Warum wird von Auszubildenden erwartet, dass sie möglichst vielfältige Handlungskompetenzen entwickeln?",
+                            "answers": [
+                                { "text": "Weil sie dadurch in allen Bereichen flexibel einsetzbar sind.", "correct": true },
+                                { "text": "Weil sie dadurch festgelegte Aufgaben effizienter erledigen.", "correct": false },
+                                { "text": "Weil sie dadurch starre Arbeitsprozesse einhalten können.", "correct": false },
+                                { "text": "Weil sie dadurch keine neuen Fähigkeiten erlernen müssen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Aspekte gehören zur Fachkompetenz in der beruflichen Ausbildung?",
+                            "answers": [
+                                { "text": "Zuverlässigkeit, Flexibilität und Kreativität.", "correct": false },
+                                { "text": "Höflichkeit, Toleranz und Freundlichkeit.", "correct": false },
+                                { "text": "Bildungsstand, Fachkenntnisse und Fertigkeiten.", "correct": true },
+                                { "text": "Selbstständigkeit, Mobilität und Ausdauer.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie trägt die Sozialkompetenz zur Handlungskompetenz bei?",
+                            "answers": [
+                                { "text": "Sozialkompetenz verbessert technische Fertigkeiten.", "correct": false },
+                                { "text": "Sozialkompetenz erleichtert den Umgang mit Kunden.", "correct": false },
+                                { "text": "Sozialkompetenz stärkt die Fähigkeit zur Teamarbeit.", "correct": true },
+                                { "text": "Sozialkompetenz steigert die Effizienz bei Routineaufgaben.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Eigenschaften zählen zur Selbstkompetenz im beruflichen Kontext?",
+                            "answers": [
+                                { "text": "Mobilität, Selbstvertrauen und Flexibilität.", "correct": true },
+                                { "text": "Fachwissen, Toleranz und Teamfähigkeit.", "correct": false },
+                                { "text": "Höflichkeit, Konfliktfähigkeit und Kreativität.", "correct": false },
+                                { "text": "Bildungsstand, Arbeitsleistung und Freundlichkeit.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Warum ist die Methodenkompetenz ein wichtiger Bestandteil der Handlungskompetenz?",
+                            "answers": [
+                                { "text": "Methodenkompetenz fördert die kreative Problemlösung.", "correct": true },
+                                { "text": "Methodenkompetenz verbessert die körperliche Fitness.", "correct": false },
+                                { "text": "Methodenkompetenz reduziert den Bedarf an Weiterbildung.", "correct": false },
+                                { "text": "Methodenkompetenz steigert die Motivation für Pausen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Fähigkeiten umfasst die kommunikative Kompetenz?",
+                            "answers": [
+                                { "text": "Technisches Verständnis und Problemlösungstechniken.", "correct": false },
+                                { "text": "Präsentationstechniken und schriftliche Kommunikation.", "correct": true },
+                                { "text": "Selbstständigkeit und Flexibilität im Arbeitsalltag.", "correct": false },
+                                { "text": "Zeitmanagement und strukturierte Arbeitsweise.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was versteht man unter Lernkompetenz und warum ist sie wichtig?",
+                            "answers": [
+                                { "text": "Lernkompetenz ermöglicht schnelles Lesen von Berichten.", "correct": false },
+                                { "text": "Lernkompetenz verbessert die Arbeitsqualität im Team.", "correct": false },
+                                { "text": "Lernkompetenz hilft bei der kontinuierlichen Weiterentwicklung.", "correct": true },
+                                { "text": "Lernkompetenz erleichtert das Verfassen von Berichten.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie beeinflussen Bildungsstand und Fachkenntnisse die Fachkompetenz?",
+                            "answers": [
+                                { "text": "Sie erleichtern die Teilnahme an Teamaktivitäten.", "correct": false },
+                                { "text": "Sie sind entscheidend für die Qualität der Arbeitsleistung.", "correct": true },
+                                { "text": "Sie fördern die sozialen Fähigkeiten im Betrieb.", "correct": false },
+                                { "text": "Sie reduzieren den Bedarf an neuen Projekten.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Rolle spielt die Teamfähigkeit innerhalb der Handlungskompetenz?",
+                            "answers": [
+                                { "text": "Teamfähigkeit unterstützt die Planung von Pausen.", "correct": false },
+                                { "text": "Teamfähigkeit verbessert die Zusammenarbeit im Team.", "correct": true },
+                                { "text": "Teamfähigkeit fördert das individuelle Arbeiten.", "correct": false },
+                                { "text": "Teamfähigkeit ersetzt die Notwendigkeit von Schulungen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Warum ist die Konfliktfähigkeit eine wichtige soziale Kompetenz?",
+                            "answers": [
+                                { "text": "Konfliktfähigkeit verbessert die körperliche Fitness.", "correct": false },
+                                { "text": "Konfliktfähigkeit erleichtert den Umgang mit schwierigen Situationen.", "correct": true },
+                                { "text": "Konfliktfähigkeit fördert die Vermeidung von Arbeit.", "correct": false },
+                                { "text": "Konfliktfähigkeit ersetzt technische Qualifikationen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Eigenschaften sind besonders wichtig für die Selbstkompetenz in einem dynamischen Arbeitsumfeld?",
+                            "answers": [
+                                { "text": "Selbstvertrauen, Mobilität und Selbstständigkeit.", "correct": true },
+                                { "text": "Teamfähigkeit, Toleranz und Kreativität.", "correct": false },
+                                { "text": "Freundlichkeit, Sorgfalt und Höflichkeit.", "correct": false },
+                                { "text": "Konfliktfähigkeit, Konzentrationsfähigkeit und Pünktlichkeit.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie kann Zeitmanagement als Teil der Methodenkompetenz zur Effizienz am Arbeitsplatz beitragen?",
+                            "answers": [
+                                { "text": "Zeitmanagement ermöglicht längere Pausen im Arbeitsalltag.", "correct": false },
+                                { "text": "Zeitmanagement fördert die strukturierte Erledigung von Aufgaben.", "correct": true },
+                                { "text": "Zeitmanagement reduziert die Notwendigkeit für Kommunikation.", "correct": false },
+                                { "text": "Zeitmanagement ersetzt die technische Weiterbildung.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Rolle spielt Selbstvertrauen innerhalb der Selbstkompetenz?",
+                            "answers": [
+                                { "text": "Selbstvertrauen reduziert den Bedarf an fachlicher Weiterbildung.", "correct": false },
+                                { "text": "Selbstvertrauen fördert die Bereitschaft zur Übernahme neuer Aufgaben.", "correct": true },
+                                { "text": "Selbstvertrauen erleichtert das Verständnis technischer Prozesse.", "correct": false },
+                                { "text": "Selbstvertrauen verbessert die sozialen Beziehungen zu Kollegen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie fördert die Lernkompetenz die Anpassungsfähigkeit in einem sich wandelnden Arbeitsumfeld?",
+                            "answers": [
+                                { "text": "Lernkompetenz reduziert die Notwendigkeit für Teamarbeit.", "correct": false },
+                                { "text": "Lernkompetenz verbessert die Anpassungsfähigkeit an neue Anforderungen.", "correct": true },
+                                { "text": "Lernkompetenz erleichtert die Einhaltung von Arbeitszeiten.", "correct": false },
+                                { "text": "Lernkompetenz fördert die Strukturierung von Pausen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Warum sind Höflichkeit und Freundlichkeit essenzielle Bestandteile der Sozialkompetenz?",
+                            "answers": [
+                                { "text": "Sie fördern die Effizienz bei der Erledigung von Aufgaben.", "correct": false },
+                                { "text": "Sie verbessern die Zusammenarbeit und das Arbeitsklima.", "correct": true },
+                                { "text": "Sie erleichtern die technische Weiterbildung im Betrieb.", "correct": false },
+                                { "text": "Sie ersetzen die Notwendigkeit für fachliche Kompetenzen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie kann die Präsentationstechnik als Teil der Methodenkompetenz im Berufsalltag genutzt werden?",
+                            "answers": [
+                                { "text": "Sie erleichtert das Erstellen von Arbeitsplänen.", "correct": false },
+                                { "text": "Sie fördert die klare und strukturierte Vermittlung von Informationen.", "correct": true },
+                                { "text": "Sie reduziert die Notwendigkeit für Teamarbeit.", "correct": false },
+                                { "text": "Sie verbessert die körperliche Fitness der Mitarbeiter.", "correct": false }
+                            ]
+                        }
+                    ],
+                    "1.1_81-100":[
+                        {
+                            "question": "Welche Art von Zeugnis erhält ein Schüler, der die Ausbildung beendet, aber die Kammerprüfung nicht bestanden hat und alle Noten ausreichend sind?",
+                            "answers": [
+                                { "text": "Ein Abgangszeugnis von der Berufsschule.", "correct": false },
+                                { "text": "Ein Abschlusszeugnis der Berufsschule.", "correct": true },
+                                { "text": "Eine Bescheinigung der IHK.", "correct": false },
+                                { "text": "Ein Berufsschulabschluss mit Auszeichnung.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was passiert, wenn ein Schüler vor dem Abschlussdatum aus der Schule ausscheidet?",
+                            "answers": [
+                                { "text": "Der Schüler erhält eine Bescheinigung der Berufsschule.", "correct": true },
+                                { "text": "Der Schüler bekommt ein Entlassungszeugnis der IHK.", "correct": false },
+                                { "text": "Der Schüler erhält keinen Abschluss.", "correct": false },
+                                { "text": "Der Schüler bekommt ein Abschlusszeugnis der Schule.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welches Zeugnis erhält ein Auszubildender, der die Kammerprüfung erfolgreich abgeschlossen hat?",
+                            "answers": [
+                                { "text": "Ein Abgangszeugnis der Berufsschule.", "correct": false },
+                                { "text": "Eine Bescheinigung der IHK.", "correct": false },
+                                { "text": "Ein Berufsschulabschlusszeugnis.", "correct": false },
+                                { "text": "Ein Berufsschulabschluss der IHK.", "correct": true }
+                            ]
+                        },
+                        {
+                            "question": "Welches Zeugnis wird ausgestellt, wenn ein Auszubildender die Prüfung nicht besteht?",
+                            "answers": [
+                                { "text": "Eine Bescheinigung der IHK über die nicht bestandene Prüfung.", "correct": true },
+                                { "text": "Ein Abschlusszeugnis der Berufsschule.", "correct": false },
+                                { "text": "Ein Abschlusszeugnis der IHK.", "correct": false },
+                                { "text": "Ein Berufsschulabschlusszeugnis.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche zusätzlichen Angaben muss der Ausbildungsbetrieb gemäß § 16 BBiG im Abschlusszeugnis machen?",
+                            "answers": [
+                                { "text": "Angaben über die Dauer und Art der Ausbildung.", "correct": true },
+                                { "text": "Angaben über die Teilnahme an Schulungen.", "correct": false },
+                                { "text": "Angaben über die Leistungen in der Berufsschule.", "correct": false },
+                                { "text": "Angaben über das Verhalten der Kollegen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was ist der Hauptzweck der gestreckten Prüfung der IHK?",
+                            "answers": [
+                                { "text": "Die Überprüfung der Sozialkompetenz der Auszubildenden.", "correct": false },
+                                { "text": "Die Bewertung der beruflichen Handlungsfähigkeit.", "correct": true },
+                                { "text": "Die Sicherstellung der Teamfähigkeit im Betrieb.", "correct": false },
+                                { "text": "Die Überprüfung der sozialen Fähigkeiten.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie lange dauert es in der Regel, bis der erste Teil der gestreckten Abschlussprüfung abgelegt wird?",
+                            "answers": [
+                                { "text": "Etwa sechs Monate nach Beginn der Ausbildung.", "correct": false },
+                                { "text": "Etwa ein Jahr nach Beginn der Ausbildung.", "correct": false },
+                                { "text": "Etwa anderthalb Jahre nach Beginn der Ausbildung.", "correct": true },
+                                { "text": "Etwa zwei Jahre nach Beginn der Ausbildung.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Kompetenzen sollen im ersten Teil der gestreckten Prüfung nachgewiesen werden?",
+                            "answers": [
+                                { "text": "Die Fähigkeit zur Teamarbeit und Kreativität.", "correct": false },
+                                { "text": "Die Kenntnisse in der Projektplanung und -durchführung.", "correct": false },
+                                { "text": "Die Fertigkeiten im Bereich der sozialen Kommunikation.", "correct": false },
+                                { "text": "Die Fähigkeiten in der Verwaltung von IT-Systemen.", "correct": true }
+                            ]
+                        },
+                        {
+                            "question": "Wie viel Prozent der Gesamtnote macht der erste Teil der gestreckten Abschlussprüfung aus?",
+                            "answers": [
+                                { "text": "10 Prozent der Gesamtnote.", "correct": false },
+                                { "text": "20 Prozent der Gesamtnote.", "correct": true },
+                                { "text": "30 Prozent der Gesamtnote.", "correct": false },
+                                { "text": "40 Prozent der Gesamtnote.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Lernfelder werden im ersten Teil der gestreckten Abschlussprüfung geprüft?",
+                            "answers": [
+                                { "text": "Lernfelder 1 bis 3.", "correct": false },
+                                { "text": "Lernfelder 4 bis 6.", "correct": false },
+                                { "text": "Lernfelder 1 bis 6.", "correct": true },
+                                { "text": "Lernfelder 7 bis 9.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie wird die Projektarbeit im zweiten Teil der gestreckten Abschlussprüfung bewertet?",
+                            "answers": [
+                                { "text": "Sie macht 30 Prozent der Gesamtnote aus.", "correct": false },
+                                { "text": "Sie macht 40 Prozent der Gesamtnote aus.", "correct": false },
+                                { "text": "Sie macht 50 Prozent der Gesamtnote aus.", "correct": true },
+                                { "text": "Sie macht 60 Prozent der Gesamtnote aus.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was muss bei der Erstellung der betrieblichen Projektarbeit beachtet werden?",
+                            "answers": [
+                                { "text": "Sie muss innerhalb von 20 Stunden fertiggestellt sein.", "correct": false },
+                                { "text": "Sie muss schriftlich und mündlich präsentiert werden.", "correct": false },
+                                { "text": "Sie muss alle Projektphasen sichtbar dokumentieren.", "correct": true },
+                                { "text": "Sie muss mindestens zwei Ausbilder einbeziehen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie viel Zeit ist für die Durchführung der Projektarbeit im zweiten Teil der Abschlussprüfung vorgesehen?",
+                            "answers": [
+                                { "text": "20 Stunden für alle Auszubildenden.", "correct": false },
+                                { "text": "40 Stunden für die meisten Auszubildenden.", "correct": true },
+                                { "text": "80 Stunden für Fachinformatiker.", "correct": false },
+                                { "text": "100 Stunden für alle Fachrichtungen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche zusätzlichen Prüfungsbereiche gibt es im zweiten Teil der gestreckten Abschlussprüfung?",
+                            "answers": [
+                                { "text": "Zwei praktische Aufgaben im Bereich IT-Sicherheit.", "correct": false },
+                                { "text": "Zwei schriftliche Aufgaben aus dem gewählten IT-Beruf.", "correct": true },
+                                { "text": "Zwei mündliche Aufgaben aus dem Bereich Kommunikation.", "correct": false },
+                                { "text": "Zwei schriftliche Aufgaben aus dem Bereich Sozialkunde.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Wie lange dauert das Fachgespräch im Rahmen der gestreckten Abschlussprüfung?",
+                            "answers": [
+                                { "text": "15 Minuten in der Regel.", "correct": false },
+                                { "text": "30 Minuten insgesamt.", "correct": true },
+                                { "text": "45 Minuten für alle Teilnehmer.", "correct": false },
+                                { "text": "60 Minuten für ausgewählte Berufe.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was ist das Ziel der Ergänzungsprüfung in der IHK-Abschlussprüfung?",
+                            "answers": [
+                                { "text": "Um eine ungenügende Note im Fachgespräch auszugleichen.", "correct": false },
+                                { "text": "Um eine ungenügende Note in einem Prüfungsbereich auszugleichen.", "correct": true },
+                                { "text": "Um eine ausreichende Note in allen Bereichen zu erreichen.", "correct": false },
+                                { "text": "Um eine ausreichende Note im Projektbericht zu sichern.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Note muss im Gesamtergebnis der gestreckten Prüfung mindestens erreicht werden, um zu bestehen?",
+                            "answers": [
+                                { "text": "Mindestens „ausreichend“ in allen Prüfungsbereichen.", "correct": true },
+                                { "text": "Mindestens „befriedigend“ in den schriftlichen Prüfungen.", "correct": false },
+                                { "text": "Mindestens „gut“ in der Projektarbeit.", "correct": false },
+                                { "text": "Mindestens „mangelhaft“ in zwei Prüfungsbereichen.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Was wird im Prüfungsbereich 'Wirtschafts- und Sozialkunde' geprüft?",
+                            "answers": [
+                                { "text": "Grundlegende IT-Kenntnisse und Fertigkeiten.", "correct": false },
+                                { "text": "Praktische Fähigkeiten im Bereich der IT-Sicherheit.", "correct": false },
+                                { "text": "Allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge.", "correct": true },
+                                { "text": "Spezifische Fähigkeiten in der Projektplanung.", "correct": false }
+                            ]
+                        },
+                        {
+                            "question": "Welche Note entspricht einer Leistung, die den Anforderungen in besonderem Maße entspricht?",
+                            "answers": [
+                                { "text": "Note 'gut' entspricht dieser Leistung.", "correct": false },
+                                { "text": "Note 'befriedigend' entspricht dieser Leistung.", "correct": false },
+                                { "text": "Note 'ausreichend' entspricht dieser Leistung.", "correct": false },
+                                { "text": "Note 'sehr gut' entspricht dieser Leistung.", "correct": true }
+                            ]
+                        },
+                        {
+                            "question": "Was passiert, wenn ein Prüfungsbereich im zweiten Teil der gestreckten Abschlussprüfung mit 'mangelhaft' bewertet wird?",
+                            "answers": [
+                                { "text": "Der Auszubildende besteht die Prüfung trotzdem.", "correct": false },
+                                { "text": "Der Auszubildende muss nur den zweiten Teil wiederholen.", "correct": false },
+                                { "text": "Der Auszubildende kann die Note durch eine Ergänzungsprüfung ausgleichen.", "correct": true },
+                                { "text": "Der Auszubildende muss die gesamte Prüfung wiederholen.", "correct": false }
+                            ]
+                        }
+                    ]
+            }

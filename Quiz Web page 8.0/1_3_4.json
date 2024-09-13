@@ -1,0 +1,1101 @@
+{
+    "1.3.4_1-20":[
+        {
+            "question": "Was unterscheidet die Aufbauorganisation von der Ablauforganisation?",
+            "answers": [
+                { "text": "Die Aufbauorganisation legt fest, wie Aufgaben, Kompetenzen und Verantwortungen verteilt werden, während die Ablauforganisation den funktionalen, zeitlichen und räumlichen Arbeitsablauf regelt.", "correct": true },
+                { "text": "Die Aufbauorganisation befasst sich nur mit der Hierarchie, während die Ablauforganisation nur für die Festlegung der Unternehmensziele verantwortlich ist.", "correct": false },
+                { "text": "Die Aufbauorganisation konzentriert sich auf die räumliche Verteilung, während die Ablauforganisation nur die Kompetenzen der Mitarbeiter festlegt.", "correct": false },
+                { "text": "Die Aufbauorganisation regelt die Mitarbeitervergütung, während die Ablauforganisation die Personalentwicklung überwacht.", "correct": false }
+            ]
+        },
+        
+            {
+                "question": "Welches Prinzip stellt sicher, dass Aufgaben und Tätigkeiten den Stelleninhaber nicht überfordern?",
+                "answers": [
+                    { "text": "Überschaubarkeit", "correct": true },
+                    { "text": "Arbeitsteilung", "correct": false },
+                    { "text": "Angemessenheit", "correct": false },
+                    { "text": "Delegation", "correct": false }
+                ]
+            },
+            {
+                "question": "Welches Prinzip bezieht sich auf die Überprüfung, ob Aufgaben besser durch externe Mitarbeiter oder Fremdfirmen erledigt werden können?",
+                "answers": [
+                    { "text": "Arbeitsteilung", "correct": true },
+                    { "text": "Angemessenheit", "correct": false },
+                    { "text": "Überschaubarkeit", "correct": false },
+                    { "text": "Zentralisierung", "correct": false }
+                ]
+            },
+    
+        {
+            "question": "Welche Gefahr besteht bei einer Überorganisation in einem Unternehmen?",
+            "answers": [
+                { "text": "Eine Überorganisation kann zur Demotivation der Mitarbeiter und zu geringerer Innovationsbereitschaft führen.", "correct": true },
+                { "text": "Eine Überorganisation führt zu besseren Leistungen und höherer Kundenzufriedenheit.", "correct": false },
+                { "text": "Eine Überorganisation erhöht die Flexibilität der Mitarbeiter und stärkt das Teamgefühl.", "correct": false },
+                { "text": "Eine Überorganisation ermöglicht es den Mitarbeitern, ihre Aufgaben kreativer zu gestalten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einer Disposition im Rahmen der betrieblichen Organisation?",
+            "answers": [
+                { "text": "Eine Disposition ist eine fallweise Regelung, die bei plötzlich auftretenden Situationen zum Einsatz kommt.", "correct": true },
+                { "text": "Eine Disposition ist eine geplante Dauerregelung, die in Unternehmen Anwendung findet.", "correct": false },
+                { "text": "Eine Disposition ist die langfristige Planung von Unternehmenszielen und -strategien.", "correct": false },
+                { "text": "Eine Disposition ist die regelmäßige Überprüfung der Mitarbeiterleistungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Faktoren regelt die Ablauforganisation?",
+            "answers": [
+                { "text": "Die Ablauforganisation regelt den funktionalen, zeitlichen und räumlichen Arbeitsablauf, um den optimalen Einsatz der Kapazitäten zu gewährleisten.", "correct": true },
+                { "text": "Die Ablauforganisation regelt ausschließlich die finanzielle Struktur des Unternehmens.", "correct": false },
+                { "text": "Die Ablauforganisation regelt die Aufteilung der Gewinne unter den Mitarbeitern.", "correct": false },
+                { "text": "Die Ablauforganisation regelt die Auswahl der Lieferanten und Partner des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Konsequenzen kann eine Unterorganisation in einem Unternehmen haben?",
+            "answers": [
+                { "text": "Eine Unterorganisation führt zu schlechten Leistungen und Kundenunzufriedenheit.", "correct": true },
+                { "text": "Eine Unterorganisation führt zu höherer Innovationsbereitschaft und Mitarbeiterzufriedenheit.", "correct": false },
+                { "text": "Eine Unterorganisation führt zu besseren Kommunikationswegen und schnelleren Entscheidungen.", "correct": false },
+                { "text": "Eine Unterorganisation fördert die Kreativität und Flexibilität der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Zweck einer Aufbauorganisation in einem Betrieb?",
+            "answers": [
+                { "text": "Der Zweck der Aufbauorganisation ist die Gliederung des Betriebes in funktionsfähige Einheiten, die Übertragung von Aufgaben, Kompetenzen und Verantwortung sowie die Festlegung von Informations- und Anweisungswegen.", "correct": true },
+                { "text": "Der Zweck der Aufbauorganisation ist die Entwicklung von neuen Produkten und Dienstleistungen.", "correct": false },
+                { "text": "Der Zweck der Aufbauorganisation ist die Überwachung der finanziellen Mittel des Unternehmens.", "correct": false },
+                { "text": "Der Zweck der Aufbauorganisation ist die Pflege der Beziehungen zu den Kunden und Lieferanten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen einer fallweisen Regelung und einer Dauerregelung?",
+            "answers": [
+                { "text": "Eine fallweise Regelung wird in plötzlich auftretenden Situationen angewendet, während eine Dauerregelung geplante Maßnahmen betrifft.", "correct": true },
+                { "text": "Eine fallweise Regelung betrifft nur die Personalangelegenheiten, während eine Dauerregelung die gesamte Unternehmensstrategie umfasst.", "correct": false },
+                { "text": "Eine fallweise Regelung wird für langfristige Ziele eingesetzt, während eine Dauerregelung für kurzfristige Aufgaben gilt.", "correct": false },
+                { "text": "Eine fallweise Regelung betrifft die finanzielle Planung, während eine Dauerregelung sich auf die Kundenbetreuung konzentriert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Improvisation in der betrieblichen Organisation?",
+            "answers": [
+                { "text": "Die Improvisation kommt zum Einsatz, wenn plötzlich auftretende Situationen eine schnelle Entscheidung erfordern.", "correct": true },
+                { "text": "Die Improvisation ist die Grundlage für alle geplanten Unternehmensstrategien.", "correct": false },
+                { "text": "Die Improvisation ist der wichtigste Teil der Ablauforganisation.", "correct": false },
+                { "text": "Die Improvisation wird ausschließlich für die Mitarbeiterbewertung genutzt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet es, eine Aufgabe an externe Unternehmen zu vergeben (Outsourcing)?",
+            "answers": [
+                { "text": "Beim Outsourcing wird eine Aufgabe oder Dienstleistung an ein externes Unternehmen vergeben, das diese Aufgaben übernimmt.", "correct": true },
+                { "text": "Beim Outsourcing übernimmt ein Mitarbeiter zusätzliche Aufgaben innerhalb des Unternehmens.", "correct": false },
+                { "text": "Beim Outsourcing werden nur die internen Abläufe des Unternehmens analysiert.", "correct": false },
+                { "text": "Beim Outsourcing werden neue Mitarbeiter für eine bestimmte Aufgabe eingestellt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Fragen sollten geklärt werden, bevor eine neue Stelle geschaffen wird?",
+            "answers": [
+                { "text": "Es sollte geklärt werden, welche Aufgaben und Verantwortlichkeiten die neue Stelle umfasst und ob es sich um eine leitende, ausführende oder Stabsstelle handelt.", "correct": true },
+                { "text": "Es sollte geklärt werden, wie hoch das Gehalt der neuen Stelle sein wird.", "correct": false },
+                { "text": "Es sollte geklärt werden, wie viele Bewerber für die neue Stelle zur Verfügung stehen.", "correct": false },
+                { "text": "Es sollte geklärt werden, welche Art von Arbeitszeitmodell für die neue Stelle geeignet ist.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einem Aufgabengliederungsplan?",
+            "answers": [
+                { "text": "Ein Aufgabengliederungsplan ist eine detaillierte Auflistung der Hauptaufgaben, Teilaufgaben und Einzelaufgaben einer bestimmten Stelle.", "correct": true },
+                { "text": "Ein Aufgabengliederungsplan ist die Beschreibung der Unternehmensziele für die nächsten fünf Jahre.", "correct": false },
+                { "text": "Ein Aufgabengliederungsplan ist ein Bericht über die finanzielle Lage des Unternehmens.", "correct": false },
+                { "text": "Ein Aufgabengliederungsplan ist die Übersicht der Kommunikationswege im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arten von Stellen können in einem Unternehmen neu geschaffen werden?",
+            "answers": [
+                { "text": "Es können leitende Stellen, ausführende Stellen und Stabsstellen geschaffen werden, je nach Bedarf des Unternehmens.", "correct": true },
+                { "text": "Es können nur leitende Stellen geschaffen werden, da diese für die Führung des Unternehmens wichtig sind.", "correct": false },
+                { "text": "Es können nur Stabsstellen geschaffen werden, da diese das Unternehmen strategisch unterstützen.", "correct": false },
+                { "text": "Es können nur ausführende Stellen geschaffen werden, da diese direkt in der Produktion tätig sind.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Teilaufgaben gehören zur Betreuung der EDV in einem Unternehmen?",
+            "answers": [
+                { "text": "Zu den Teilaufgaben gehören die Beschaffung, Installation, Wartung sowie die Fortbildung und Beratung der Mitarbeiter.", "correct": true },
+                { "text": "Zu den Teilaufgaben gehören die Planung von Marketingstrategien und die Kundenakquise.", "correct": false },
+                { "text": "Zu den Teilaufgaben gehören die Verwaltung der Finanzen und die Erstellung von Jahresabschlüssen.", "correct": false },
+                { "text": "Zu den Teilaufgaben gehören die Personalführung und die Mitarbeiterschulung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Schritte sind bei der Beschaffung von IT-Ausrüstung zu beachten?",
+            "answers": [
+                { "text": "Bei der Beschaffung von IT-Ausrüstung sind die Bedarfsanalyse, das Einholen von Angeboten, der Vergleich der Angebote und die Bestellung und Abnahme zu beachten.", "correct": true },
+                { "text": "Bei der Beschaffung von IT-Ausrüstung ist nur die Preisverhandlung entscheidend.", "correct": false },
+                { "text": "Bei der Beschaffung von IT-Ausrüstung ist nur die Auswahl der Lieferanten wichtig.", "correct": false },
+                { "text": "Bei der Beschaffung von IT-Ausrüstung ist nur die Installation der Geräte erforderlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe hat eine Instanz innerhalb eines Unternehmens?",
+            "answers": [
+                { "text": "Eine Instanz ist eine leitende Stelle mit Leitungsvollmachten innerhalb eines Unternehmens.", "correct": true },
+                { "text": "Eine Instanz ist eine ausführende Stelle ohne besondere Verantwortlichkeiten.", "correct": false },
+                { "text": "Eine Instanz ist eine Stabsstelle, die nur beratende Funktionen hat.", "correct": false },
+                { "text": "Eine Instanz ist eine temporäre Stelle, die für bestimmte Projekte eingesetzt wird.", "correct": false }
+            ]
+        },
+        {
+            "question": "Worin besteht der Unterschied zwischen einer Stabsstelle und einer ausführenden Stelle?",
+            "answers": [
+                { "text": "Eine Stabsstelle hat beratende Funktionen und unterstützt die Führungsebene, während eine ausführende Stelle die operativen Aufgaben übernimmt.", "correct": true },
+                { "text": "Eine Stabsstelle ist für die Produktion zuständig, während eine ausführende Stelle die Planung übernimmt.", "correct": false },
+                { "text": "Eine Stabsstelle ist für die Kundenbetreuung zuständig, während eine ausführende Stelle das Marketing leitet.", "correct": false },
+                { "text": "Eine Stabsstelle verwaltet die Finanzen, während eine ausführende Stelle die Produktentwicklung übernimmt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben fallen unter die Wartung von Computersystemen und Netzwerken?",
+            "answers": [
+                { "text": "Die Aufgaben umfassen die regelmäßige Überprüfung, Aktualisierung und Reparatur der Systeme sowie die Bereitstellung von Verbrauchsmaterial.", "correct": true },
+                { "text": "Die Aufgaben umfassen die Planung von Werbekampagnen und die Marktanalyse.", "correct": false },
+                { "text": "Die Aufgaben umfassen die Erstellung von Finanzberichten und die Budgetplanung.", "correct": false },
+                { "text": "Die Aufgaben umfassen die Entwicklung neuer Produkte und die Durchführung von Kundenumfragen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist eine Bedarfsanalyse wichtig, bevor IT-Ausrüstung beschafft wird?",
+            "answers": [
+                { "text": "Eine Bedarfsanalyse ist wichtig, um sicherzustellen, dass die beschaffte Ausrüstung den tatsächlichen Anforderungen des Unternehmens entspricht.", "correct": true },
+                { "text": "Eine Bedarfsanalyse ist wichtig, um den Kundenstamm des Unternehmens zu erweitern.", "correct": false },
+                { "text": "Eine Bedarfsanalyse ist wichtig, um die Mitarbeiterzufriedenheit zu erhöhen.", "correct": false },
+                { "text": "Eine Bedarfsanalyse ist wichtig, um die Unternehmensstrategie zu verbessern.", "correct": false }
+            ]
+        }
+    ],
+
+    "1.3.4_21-40":[
+        {
+            "question": "Welche Funktion hat eine Instanz innerhalb eines Unternehmens?",
+            "answers": [
+                { "text": "Eine Instanz besitzt keine Anordnungs- und Entscheidungsbefugnis.", "correct": false },
+                { "text": "Eine Instanz besitzt ausschließlich beratende Funktion in einem Unternehmen.", "correct": false },
+                { "text": "Eine Instanz besitzt Anordnungs- und Entscheidungsbefugnis gegenüber rangniederen Stellen.", "correct": true },
+                { "text": "Eine Instanz besitzt nur die Verantwortung für die Ausführung von Aufgaben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was kennzeichnet eine Stabsstelle in einem Unternehmen?",
+            "answers": [
+                { "text": "Eine Stabsstelle hat Anordnungs- und Entscheidungsbefugnis über alle Abteilungen.", "correct": false },
+                { "text": "Eine Stabsstelle hat keine Anordnungs- und Entscheidungsbefugnis, sondern eine beratende Funktion.", "correct": true },
+                { "text": "Eine Stabsstelle hat die Verantwortung für die Ausführung aller operativen Aufgaben.", "correct": false },
+                { "text": "Eine Stabsstelle hat die Verantwortung für die strategische Planung des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben hat eine ausführende Stelle?",
+            "answers": [
+                { "text": "Eine ausführende Stelle plant strategische Entscheidungen für das Unternehmen.", "correct": false },
+                { "text": "Eine ausführende Stelle hat keine Leitungs- und Entscheidungsbefugnis.", "correct": true },
+                { "text": "Eine ausführende Stelle hat die Verantwortung für die Leitung des gesamten Unternehmens.", "correct": false },
+                { "text": "Eine ausführende Stelle hat die Verantwortung für die Organisation von Führungskräften.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was enthält eine Stellenbeschreibung unabhängig vom Stelleninhaber?",
+            "answers": [
+                { "text": "Eine Stellenbeschreibung enthält die persönlichen Vorlieben des Stelleninhabers.", "correct": false },
+                { "text": "Eine Stellenbeschreibung enthält die Aufgaben, Zuständigkeiten und Besoldung der Stelle.", "correct": true },
+                { "text": "Eine Stellenbeschreibung enthält die Freizeitinteressen des Stelleninhabers.", "correct": false },
+                { "text": "Eine Stellenbeschreibung enthält die politischen Ansichten des Stelleninhabers.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Arbeitsteilung in einer hoch spezialisierten Industriegesellschaft wichtig?",
+            "answers": [
+                { "text": "Arbeitsteilung führt immer zu einer höheren Arbeitsbelastung für alle Mitarbeiter.", "correct": false },
+                { "text": "Arbeitsteilung ist nicht notwendig in einer hoch spezialisierten Industriegesellschaft.", "correct": false },
+                { "text": "Arbeitsteilung ermöglicht eine effizientere Erledigung von Aufgaben durch spezialisierte Stellen.", "correct": true },
+                { "text": "Arbeitsteilung führt zu einer Verringerung der Produktivität in spezialisierten Bereichen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was muss bei der Überschaubarkeit von Aufgaben und Tätigkeiten beachtet werden?",
+            "answers": [
+                { "text": "Aufgaben und Tätigkeiten sollten so gestaltet sein, dass sie den Stelleninhaber nicht überfordern.", "correct": true },
+                { "text": "Aufgaben und Tätigkeiten sollten immer möglichst komplex und anspruchsvoll sein.", "correct": false },
+                { "text": "Aufgaben und Tätigkeiten sollten den Stelleninhaber in kurzer Zeit vollständig auslasten.", "correct": false },
+                { "text": "Aufgaben und Tätigkeiten sollten keine Anforderungen an die Fähigkeiten des Stelleninhabers stellen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie sollten Aufgaben an die Leistungsfähigkeit der Stelleninhaber angepasst werden?",
+            "answers": [
+                { "text": "Aufgaben sollten unabhängig von der Leistungsfähigkeit der Stelleninhaber verteilt werden.", "correct": false },
+                { "text": "Aufgaben sollten den Stelleninhaber immer über seine Leistungsfähigkeit hinaus fordern.", "correct": false },
+                { "text": "Aufgaben sollten der Leistungsfähigkeit der Stelleninhaber und deren Qualifikationen entsprechen.", "correct": true },
+                { "text": "Aufgaben sollten nur dann angepasst werden, wenn der Stelleninhaber explizit darum bittet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was schreibt das Allgemeine Gleichbehandlungsgesetz (AGG) für Stellenausschreibungen vor?",
+            "answers": [
+                { "text": "Stellenausschreibungen müssen geschlechtsneutral formuliert sein und das AGG berücksichtigen.", "correct": true },
+                { "text": "Stellenausschreibungen dürfen ausschließlich männliche oder weibliche Bewerber ansprechen.", "correct": false },
+                { "text": "Stellenausschreibungen müssen ausschließlich interne Bewerber berücksichtigen.", "correct": false },
+                { "text": "Stellenausschreibungen dürfen keine Angaben zu geschlechtlichen Anforderungen enthalten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum werden in Betrieben bestimmte Beauftragte benannt?",
+            "answers": [
+                { "text": "Beauftragte werden benannt, um die Führungsebene von operativen Aufgaben zu entlasten.", "correct": true },
+                { "text": "Beauftragte werden benannt, um ausschließlich administrative Aufgaben zu übernehmen.", "correct": false },
+                { "text": "Beauftragte werden benannt, um ausschließlich für die Sicherheit im Betrieb zu sorgen.", "correct": false },
+                { "text": "Beauftragte werden benannt, um die Entscheidungsbefugnisse des Managements zu erweitern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben können Beauftragte in einem Unternehmen übernehmen?",
+            "answers": [
+                { "text": "Beauftragte können administrative Aufgaben und operative Entscheidungen treffen.", "correct": false },
+                { "text": "Beauftragte können Aufgaben wie Arbeitssicherheit, Datenschutz und Qualitätsmanagement übernehmen.", "correct": true },
+                { "text": "Beauftragte können ausschließlich für die Verwaltung der Finanzen verantwortlich sein.", "correct": false },
+                { "text": "Beauftragte können keine spezifischen Aufgaben übernehmen und sind nur beratend tätig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Position des Chief Executive Officer (CEO) in einem Unternehmen?",
+            "answers": [
+                { "text": "Der CEO ist für die operative Leitung des IT-Bereichs verantwortlich.", "correct": false },
+                { "text": "Der CEO ist für die strategische und operative Führung des gesamten Unternehmens verantwortlich.", "correct": true },
+                { "text": "Der CEO hat keine Entscheidungsbefugnis und ist nur für die Verwaltung des Unternehmens zuständig.", "correct": false },
+                { "text": "Der CEO ist ausschließlich für die Überwachung der Finanzabteilung verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Rolle des Chief Financial Officer (CFO) in einem Unternehmen?",
+            "answers": [
+                { "text": "Der CFO ist für die technische Leitung des Unternehmens verantwortlich.", "correct": false },
+                { "text": "Der CFO ist für die strategische Planung und Überwachung der Finanzen verantwortlich.", "correct": true },
+                { "text": "Der CFO ist für die Leitung der Marketingabteilung verantwortlich.", "correct": false },
+                { "text": "Der CFO hat keine Entscheidungsbefugnis und ist nur beratend tätig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Verantwortungen trägt ein Chief Technology Officer (CTO)?",
+            "answers": [
+                { "text": "Der CTO ist für die Verwaltung der finanziellen Ressourcen des Unternehmens verantwortlich.", "correct": false },
+                { "text": "Der CTO ist für die strategische Planung und Umsetzung der technologischen Entwicklungen verantwortlich.", "correct": true },
+                { "text": "Der CTO ist für die Personalabteilung und das Management der Mitarbeiter verantwortlich.", "correct": false },
+                { "text": "Der CTO hat keine Verantwortung für die technologischen Entwicklungen des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Aufgaben eines Chief Information Officer (CIO)?",
+            "answers": [
+                { "text": "Der CIO ist für die Verwaltung der Unternehmensfinanzen verantwortlich.", "correct": false },
+                { "text": "Der CIO ist für die strategische und operative Führung des IT-Bereichs verantwortlich.", "correct": true },
+                { "text": "Der CIO hat keine Verantwortung für die IT-Sicherheit und den Datenschutz.", "correct": false },
+                { "text": "Der CIO ist nur für die Überwachung der IT-Infrastruktur verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat der Chief Digital Officer (CDO) in einem Unternehmen?",
+            "answers": [
+                { "text": "Der CDO ist für die strategische Planung und Steuerung der Digitalen Transformation verantwortlich.", "correct": true },
+                { "text": "Der CDO ist für die Verwaltung der Marketingabteilung verantwortlich.", "correct": false },
+                { "text": "Der CDO hat keine Entscheidungsbefugnis in Bezug auf die Digitalisierung.", "correct": false },
+                { "text": "Der CDO ist ausschließlich für die IT-Sicherheit verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Angemessenheit bei der Stellenbildung?",
+            "answers": [
+                { "text": "Die Angemessenheit bedeutet, dass Aufgaben immer über der Leistungsfähigkeit der Stelleninhaber liegen sollten.", "correct": false },
+                { "text": "Die Angemessenheit bedeutet, dass Aufgaben den Fähigkeiten und Qualifikationen der Stelleninhaber entsprechen sollten.", "correct": true },
+                { "text": "Die Angemessenheit bedeutet, dass Aufgaben unabhängig von der Qualifikation verteilt werden.", "correct": false },
+                { "text": "Die Angemessenheit bedeutet, dass Aufgaben keine Rücksicht auf die Arbeitsbelastung nehmen sollten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vor- und Nachteile müssen bei der Arbeitsteilung berücksichtigt werden?",
+            "answers": [
+                { "text": "Arbeitsteilung führt immer zu einer erhöhten Arbeitszufriedenheit bei allen Mitarbeitern.", "correct": false },
+                { "text": "Arbeitsteilung kann zu Effizienzsteigerungen führen, aber auch zu Herausforderungen in der Koordination.", "correct": true },
+                { "text": "Arbeitsteilung verringert die Effizienz und erhöht die Arbeitsbelastung für alle Mitarbeiter.", "correct": false },
+                { "text": "Arbeitsteilung hat keine Auswirkungen auf die Effizienz und die Arbeitszufriedenheit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die gesetzlichen Anforderungen an die Benennung von Beauftragten in einem Unternehmen?",
+            "answers": [
+                { "text": "Beauftragte müssen ausschließlich von der Geschäftsleitung benannt werden.", "correct": false },
+                { "text": "Beauftragte müssen aufgrund gesetzlicher Bestimmungen für bestimmte Themen ernannt werden.", "correct": true },
+                { "text": "Beauftragte müssen keine spezifischen Aufgaben übernehmen und sind nur beratend tätig.", "correct": false },
+                { "text": "Beauftragte müssen unabhängig von gesetzlichen Anforderungen ernannt werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum setzen sich internationale Leitungsbezeichnungen wie CEO und CFO in Unternehmen durch?",
+            "answers": [
+                { "text": "Diese Bezeichnungen sind international verständlich und fördern die Zusammenarbeit mit internationalen Partnern.", "correct": true },
+                { "text": "Diese Bezeichnungen haben keine besondere Bedeutung und werden nur aus Tradition verwendet.", "correct": false },
+                { "text": "Diese Bezeichnungen werden nur in kleinen Unternehmen verwendet und sind dort üblich.", "correct": false },
+                { "text": "Diese Bezeichnungen sind für die interne Kommunikation nicht relevant und werden selten verwendet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Genderkonformität bei Stellenausschreibungen?",
+            "answers": [
+                { "text": "Genderkonformität bedeutet, dass Stellenausschreibungen geschlechtsneutral und unter Einhaltung des AGG formuliert werden.", "correct": true },
+                { "text": "Genderkonformität bedeutet, dass Stellenausschreibungen nur an männliche Bewerber gerichtet sein sollten.", "correct": false },
+                { "text": "Genderkonformität bedeutet, dass Stellenausschreibungen keine geschlechtsspezifischen Angaben enthalten dürfen.", "correct": false },
+                { "text": "Genderkonformität bedeutet, dass Stellenausschreibungen ausschließlich an weibliche Bewerber gerichtet sein sollten.", "correct": false }
+            ]
+        }
+    ],
+    "1.3.4_41-60": [
+        {
+            "question": "Was ist der Vorteil von flachen Hierarchien in einem Unternehmen?",
+            "answers": [
+                { "text": "Flache Hierarchien erhöhen die Bürokratie in einem Unternehmen.", "correct": false },
+                { "text": "Flache Hierarchien führen zu längeren Entscheidungswegen.", "correct": false },
+                { "text": "Flache Hierarchien ermöglichen schnellere Entscheidungen und erhöhen die Innovationsleistung.", "correct": true },
+                { "text": "Flache Hierarchien verringern die Selbstverantwortung der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind autoritäre Führungsstile in modernen Unternehmen eher selten?",
+            "answers": [
+                { "text": "Autoritäre Führungsstile fördern die Kreativität und Flexibilität der Mitarbeiter.", "correct": false },
+                { "text": "Autoritäre Führungsstile führen oft zu einer geringeren Motivation und schlechteren Arbeitsergebnissen.", "correct": true },
+                { "text": "Autoritäre Führungsstile sind die effektivste Methode der Mitarbeiterführung.", "correct": false },
+                { "text": "Autoritäre Führungsstile verbessern die Kommunikation zwischen den Mitarbeitern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst ein kooperativer Führungsstil die Motivation der Mitarbeiter?",
+            "answers": [
+                { "text": "Ein kooperativer Führungsstil führt zu mehr Verantwortung, Flexibilität und Motivation bei den Mitarbeitern.", "correct": true },
+                { "text": "Ein kooperativer Führungsstil verringert die Motivation der Mitarbeiter.", "correct": false },
+                { "text": "Ein kooperativer Führungsstil schränkt die Flexibilität der Mitarbeiter ein.", "correct": false },
+                { "text": "Ein kooperativer Führungsstil macht die Mitarbeiter passiver.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was zeichnet den autoritären Führungsstil aus?",
+            "answers": [
+                { "text": "Entscheidungen werden gemeinsam mit den Mitarbeitern getroffen.", "correct": false },
+                { "text": "Vorgesetzte treffen alle Entscheidungen allein und die Mitarbeiter folgen Anweisungen.", "correct": true },
+                { "text": "Mitarbeiter haben große Mitspracherechte bei der Entscheidungsfindung.", "correct": false },
+                { "text": "Mitarbeiter werden für ihre Eigeninitiative belohnt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet das Management by Objectives?",
+            "answers": [
+                { "text": "Es fördert die passive Mitarbeit der Angestellten.", "correct": false },
+                { "text": "Es führt zu einer Überlastung der Mitarbeiter durch zu viele Ziele.", "correct": false },
+                { "text": "Es steigert das Pflichtgefühl, die Motivation und die Mitwirkung der Mitarbeiter.", "correct": true },
+                { "text": "Es reduziert die Eigenverantwortung der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Nachteil des Management by Objectives?",
+            "answers": [
+                { "text": "Es ermöglicht eine klare Zielsetzung für die Mitarbeiter.", "correct": false },
+                { "text": "Es kann zeitaufwendig sein, Ziele zu vereinbaren und zu überprüfen.", "correct": true },
+                { "text": "Es fördert eine starke Beteiligung der Mitarbeiter.", "correct": false },
+                { "text": "Es sorgt für eine klare Verantwortungsverteilung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie funktioniert das Management by Delegation (Harzburger Modell)?",
+            "answers": [
+                { "text": "Verantwortung und Kompetenzen werden von der Führungsebene auf Mitarbeiter delegiert.", "correct": true },
+                { "text": "Mitarbeiter arbeiten ausschließlich nach Weisungen der Führungsebene.", "correct": false },
+                { "text": "Entscheidungen werden nur von der obersten Führungsebene getroffen.", "correct": false },
+                { "text": "Mitarbeiter haben keine Mitspracherechte bei der Aufgabenerfüllung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Risiken von Management by Delegation?",
+            "answers": [
+                { "text": "Es führt zu einer erhöhten Flexibilität und Innovationsfreude bei den Mitarbeitern.", "correct": false },
+                { "text": "Es kann zu Unzufriedenheit führen, wenn keine Verbesserungen erreicht werden.", "correct": true },
+                { "text": "Es sorgt für eine hohe Innovationsfreude, unabhängig von Veränderungen.", "correct": false },
+                { "text": "Es verringert die Motivation der Mitarbeiter durch zu viel Verantwortung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können flache Hierarchien die Innovationsleistung eines Unternehmens verbessern?",
+            "answers": [
+                { "text": "Flache Hierarchien fördern die starre Einhaltung von Regeln und Prozessen.", "correct": false },
+                { "text": "Flache Hierarchien ermöglichen es den Mitarbeitern, eigenverantwortlicher zu arbeiten und schneller Entscheidungen zu treffen.", "correct": true },
+                { "text": "Flache Hierarchien erschweren die Entscheidungsfindung durch mangelnde Struktur.", "correct": false },
+                { "text": "Flache Hierarchien verringern die Anzahl der innovativen Ideen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat Job Enrichment im modernen Management?",
+            "answers": [
+                { "text": "Job Enrichment verringert die Anzahl der Aufgaben eines Mitarbeiters.", "correct": false },
+                { "text": "Job Enrichment führt zur Reduktion der Arbeitsmotivation.", "correct": false },
+                { "text": "Job Enrichment erweitert die Aufgaben eines Mitarbeiters und erhöht die Arbeitszufriedenheit.", "correct": true },
+                { "text": "Job Enrichment bedeutet, dass Mitarbeiter weniger Verantwortung übernehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Lean Management und welche Vorteile bietet es?",
+            "answers": [
+                { "text": "Lean Management bedeutet, möglichst viele Hierarchiestufen zu schaffen.", "correct": false },
+                { "text": "Lean Management zielt darauf ab, Ressourcen effizient zu nutzen und Hierarchien zu straffen.", "correct": true },
+                { "text": "Lean Management führt zu einem unübersichtlichen Managementprozess.", "correct": false },
+                { "text": "Lean Management erhöht die Anzahl der Mitarbeiter und Ressourcen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Gruppenarbeit im modernen Management?",
+            "answers": [
+                { "text": "Gruppenarbeit fördert die isolierte Arbeit der Mitarbeiter.", "correct": false },
+                { "text": "Gruppenarbeit ermöglicht es den Mitarbeitern, ihre Aufgaben eigenverantwortlich in Teams zu organisieren.", "correct": true },
+                { "text": "Gruppenarbeit erschwert die Zusammenarbeit durch mangelnde Kommunikation.", "correct": false },
+                { "text": "Gruppenarbeit verringert die Qualität der Arbeitsergebnisse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie trägt ein integriertes Managementsystem zur Unternehmensführung bei?",
+            "answers": [
+                { "text": "Ein integriertes Managementsystem erhöht die Bürokratie im Unternehmen.", "correct": false },
+                { "text": "Ein integriertes Managementsystem unterstützt die Arbeit des Qualitäts- und Risikomanagements.", "correct": true },
+                { "text": "Ein integriertes Managementsystem verringert die Transparenz von Unternehmensprozessen.", "correct": false },
+                { "text": "Ein integriertes Managementsystem ersetzt die Notwendigkeit von Qualitätskontrollen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Nachteile können durch flache Hierarchien entstehen?",
+            "answers": [
+                { "text": "Flache Hierarchien fördern die Zusammenarbeit und Kommunikation.", "correct": false },
+                { "text": "Flache Hierarchien können zu Unklarheiten in der Verantwortungsverteilung führen.", "correct": true },
+                { "text": "Flache Hierarchien reduzieren die Entscheidungsgeschwindigkeit.", "correct": false },
+                { "text": "Flache Hierarchien verbessern die Motivation der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Job Enlargement und wie wirkt es sich auf die Mitarbeiter aus?",
+            "answers": [
+                { "text": "Job Enlargement reduziert die Anzahl der Aufgaben eines Mitarbeiters.", "correct": false },
+                { "text": "Job Enlargement erhöht die Aufgabenvielfalt und kann zur Steigerung der Arbeitsmotivation beitragen.", "correct": true },
+                { "text": "Job Enlargement verringert die Verantwortung des Mitarbeiters.", "correct": false },
+                { "text": "Job Enlargement führt zur Spezialisierung der Aufgaben eines Mitarbeiters.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich Job Rotation von Job Enrichment?",
+            "answers": [
+                { "text": "Job Rotation bedeutet die Erweiterung der Aufgaben, Job Enrichment den Wechsel der Positionen.", "correct": false },
+                { "text": "Job Rotation ist die Anreicherung der Aufgaben, Job Enrichment ist die Vergrößerung des Arbeitsbereichs.", "correct": false },
+                { "text": "Job Rotation bedeutet den gezielten Wechsel der Arbeitsstellen, Job Enrichment die Anreicherung der Aufgaben.", "correct": true },
+                { "text": "Job Rotation ist die Erhöhung der Verantwortung, Job Enrichment die Verkleinerung des Aufgabenbereichs.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind schnelle Entscheidungswege in einem Unternehmen wichtig?",
+            "answers": [
+                { "text": "Schnelle Entscheidungswege verhindern die Zusammenarbeit der Mitarbeiter.", "correct": false },
+                { "text": "Schnelle Entscheidungswege sorgen für eine schnelle Reaktion auf Marktveränderungen.", "correct": true },
+                { "text": "Schnelle Entscheidungswege erschweren die Flexibilität der Mitarbeiter.", "correct": false },
+                { "text": "Schnelle Entscheidungswege verlangsamen den Innovationsprozess.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Herausforderungen können durch die Delegation von Verantwortung entstehen?",
+            "answers": [
+                { "text": "Die Delegation von Verantwortung fördert die Flexibilität der Mitarbeiter.", "correct": false },
+                { "text": "Die Delegation von Verantwortung kann zu Unsicherheit und Unzufriedenheit führen, wenn keine Verbesserungen erreicht werden.", "correct": true },
+                { "text": "Die Delegation von Verantwortung erhöht die Motivation der Mitarbeiter unabhängig von ihrer Rolle.", "correct": false },
+                { "text": "Die Delegation von Verantwortung führt zu einer Verringerung der Innovationsbereitschaft.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann ein Unternehmen durch Projektmanagement die Qualität seiner Arbeit verbessern?",
+            "answers": [
+                { "text": "Projektmanagement fördert die isolierte Arbeit der Mitarbeiter.", "correct": false },
+                { "text": "Projektmanagement ermöglicht eine bessere Organisation und Zusammenarbeit in Teams.", "correct": true },
+                { "text": "Projektmanagement reduziert die Verantwortung der Mitarbeiter.", "correct": false },
+                { "text": "Projektmanagement erschwert die Koordination von Aufgaben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Managementstellen in einem integrierten Managementsystem?",
+            "answers": [
+                { "text": "Managementstellen erhöhen die Komplexität des Unternehmens.", "correct": false },
+                { "text": "Managementstellen unterstützen die Einhaltung von Standards und Prozessen.", "correct": true },
+                { "text": "Managementstellen verringern die Notwendigkeit von Qualitätskontrollen.", "correct": false },
+                { "text": "Managementstellen sind nicht notwendig für die Unternehmensführung.", "correct": false }
+            ]
+        }
+    ],
+
+    "1.3.4_61-80":
+    [
+        {
+            "question": "Was ist eine Stärke des Einliniensystems?",
+            "answers": [
+                { "text": "Klare Zuständigkeiten und einfache Beziehungsstruktur.", "correct": true },
+                { "text": "Schnelle Entscheidungswege und hohe Flexibilität.", "correct": false },
+                { "text": "Viele Schnittstellen und komplexe Weisungswege.", "correct": false },
+                { "text": "Hohe Motivation durch flache Hierarchien.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Schwäche des Einliniensystems?",
+            "answers": [
+                { "text": "Klare und direkte Entscheidungswege.", "correct": false },
+                { "text": "Lange Informations- und Weisungswege.", "correct": true },
+                { "text": "Hohe Flexibilität und Kreativität.", "correct": false },
+                { "text": "Direkte Zusammenarbeit und kurze Wege.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion haben Stabsstellen im Stabliniensystem?",
+            "answers": [
+                { "text": "Sie haben Weisungsbefugnis gegenüber Linienstellen.", "correct": false },
+                { "text": "Sie entlasten und beraten die Instanzen ohne Weisungsbefugnis.", "correct": true },
+                { "text": "Sie führen die Aufgaben der Linienstellen aus.", "correct": false },
+                { "text": "Sie leiten die strategischen Entscheidungen des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Schwäche des Stabliniensystems?",
+            "answers": [
+                { "text": "Lange Informations- und Weisungswege.", "correct": true },
+                { "text": "Überlastung der Instanzen.", "correct": false },
+                { "text": "Keine Spezialisierung der Mitarbeiter.", "correct": false },
+                { "text": "Fehlende Flexibilität in der Entscheidungsfindung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Stärke der Mehrlinienorganisation?",
+            "answers": [
+                { "text": "Klare und einfache Beziehungsstrukturen.", "correct": false },
+                { "text": "Flexibler Einsatz der Mitarbeiter durch Funktionsteilung.", "correct": true },
+                { "text": "Direkte und schnelle Entscheidungswege.", "correct": false },
+                { "text": "Hohe Motivation durch individuelle Arbeitsverantwortung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Schwäche der Mehrlinienorganisation?",
+            "answers": [
+                { "text": "Problem der Abgrenzung von Zuständigkeiten.", "correct": true },
+                { "text": "Klare Entscheidungswege und hohe Effizienz.", "correct": false },
+                { "text": "Hohe Flexibilität und Spezialisierung.", "correct": false },
+                { "text": "Förderung der Mitarbeiter durch klare Zuständigkeiten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einer Matrixorganisation?",
+            "answers": [
+                { "text": "Jede Stelle wird von mehreren gleichberechtigten Instanzen geführt.", "correct": true },
+                { "text": "Jede Stelle hat nur eine übergeordnete Instanz.", "correct": false },
+                { "text": "Entscheidungen werden ausschließlich von der Geschäftsleitung getroffen.", "correct": false },
+                { "text": "Die Organisation besteht nur aus flachen Hierarchien.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet eine Matrixorganisation?",
+            "answers": [
+                { "text": "Geringe Flexibilität und Innovationsfreude.", "correct": false },
+                { "text": "Förderung der Teamarbeit und Verbesserung der Ergebnisse durch Kernkompetenzen.", "correct": true },
+                { "text": "Lange Informationswege und unklare Zuständigkeiten.", "correct": false },
+                { "text": "Hohe Kosten durch komplexe Organisationsstrukturen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Nachteile können in einer Matrixorganisation auftreten?",
+            "answers": [
+                { "text": "Problem der Abgrenzung von Zuständigkeiten und mögliche Überforderung der Mitarbeiter.", "correct": true },
+                { "text": "Direkte Entscheidungswege und hohe Mitarbeiterzufriedenheit.", "correct": false },
+                { "text": "Hohe Flexibilität und Eigenverantwortung der Mitarbeiter.", "correct": false },
+                { "text": "Klare Zuständigkeiten und einfache Hierarchien.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Hauptmerkmal der funktionalen Organisation?",
+            "answers": [
+                { "text": "Aufteilung der Unternehmenseinheiten nach Funktionen und Abteilungen.", "correct": true },
+                { "text": "Aufteilung der Unternehmenseinheiten nach Produkten und Dienstleistungen.", "correct": false },
+                { "text": "Aufteilung der Unternehmenseinheiten nach geografischen Regionen.", "correct": false },
+                { "text": "Aufteilung der Unternehmenseinheiten nach Kunden und Märkten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Struktur hat eine Spartenorganisation?",
+            "answers": [
+                { "text": "Aufteilung nach geografischen Regionen.", "correct": false },
+                { "text": "Aufteilung nach Produktlinien oder Geschäftsbereichen.", "correct": true },
+                { "text": "Aufteilung nach funktionalen Abteilungen.", "correct": false },
+                { "text": "Aufteilung nach Kunden und Märkten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Art von Zielen hat ein Profitcenter in einer Spartenorganisation?",
+            "answers": [
+                { "text": "Keine spezifischen Ziele, nur Kostenverantwortung.", "correct": false },
+                { "text": "Eigene Ziele und Gewinnverantwortung.", "correct": true },
+                { "text": "Nur operative Ziele ohne Profitverantwortung.", "correct": false },
+                { "text": "Ziele werden von der Unternehmensleitung vorgegeben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was kennzeichnet eine Costcenter-Organisation?",
+            "answers": [
+                { "text": "Verantwortung für Gewinne und Verluste.", "correct": false },
+                { "text": "Verantwortung nur für die Kosten, keine Gewinnverantwortung.", "correct": true },
+                { "text": "Verantwortung für Produkt- und Kundenmanagement.", "correct": false },
+                { "text": "Verantwortung für die gesamte Unternehmensstrategie.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Hauptmerkmal des Stabliniensystems?",
+            "answers": [
+                { "text": "Stabsstellen haben volle Weisungsbefugnis.", "correct": false },
+                { "text": "Stabsstellen dienen nur der Beratung und Entlastung der Linienstellen.", "correct": true },
+                { "text": "Stabsstellen übernehmen die Aufgaben der Linienstellen.", "correct": false },
+                { "text": "Stabsstellen sind direkt der Geschäftsleitung unterstellt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich eine Spartenorganisation von einer funktionalen Organisation?",
+            "answers": [
+                { "text": "Die Spartenorganisation ist nach Abteilungen, die funktionale Organisation nach Regionen gegliedert.", "correct": false },
+                { "text": "Die Spartenorganisation ist nach Produktlinien, die funktionale Organisation nach Funktionen gegliedert.", "correct": true },
+                { "text": "Die Spartenorganisation ist nach Kunden, die funktionale Organisation nach Märkten gegliedert.", "correct": false },
+                { "text": "Die Spartenorganisation ist nach Märkten, die funktionale Organisation nach Produkten gegliedert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Stärke der funktionalen Organisation?",
+            "answers": [
+                { "text": "Spezialisierung und klare Zuständigkeiten innerhalb der Abteilungen.", "correct": true },
+                { "text": "Hohe Flexibilität und schnelle Entscheidungswege.", "correct": false },
+                { "text": "Direkte Zusammenarbeit zwischen verschiedenen Produktlinien.", "correct": false },
+                { "text": "Große Eigenverantwortung für jede Abteilung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt das Produktmanagement in einer funktionalen Organisation?",
+            "answers": [
+                { "text": "Es ist für die Kostenverantwortung zuständig.", "correct": false },
+                { "text": "Es teilt die Verantwortung für die Produkte innerhalb der Abteilungen.", "correct": false },
+                { "text": "Es übernimmt die gesamte Unternehmensführung.", "correct": false },
+                { "text": "Es ist für die Entwicklung und Betreuung der Produkte zuständig.", "correct": true }
+            ]
+        },
+        {
+            "question": "Welche Organisationsform eignet sich besonders gut für projektorientierte Arbeit?",
+            "answers": [
+                { "text": "Einliniensystem.", "correct": false },
+                { "text": "Stabliniensystem.", "correct": false },
+                { "text": "Mehrliniensystem.", "correct": false },
+                { "text": "Matrixorganisation.", "correct": true }
+            ]
+        },
+        {
+            "question": "Wie wird in einem Einliniensystem die Kommunikation organisiert?",
+            "answers": [
+                { "text": "Jede untergeordnete Stelle kommuniziert direkt mit mehreren Vorgesetzten.", "correct": false },
+                { "text": "Jede untergeordnete Stelle hat nur eine übergeordnete Instanz für die Kommunikation.", "correct": true },
+                { "text": "Die Kommunikation erfolgt über Stabsstellen.", "correct": false },
+                { "text": "Die Kommunikation ist dezentral und flexibel organisiert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum können flache Hierarchien in einem Unternehmen vorteilhaft sein?",
+            "answers": [
+                { "text": "Sie führen zu längeren Entscheidungswegen.", "correct": false },
+                { "text": "Sie fördern die Eigenverantwortung und Motivation der Mitarbeiter.", "correct": true },
+                { "text": "Sie führen zu einer Überlastung der Mitarbeiter.", "correct": false },
+                { "text": "Sie verringern die Flexibilität und Innovationsfähigkeit des Unternehmens.", "correct": false }
+            ]
+        }
+    ],
+
+    "1.3.4_81-100":[
+        {
+            "question": "Was ist die Firma eines Unternehmens?",
+            "answers": [
+                { "text": "Die Firma ist der Name, unter dem ein Kaufmann seine Geschäfte betreibt und Unterschriften abgibt.", "correct": true },
+                { "text": "Die Firma ist das Gebäude, in dem ein Unternehmen tätig ist und seine Produkte lagert.", "correct": false },
+                { "text": "Die Firma ist eine rechtliche Bezeichnung für das gesamte Vermögen eines Unternehmens.", "correct": false },
+                { "text": "Die Firma ist eine Abteilung eines Unternehmens, die sich um Personalangelegenheiten kümmert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Unter welchen Bedingungen kann ein Unternehmen eine Firma führen?",
+            "answers": [
+                { "text": "Ein Unternehmen kann eine Firma führen, wenn es im Handelsregister eingetragen ist.", "correct": true },
+                { "text": "Ein Unternehmen kann eine Firma führen, wenn es mindestens fünf Mitarbeiter beschäftigt.", "correct": false },
+                { "text": "Ein Unternehmen kann eine Firma führen, wenn es mindestens ein Jahr tätig ist.", "correct": false },
+                { "text": "Ein Unternehmen kann eine Firma führen, wenn es über ein Eigenkapital von mindestens 50.000 Euro verfügt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat das Handelsregister?",
+            "answers": [
+                { "text": "Das Handelsregister dient der Offenlegung der wesentlichen Rechtsverhältnisse von Unternehmen.", "correct": true },
+                { "text": "Das Handelsregister ist eine Datenbank, die ausschließlich steuerliche Informationen von Unternehmen speichert.", "correct": false },
+                { "text": "Das Handelsregister listet alle Unternehmen auf, die mehr als 10 Mitarbeiter beschäftigen.", "correct": false },
+                { "text": "Das Handelsregister dient der Speicherung von Patenten und Urheberrechten von Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Unternehmen müssen sich in das Handelsregister eintragen lassen?",
+            "answers": [
+                { "text": "Unternehmen, die einen in kaufmännischer Weise eingerichteten Geschäftsbetrieb haben, müssen sich eintragen lassen.", "correct": true },
+                { "text": "Nur Unternehmen, die im Ausland tätig sind, müssen sich in das Handelsregister eintragen lassen.", "correct": false },
+                { "text": "Unternehmen, die weniger als 10 Mitarbeiter haben, müssen sich eintragen lassen.", "correct": false },
+                { "text": "Unternehmen, die keine Gewinne erzielen, müssen sich in das Handelsregister eintragen lassen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen Abteilung A und Abteilung B des Handelsregisters?",
+            "answers": [
+                { "text": "Abteilung A ist für Einzelkaufleute und Personengesellschaften, Abteilung B für Kapitalgesellschaften zuständig.", "correct": true },
+                { "text": "Abteilung A ist für kleine Unternehmen, Abteilung B für große Unternehmen zuständig.", "correct": false },
+                { "text": "Abteilung A ist für Unternehmen in der Produktion, Abteilung B für Dienstleistungsunternehmen zuständig.", "correct": false },
+                { "text": "Abteilung A ist für nationale Unternehmen, Abteilung B für internationale Unternehmen zuständig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche drei Grundsätze muss eine Firma nach dem HGB einhalten?",
+            "answers": [
+                { "text": "Firmenwahrheit, Firmenausschließlichkeit, Firmenbeständigkeit sind die Grundsätze.", "correct": true },
+                { "text": "Firmenklarheit, Firmenflexibilität, Firmenunabhängigkeit sind die Grundsätze.", "correct": false },
+                { "text": "Firmenführung, Firmenstrategie, Firmenverantwortung sind die Grundsätze.", "correct": false },
+                { "text": "Firmenpolitik, Firmenmarketing, Firmenethik sind die Grundsätze.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arten von Firmen gibt es laut HGB?",
+            "answers": [
+                { "text": "Es gibt Personenfirmen, Sachfirmen und Fantasiefirmen laut HGB.", "correct": true },
+                { "text": "Es gibt Kapitalfirmen, Produktionsfirmen und Dienstleistungsfirmen laut HGB.", "correct": false },
+                { "text": "Es gibt Einzelunternehmen, GmbHs und AGs laut HGB.", "correct": false },
+                { "text": "Es gibt Kleinunternehmen, Mittelstandsunternehmen und Großunternehmen laut HGB.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Art von Namensgebung ist bei Kleingewerbetreibenden erlaubt?",
+            "answers": [
+                { "text": "Kleingewerbetreibende dürfen eine Geschäftsbezeichnung, jedoch keinen Firmennamen verwenden.", "correct": true },
+                { "text": "Kleingewerbetreibende dürfen Fantasienamen verwenden, die mit ihrem Geschäft nichts zu tun haben.", "correct": false },
+                { "text": "Kleingewerbetreibende dürfen den Namen ihres Wohnortes als Firmennamen verwenden.", "correct": false },
+                { "text": "Kleingewerbetreibende dürfen den Namen ihres Lieblingskünstlers als Firmennamen verwenden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wer ist berechtigt, eine Prokura zu erteilen?",
+            "answers": [
+                { "text": "Nur der Inhaber oder Geschäftsführer eines im Handelsregister eingetragenen Unternehmens kann eine Prokura erteilen.", "correct": true },
+                { "text": "Jeder Mitarbeiter eines Unternehmens kann eine Prokura erteilen.", "correct": false },
+                { "text": "Nur der Buchhalter eines Unternehmens kann eine Prokura erteilen.", "correct": false },
+                { "text": "Jeder Gesellschafter eines Unternehmens kann eine Prokura erteilen, unabhängig von der Eintragung im Handelsregister.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird eine Prokura im Handelsregister eingetragen?",
+            "answers": [
+                { "text": "Die Prokura wird durch den Geschäftsführer erteilt und im Handelsregister eingetragen.", "correct": true },
+                { "text": "Die Prokura wird automatisch nach zwei Jahren Tätigkeit im Unternehmen eingetragen.", "correct": false },
+                { "text": "Die Prokura wird vom Finanzamt erteilt und im Handelsregister eingetragen.", "correct": false },
+                { "text": "Die Prokura wird vom Prokuristen selbst im Handelsregister eingetragen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rechte und Pflichten sind mit der Prokura verbunden?",
+            "answers": [
+                { "text": "Ein Prokurist darf alle gewöhnlichen und außergewöhnlichen Geschäfte des Unternehmens führen.", "correct": true },
+                { "text": "Ein Prokurist darf nur Rechnungen bezahlen, hat aber keine weiteren Befugnisse.", "correct": false },
+                { "text": "Ein Prokurist darf nur Personalentscheidungen treffen, hat aber keine weiteren Befugnisse.", "correct": false },
+                { "text": "Ein Prokurist darf keine Geschäfte ohne die Zustimmung des Geschäftsführers führen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Zeichnung verwendet ein Prokurist bei seiner Unterschrift?",
+            "answers": [
+                { "text": "Ein Prokurist verwendet die Zeichnung „ppa.” oder „pp.” bei seiner Unterschrift.", "correct": true },
+                { "text": "Ein Prokurist verwendet die Zeichnung „CEO” bei seiner Unterschrift.", "correct": false },
+                { "text": "Ein Prokurist verwendet die Zeichnung „i.V.” bei seiner Unterschrift.", "correct": false },
+                { "text": "Ein Prokurist verwendet die Zeichnung „GmbH” bei seiner Unterschrift.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arten von Handlungsvollmachten gibt es laut HGB?",
+            "answers": [
+                { "text": "Es gibt Einzelvollmacht, Artvollmacht und Gesamtvollmacht laut HGB.", "correct": true },
+                { "text": "Es gibt Projektvollmacht, Abteilungsvollmacht und Teamvollmacht laut HGB.", "correct": false },
+                { "text": "Es gibt Leitervollmacht, Mitarbeitervollmacht und Azubivollmacht laut HGB.", "correct": false },
+                { "text": "Es gibt Führungsvollmacht, Stellvertretervollmacht und Sachbearbeitervollmacht laut HGB.", "correct": false }
+            ]
+        },
+            {
+                "question": "Was ist der Unterschied zwischen einer Artvollmacht und einer Einzelvollmacht?",
+                "answers": [
+                    { "text": "Eine Artvollmacht bezieht sich auf bestimmte Arten von Geschäften, eine Einzelvollmacht auf ein einzelnes Geschäft.", "correct": true },
+                    { "text": "Eine Artvollmacht gilt für alle Geschäfte eines Unternehmens, eine Einzelvollmacht nur für große Transaktionen.", "correct": false },
+                    { "text": "Eine Artvollmacht wird von der Geschäftsführung erteilt, eine Einzelvollmacht nur von den Mitarbeitern.", "correct": false },
+                    { "text": "Eine Artvollmacht ist zeitlich unbegrenzt, eine Einzelvollmacht nur für drei Monate gültig.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rechtsgeschäfte kann ein Inhaber einer Einzelvollmacht durchführen?",
+                "answers": [
+                    { "text": "Ein Inhaber einer Einzelvollmacht kann ein bestimmtes, ihm zugewiesenes Geschäft ausführen.", "correct": true },
+                    { "text": "Ein Inhaber einer Einzelvollmacht kann alle Geschäfte des Unternehmens leiten.", "correct": false },
+                    { "text": "Ein Inhaber einer Einzelvollmacht kann Personal einstellen und entlassen.", "correct": false },
+                    { "text": "Ein Inhaber einer Einzelvollmacht kann alle Rechtsgeschäfte ohne Einschränkungen durchführen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Einschränkungen gelten für Prokuristen bei der Vertretung des Unternehmens?",
+                "answers": [
+                    { "text": "Prokuristen dürfen keine Bilanz und Steuererklärung unterschreiben.", "correct": true },
+                    { "text": "Prokuristen dürfen keine Verträge mit Kunden abschließen.", "correct": false },
+                    { "text": "Prokuristen dürfen keine Gespräche mit Banken führen.", "correct": false },
+                    { "text": "Prokuristen dürfen keine Präsentationen im Unternehmen durchführen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Kann eine Prokura im Innenverhältnis beschränkt werden?",
+                "answers": [
+                    { "text": "Ja, eine Prokura kann im Innenverhältnis beschränkt werden, ist jedoch im Außenverhältnis unbeschränkt gültig.", "correct": true },
+                    { "text": "Nein, eine Prokura kann weder im Innen- noch im Außenverhältnis beschränkt werden.", "correct": false },
+                    { "text": "Ja, eine Prokura kann nur im Außenverhältnis beschränkt werden.", "correct": false },
+                    { "text": "Nein, eine Prokura kann ausschließlich in den handelsrechtlichen Vorgaben beschränkt werden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie kann eine Handlungsvollmacht erteilt werden?",
+                "answers": [
+                    { "text": "Eine Handlungsvollmacht kann schriftlich, mündlich oder durch fortlaufende Duldung erteilt werden.", "correct": true },
+                    { "text": "Eine Handlungsvollmacht kann nur schriftlich vom Geschäftsführer erteilt werden.", "correct": false },
+                    { "text": "Eine Handlungsvollmacht kann ausschließlich mündlich erteilt werden.", "correct": false },
+                    { "text": "Eine Handlungsvollmacht kann nur durch eine notarielle Beurkundung erteilt werden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Aufgaben dürfen nicht durch eine Prokura geregelt werden?",
+                "answers": [
+                    { "text": "Eine Prokura darf nicht zur Erteilung einer weiteren Prokura verwendet werden.", "correct": true },
+                    { "text": "Eine Prokura darf nicht für den Verkauf von Produkten verwendet werden.", "correct": false },
+                    { "text": "Eine Prokura darf nicht für den Einkauf von Waren verwendet werden.", "correct": false },
+                    { "text": "Eine Prokura darf nicht für die Erstellung von Rechnungen verwendet werden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wann beginnt die Gültigkeit einer Prokura?",
+                "answers": [
+                    { "text": "Die Gültigkeit einer Prokura beginnt mit ihrer Erteilung durch den Inhaber oder Geschäftsführer.", "correct": true },
+                    { "text": "Die Gültigkeit einer Prokura beginnt erst nach der Veröffentlichung im Bundesanzeiger.", "correct": false },
+                    { "text": "Die Gültigkeit einer Prokura beginnt automatisch nach einem Monat der Tätigkeit im Unternehmen.", "correct": false },
+                    { "text": "Die Gültigkeit einer Prokura beginnt erst nach der Genehmigung durch die IHK.", "correct": false }
+                ]
+            }
+        ],
+        "1.3.4_101-120":
+        [
+            {
+                "question": "Welche Kriterien sind wichtig bei der Wahl der Unternehmensrechtsform?",
+                "answers": [
+                    { "text": "Kapitalbedarf, Haftung, und Leitungsbefugnis sind entscheidend.", "correct": true },
+                    { "text": "Nur die Flexibilität bei der Änderung von Beteiligungsverhältnissen.", "correct": false },
+                    { "text": "Die Steuerbelastung ist das einzige Kriterium.", "correct": false },
+                    { "text": "Die Gründungskosten sind das Hauptkriterium.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rechtsform ist für ein Einzelunternehmen geeignet?",
+                "answers": [
+                    { "text": "Einzelkaufmann oder Einzelkauffrau.", "correct": true },
+                    { "text": "Offene Handelsgesellschaft (OHG).", "correct": false },
+                    { "text": "Gesellschaft des bürgerlichen Rechts (GbR).", "correct": false },
+                    { "text": "Aktiengesellschaft (AG).", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Haftung gilt für die Gesellschafter einer OHG?",
+                "answers": [
+                    { "text": "Gesamtschuldnerisch und unbegrenzt.", "correct": true },
+                    { "text": "Beschränkt auf die Einlage.", "correct": false },
+                    { "text": "Nur bis zu einem festgelegten Betrag.", "correct": false },
+                    { "text": "Haftung nur für Geschäftsführung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Regelung trifft auf die Gewinnverteilung in einer GbR zu?",
+                "answers": [
+                    { "text": "Gewinn und Verlust nach Köpfen, wenn nicht anders geregelt.", "correct": true },
+                    { "text": "Gewinn wird nur gleichmäßig verteilt.", "correct": false },
+                    { "text": "Verlust wird von den Gesellschaftern nicht getragen.", "correct": false },
+                    { "text": "Gewinnverteilung ist gesetzlich festgelegt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie hoch ist das Mindestkapital für die Gründung einer GmbH?",
+                "answers": [
+                    { "text": "25.000 Euro Stammkapital.", "correct": true },
+                    { "text": "50.000 Euro Stammkapital.", "correct": false },
+                    { "text": "1.000 Euro Stammkapital.", "correct": false },
+                    { "text": "10.000 Euro Stammkapital.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rechtsform hat keine Mindestkapitalanforderung?",
+                "answers": [
+                    { "text": "Offene Handelsgesellschaft (OHG).", "correct": true },
+                    { "text": "Aktiengesellschaft (AG).", "correct": false },
+                    { "text": "Gesellschaft mit beschränkter Haftung (GmbH).", "correct": false },
+                    { "text": "Kommanditgesellschaft (KG).", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie haftet ein Kommanditist in einer KG?",
+                "answers": [
+                    { "text": "Mit der Einlage.", "correct": true },
+                    { "text": "Unbeschränkt mit dem gesamten Vermögen.", "correct": false },
+                    { "text": "Nur für Geschäftsführungsfehler.", "correct": false },
+                    { "text": "Nur bis zur Höhe des Kapitals.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist ein Vorteil der Unternehmergesellschaft (UG)?",
+                "answers": [
+                    { "text": "Geringes Stammkapital für die Gründung.", "correct": true },
+                    { "text": "Keine Haftungsbeschränkung.", "correct": false },
+                    { "text": "Keine Notwendigkeit für eine Rücklage.", "correct": false },
+                    { "text": "Keine Offenlegungspflichten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welches Merkmal gilt für eine Aktiengesellschaft (AG)?",
+                "answers": [
+                    { "text": "Die Gesellschaft haftet mit ihrem eigenen Vermögen.", "correct": true },
+                    { "text": "Die Haftung ist auf das Stammkapital beschränkt.", "correct": false },
+                    { "text": "Die Haftung ist unbegrenzt.", "correct": false },
+                    { "text": "Die Gesellschafter haften nur für ihre Einlage.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rechtsform wird oft für Start-ups verwendet?",
+                "answers": [
+                    { "text": "Unternehmergesellschaft (UG).", "correct": true },
+                    { "text": "Gesellschaft bürgerlichen Rechts (GbR).", "correct": false },
+                    { "text": "Kommanditgesellschaft (KG).", "correct": false },
+                    { "text": "Offene Handelsgesellschaft (OHG).", "correct": false }
+                ]
+            },
+            {
+                "question": "Welches Dokument ist für die Gründung einer GmbH erforderlich?",
+                "answers": [
+                    { "text": "Notarielle Beurkundung des Gesellschaftsvertrags.", "correct": true },
+                    { "text": "Eintrag ins Handelsregister ohne Notar.", "correct": false },
+                    { "text": "Erstellung eines einfachen Vertrags.", "correct": false },
+                    { "text": "Kein Dokument erforderlich.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist ein Nachteil der AG?",
+                "answers": [
+                    { "text": "Hohe Gründungs- und Verwaltungsaufwendungen.", "correct": true },
+                    { "text": "Keine Möglichkeit zur Mitarbeiterbeteiligung.", "correct": false },
+                    { "text": "Keine Haftungsbeschränkung für die Aktionäre.", "correct": false },
+                    { "text": "Keine Möglichkeit zur Fremdfinanzierung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Haftung gilt für die Gesellschafter in der Offenen Handelsgesellschaft (OHG)?",
+                "answers": [
+                    { "text": "Die Gesellschafter haften unbeschränkt und gesamtschuldnerisch mit ihrem gesamten Vermögen.", "correct": true },
+                    { "text": "Die Haftung ist auf die Höhe der Einlage beschränkt.", "correct": false },
+                    { "text": "Nur die Geschäftsführer haften persönlich, nicht die anderen Gesellschafter.", "correct": false },
+                    { "text": "Die Haftung ist nur auf betriebliche Schulden begrenzt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Regelung betrifft die Gewinnverteilung in einer KG?",
+                "answers": [
+                    { "text": "4% der Kapitaleinlage, Rest angemessen.", "correct": true },
+                    { "text": "Gleichmäßige Verteilung des Gewinns.", "correct": false },
+                    { "text": "Gewinnverteilung nach Köpfen.", "correct": false },
+                    { "text": "Nur für Komplementäre, nicht für Kommanditisten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Haftung trifft auf die Gesellschafter einer UG (haftungsbeschränkt)?",
+                "answers": [
+                    { "text": "Beschränkt auf die Einlage.", "correct": true },
+                    { "text": "Unbeschränkt und persönlich.", "correct": false },
+                    { "text": "Nur für bestimmte Geschäftsbereiche.", "correct": false },
+                    { "text": "Keine Haftung für Gesellschaftsschulden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welches Merkmal charakterisiert eine Kommanditgesellschaft (KG)?",
+                "answers": [
+                    { "text": "Mindestens ein Vollhafter und ein Teilhafter.", "correct": true },
+                    { "text": "Keine Haftung für die Gesellschafter.", "correct": false },
+                    { "text": "Unbeschränkte Haftung für alle Gesellschafter.", "correct": false },
+                    { "text": "Alle Gesellschafter sind nur Kapitalgeber.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Gründungskosten fallen typischerweise bei einer GbR an?",
+                "answers": [
+                    { "text": "Etwa 30 Euro je Gesellschafter.", "correct": true },
+                    { "text": "Etwa 1.250 Euro.", "correct": false },
+                    { "text": "Etwa 500 Euro.", "correct": false },
+                    { "text": "Etwa 1.500 Euro.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist ein Vorteil der Gesellschaft mit beschränkter Haftung (GmbH)?",
+                "answers": [
+                    { "text": "Haftungsbeschränkung auf das Gesellschaftsvermögen.", "correct": true },
+                    { "text": "Keine Anforderungen an das Stammkapital.", "correct": false },
+                    { "text": "Einfache und kostengünstige Gründung.", "correct": false },
+                    { "text": "Keine Notwendigkeit für Jahresabschlüsse.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Regelung betrifft die Haftung in der Personengesellschaft?",
+                "answers": [
+                    { "text": "Unbeschränkte und persönliche Haftung aller Gesellschafter.", "correct": true },
+                    { "text": "Beschränkte Haftung nur auf die Einlage.", "correct": false },
+                    { "text": "Haftung nur bis zur Höhe der Kapitalanteile.", "correct": false },
+                    { "text": "Haftung nur für betriebliche Schulden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welches Gesetz regelt die Haftung von Aktionären in einer AG?",
+                "answers": [
+                    { "text": "Aktiengesetz.", "correct": true },
+                    { "text": "GmbH-Gesetz.", "correct": false },
+                    { "text": "HGB.", "correct": false },
+                    { "text": "BGB.", "correct": false }
+                ]
+            }
+        ]
+}

@@ -1,0 +1,734 @@
+{
+    "1.2.2_1-20":
+    [
+        {
+            "question": "Welches Ministerium ist für die Anpassung der Arbeitsrechte an Veränderungen auf dem Arbeitsmarkt zuständig?",
+            "answers": [
+                { "text": "Das Bundesministerium für Finanzen ist zuständig.", "correct": false },
+                { "text": "Das Bundesministerium für Gesundheit ist zuständig.", "correct": false },
+                { "text": "Das Bundesministerium für Arbeit und Soziales ist zuständig.", "correct": true },
+                { "text": "Das Bundesministerium für Wirtschaft und Energie ist zuständig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was war ein zentrales Thema der Arbeitswelt in den 1950er- bis 1970er-Jahren?",
+            "answers": [
+                { "text": "Die Entwicklung der Landwirtschaft war zentral.", "correct": false },
+                { "text": "Der Aufbau der Automobilindustrie war zentral.", "correct": false },
+                { "text": "Die großen Aufbauleistungen in Industrie und Bau waren zentral.", "correct": true },
+                { "text": "Die Entwicklung der IT-Branche war zentral.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Branche ist heute stark von den Entwicklungen in der Informations- und Kommunikationswirtschaft betroffen?",
+            "answers": [
+                { "text": "Die Automobilbranche ist stark betroffen.", "correct": false },
+                { "text": "Die Bauindustrie ist stark betroffen.", "correct": false },
+                { "text": "Die Textilindustrie ist stark betroffen.", "correct": false },
+                { "text": "Die IT-Branche ist stark betroffen.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff 'Outsourcing' im Kontext der modernen Arbeitswelt?",
+            "answers": [
+                { "text": "Es bedeutet die Vergabe von Aufgaben an externe Dienstleister.", "correct": true },
+                { "text": "Es bedeutet die Einführung neuer interner Arbeitsprozesse.", "correct": false },
+                { "text": "Es bedeutet die Schaffung neuer interner Arbeitsplätze.", "correct": false },
+                { "text": "Es bedeutet die Übernahme von Aufgaben durch eigene Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Arbeitnehmer heute ihre Arbeit verrichten, abgesehen von traditionellen Arbeitsmethoden?",
+            "answers": [
+                { "text": "Arbeitnehmer können nur vor Ort im Betrieb arbeiten.", "correct": false },
+                { "text": "Arbeitnehmer können ihre Arbeit von überall digital ausführen.", "correct": true },
+                { "text": "Arbeitnehmer können nur in festen Bürozeiten arbeiten.", "correct": false },
+                { "text": "Arbeitnehmer können nur in traditioneller Handarbeit arbeiten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen digitale Assistenten und kollaborierende Roboter in der modernen Arbeitswelt?",
+            "answers": [
+                { "text": "Sie ersetzen vollständig menschliche Arbeitskraft.", "correct": false },
+                { "text": "Sie unterstützen die Mitarbeiter bei der Digitalisierung.", "correct": false },
+                { "text": "Sie übernehmen alle Aufgaben im Produktionsbereich.", "correct": false },
+                { "text": "Sie unterstützen bei verschiedenen Arbeitsprozessen.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was ermöglicht die Arbeit von außerhalb und digital kooperierend?",
+            "answers": [
+                { "text": "Es ermöglicht ausschließlich die Arbeit in festen Teams.", "correct": false },
+                { "text": "Es ermöglicht die flexible Zusammenarbeit von verschiedenen Orten.", "correct": true },
+                { "text": "Es ermöglicht nur die Arbeit im Unternehmenssitz.", "correct": false },
+                { "text": "Es ermöglicht nur die Arbeit in festen Büros.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Veränderungen haben flexible Arbeitszeitmodelle auf die Arbeitsweise der Arbeitnehmer?",
+            "answers": [
+                { "text": "Sie machen feste Arbeitszeiten obligatorisch.", "correct": false },
+                { "text": "Sie ermöglichen die Anpassung der Arbeitszeit an persönliche Bedürfnisse.", "correct": true },
+                { "text": "Sie schränken die Freizeitgestaltung stark ein.", "correct": false },
+                { "text": "Sie führen zu starren Arbeitszeiten für alle Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Art von Arbeitsverhältnis könnte als 'Freelancer' beschrieben werden?",
+            "answers": [
+                { "text": "Ein fester Angestellter eines Unternehmens.", "correct": false },
+                { "text": "Ein freiberuflicher Mitarbeiter ohne festen Vertrag.", "correct": true },
+                { "text": "Ein Beamter im öffentlichen Dienst.", "correct": false },
+                { "text": "Ein Arbeiter mit unbefristetem Vertrag.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Art von Entgelt erhalten Arbeitnehmer im Rahmen von Werkverträgen?",
+            "answers": [
+                { "text": "Sie erhalten ein festes Monatsgehalt.", "correct": false },
+                { "text": "Sie erhalten Bezüge ähnlich wie Beamte.", "correct": false },
+                { "text": "Sie erhalten Entgelt nach tatsächlicher Leistung.", "correct": true },
+                { "text": "Sie erhalten nur Sachleistungen als Entgelt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Stellung eines Arbeitnehmers definiert, der als Springer arbeitet?",
+            "answers": [
+                { "text": "Der Arbeitnehmer hat eine geregelte Dauerstellung.", "correct": false },
+                { "text": "Der Arbeitnehmer arbeitet flexibel und undefiniert.", "correct": true },
+                { "text": "Der Arbeitnehmer ist immer im selben Team tätig.", "correct": false },
+                { "text": "Der Arbeitnehmer arbeitet nur in einer festen Position.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet es, wenn ein Arbeitnehmer außertariflich arbeitet?",
+            "answers": [
+                { "text": "Der Arbeitnehmer wird nach Tarifvertrag bezahlt.", "correct": false },
+                { "text": "Der Arbeitnehmer erhält zusätzliche Sozialleistungen.", "correct": false },
+                { "text": "Der Arbeitnehmer hat ein frei vereinbartes Gehalt.", "correct": true },
+                { "text": "Der Arbeitnehmer hat nur Anspruch auf Mindestlohn.", "correct": false }
+            ]
+        },
+        {
+            "question": "In welchem Kontext könnten Arbeitnehmer für Sachwerte anstelle von Lohn- und Gehaltsentgelten arbeiten?",
+            "answers": [
+                { "text": "In der Bauindustrie wird so gearbeitet.", "correct": false },
+                { "text": "In der Landwirtschaft wird so gearbeitet.", "correct": false },
+                { "text": "Im Rahmen von bestimmten Werkverträgen wird so gearbeitet.", "correct": true },
+                { "text": "Im öffentlichen Dienst wird so gearbeitet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Mitbestimmung und Mitwirkung von Arbeitnehmern in modernen Arbeitsverhältnissen?",
+            "answers": [
+                { "text": "Sie ermöglicht den Arbeitnehmern, eigene Geschäftsmodelle zu entwickeln.", "correct": false },
+                { "text": "Sie ermöglicht den Arbeitnehmern, ihre Arbeitsbedingungen aktiv mitzugestalten.", "correct": true },
+                { "text": "Sie ermöglicht den Arbeitnehmern, ihre Arbeitszeiten festzulegen.", "correct": false },
+                { "text": "Sie ermöglicht den Arbeitnehmern, ihre eigenen Löhne festzulegen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie haben sich traditionelle Tätigkeiten durch die Digitalisierung verändert?",
+            "answers": [
+                { "text": "Sie sind vollständig durch neue Tätigkeiten ersetzt worden.", "correct": false },
+                { "text": "Sie wurden an digitale Technologien und Prozesse angepasst.", "correct": true },
+                { "text": "Sie sind unverändert geblieben und werden weitergeführt.", "correct": false },
+                { "text": "Sie wurden vollständig automatisiert und erfordern keine Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arbeitsformen könnten durch 3D-Druck unterstützt werden?",
+            "answers": [
+                { "text": "Nur Tätigkeiten in der Landwirtschaft.", "correct": false },
+                { "text": "Tätigkeiten in der Produktion und im Design.", "correct": true },
+                { "text": "Nur manuelle Handarbeit.", "correct": false },
+                { "text": "Tätigkeiten ausschließlich im Bürobereich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die Globalisierung das betriebliche Handeln?",
+            "answers": [
+                { "text": "Sie beschränkt das betriebliche Handeln auf nationale Märkte.", "correct": false },
+                { "text": "Sie ermöglicht die Zusammenarbeit mit internationalen Partnern.", "correct": true },
+                { "text": "Sie macht internationale Zusammenarbeit unmöglich.", "correct": false },
+                { "text": "Sie beschränkt das betriebliche Handeln auf lokale Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "In welchen Rängen können Arbeitnehmer arbeiten, und wie wird dies vereinbart?",
+            "answers": [
+                { "text": "Arbeitnehmer können in verschiedenen Rängen nach Tarif oder frei vereinbart arbeiten.", "correct": true },
+                { "text": "Arbeitnehmer arbeiten immer in festen Positionen ohne Abweichungen.", "correct": false },
+                { "text": "Arbeitnehmer arbeiten immer ohne Tarifvertrag.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Hauptunterschiede zwischen Beamtenbezügen und Lohn- und Gehaltsentgelten?",
+            "answers": [
+                { "text": "Beamtenbezüge sind immer höher als Gehälter in der Privatwirtschaft.", "correct": false },
+                { "text": "Beamtenbezüge sind fest geregelt, während Gehälter frei vereinbart werden können.", "correct": true },
+                { "text": "Beamtenbezüge sind steuerfrei, während Gehälter versteuert werden.", "correct": false },
+                { "text": "Beamtenbezüge werden nach Leistung, Gehälter nach Stunden bezahlt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Entwicklungen bestimmen heute das betriebliche Handeln in der Arbeitswelt?",
+            "answers": [
+                { "text": "Vor allem die Entwicklungen in der Schwerindustrie bestimmen heute das Handeln.", "correct": false },
+                { "text": "Die Entwicklungen in der Landwirtschaft bestimmen heute das Handeln.", "correct": false },
+                { "text": "Entwicklungen wie Digitalisierung und Globalisierung bestimmen heute das Handeln.", "correct": true },
+                { "text": "Die Entwicklungen in der traditionellen Handwerkskunst bestimmen heute das Handeln.", "correct": false }
+            ]
+        }
+    ],
+
+        "1.2.2_21-40": [
+            {
+                "question": "Was besagt das Günstigkeitsprinzip im Arbeitsrecht?",
+                "answers": [
+                    { "text": "Es besagt, dass immer die Regelung gilt, die für den Arbeitnehmer günstiger ist.", "correct": true },
+                    { "text": "Es besagt, dass der Arbeitgeber die günstigsten Arbeitszeiten festlegt.", "correct": false },
+                    { "text": "Es besagt, dass immer die gesetzliche Regelung Vorrang hat.", "correct": false },
+                    { "text": "Es besagt, dass Tarifverträge immer Vorrang vor individuellen Vereinbarungen haben.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wer ist von den Regelungen des Arbeitszeitgesetzes (ArbZG) ausgenommen?",
+                "answers": [
+                    { "text": "Alle Angestellten mit weniger als zwei Jahren Betriebszugehörigkeit.", "correct": false },
+                    { "text": "Alle leitenden Angestellten und Beamte sind ausgenommen.", "correct": true },
+                    { "text": "Alle Mitarbeiter, die in Teilzeit arbeiten, sind ausgenommen.", "correct": false },
+                    { "text": "Alle Arbeitnehmer, die im Schichtdienst arbeiten, sind ausgenommen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was regelt das Teilzeit- und Befristungsgesetz (TzBfG) bezüglich der Arbeitszeit?",
+                "answers": [
+                    { "text": "Es regelt die maximale Arbeitszeit für alle Arbeitnehmer.", "correct": false },
+                    { "text": "Es regelt das Recht auf Verringerung der vertraglich vereinbarten Arbeitszeit.", "correct": true },
+                    { "text": "Es regelt die Pflicht zur Erhöhung der Arbeitszeit nach sechs Monaten.", "correct": false },
+                    { "text": "Es regelt die maximale Arbeitszeit für leitende Angestellte.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Kündigungsfrist gilt laut § 622 BGB bei einer Betriebszugehörigkeit von weniger als zwei Jahren?",
+                "answers": [
+                    { "text": "Eine Kündigungsfrist von zwei Wochen zum Monatsende gilt.", "correct": false },
+                    { "text": "Eine Kündigungsfrist von vier Wochen zum Monatsende gilt.", "correct": true },
+                    { "text": "Eine Kündigungsfrist von sechs Wochen zum Monatsende gilt.", "correct": false },
+                    { "text": "Eine Kündigungsfrist von acht Wochen zum Monatsende gilt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Unter welchen Bedingungen gilt das Kündigungsschutzgesetz (KSchG)?",
+                "answers": [
+                    { "text": "Es gilt in Unternehmen mit mehr als fünf Vollbeschäftigten.", "correct": false },
+                    { "text": "Es gilt in Unternehmen mit mehr als zehn Vollbeschäftigten.", "correct": true },
+                    { "text": "Es gilt in Unternehmen mit mehr als zwanzig Vollbeschäftigten.", "correct": false },
+                    { "text": "Es gilt in Unternehmen mit mehr als dreißig Vollbeschäftigten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist das Ziel des Allgemeinen Gleichbehandlungsgesetzes (AGG)?",
+                "answers": [
+                    { "text": "Das Ziel ist es, die Lohnunterschiede zwischen Männern und Frauen zu beseitigen.", "correct": false },
+                    { "text": "Das Ziel ist es, Benachteiligungen aus verschiedenen Gründen zu verhindern oder zu beseitigen.", "correct": true },
+                    { "text": "Das Ziel ist es, die Arbeitszeiten in verschiedenen Branchen zu vereinheitlichen.", "correct": false },
+                    { "text": "Das Ziel ist es, die Kündigungsfristen für alle Arbeitnehmer zu verkürzen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wer legt den gesetzlichen Mindestlohn in Deutschland fest?",
+                "answers": [
+                    { "text": "Der gesetzliche Mindestlohn wird vom Bundesministerium für Wirtschaft festgelegt.", "correct": false },
+                    { "text": "Der gesetzliche Mindestlohn wird von der Bundesagentur für Arbeit festgelegt.", "correct": false },
+                    { "text": "Der gesetzliche Mindestlohn wird von der Mindestlohnkommission festgelegt.", "correct": true },
+                    { "text": "Der gesetzliche Mindestlohn wird vom Deutschen Gewerkschaftsbund festgelegt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie lange ist die Entgeltfortzahlung im Krankheitsfall laut Entgeltfortzahlungsgesetz (EntgFG) gewährleistet?",
+                "answers": [
+                    { "text": "Sie ist für eine Dauer von vier Wochen gewährleistet.", "correct": false },
+                    { "text": "Sie ist für eine Dauer von sechs Wochen gewährleistet.", "correct": true },
+                    { "text": "Sie ist für eine Dauer von acht Wochen gewährleistet.", "correct": false },
+                    { "text": "Sie ist für eine Dauer von zwölf Wochen gewährleistet.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist der Zweck des Betriebseingliederungsmanagements (BEM) nach SGB IX?",
+                "answers": [
+                    { "text": "Der Zweck ist es, die Arbeitsunfähigkeit möglichst zu verlängern.", "correct": false },
+                    { "text": "Der Zweck ist es, die Arbeitsunfähigkeit zu überwinden und einem erneuten Ausfall vorzubeugen.", "correct": true },
+                    { "text": "Der Zweck ist es, die Arbeitsunfähigkeit zu dokumentieren und zu archivieren.", "correct": false },
+                    { "text": "Der Zweck ist es, die Arbeitsunfähigkeit durch externe Fachkräfte zu überprüfen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie viele Werktage beträgt der Mindesturlaubsanspruch nach dem Bundesurlaubsgesetz (BurlG)?",
+                "answers": [
+                    { "text": "Der Mindesturlaubsanspruch beträgt 18 Werktage.", "correct": false },
+                    { "text": "Der Mindesturlaubsanspruch beträgt 20 Werktage.", "correct": false },
+                    { "text": "Der Mindesturlaubsanspruch beträgt 24 Werktage.", "correct": true },
+                    { "text": "Der Mindesturlaubsanspruch beträgt 30 Werktage.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wann beginnt die Schutzfrist nach dem Mutterschutzgesetz (MuSchG)?",
+                "answers": [
+                    { "text": "Die Schutzfrist beginnt vier Wochen vor der Entbindung.", "correct": false },
+                    { "text": "Die Schutzfrist beginnt sechs Wochen vor der Entbindung.", "correct": true },
+                    { "text": "Die Schutzfrist beginnt acht Wochen vor der Entbindung.", "correct": false },
+                    { "text": "Die Schutzfrist beginnt zehn Wochen vor der Entbindung.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Rechte haben Eltern während der Elternzeit laut Bundeseltern- und Elternzeitgesetz (BEEG)?",
+                "answers": [
+                    { "text": "Eltern haben das Recht, während der Elternzeit eine neue Stelle zu suchen.", "correct": false },
+                    { "text": "Eltern haben das Recht, während der Elternzeit in Teilzeit zu arbeiten.", "correct": false },
+                    { "text": "Eltern haben das Recht, nach der Elternzeit zur früheren Arbeit zurückzukehren.", "correct": true },
+                    { "text": "Eltern haben das Recht, während der Elternzeit ihre Arbeitszeit zu erhöhen.", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie viele Prozent der Arbeitsplätze müssen laut Schwerbehindertengesetz (SGB IX) in einem Unternehmen mit Schwerbehinderten besetzt werden?",
+                "answers": [
+                    { "text": "Mindestens 3 Prozent der Arbeitsplätze müssen besetzt werden.", "correct": false },
+                    { "text": "Mindestens 4 Prozent der Arbeitsplätze müssen besetzt werden.", "correct": false },
+                    { "text": "Mindestens 5 Prozent der Arbeitsplätze müssen besetzt werden.", "correct": true },
+                    { "text": "Mindestens 6 Prozent der Arbeitsplätze müssen besetzt werden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Unter welchen Umständen darf Kurzarbeit in einem Unternehmen eingeführt werden?",
+                "answers": [
+                    { "text": "Kurzarbeit darf nur bei vollständigem Auftragsausfall eingeführt werden.", "correct": false },
+                    { "text": "Kurzarbeit darf nur mit Zustimmung des Betriebsrats eingeführt werden.", "correct": true },
+                    { "text": "Kurzarbeit darf nur bei drohender Insolvenz eingeführt werden.", "correct": false },
+                    { "text": "Kurzarbeit darf nur mit Zustimmung der Mitarbeiter eingeführt werden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was darf ein Mitarbeiter in Bezug auf seine Personalakte laut Gesetz verlangen?",
+                "answers": [
+                    { "text": "Ein Mitarbeiter darf verlangen, dass unrichtige Angaben entfernt werden.", "correct": true },
+                    { "text": "Ein Mitarbeiter darf verlangen, dass positive Angaben hinzugefügt werden.", "correct": false },
+                    { "text": "Ein Mitarbeiter darf verlangen, dass negative Angaben entfernt werden.", "correct": false },
+                    { "text": "Ein Mitarbeiter darf verlangen, dass alle Angaben geheim bleiben.", "correct": false }
+                ]
+            },
+            {
+                "question": "Was besagt das Gesetz über aushangpflichtige Gesetze in Unternehmen?",
+                "answers": [
+                    { "text": "Es besagt, dass alle Gesetze im Intranet zugänglich gemacht werden müssen.", "correct": false },
+                    { "text": "Es besagt, dass alle Gesetze in der Personalakte vermerkt sein müssen.", "correct": false },
+                    { "text": "Es besagt, dass alle Gesetze in Papierform im Unternehmen aushängen müssen.", "correct": false },
+                    { "text": "Es besagt, dass alle Mitarbeiter jederzeit Zugriff auf aushangpflichtige Gesetze haben müssen.", "correct": true }
+                ]
+            },
+            {
+                "question": "Wer muss bei Kündigungen gemäß Kündigungsschutzgesetz (KSchG) angehört werden?",
+                "answers": [
+                    { "text": "Der Betriebsrat muss bei allen Kündigungen angehört werden.", "correct": true },
+                    { "text": "Der Arbeitgeber muss bei allen Kündigungen angehört werden.", "correct": false },
+                    { "text": "Der Arbeitnehmer muss bei allen Kündigungen angehört werden.", "correct": false },
+                    { "text": "Der Betriebsarzt muss bei allen Kündigungen angehört werden.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Anforderungen stellt das Schwerbehindertengesetz (SGB IX) an Unternehmen?",
+                "answers": [
+                    { "text": "Unternehmen müssen ihre Gebäude barrierefrei gestalten.", "correct": false },
+                    { "text": "Unternehmen müssen eine Mindestanzahl schwerbehinderter Mitarbeiter beschäftigen.", "correct": true },
+                    { "text": "Unternehmen müssen spezielle Parkplätze für Schwerbehinderte bereitstellen.", "correct": false },
+                    { "text": "Unternehmen müssen Schulungen für den Umgang mit Schwerbehinderten anbieten.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Lohnminderung erfolgt bei Kurzarbeit, und wer übernimmt einen Teil des Lohns?",
+                "answers": [
+                    { "text": "Es erfolgt eine Lohnminderung von 40 Prozent, die der Arbeitgeber übernimmt.", "correct": false },
+                    { "text": "Es erfolgt eine Lohnminderung von 50 Prozent, die der Arbeitgeber übernimmt.", "correct": false },
+                    { "text": "Es erfolgt eine Lohnminderung von 60 Prozent, die die Bundesagentur für Arbeit übernimmt.", "correct": true },
+                    { "text": "Es erfolgt eine Lohnminderung von 70 Prozent, die die Bundesagentur für Arbeit übernimmt.", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Art von Dokumenten darf nicht in die Personalakte eines Mitarbeiters aufgenommen werden?",
+                "answers": [
+                    { "text": "Dokumente, die der Mitarbeiter nicht kennt oder die zweifelhaft sind, dürfen nicht aufgenommen werden.", "correct": true },
+                    { "text": "Dokumente, die positive Bewertungen enthalten, dürfen nicht aufgenommen werden.", "correct": false },
+                    { "text": "Dokumente, die den Lohn betreffen, dürfen nicht aufgenommen werden.", "correct": false },
+                    { "text": "Dokumente, die zur Krankmeldung gehören, dürfen nicht aufgenommen werden.", "correct": false }
+                ]
+            }
+        ],
+        
+            "1.2.2_41-60": [
+                {
+                    "question": "Was ist der Unterschied zwischen Zeitentgelt und Leistungsentgelt?",
+                    "answers": [
+                        { "text": "Zeitentgelt basiert auf der Dauer der Arbeitszeit, während Leistungsentgelt auf der erbrachten Arbeitsleistung basiert.", "correct": true },
+                        { "text": "Zeitentgelt basiert auf der Anzahl der geleisteten Stunden, während Leistungsentgelt auf dem erzielten Umsatz basiert.", "correct": false },
+                        { "text": "Zeitentgelt basiert auf der Arbeitsqualität, während Leistungsentgelt auf der Anwesenheitszeit basiert.", "correct": false },
+                        { "text": "Zeitentgelt basiert auf der Anwesenheitszeit, während Leistungsentgelt auf den ausgeführten Tätigkeiten basiert.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Art von Entgeltform wird für besondere Leistungen wie Übernahme von zusätzlichen Aufgaben gezahlt?",
+                    "answers": [
+                        { "text": "Leistungszulagen werden für die Übernahme von zusätzlichen Aufgaben gezahlt.", "correct": false },
+                        { "text": "Sozialzulagen werden für die Übernahme von zusätzlichen Aufgaben gezahlt.", "correct": false },
+                        { "text": "Funktionszulagen werden für die Übernahme von zusätzlichen Aufgaben gezahlt.", "correct": true },
+                        { "text": "Erschwerniszulagen werden für die Übernahme von zusätzlichen Aufgaben gezahlt.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Art von Zulagen wird für erschwerte Arbeitsbedingungen wie Nacht- oder Sonntagsarbeit gewährt?",
+                    "answers": [
+                        { "text": "Funktionszulagen werden für erschwerte Arbeitsbedingungen gewährt.", "correct": false },
+                        { "text": "Sozialzulagen werden für erschwerte Arbeitsbedingungen gewährt.", "correct": false },
+                        { "text": "Leistungszulagen werden für erschwerte Arbeitsbedingungen gewährt.", "correct": false },
+                        { "text": "Erschwerniszulagen werden für erschwerte Arbeitsbedingungen gewährt.", "correct": true }
+                    ]
+                },
+                {
+                    "question": "Was sind Beispiele für Beteiligungen, die einem Arbeitnehmer zusätzlich zum Grundlohn gewährt werden können?",
+                    "answers": [
+                        { "text": "Beteiligungen können in Form von Prämien oder Zuschüssen gewährt werden.", "correct": false },
+                        { "text": "Beteiligungen können in Form von Aktienoptionen oder Gewinnbeteiligungen gewährt werden.", "correct": true },
+                        { "text": "Beteiligungen können in Form von Zuschlägen oder Sozialzulagen gewährt werden.", "correct": false },
+                        { "text": "Beteiligungen können in Form von Gehaltserhöhungen oder Sachbezügen gewährt werden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Entgeltform beinhaltet eine direkte Beteiligung an den Gewinnen des Unternehmens?",
+                    "answers": [
+                        { "text": "Kapitalbeteiligungen beinhalten eine direkte Beteiligung an den Gewinnen.", "correct": false },
+                        { "text": "Vermögenswirksame Leistungen beinhalten eine direkte Beteiligung an den Gewinnen.", "correct": false },
+                        { "text": "Gewinnbeteiligungen beinhalten eine direkte Beteiligung an den Gewinnen.", "correct": true },
+                        { "text": "Sozialzulagen beinhalten eine direkte Beteiligung an den Gewinnen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Zusatzleistungen könnten in Form von Sachbezügen gewährt werden?",
+                    "answers": [
+                        { "text": "Sachbezüge könnten in Form von Betriebswohnungen oder Firmenwagen gewährt werden.", "correct": true },
+                        { "text": "Sachbezüge könnten in Form von Zuschüssen oder Prämien gewährt werden.", "correct": false },
+                        { "text": "Sachbezüge könnten in Form von Gehaltsboni oder Gewinnbeteiligungen gewährt werden.", "correct": false },
+                        { "text": "Sachbezüge könnten in Form von Sozialleistungen oder Erschwerniszulagen gewährt werden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was ist der Zweck von vermögenswirksamen Leistungen innerhalb der Entgeltformen?",
+                    "answers": [
+                        { "text": "Der Zweck ist es, zusätzliche Prämien für gute Leistungen zu zahlen.", "correct": false },
+                        { "text": "Der Zweck ist es, Zuschüsse zu Sparverträgen oder Bausparverträgen zu gewähren.", "correct": true },
+                        { "text": "Der Zweck ist es, Zuschüsse für schwierige Arbeitsbedingungen zu gewähren.", "correct": false },
+                        { "text": "Der Zweck ist es, zusätzliche Sozialleistungen für Mitarbeiter zu zahlen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Rolle spielt das Grundgesetz Art. 9 bei der Bildung von Interessenvertretungen?",
+                    "answers": [
+                        { "text": "Es ermöglicht die Bildung von Gewerkschaften und Arbeitgeberverbänden zur Interessenvertretung.", "correct": true },
+                        { "text": "Es erlaubt die Einrichtung von Betriebsräten in Betrieben mit mehr als 20 Mitarbeitern.", "correct": false },
+                        { "text": "Es verpflichtet Unternehmen zur Mitbestimmung der Arbeitnehmer bei wichtigen Entscheidungen.", "correct": false },
+                        { "text": "Es schreibt vor, dass alle Arbeitnehmer in Gewerkschaften organisiert sein müssen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was regelt das Betriebsverfassungsgesetz (BetrVG)?",
+                    "answers": [
+                        { "text": "Es regelt die Zusammenarbeit zwischen Arbeitgeber und Betriebsrat im Betrieb.", "correct": true },
+                        { "text": "Es regelt die Bestimmungen für Arbeitszeiten und Pausen in Betrieben.", "correct": false },
+                        { "text": "Es regelt die Entlohnung und Urlaubsansprüche der Arbeitnehmer.", "correct": false },
+                        { "text": "Es regelt die Voraussetzungen für die Gründung von Gewerkschaften.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie oft müssen regelmäßige Betriebsversammlungen laut Betriebsverfassungsgesetz stattfinden?",
+                    "answers": [
+                        { "text": "Einmal im Monat muss eine Betriebsversammlung stattfinden.", "correct": false },
+                        { "text": "Einmal im Vierteljahr muss eine Betriebsversammlung stattfinden.", "correct": true },
+                        { "text": "Einmal im Halbjahr muss eine Betriebsversammlung stattfinden.", "correct": false },
+                        { "text": "Einmal im Jahr muss eine Betriebsversammlung stattfinden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was ermöglicht das Mitbestimmungsgesetz (MitbestG) in großen Unternehmen?",
+                    "answers": [
+                        { "text": "Es ermöglicht den Arbeitnehmern, an der Wahl des Vorstands teilzunehmen.", "correct": false },
+                        { "text": "Es ermöglicht den Arbeitnehmern, in den Aufsichtsrat gewählt zu werden.", "correct": true },
+                        { "text": "Es ermöglicht den Arbeitnehmern, ihre eigenen Gehälter festzulegen.", "correct": false },
+                        { "text": "Es ermöglicht den Arbeitnehmern, über betriebliche Investitionen zu entscheiden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "In welchem Anteil der Betriebe mit mehr als 100 Mitarbeitern existiert ein Betriebsrat?",
+                    "answers": [
+                        { "text": "In etwa 30% der Betriebe mit mehr als 100 Mitarbeitern existiert ein Betriebsrat.", "correct": false },
+                        { "text": "In etwa 50% der Betriebe mit mehr als 100 Mitarbeitern existiert ein Betriebsrat.", "correct": false },
+                        { "text": "In etwa 70% der Betriebe mit mehr als 100 Mitarbeitern existiert ein Betriebsrat.", "correct": true },
+                        { "text": "In etwa 90% der Betriebe mit mehr als 100 Mitarbeitern existiert ein Betriebsrat.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Was passiert in einem Betrieb ohne Betriebsrat, wenn es Arbeitsprobleme gibt?",
+                    "answers": [
+                        { "text": "Die Mitarbeiter müssen ihre Arbeitsprobleme individuell mit dem Arbeitgeber klären.", "correct": true },
+                        { "text": "Der Arbeitgeber entscheidet alleine über alle Arbeitsprobleme ohne Rücksprache.", "correct": false },
+                        { "text": "Ein externer Mediator wird zur Klärung der Arbeitsprobleme hinzugezogen.", "correct": false },
+                        { "text": "Die Mitarbeiter können sich direkt an eine Gewerkschaft wenden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Unter welchen Bedingungen kann eine Einigungsstelle eingerichtet werden?",
+                    "answers": [
+                        { "text": "Eine Einigungsstelle kann nur auf Wunsch des Arbeitgebers eingerichtet werden.", "correct": false },
+                        { "text": "Eine Einigungsstelle kann nur bei tariflichen Streitigkeiten eingerichtet werden.", "correct": false },
+                        { "text": "Eine Einigungsstelle kann nur bei Zustimmung von Betriebsrat und Unternehmensleitung eingerichtet werden.", "correct": true },
+                        { "text": "Eine Einigungsstelle kann nur bei betriebsbedingten Kündigungen eingerichtet werden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welche Aufgaben hat ein Betriebsrat im Betrieb?",
+                    "answers": [
+                        { "text": "Der Betriebsrat entscheidet alleine über alle betrieblichen Belange.", "correct": false },
+                        { "text": "Der Betriebsrat vertritt die Interessen der Arbeitnehmer gegenüber dem Arbeitgeber.", "correct": true },
+                        { "text": "Der Betriebsrat führt die Gehaltsverhandlungen für alle Mitarbeiter durch.", "correct": false },
+                        { "text": "Der Betriebsrat organisiert die Urlaubsplanung und Einsatzplanung.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie oft finden Wahlen zum Betriebsrat statt?",
+                    "answers": [
+                        { "text": "Wahlen zum Betriebsrat finden alle zwei Jahre statt.", "correct": false },
+                        { "text": "Wahlen zum Betriebsrat finden alle drei Jahre statt.", "correct": false },
+                        { "text": "Wahlen zum Betriebsrat finden alle vier Jahre statt.", "correct": true },
+                        { "text": "Wahlen zum Betriebsrat finden alle fünf Jahre statt.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "In welchen Betrieben kann ein Betriebsrat gewählt werden?",
+                    "answers": [
+                        { "text": "In Betrieben mit mindestens fünf Beschäftigten einschließlich Auszubildenden kann ein Betriebsrat gewählt werden.", "correct": true },
+                        { "text": "In Betrieben mit mindestens zehn Beschäftigten einschließlich Auszubildenden kann ein Betriebsrat gewählt werden.", "correct": false },
+                        { "text": "In Betrieben mit mindestens zwanzig Beschäftigten einschließlich Auszubildenden kann ein Betriebsrat gewählt werden.", "correct": false },
+                        { "text": "In Betrieben mit mindestens fünfzig Beschäftigten einschließlich Auszubildenden kann ein Betriebsrat gewählt werden.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Welches Mitbestimmungsrecht hat der Betriebsrat bei Kündigungen oder Neueinstellungen?",
+                    "answers": [
+                        { "text": "Der Betriebsrat muss über Kündigungen und Neueinstellungen vorab informiert werden.", "correct": true },
+                        { "text": "Der Betriebsrat hat kein Mitbestimmungsrecht bei Kündigungen oder Neueinstellungen.", "correct": false },
+                        { "text": "Der Betriebsrat muss selbst die Kündigungen und Neueinstellungen durchführen.", "correct": false },
+                        { "text": "Der Betriebsrat hat das Recht, Kündigungen und Neueinstellungen abzulehnen.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie bestimmt sich die Größe des Betriebsrats nach der Mitarbeiterzahl?",
+                    "answers": [
+                        { "text": "1 Person bei 5 bis 20 Mitarbeitern, 3 Mitglieder bei 21 bis 50 Mitarbeitern.", "correct": true },
+                        { "text": "2 Personen bei 5 bis 20 Mitarbeitern, 4 Mitglieder bei 21 bis 50 Mitarbeitern.", "correct": false },
+                        { "text": "3 Personen bei 5 bis 20 Mitarbeitern, 5 Mitglieder bei 21 bis 50 Mitarbeitern.", "correct": false },
+                        { "text": "4 Personen bei 5 bis 20 Mitarbeitern, 6 Mitglieder bei 21 bis 50 Mitarbeitern.", "correct": false }
+                    ]
+                },
+                {
+                    "question": "Wie lange dauert die Amtszeit eines Betriebsrats und welchen Schutz genießen die Mitglieder nach der Amtszeit?",
+                    "answers": [
+                        { "text": "Die Amtszeit beträgt zwei Jahre und es gibt keinen besonderen Kündigungsschutz.", "correct": false },
+                        { "text": "Die Amtszeit beträgt vier Jahre und es gibt einen besonderen Kündigungsschutz für sechs Monate.", "correct": false },
+                        { "text": "Die Amtszeit beträgt vier Jahre und es gibt einen besonderen Kündigungsschutz für zwölf Monate.", "correct": true },
+                        { "text": "Die Amtszeit beträgt fünf Jahre und es gibt einen besonderen Kündigungsschutz für zwölf Monate.", "correct": false }
+                    ]
+                }
+            ],
+            
+                "1.2.2_61-80": [
+                    {
+                        "question": "Welche Altersgruppe ist wahlberechtigt für die Jugend- und Auszubildendenvertretung (JAV)?",
+                        "answers": [
+                            { "text": "Alle unter 18-Jährigen und Auszubildenden bis 25 Jahre.", "correct": true },
+                            { "text": "Alle unter 16-Jährigen und Auszubildenden bis 20 Jahre.", "correct": false },
+                            { "text": "Alle unter 21-Jährigen und Auszubildenden bis 23 Jahre.", "correct": false },
+                            { "text": "Alle unter 17-Jährigen und Auszubildenden bis 24 Jahre.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Unter welchen Voraussetzungen kann eine Jugend- und Auszubildendenvertretung (JAV) im Betrieb eingerichtet werden?",
+                        "answers": [
+                            { "text": "Wenn mindestens fünf wahlberechtigte Jugendliche oder Auszubildende vorhanden sind.", "correct": true },
+                            { "text": "Wenn mindestens drei wahlberechtigte Jugendliche oder Auszubildende vorhanden sind.", "correct": false },
+                            { "text": "Wenn mindestens zehn wahlberechtigte Jugendliche oder Auszubildende vorhanden sind.", "correct": false },
+                            { "text": "Wenn mindestens sieben wahlberechtigte Jugendliche oder Auszubildende vorhanden sind.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Aufgaben hat die Jugend- und Auszubildendenvertretung (JAV) gemäß § 70 Betriebsverfassungsgesetz (BetrVG)?",
+                        "answers": [
+                            { "text": "Die JAV überwacht die Einhaltung von Gesetzen und Tarifverträgen im Betrieb.", "correct": true },
+                            { "text": "Die JAV entscheidet über die Gehaltszahlungen der Auszubildenden.", "correct": false },
+                            { "text": "Die JAV organisiert die Freizeitaktivitäten der Auszubildenden.", "correct": false },
+                            { "text": "Die JAV erstellt den Ausbildungsplan für alle Auszubildenden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "In welcher Weise arbeitet die Jugend- und Auszubildendenvertretung (JAV) mit dem Betriebsrat zusammen?",
+                        "answers": [
+                            { "text": "Die JAV reicht Vorschläge und Beschwerden über den Betriebsrat an den Arbeitgeber weiter.", "correct": true },
+                            { "text": "Die JAV übernimmt die Aufgaben des Betriebsrats bei Abwesenheit.", "correct": false },
+                            { "text": "Die JAV entscheidet gemeinsam mit dem Betriebsrat über Kündigungen.", "correct": false },
+                            { "text": "Die JAV führt alleine Verhandlungen mit dem Arbeitgeber.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welches besondere Recht haben Mitglieder der JAV nach Beendigung des Berufsausbildungsverhältnisses?",
+                        "answers": [
+                            { "text": "Ein Recht auf Übernahme in ein Arbeitsverhältnis auf unbestimmte Zeit.", "correct": true },
+                            { "text": "Ein Recht auf eine Gehaltserhöhung nach der Ausbildung.", "correct": false },
+                            { "text": "Ein Recht auf eine bezahlte Weiterbildung nach der Ausbildung.", "correct": false },
+                            { "text": "Ein Recht auf eine sofortige Beförderung nach der Ausbildung.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Was regeln Tarifverträge grundsätzlich?",
+                        "answers": [
+                            { "text": "Sie regeln die Arbeits- und Einkommensbedingungen der Arbeitnehmer.", "correct": true },
+                            { "text": "Sie regeln die Steuersätze für Unternehmen und Arbeitnehmer.", "correct": false },
+                            { "text": "Sie regeln die gesetzlichen Feiertage und Urlaubstage.", "correct": false },
+                            { "text": "Sie regeln die Mitgliedschaft in Gewerkschaften und Verbänden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Zwischen welchen Parteien werden Tarifverträge abgeschlossen?",
+                        "answers": [
+                            { "text": "Zwischen den Gewerkschaften und den Arbeitgeberverbänden oder Unternehmen.", "correct": true },
+                            { "text": "Zwischen den Arbeitnehmern und den staatlichen Behörden.", "correct": false },
+                            { "text": "Zwischen den Gewerkschaften und den internationalen Organisationen.", "correct": false },
+                            { "text": "Zwischen den Arbeitgeberverbänden und den staatlichen Behörden.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wer ist tarifgebunden?",
+                        "answers": [
+                            { "text": "Die Mitglieder der Tarifvertragsparteien und die Arbeitgeber, die selbst Parteieines Tarifvertrages sind.", "correct": true },
+                            { "text": "Alle Arbeitnehmer und Arbeitgeber in einem bestimmten Bundesland.", "correct": false },
+                            { "text": "Alle Gewerkschaftsmitglieder unabhängig von ihrer Branche.", "correct": false },
+                            { "text": "Alle Beschäftigten in öffentlich-rechtlichen Institutionen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Was passiert, wenn ein Tarifvertrag für allgemeinverbindlich erklärt wird?",
+                        "answers": [
+                            { "text": "Er gilt auch für alle nicht tarifgebundenen Arbeitgeber und Beschäftigten des tariflichen Geltungsbereichs.", "correct": true },
+                            { "text": "Er gilt nur für die Mitglieder der Gewerkschaft, die den Tarifvertrag ausgehandelt hat.", "correct": false },
+                            { "text": "Er gilt nur für die Arbeitgeber, die freiwillig zustimmen.", "correct": false },
+                            { "text": "Er gilt nur für die Arbeitnehmer, die dem Tarifvertrag ausdrücklich zustimmen.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Was ist ein Flächentarifvertrag?",
+                        "answers": [
+                            { "text": "Ein Tarifvertrag, der für einen bestimmten räumlichen Geltungsbereich eines Wirtschaftszweiges abgeschlossen wird.", "correct": true },
+                            { "text": "Ein Tarifvertrag, der ausschließlich für Großstädte in Deutschland gilt.", "correct": false },
+                            { "text": "Ein Tarifvertrag, der nur für einzelne Unternehmen gilt.", "correct": false },
+                            { "text": "Ein Tarifvertrag, der nur für bestimmte Berufsgruppen gilt.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Funktion hat das Bundesministerium für Arbeit und Soziales im Zusammenhang mit Tarifverträgen?",
+                        "answers": [
+                            { "text": "Es kann Tarifverträge im Einvernehmen mit dem Tarifausschuss für allgemeinverbindlich erklären.", "correct": true },
+                            { "text": "Es legt die Tarifverträge für alle Branchen in Deutschland fest.", "correct": false },
+                            { "text": "Es entscheidet über die Gültigkeit von Tarifverträgen in Ausnahmefällen.", "correct": false },
+                            { "text": "Es verhandelt Tarifverträge direkt mit den Gewerkschaften.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wann endet die Friedenspflicht nach einem Tarifvertrag?",
+                        "answers": [
+                            { "text": "Vier Wochen nach Ende des Tarifvertrages endet die Friedenspflicht.", "correct": true },
+                            { "text": "Zwei Wochen nach Unterzeichnung des Tarifvertrages endet die Friedenspflicht.", "correct": false },
+                            { "text": "Drei Monate nach Inkrafttreten des Tarifvertrages endet die Friedenspflicht.", "correct": false },
+                            { "text": "Einen Monat vor Ablauf des Tarifvertrages endet die Friedenspflicht.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Wie wird ein Streik offiziell beschlossen?",
+                        "answers": [
+                            { "text": "Durch eine Urabstimmung mit 75% der Stimmen der zuständigen Gewerkschaftsmitglieder.", "correct": true },
+                            { "text": "Durch eine Abstimmung unter den Arbeitgebern des betroffenen Wirtschaftszweiges.", "correct": false },
+                            { "text": "Durch einen Beschluss der Geschäftsführung des betroffenen Unternehmens.", "correct": false },
+                            { "text": "Durch eine Abstimmung unter allen betroffenen Arbeitnehmern.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Was können Arbeitgeber im Rahmen eines Arbeitskampfes als Gegenmaßnahme zu einem Streik tun?",
+                        "answers": [
+                            { "text": "Sie können eine Aussperrung durchführen und die Betriebstore schließen.", "correct": true },
+                            { "text": "Sie können die Löhne der streikenden Arbeitnehmer kürzen.", "correct": false },
+                            { "text": "Sie können die streikenden Arbeitnehmer für einen anderen Standort versetzen.", "correct": false },
+                            { "text": "Sie können die Gewerkschaft verklagen und Schadensersatz fordern.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Konsequenzen haben spontane oder wilde Streiks?",
+                        "answers": [
+                            { "text": "Spontane oder wilde Streiks können Schadensersatzforderungen und Kündigungen zur Folge haben.", "correct": true },
+                            { "text": "Spontane oder wilde Streiks haben keine rechtlichen Konsequenzen.", "correct": false },
+                            { "text": "Spontane oder wilde Streiks führen automatisch zu einem neuen Tarifvertrag.", "correct": false },
+                            { "text": "Spontane oder wilde Streiks sind nur bei Zustimmung des Betriebsrats zulässig.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Rolle spielt das Schlichtungsverfahren im Arbeitskampf?",
+                        "answers": [
+                            { "text": "Es kann vor und während des Streiks zur Einigung der Tarifparteien beitragen.", "correct": true },
+                            { "text": "Es entscheidet über die Rechtmäßigkeit eines Streiks oder einer Aussperrung.", "correct": false },
+                            { "text": "Es legt die Höhe der Lohnzahlungen während des Streiks fest.", "correct": false },
+                            { "text": "Es organisiert die Verhandlungen zwischen den betroffenen Arbeitnehmern und Arbeitgebern.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Ansprüche haben streikende Arbeitnehmer während eines Streiks?",
+                        "answers": [
+                            { "text": "Streikende Arbeitnehmer haben keinen Anspruch auf Lohn oder Gehalt während eines Streiks.", "correct": true },
+                            { "text": "Streikende Arbeitnehmer haben Anspruch auf eine reduzierte Lohnzahlung während eines Streiks.", "correct": false },
+                            { "text": "Streikende Arbeitnehmer haben Anspruch auf eine Rückzahlung ihrer Gewerkschaftsbeiträge.", "correct": false },
+                            { "text": "Streikende Arbeitnehmer haben Anspruch auf eine Entschädigung für entgangene Arbeitszeit.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Was ist eine Aussperrung im Rahmen eines Arbeitskampfes?",
+                        "answers": [
+                            { "text": "Eine Maßnahme, bei der der Arbeitgeber die Betriebstore schließt und niemanden zur Arbeit lässt.", "correct": true },
+                            { "text": "Eine Maßnahme, bei der die Gewerkschaft den Zugang zum Betrieb für die Arbeitnehmer blockiert.", "correct": false },
+                            { "text": "Eine Maßnahme, bei der die Arbeitnehmer den Arbeitgeber von Entscheidungen ausschließen.", "correct": false },
+                            { "text": "Eine Maßnahme, bei der der Betriebsrat die Arbeitsplätze im Betrieb stilllegt.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Welche Streikarten gibt es?",
+                        "answers": [
+                            { "text": "Arbeitseinstellung, Schwerpunktstreik, Dienst nach Vorschrift, Warnstreik, wilder Streik.", "correct": true },
+                            { "text": "Arbeitseinstellung, Teilstreik, Generalstreik, friedlicher Streik, illegaler Streik.", "correct": false },
+                            { "text": "Arbeitseinstellung, Betriebsstillstand, Tarifstreik, kollektiver Streik, spontane Streik.", "correct": false },
+                            { "text": "Arbeitseinstellung, Solidaritätsstreik, politischer Streik, betrieblicher Streik, sektorieller Streik.", "correct": false }
+                        ]
+                    },
+                    {
+                        "question": "Unter welchen Bedingungen besteht ein Streikverbot?",
+                        "answers": [
+                            { "text": "Ein Streikverbot besteht während einer tariflich festgelegten Friedenspflicht.", "correct": true },
+                            { "text": "Ein Streikverbot besteht während einer laufenden Urabstimmung.", "correct": false },
+                            { "text": "Ein Streikverbot besteht nur während einer Schlichtung.", "correct": false },
+                            { "text": "Ein Streikverbot besteht während der Verhandlungen über eine Aussperrung.", "correct": false }
+                        ]
+                    }
+                ]
+            }
+                   

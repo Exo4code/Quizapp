@@ -1,0 +1,184 @@
+{
+    "2.1_1-20": [
+        {
+            "question": "Was sind die Hauptziele der Datenverarbeitung in Unternehmen?",
+            "answers": [
+                { "text": "Verlangsamung von Arbeitsprozessen", "correct": false },
+                { "text": "Erhöhung der Anzahl von Personal", "correct": false },
+                { "text": "Schnelle Verarbeitung großer Datenmengen", "correct": true },
+                { "text": "Reduktion der IT-Kosten ohne Systemoptimierung", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Datenverarbeitung zur Automatisierung von Arbeitsabläufen beitragen?",
+            "answers": [
+                { "text": "Durch die manuelle Eingabe von Daten", "correct": false },
+                { "text": "Durch die Beseitigung monotoner Routinetätigkeiten", "correct": true },
+                { "text": "Durch die manuelle Anpassung aller Programme", "correct": false },
+                { "text": "Durch die manuelle Überwachung der Datenverarbeitung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bringt die bessere Individualisierung und Automatisierung durch Entscheidungssysteme?",
+            "answers": [
+                { "text": "Weniger Einfluss von IT-Systemen", "correct": false },
+                { "text": "Mehr manuelle Arbeitsschritte", "correct": false },
+                { "text": "Höhere Wirtschaftlichkeit durch bessere Entscheidungen", "correct": true },
+                { "text": "Reduzierte Datenverarbeitungsgeschwindigkeit", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Integration und Vernetzung von Aufgaben und Funktionen für die Kommunikation in Unternehmen wichtig?",
+            "answers": [
+                { "text": "Um die Anzahl der verwendeten Systeme zu verringern", "correct": false },
+                { "text": "Um mehr Papierdokumente zu erzeugen", "correct": false },
+                { "text": "Um bessere Kommunikation durch verbesserte Verbindungen zu ermöglichen", "correct": true },
+                { "text": "Um die Anzahl der Arbeitsplätze zu verringern", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können IT-Systeme zur Reduzierung von Personal- und Sachkosten beitragen?",
+            "answers": [
+                { "text": "Durch die Erhöhung der Anzahl der IT-Mitarbeiter", "correct": false },
+                { "text": "Durch die Automatisierung und Verbesserung von Arbeitsabläufen", "correct": true },
+                { "text": "Durch den Kauf von mehr Büroausstattung", "correct": false },
+                { "text": "Durch die manuelle Datenverarbeitung", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter dem EVA-Prinzip in der Datenverarbeitung?",
+            "answers": [
+                { "text": "Verarbeitung, Ausgabe, Eingabe", "correct": false },
+                { "text": "Eingabe, Verarbeitung, Ausgabe", "correct": true },
+                { "text": "Ausgabe, Verarbeitung, Eingabe", "correct": false },
+                { "text": "Eingabe, Ausgabe, Verarbeitung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Zentraleinheit (CPU) bei der Leistungsfähigkeit eines Computersystems?",
+            "answers": [
+                { "text": "Sie speichert alle Daten auf dem Computer", "correct": false },
+                { "text": "Sie bestimmt wesentlich die Leistungsfähigkeit des Systems", "correct": true },
+                { "text": "Sie ist hauptsächlich für die Anzeige von Bildern zuständig", "correct": false },
+                { "text": "Sie steuert die externe Stromversorgung", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind Peripheriegeräte notwendig, um ein Computersystem funktionsfähig zu machen?",
+            "answers": [
+                { "text": "Sie sind hauptsächlich für die Kühlung des Systems verantwortlich", "correct": false },
+                { "text": "Sie sind notwendig, um Daten einzugeben und auszugeben", "correct": true },
+                { "text": "Sie dienen nur der Datensicherung", "correct": false },
+                { "text": "Sie erhöhen die Speicherkapazität des Computers", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Geräte gehören zu den Peripheriegeräten eines Computersystems?",
+            "answers": [
+                { "text": "CPU und Arbeitsspeicher", "correct": false },
+                { "text": "Tastatur und Monitor", "correct": true },
+                { "text": "Mainboard und Prozessor", "correct": false },
+                { "text": "Betriebssystem und Software", "correct": false }
+            ]
+        },
+        {
+            "question": "Wofür wird der Arbeitsspeicher in einem Computersystem verwendet?",
+            "answers": [
+                { "text": "Zur dauerhaften Speicherung aller Daten", "correct": false },
+                { "text": "Zur Zwischenspeicherung von Programmen und Daten", "correct": true },
+                { "text": "Zur Stromversorgung des Computers", "correct": false },
+                { "text": "Zur Verarbeitung aller eingehenden Daten", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung haben externe Speichereinheiten wie USB-Sticks und Festplatten?",
+            "answers": [
+                { "text": "Sie dienen zur Anzeige von Grafiken", "correct": false },
+                { "text": "Sie werden zur Sicherung von Daten und Programmen verwendet", "correct": true },
+                { "text": "Sie beschleunigen die Datenverarbeitungsgeschwindigkeit", "correct": false },
+                { "text": "Sie steuern die Eingabeeinheiten des Computers", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter der Konfiguration eines Computersystems?",
+            "answers": [
+                { "text": "Die Auswahl und Anpassung der Tastatur", "correct": false },
+                { "text": "Die Zusammenstellung von Geräten und Programmen für spezielle Anwendungen", "correct": true },
+                { "text": "Die Einrichtung des Bildschirms und der Maus", "correct": false },
+                { "text": "Die Festlegung des Standorts des Computers im Raum", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Zusammenstellung einer Computersystem-Konfiguration an spezifische Anwendungen angepasst werden?",
+            "answers": [
+                { "text": "Durch die Installation von mehr Bildschirmen", "correct": false },
+                { "text": "Durch die Auswahl passender Geräte und Software", "correct": true },
+                { "text": "Durch die Reduzierung der CPU-Leistung", "correct": false },
+                { "text": "Durch den Einsatz von Standardprogrammen für alle Aufgaben", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche technischen, organisatorischen und wirtschaftlichen Aspekte müssen IT-Mitarbeiter bei der Einrichtung von Arbeitsplätzen beachten?",
+            "answers": [
+                { "text": "Nur die ästhetische Gestaltung des Arbeitsplatzes", "correct": false },
+                { "text": "Nur die Farbauswahl der Monitore", "correct": false },
+                { "text": "Technische Anforderungen sowie ergonomische und wirtschaftliche Aspekte", "correct": true },
+                { "text": "Nur die Geschwindigkeit der Internetverbindung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche ergonomischen und sicherheitsrelevanten Aspekte spielen bei der IT-Ausstattung von Arbeitsplätzen eine Rolle?",
+            "answers": [
+                { "text": "Die Anordnung der Möbel im Raum", "correct": false },
+                { "text": "Die Wahl des richtigen Bildschirms und die Sicherung von Daten", "correct": true },
+                { "text": "Die Farbgestaltung der Wände im Büro", "correct": false },
+                { "text": "Die Art und Weise, wie der Raum beleuchtet ist", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktionen haben Eingabegeräte wie die Tastatur in einem Computersystem?",
+            "answers": [
+                { "text": "Sie dienen zur Ausgabe von Daten", "correct": false },
+                { "text": "Sie ermöglichen die Eingabe von Daten ins System", "correct": true },
+                { "text": "Sie speichern Programme und Daten", "correct": false },
+                { "text": "Sie verarbeiten die eingegebenen Daten", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die schnelle Verarbeitung großer Datenmengen ein Ziel der Datenverarbeitung?",
+            "answers": [
+                { "text": "Um mehr Daten manuell zu verarbeiten", "correct": false },
+                { "text": "Um effizientere Entscheidungen treffen zu können", "correct": true },
+                { "text": "Um die Anzahl der Mitarbeiter zu erhöhen", "correct": false },
+                { "text": "Um den Energieverbrauch des Systems zu steigern", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen intelligente Unterstützungssysteme bei der Entscheidungsfindung in Unternehmen?",
+            "answers": [
+                { "text": "Sie automatisieren Entscheidungen und verbessern Abläufe", "correct": true },
+                { "text": "Sie reduzieren die Notwendigkeit von IT-Systemen", "correct": false },
+                { "text": "Sie verlangsamen die Entscheidungsprozesse", "correct": false },
+                { "text": "Sie ersetzen die menschliche Intuition vollständig", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie beeinflusst die Leistungsfähigkeit der Zentraleinheit die Geschwindigkeit der Datenverarbeitung?",
+        "answers": [
+            { "text": "Sie hat keinen Einfluss auf die Verarbeitungsgeschwindigkeit", "correct": false },
+            { "text": "Sie entscheidet über die Geschwindigkeit der Verarbeitung", "correct": true },
+            { "text": "Sie steuert ausschließlich die externen Geräte", "correct": false },
+            { "text": "Sie reduziert die Anzahl der möglichen Verbindungen", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Faktoren bestimmen die Auswahl der Komponenten für eine maßgeschneiderte Computer-Konfiguration?",
+        "answers": [
+            { "text": "Die Farbe der verwendeten Geräte", "correct": false },
+            { "text": "Die spezifischen Anforderungen der jeweiligen Anwendung", "correct": true },
+            { "text": "Die Anzahl der installierten Programme", "correct": false },
+            { "text": "Die Größe des Bildschirms", "correct": false }
+        ]
+    }
+]
+}

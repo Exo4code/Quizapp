@@ -1,0 +1,914 @@
+{
+    "1.3.3_1-20":[
+        {
+            "question": "Was versteht man unter dem Unternehmensleitbild?",
+            "answers": [
+                { "text": "Ein Dokument, das die Vision, Mission und Werte eines Unternehmens beschreibt.", "correct": true },
+                { "text": "Ein Dokument, das die finanziellen Ziele eines Unternehmens festlegt.", "correct": false },
+                { "text": "Ein Dokument, das die Marketingstrategie eines Unternehmens erläutert.", "correct": false },
+                { "text": "Ein Dokument, das die rechtlichen Rahmenbedingungen eines Unternehmens beschreibt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, dass Unternehmen ein Unternehmensleitbild entwickeln?",
+            "answers": [
+                { "text": "Es dient dazu, die Mitarbeiter zu motivieren und ein gemeinsames Ziel zu schaffen.", "correct": true },
+                { "text": "Es dient dazu, die steuerlichen Verpflichtungen des Unternehmens zu regeln.", "correct": false },
+                { "text": "Es dient dazu, die Arbeitszeiten und Urlaubsregelungen festzulegen.", "correct": false },
+                { "text": "Es dient dazu, die rechtlichen Pflichten des Unternehmens zu definieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Hauptaussage sollte in der Vision eines Unternehmens enthalten sein?",
+            "answers": [
+                { "text": "Die Vision beschreibt, wie das Unternehmen in der Zukunft wahrgenommen werden will.", "correct": true },
+                { "text": "Die Vision beschreibt die aktuellen Markttrends und Wettbewerber.", "correct": false },
+                { "text": "Die Vision beschreibt die tägliche Arbeit der Mitarbeiter im Detail.", "correct": false },
+                { "text": "Die Vision beschreibt die rechtlichen Verpflichtungen des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Zielsetzung verfolgt die Mission eines Unternehmens?",
+            "answers": [
+                { "text": "Die Mission definiert die Kernaufgaben und den Zweck des Unternehmens.", "correct": true },
+                { "text": "Die Mission definiert die finanziellen Ziele für das nächste Geschäftsjahr.", "correct": false },
+                { "text": "Die Mission definiert die rechtlichen Rahmenbedingungen des Unternehmens.", "correct": false },
+                { "text": "Die Mission definiert die individuellen Ziele der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Kundenorientierung in einem Unternehmensleitbild wichtig?",
+            "answers": [
+                { "text": "Kundenorientierung hilft, langfristige Kundenbeziehungen aufzubauen und zu pflegen.", "correct": true },
+                { "text": "Kundenorientierung hilft, die internen Prozesse des Unternehmens zu verbessern.", "correct": false },
+                { "text": "Kundenorientierung hilft, die rechtlichen Anforderungen zu erfüllen.", "correct": false },
+                { "text": "Kundenorientierung hilft, die Marketingstrategie zu entwickeln.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Nachhaltigkeit im Kontext eines Unternehmensleitbildes?",
+            "answers": [
+                { "text": "Nachhaltigkeit bedeutet, ökonomische, ökologische und soziale Aspekte zu berücksichtigen.", "correct": true },
+                { "text": "Nachhaltigkeit bedeutet, die finanziellen Ziele des Unternehmens zu maximieren.", "correct": false },
+                { "text": "Nachhaltigkeit bedeutet, die rechtlichen Vorschriften strikt einzuhalten.", "correct": false },
+                { "text": "Nachhaltigkeit bedeutet, die Mitarbeiter regelmäßig weiterzubilden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie trägt das Leitbild zur Abgrenzung von Mitbewerbern bei?",
+            "answers": [
+                { "text": "Das Leitbild hilft, ein einzigartiges Image für das Unternehmen zu schaffen.", "correct": true },
+                { "text": "Das Leitbild hilft, die Marktpreise für Produkte festzulegen.", "correct": false },
+                { "text": "Das Leitbild hilft, die rechtlichen Rahmenbedingungen zu verstehen.", "correct": false },
+                { "text": "Das Leitbild hilft, die internen Prozesse zu standardisieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen die Mitarbeiter bei der Entwicklung eines Unternehmensleitbildes?",
+            "answers": [
+                { "text": "Mitarbeiter sollten aktiv in die Entwicklung des Leitbildes einbezogen werden.", "correct": true },
+                { "text": "Mitarbeiter sollten das Leitbild nur zur Kenntnis nehmen, aber nicht aktiv mitgestalten.", "correct": false },
+                { "text": "Mitarbeiter sollten das Leitbild nur auf Führungsebene diskutieren.", "correct": false },
+                { "text": "Mitarbeiter sollten das Leitbild nur nach Vorgabe umsetzen, ohne daran mitzuwirken.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aspekte gehören zu den Werten und Verhaltensweisen in einem Unternehmensleitbild?",
+            "answers": [
+                { "text": "Aspekte wie Kundenorientierung, Wirtschaftlichkeit und Zuverlässigkeit.", "correct": true },
+                { "text": "Aspekte wie Preisgestaltung, Lagerhaltung und Logistik.", "correct": false },
+                { "text": "Aspekte wie Steuerpflichten, Rechnungswesen und Buchführung.", "correct": false },
+                { "text": "Aspekte wie Mitarbeiterschulung, Urlaubsgestaltung und Arbeitszeiten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sollten Unternehmensgrundsätze und Werte schriftlich fixiert werden?",
+            "answers": [
+                { "text": "Um eine klare Orientierung für Mitarbeiter, Kunden und die Öffentlichkeit zu bieten.", "correct": true },
+                { "text": "Um die rechtlichen Rahmenbedingungen des Unternehmens festzulegen.", "correct": false },
+                { "text": "Um die Marketingstrategie des Unternehmens zu entwickeln.", "correct": false },
+                { "text": "Um die Finanzplanung des Unternehmens zu unterstützen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet es, wenn ein Unternehmen von sich behauptet, die Marktbesten in einem bestimmten Bereich zu sein?",
+            "answers": [
+                { "text": "Es bedeutet, dass das Unternehmen in diesem Bereich nach Exzellenz strebt.", "correct": true },
+                { "text": "Es bedeutet, dass das Unternehmen in allen Bereichen Marktführer ist.", "correct": false },
+                { "text": "Es bedeutet, dass das Unternehmen die höchsten Gewinne erzielt.", "correct": false },
+                { "text": "Es bedeutet, dass das Unternehmen die meisten Mitarbeiter hat.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat das Leitbild für die langfristige Ausrichtung eines Unternehmens?",
+            "answers": [
+                { "text": "Das Leitbild dient als Orientierung für die strategische Entwicklung des Unternehmens.", "correct": true },
+                { "text": "Das Leitbild dient als Grundlage für die rechtlichen Verpflichtungen des Unternehmens.", "correct": false },
+                { "text": "Das Leitbild dient als Basis für die Erstellung von Arbeitsverträgen.", "correct": false },
+                { "text": "Das Leitbild dient als Vorlage für die Finanzplanung des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie sollte ein Unternehmensleitbild formuliert sein, um seine Zielgruppe zu erreichen?",
+            "answers": [
+                { "text": "Es sollte einfach, klar und verständlich formuliert sein.", "correct": true },
+                { "text": "Es sollte komplex und detailliert formuliert sein.", "correct": false },
+                { "text": "Es sollte technisch und juristisch korrekt formuliert sein.", "correct": false },
+                { "text": "Es sollte ausschließlich auf die finanziellen Aspekte eingehen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es wichtig, dass die Mitarbeiter sich mit dem Unternehmensleitbild identifizieren?",
+            "answers": [
+                { "text": "Damit sie die Ziele des Unternehmens in ihrem täglichen Handeln umsetzen können.", "correct": true },
+                { "text": "Damit sie die rechtlichen Vorschriften des Unternehmens einhalten können.", "correct": false },
+                { "text": "Damit sie die Marketingstrategie des Unternehmens verstehen können.", "correct": false },
+                { "text": "Damit sie die Finanzplanung des Unternehmens unterstützen können.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann ein Unternehmensleitbild zur Verbesserung der Wirtschaftlichkeit beitragen?",
+            "answers": [
+                { "text": "Es kann klare Richtlinien für effizientes Handeln und Ressourcennutzung setzen.", "correct": true },
+                { "text": "Es kann die rechtlichen Rahmenbedingungen für das Unternehmen festlegen.", "correct": false },
+                { "text": "Es kann die Marketingstrategie des Unternehmens entwickeln.", "correct": false },
+                { "text": "Es kann die Preisgestaltung der Produkte bestimmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter der Mission eines Unternehmens?",
+            "answers": [
+                { "text": "Die Mission beschreibt den Zweck und die Kernaufgaben des Unternehmens.", "correct": true },
+                { "text": "Die Mission beschreibt die finanziellen Ziele des Unternehmens.", "correct": false },
+                { "text": "Die Mission beschreibt die rechtlichen Rahmenbedingungen des Unternehmens.", "correct": false },
+                { "text": "Die Mission beschreibt die individuellen Ziele der Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Inwiefern kann das Unternehmensleitbild das Selbstverständnis eines Unternehmens widerspiegeln?",
+            "answers": [
+                { "text": "Es definiert die Werte und Grundsätze, die das Unternehmen in der Öffentlichkeit vertreten will.", "correct": true },
+                { "text": "Es definiert die rechtlichen Verpflichtungen, die das Unternehmen einhalten muss.", "correct": false },
+                { "text": "Es definiert die finanziellen Ziele, die das Unternehmen erreichen will.", "correct": false },
+                { "text": "Es definiert die Marketingstrategien, die das Unternehmen verfolgen muss.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Exzellenz im Unternehmensleitbild von IT-Unternehmen?",
+            "answers": [
+                { "text": "Exzellenz bedeutet, dass das Unternehmen nach höchsten Standards und bester Qualität strebt.", "correct": true },
+                { "text": "Exzellenz bedeutet, dass das Unternehmen die höchsten Gewinne erzielt.", "correct": false },
+                { "text": "Exzellenz bedeutet, dass das Unternehmen die meisten Mitarbeiter beschäftigt.", "correct": false },
+                { "text": "Exzellenz bedeutet, dass das Unternehmen die besten Preise anbietet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann ein Unternehmensleitbild den Stakeholdern eines Unternehmens nutzen?",
+            "answers": [
+                { "text": "Es zeigt den Stakeholdern, welche Werte und Ziele das Unternehmen verfolgt.", "correct": true },
+                { "text": "Es zeigt den Stakeholdern, welche rechtlichen Verpflichtungen das Unternehmen hat.", "correct": false },
+                { "text": "Es zeigt den Stakeholdern, welche Marketingstrategien das Unternehmen verfolgt.", "correct": false },
+                { "text": "Es zeigt den Stakeholdern, welche finanziellen Ziele das Unternehmen hat.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es notwendig, das Unternehmensleitbild im Laufe der Zeit anzupassen?",
+            "answers": [
+                { "text": "Weil sich die Marktbedingungen und Unternehmensziele ändern können.", "correct": true },
+                { "text": "Weil sich die rechtlichen Rahmenbedingungen ändern können.", "correct": false },
+                { "text": "Weil sich die finanziellen Ziele des Unternehmens ändern können.", "correct": false },
+                { "text": "Weil sich die Anzahl der Mitarbeiter ändern kann.", "correct": false }
+            ]
+        }
+    ],
+    "1.3.3_21-40": [
+        {
+            "question": "Was ist ein Unternehmensleitbild?",
+            "answers": [
+                { "text": "Es beschreibt das Selbstverständnis und die Grundsätze eines Unternehmens.", "correct": true },
+                { "text": "Es definiert die gesetzlichen Vorschriften, die ein Unternehmen einhalten muss.", "correct": false },
+                { "text": "Es legt die Marktstrategie und Preisgestaltung des Unternehmens fest.", "correct": false },
+                { "text": "Es enthält die technischen Spezifikationen der Produkte des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aussage beschreibt am besten die Vision eines Unternehmens?",
+            "answers": [
+                { "text": "Die Vision beschreibt das langfristige Ziel und die zukünftige Ausrichtung des Unternehmens.", "correct": true },
+                { "text": "Die Vision definiert die täglichen Abläufe und Prozesse im Unternehmen.", "correct": false },
+                { "text": "Die Vision legt die rechtlichen Anforderungen an das Unternehmen fest.", "correct": false },
+                { "text": "Die Vision bestimmt die Gehälter und Boni für die Mitarbeiter des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Hauptziel eines Unternehmensleitbildes?",
+            "answers": [
+                { "text": "Das Hauptziel ist, die Werte und Ziele des Unternehmens nach innen und außen zu kommunizieren.", "correct": true },
+                { "text": "Das Hauptziel ist, die Finanzplanung und Budgetierung des Unternehmens zu steuern.", "correct": false },
+                { "text": "Das Hauptziel ist, die rechtlichen Vorgaben für die Produktentwicklung festzulegen.", "correct": false },
+                { "text": "Das Hauptziel ist, die Wettbewerbsstrategie und Preispolitik zu bestimmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter der Mission eines Unternehmens?",
+            "answers": [
+                { "text": "Die Mission beschreibt den Zweck und die Kernaufgaben des Unternehmens.", "correct": true },
+                { "text": "Die Mission definiert die gesetzlichen Anforderungen an das Unternehmen.", "correct": false },
+                { "text": "Die Mission legt die Marketingstrategie und Vertriebskanäle fest.", "correct": false },
+                { "text": "Die Mission beschreibt die technischen Spezifikationen der Produkte des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Werte sind für ein Unternehmen besonders wichtig?",
+            "answers": [
+                { "text": "Kundenorientierung, Kompetenz, Wirtschaftlichkeit und Nachhaltigkeit.", "correct": true },
+                { "text": "Wettbewerbsfähigkeit, Preisgestaltung, Marktanteil und Umsatzwachstum.", "correct": false },
+                { "text": "Innovation, Produktentwicklung, Markterweiterung und Kostensenkung.", "correct": false },
+                { "text": "Rechtskonformität, Steueroptimierung, Prozessautomatisierung und Outsourcing.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Ziel der Kundenorientierung eines Unternehmens?",
+            "answers": [
+                { "text": "Das Ziel ist es, eine langfristige Bindung zu den Kunden aufzubauen und ihre Zufriedenheit zu maximieren.", "correct": true },
+                { "text": "Das Ziel ist es, die Produktionskosten zu senken und die Gewinnmarge zu erhöhen.", "correct": false },
+                { "text": "Das Ziel ist es, neue Märkte zu erschließen und den Marktanteil zu erhöhen.", "correct": false },
+                { "text": "Das Ziel ist es, die internen Prozesse zu optimieren und die Effizienz zu steigern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet es, wenn Ziele SMART formuliert sind?",
+            "answers": [
+                { "text": "Es bedeutet, dass Ziele spezifisch, messbar, akzeptiert, realistisch und terminierbar sind.", "correct": true },
+                { "text": "Es bedeutet, dass Ziele strategisch, marktgerecht, ausgerichtet, ressourcenschonend und termingerecht sind.", "correct": false },
+                { "text": "Es bedeutet, dass Ziele sicher, machbar, attraktiv, rentabel und transparent sind.", "correct": false },
+                { "text": "Es bedeutet, dass Ziele spezifisch, marktführend, ambitioniert, realistisch und termingerecht sind.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Ziele gehören zu den Sachzielen eines Unternehmens?",
+            "answers": [
+                { "text": "Sachziele beziehen sich auf die Art, Menge, Qualität, den Ort und die Zeit der produzierten Güter oder Dienstleistungen.", "correct": true },
+                { "text": "Sachziele beziehen sich auf die langfristige Steigerung von Umsatz und Gewinn.", "correct": false },
+                { "text": "Sachziele beziehen sich auf die Einführung neuer Technologien und Innovationen.", "correct": false },
+                { "text": "Sachziele beziehen sich auf die Optimierung der internen Prozesse und Abläufe.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter strategischen Zielen eines Unternehmens?",
+            "answers": [
+                { "text": "Strategische Ziele sind langfristige Ziele, die in der Regel von der Unternehmensleitung festgelegt werden.", "correct": true },
+                { "text": "Strategische Ziele sind kurzfristige Ziele, die von den Abteilungsleitern festgelegt werden.", "correct": false },
+                { "text": "Strategische Ziele sind operative Ziele, die sich auf die tägliche Arbeit beziehen.", "correct": false },
+                { "text": "Strategische Ziele sind finanzielle Ziele, die auf Gewinnmaximierung ausgerichtet sind.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Zielkonflikt?",
+            "answers": [
+                { "text": "Ein Zielkonflikt tritt auf, wenn verschiedene Ziele eines Unternehmens sich gegenseitig behindern.", "correct": true },
+                { "text": "Ein Zielkonflikt tritt auf, wenn ein Unternehmen seine Ziele nicht erreicht.", "correct": false },
+                { "text": "Ein Zielkonflikt tritt auf, wenn die Ziele eines Unternehmens zu hoch gesteckt sind.", "correct": false },
+                { "text": "Ein Zielkonflikt tritt auf, wenn Mitarbeiter mit den Unternehmenszielen nicht einverstanden sind.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Nachhaltigkeit in der Zielformulierung eines Unternehmens?",
+            "answers": [
+                { "text": "Nachhaltigkeit bedeutet, ökonomische, soziale und ökologische Ziele so auszurichten, dass Ressourcen geschont und die Umwelt geschützt werden.", "correct": true },
+                { "text": "Nachhaltigkeit bedeutet, die Gewinnmarge zu maximieren und den Marktanteil zu steigern.", "correct": false },
+                { "text": "Nachhaltigkeit bedeutet, neue Märkte zu erschließen und die Produktionskosten zu senken.", "correct": false },
+                { "text": "Nachhaltigkeit bedeutet, die internen Prozesse zu optimieren und die Effizienz zu steigern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Interessen haben Stakeholder in einem Unternehmen?",
+            "answers": [
+                { "text": "Stakeholder haben Interessen wie hohe Rendite, Arbeitsplatzsicherheit, Kundenzufriedenheit und Nachhaltigkeit.", "correct": true },
+                { "text": "Stakeholder haben Interessen wie Kostensenkung, Marktführerschaft, Prozessoptimierung und Outsourcing.", "correct": false },
+                { "text": "Stakeholder haben Interessen wie Innovationsförderung, Produktentwicklung, Markterweiterung und Preisgestaltung.", "correct": false },
+                { "text": "Stakeholder haben Interessen wie Steueroptimierung, Prozessautomatisierung, Produktionssteigerung und Wettbewerbsanalyse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheiden sich strategische von operativen Zielen in einem Unternehmen?",
+            "answers": [
+                { "text": "Strategische Ziele sind langfristig und werden von der Unternehmensleitung festgelegt, während operative Ziele kurzfristig sind und von Abteilungs- oder Teamleitungen festgelegt werden.", "correct": true },
+                { "text": "Strategische Ziele sind kurzfristig und werden von der Unternehmensleitung festgelegt, während operative Ziele langfristig sind und von Abteilungs- oder Teamleitungen festgelegt werden.", "correct": false },
+                { "text": "Strategische Ziele werden ausschließlich von externen Beratern festgelegt, während operative Ziele von der Unternehmensleitung bestimmt werden.", "correct": false },
+                { "text": "Strategische Ziele sind mittel- bis kurzfristig und werden von der Teamleitung festgelegt, während operative Ziele langfristig und von der Unternehmensleitung festgelegt werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind komplementäre Ziele?",
+            "answers": [
+                { "text": "Komplementäre Ziele ergänzen und verstärken sich gegenseitig.", "correct": true },
+                { "text": "Komplementäre Ziele sind Ziele, die sich gegenseitig behindern.", "correct": false },
+                { "text": "Komplementäre Ziele sind Ziele, die nicht miteinander in Verbindung stehen.", "correct": false },
+                { "text": "Komplementäre Ziele sind Ziele, die sich nur kurzfristig erreichen lassen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einer Priorisierung von Zielen?",
+            "answers": [
+                { "text": "Priorisierung bedeutet, die wichtigsten Ziele mit dem größten Wirkungsgrad zuerst zu verfolgen.", "correct": true },
+                { "text": "Priorisierung bedeutet, alle Ziele gleichzeitig und gleichwertig zu verfolgen.", "correct": false },
+                { "text": "Priorisierung bedeutet, die langfristigen Ziele vor den kurzfristigen Zielen zu verfolgen.", "correct": false },
+                { "text": "Priorisierung bedeutet, die operativen Ziele vor den strategischen Zielen zu verfolgen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Ziele gehören zu den Formalzielen eines Unternehmens?",
+            "answers": [
+                { "text": "Formalziele beziehen sich auf den Erfolg des unternehmerischen Handelns, wie Steigerung von Umsatz und Gewinn.", "correct": true },
+                { "text": "Formalziele beziehen sich auf die konkrete Produktion von Gütern und Dienstleistungen.", "correct": false },
+                { "text": "Formalziele beziehen sich auf die Einführung neuer Technologien und Innovationen.", "correct": false },
+                { "text": "Formalziele beziehen sich auf die Optimierung der internen Prozesse und Abläufe.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Zielgruppe hat das Unternehmensleitbild eines Unternehmens?",
+            "answers": [
+                { "text": "Das Unternehmensleitbild richtet sich an Mitarbeiter, Kunden und die Öffentlichkeit.", "correct": true },
+                { "text": "Das Unternehmensleitbild richtet sich ausschließlich an die Unternehmensleitung.", "correct": false },
+                { "text": "Das Unternehmensleitbild richtet sich nur an die Investoren und Anteilseigner.", "correct": false },
+                { "text": "Das Unternehmensleitbild richtet sich ausschließlich an die Konkurrenzunternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Abkürzung SMART bei der Zielformulierung?",
+            "answers": [
+                { "text": "SMART steht für Specific, Measurable, Achievable, Realistic, Timely.", "correct": true },
+                { "text": "SMART steht für Strategic, Measurable, Achievable, Realistic, Timely.", "correct": false },
+                { "text": "SMART steht für Specific, Marketable, Achievable, Realistic, Timely.", "correct": false },
+                { "text": "SMART steht für Specific, Measurable, Adjustable, Realistic, Timely.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Ziele sind häufig mit IT-Funktionen in einem Unternehmen verbunden?",
+            "answers": [
+                { "text": "Ziele der IT-Sicherheit und des IT-Informationsschutzes.", "correct": true },
+                { "text": "Ziele der Produktionssteigerung und Kostenminimierung.", "correct": false },
+                { "text": "Ziele der Marktführerschaft und Gewinnmaximierung.", "correct": false },
+                { "text": "Ziele der Innovationsförderung und Mitarbeiterzufriedenheit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Zertifizierungen für Unternehmen?",
+            "answers": [
+                { "text": "Zertifizierungen dokumentieren die Einhaltung gesetzlicher Anforderungen und internationaler Standards.", "correct": true },
+                { "text": "Zertifizierungen verbessern die internen Prozesse und führen zu einer höheren Produktivität.", "correct": false },
+                { "text": "Zertifizierungen reduzieren die Kosten für Produktion und steigern den Umsatz im Unternehmen.", "correct": false },
+                { "text": "Zertifizierungen sichern den Wettbewerbsvorteil und garantieren den Zugang zu neuen Märkten.", "correct": false }
+            ]
+        }
+    ],
+
+    "1.3.3_41-60":[
+        {
+            "question": "Was ist das Ziel einer ISO 9001 Zertifizierung?",
+            "answers": [
+                { "text": "Das Ziel ist es, die Arbeitszeiten im Unternehmen zu standardisieren.", "correct": false },
+                { "text": "Das Ziel ist es, den Qualitätsstandard und das Qualitätsmanagement sicherzustellen.", "correct": true },
+                { "text": "Das Ziel ist es, die Produktion von IT-Geräten zu maximieren.", "correct": false },
+                { "text": "Das Ziel ist es, den Energieverbrauch des Unternehmens zu reduzieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wer führt die Audits für die ISO 9001 Zertifizierung durch?",
+            "answers": [
+                { "text": "Die Audits werden ausschließlich von internen Mitarbeitern durchgeführt.", "correct": false },
+                { "text": "Die Audits werden ausschließlich von der Geschäftsführung durchgeführt.", "correct": false },
+                { "text": "Die Audits werden von externen Prüforganisationen in Zusammenarbeit mit internen Auditoren durchgeführt.", "correct": true },
+                { "text": "Die Audits werden ausschließlich von staatlichen Behörden durchgeführt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein integriertes Managementsystem (IMS)?",
+            "answers": [
+                { "text": "Ein IMS ist ein System zur Überwachung der Mitarbeiterproduktivität.", "correct": false },
+                { "text": "Ein IMS umfasst Methoden und Instrumente zur Einhaltung von Anforderungen aus verschiedenen Bereichen.", "correct": true },
+                { "text": "Ein IMS ist ein System zur Verwaltung von Unternehmensfinanzen.", "correct": false },
+                { "text": "Ein IMS ist ein Netzwerk von Computern in einem Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bereiche deckt ein integriertes Managementsystem (IMS) ab?",
+            "answers": [
+                { "text": "Es deckt nur den Bereich des Kundenservice ab.", "correct": false },
+                { "text": "Es deckt ausschließlich den Bereich des Qualitätsmanagements ab.", "correct": false },
+                { "text": "Es deckt verschiedene Bereiche wie Qualität, Umwelt und Sicherheit ab.", "correct": true },
+                { "text": "Es deckt nur den Bereich der IT-Sicherheit ab.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Norm wird für das Qualitätsmanagement verwendet?",
+            "answers": [
+                { "text": "Die DIN EN ISO 14001:2015 wird für das Qualitätsmanagement verwendet.", "correct": false },
+                { "text": "Die DIN ISO 45001 wird für das Qualitätsmanagement verwendet.", "correct": false },
+                { "text": "Die DIN EN ISO 50001:2018 wird für das Qualitätsmanagement verwendet.", "correct": false },
+                { "text": "Die DIN EN ISO 9001:2015 wird für das Qualitätsmanagement verwendet.", "correct": true }
+            ]
+        },
+        {
+            "question": "Welche Norm ist für das Umweltmanagement relevant?",
+            "answers": [
+                { "text": "Die DIN EN ISO 9001:2015 ist für das Umweltmanagement relevant.", "correct": false },
+                { "text": "Die DIN EN ISO 14001:2015 ist für das Umweltmanagement relevant.", "correct": true },
+                { "text": "Die ISO/IEC 27001 ist für das Umweltmanagement relevant.", "correct": false },
+                { "text": "Die ISO/IEC 27701 ist für das Umweltmanagement relevant.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Technologieführerschaft für ein Unternehmen?",
+            "answers": [
+                { "text": "Das Unternehmen hält den größten Marktanteil.", "correct": false },
+                { "text": "Das Unternehmen hat die besten Mitarbeiter.", "correct": false },
+                { "text": "Das Unternehmen setzt Trends durch seine Innovationen.", "correct": true },
+                { "text": "Das Unternehmen verkauft die meisten Produkte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Marktführerschaft ein erstrebenswertes Ziel für Unternehmen?",
+            "answers": [
+                { "text": "Weil es die Anzahl der Mitarbeiter erhöht.", "correct": false },
+                { "text": "Weil es die Innovationskraft des Unternehmens steigert.", "correct": false },
+                { "text": "Weil es den Marktanteil des Unternehmens maximiert.", "correct": true },
+                { "text": "Weil es die Produktionskosten des Unternehmens senkt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Wertschöpfung in einem Unternehmen?",
+            "answers": [
+                { "text": "Die Wertschöpfung ist die Summe aller Lohnkosten im Unternehmen.", "correct": false },
+                { "text": "Die Wertschöpfung ist die Differenz zwischen Erträgen und Aufwendungen.", "correct": false },
+                { "text": "Die Wertschöpfung ist die Differenz zwischen Umsatz und Gewinn.", "correct": false },
+                { "text": "Die Wertschöpfung ist die Differenz zwischen erbrachter Leistung und eingesetzten Vorleistungen.", "correct": true }
+            ]
+        },
+        {
+            "question": "Wie wird der Gewinn eines Unternehmens berechnet?",
+            "answers": [
+                { "text": "Gewinn = Erträge – Steuern.", "correct": false },
+                { "text": "Gewinn = Umsatz – Kosten.", "correct": false },
+                { "text": "Gewinn = Umsatz – Aufwendungen.", "correct": false },
+                { "text": "Gewinn = Erträge – Aufwendungen.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was bedeutet es für ein Unternehmen, wirtschaftlich zu handeln?",
+            "answers": [
+                { "text": "Es bedeutet, alle Ressourcen ohne Rücksicht auf Kosten zu nutzen.", "correct": false },
+                { "text": "Es bedeutet, die Kosten so gering wie möglich zu halten und die Erträge zu maximieren.", "correct": true },
+                { "text": "Es bedeutet, den Gewinn durch Steigerung der Produktion zu maximieren.", "correct": false },
+                { "text": "Es bedeutet, die Qualität der Produkte zu maximieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Kennzahl beschreibt die Produktivität eines Unternehmens?",
+            "answers": [
+                { "text": "Die Produktivität wird durch die Anzahl der Mitarbeiter beschrieben.", "correct": false },
+                { "text": "Die Produktivität wird durch das Verhältnis von Output zu Input beschrieben.", "correct": true },
+                { "text": "Die Produktivität wird durch den Umsatz pro Monat beschrieben.", "correct": false },
+                { "text": "Die Produktivität wird durch die Anzahl der verkauften Produkte beschrieben.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Liquidität ein wichtiges Ziel für Unternehmen?",
+            "answers": [
+                { "text": "Weil die Liquidität die Gewinne des Unternehmens steigert.", "correct": false },
+                { "text": "Weil die Liquidität die Rentabilität des Unternehmens erhöht.", "correct": false },
+                { "text": "Weil die Liquidität die Zahlungsfähigkeit des Unternehmens sichert.", "correct": true },
+                { "text": "Weil die Liquidität die Anzahl der Mitarbeiter beeinflusst.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Risikoabsicherung in einem Unternehmen?",
+            "answers": [
+                { "text": "Risikoabsicherung bedeutet, das Eigenkapital des Unternehmens zu erhöhen.", "correct": false },
+                { "text": "Risikoabsicherung bedeutet, die Produktionskosten zu senken.", "correct": false },
+                { "text": "Risikoabsicherung bedeutet, große Unternehmensrisiken zu minimieren.", "correct": true },
+                { "text": "Risikoabsicherung bedeutet, die Anzahl der Kunden zu maximieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann ein Unternehmen seine Eigenkapitalrentabilität berechnen?",
+            "answers": [
+                { "text": "Eigenkapitalrentabilität = Gewinn × 100 / Umsatz.", "correct": false },
+                { "text": "Eigenkapitalrentabilität = Gewinn × 100 / Eigenkapital.", "correct": true },
+                { "text": "Eigenkapitalrentabilität = Gewinn × 100 / Kosten.", "correct": false },
+                { "text": "Eigenkapitalrentabilität = Gewinn × 100 / Fremdkapital.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat die Rentabilität für ein Unternehmen?",
+            "answers": [
+                { "text": "Die Rentabilität zeigt den Erfolg einer Investition in Prozent.", "correct": true },
+                { "text": "Die Rentabilität zeigt die Anzahl der verkauften Produkte.", "correct": false },
+                { "text": "Die Rentabilität zeigt die Höhe der Lohnkosten im Unternehmen.", "correct": false },
+                { "text": "Die Rentabilität zeigt den Gesamtgewinn des Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen Umsatz und Nettoumsatz?",
+            "answers": [
+                { "text": "Der Umsatz ist der Gesamtbetrag, Nettoumsatz ist der Betrag nach Abzug der Umsatzsteuer.", "correct": true },
+                { "text": "Der Umsatz ist der Gewinn, Nettoumsatz ist der Ertrag.", "correct": false },
+                { "text": "Der Umsatz ist der Betrag vor Abzug der Kosten, Nettoumsatz ist der Betrag nach Abzug der Steuern.", "correct": false },
+                { "text": "Der Umsatz ist der Bruttobetrag, Nettoumsatz ist der Nettogewinn.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Norm wird für das IT-Grundschutz/-Sicherheitsmanagement verwendet?",
+            "answers": [
+                { "text": "Die ISO/IEC 27701 wird für das IT-Grundschutz/-Sicherheitsmanagement verwendet.", "correct": false },
+                { "text": "Die ISO/IEC 27001 wird für das IT-Grundschutz/-Sicherheitsmanagement verwendet.", "correct": true },
+                { "text": "Die DIN EN ISO 50001:2018 wird für das IT-Grundschutz/-Sicherheitsmanagement verwendet.", "correct": false },
+                { "text": "Die DIN ISO 45001 wird für das IT-Grundschutz/-Sicherheitsmanagement verwendet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Norm ist für das Energiemanagement relevant?",
+            "answers": [
+                { "text": "Die DIN EN ISO 9001:2015 ist für das Energiemanagement relevant.", "correct": false },
+                { "text": "Die DIN EN ISO 50001:2018 ist für das Energiemanagement relevant.", "correct": true },
+                { "text": "Die ISO/IEC 27001 ist für das Energiemanagement relevant.", "correct": false },
+                { "text": "Die ISO/IEC 27701 ist für das Energiemanagement relevant.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist Wachstum in Absatz und Umsatz ein strategisches Ziel?",
+            "answers": [
+                { "text": "Weil es zu einer Verringerung der Produktionskosten führt.", "correct": false },
+                { "text": "Weil es bessere Beschaffungskonditionen und Marktvorteile bringt.", "correct": true },
+                { "text": "Weil es die Zahl der Mitarbeiter erhöht.", "correct": false },
+                { "text": "Weil es die Produktionszeit verkürzt.", "correct": false }
+            ]
+        }
+    ],
+
+    "1.3.3_61-80":[
+        {
+            "question": "Was versteht man unter dem Begriff „Qualität“ im Kontext des Qualitätsmanagements?",
+            "answers": [
+                { "text": "Qualität bezieht sich auf die technische Ausstattung eines Unternehmens und deren Leistungsfähigkeit.", "correct": false },
+                { "text": "Qualität bezieht sich auf die Güte der Eigenschaften eines Produkts, Systems oder Prozesses.", "correct": true },
+                { "text": "Qualität bezieht sich auf die Effizienz der Mitarbeiter in einem Unternehmen.", "correct": false },
+                { "text": "Qualität bezieht sich auf die Dauer eines Produktionsprozesses in einem Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Kundenzufriedenheit im Qualitätsmanagement?",
+            "answers": [
+                { "text": "Kundenzufriedenheit ist ein unwichtiger Aspekt und wird selten berücksichtigt.", "correct": false },
+                { "text": "Kundenzufriedenheit ist die Grundlage für die Optimierung der internen Arbeitsabläufe.", "correct": false },
+                { "text": "Kundenzufriedenheit ist ein zentrales Ziel und beeinflusst maßgeblich die Qualitätsziele.", "correct": true },
+                { "text": "Kundenzufriedenheit spielt nur in bestimmten Branchen eine relevante Rolle.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bezeichnet das Null-Fehler-Prinzip im Qualitätsmanagement?",
+            "answers": [
+                { "text": "Das Null-Fehler-Prinzip bedeutet, dass keine Fehler im Endprodukt auftreten dürfen.", "correct": true },
+                { "text": "Das Null-Fehler-Prinzip bedeutet, dass Fehler akzeptabel sind, solange sie geringfügig sind.", "correct": false },
+                { "text": "Das Null-Fehler-Prinzip bedeutet, dass Fehler nur in der Testphase auftreten dürfen.", "correct": false },
+                { "text": "Das Null-Fehler-Prinzip bedeutet, dass Fehler vollständig ignoriert werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wofür steht das TQM im Qualitätsmanagement?",
+            "answers": [
+                { "text": "TQM steht für „Total Quality Management“ und bedeutet umfassendes Qualitätsmanagement.", "correct": true },
+                { "text": "TQM steht für „Technical Quality Management“ und fokussiert auf technische Qualität.", "correct": false },
+                { "text": "TQM steht für „Temporary Quality Management“ und ist ein temporäres Managementkonzept.", "correct": false },
+                { "text": "TQM steht für „Target Quality Management“ und zielt auf spezifische Qualitätsziele.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Ziel des PDCA-Qualitätsmanagementzyklus?",
+            "answers": [
+                { "text": "Das Ziel des PDCA-Zyklus ist die kurzfristige Optimierung von Marktstrategien.", "correct": false },
+                { "text": "Das Ziel des PDCA-Zyklus ist die langfristige Verbesserung der Geschäftsprozesse.", "correct": true },
+                { "text": "Das Ziel des PDCA-Zyklus ist die Erhöhung der Produktionsgeschwindigkeit.", "correct": false },
+                { "text": "Das Ziel des PDCA-Zyklus ist die Verringerung der Produktionskosten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einem Qualitätszirkel?",
+            "answers": [
+                { "text": "Ein Qualitätszirkel ist ein Team, das ausschließlich Produktionsprozesse überwacht.", "correct": false },
+                { "text": "Ein Qualitätszirkel ist eine interne Gruppe, die kontinuierlich Qualitätsverbesserungen diskutiert.", "correct": true },
+                { "text": "Ein Qualitätszirkel ist eine externe Prüfungseinheit zur Überwachung von Qualitätsstandards.", "correct": false },
+                { "text": "Ein Qualitätszirkel ist eine Software zur Qualitätssicherung in Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Kaizen-Prinzip im Rahmen des Qualitätsmanagements?",
+            "answers": [
+                { "text": "Das Kaizen-Prinzip bezieht sich auf die schnelle Implementierung von Innovationen.", "correct": false },
+                { "text": "Das Kaizen-Prinzip zielt auf die schrittweise Verbesserung aller Unternehmensprozesse.", "correct": true },
+                { "text": "Das Kaizen-Prinzip bezieht sich auf die Einhaltung gesetzlicher Vorschriften.", "correct": false },
+                { "text": "Das Kaizen-Prinzip fokussiert auf die Qualitätskontrolle durch externe Audits.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird der Begriff „gewollte Qualität“ im Zusammenhang mit Kundenzufriedenheit definiert?",
+            "answers": [
+                { "text": "Gewollte Qualität ist die vom Kunden wahrgenommene Qualität eines Produkts.", "correct": false },
+                { "text": "Gewollte Qualität ist die vom Unternehmen angestrebte Qualität eines Produkts.", "correct": true },
+                { "text": "Gewollte Qualität ist die durchschnittliche Qualität auf dem Markt.", "correct": false },
+                { "text": "Gewollte Qualität ist die vom Markt geforderte Mindestqualität eines Produkts.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat das IMS (Integriertes Managementsystem) für ein Unternehmen?",
+            "answers": [
+                { "text": "Das IMS koordiniert nur die finanziellen Abläufe innerhalb eines Unternehmens.", "correct": false },
+                { "text": "Das IMS verbindet verschiedene Managementsysteme zu einer einheitlichen Struktur.", "correct": true },
+                { "text": "Das IMS ist ausschließlich für die Überwachung der Produktionslinien zuständig.", "correct": false },
+                { "text": "Das IMS dient zur Optimierung der Kundenbeziehungen eines Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Methode der „Fünf Warum“ im Qualitätsmanagement?",
+            "answers": [
+                { "text": "Die Methode der „Fünf Warum“ klärt den Preis eines Produkts durch fünf Nachfragen.", "correct": false },
+                { "text": "Die Methode der „Fünf Warum“ untersucht die Ursache von Fehlern durch wiederholtes Nachfragen.", "correct": true },
+                { "text": "Die Methode der „Fünf Warum“ definiert fünf verschiedene Qualitätsstufen in einem Produkt.", "correct": false },
+                { "text": "Die Methode der „Fünf Warum“ analysiert die Kundenzufriedenheit anhand von fünf Kriterien.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist das Innovationsmanagement wichtig für Unternehmen?",
+            "answers": [
+                { "text": "Innovationsmanagement ermöglicht es Unternehmen, regelmäßig neue Produkte einzuführen.", "correct": false },
+                { "text": "Innovationsmanagement verhindert, dass Unternehmen veraltete Technologien einsetzen.", "correct": false },
+                { "text": "Innovationsmanagement ist entscheidend, um im Wettbewerb auf neue Anforderungen zu reagieren.", "correct": true },
+                { "text": "Innovationsmanagement reduziert die Kosten für bestehende Produkte und Dienstleistungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Schwachstellen können laut Kunden- und Mitarbeiterbefragungen zu Unzufriedenheit führen?",
+            "answers": [
+                { "text": "Zu lange Bearbeitungszeiten und zu geringe Mitarbeiterzufriedenheit können zu Unzufriedenheit führen.", "correct": true },
+                { "text": "Zu kurze Bearbeitungszeiten und zu geringe Prozessschritte können zu Unzufriedenheit führen.", "correct": false },
+                { "text": "Zu hohe Automatisierung und zu wenig direkte Kundeninteraktion können zu Unzufriedenheit führen.", "correct": false },
+                { "text": "Zu viele Arbeitsstunden und zu geringe Urlaubszeiten können zu Unzufriedenheit führen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aussagen betonen in der Werbung die Qualität eines Produkts oder einer Dienstleistung?",
+            "answers": [
+                { "text": "„Qualität und Quantität im perfekten Gleichgewicht.“", "correct": false },
+                { "text": "„Qualität ist unsere zweitwichtigste Priorität.“", "correct": false },
+                { "text": "„Qualität überzeugt, Service entscheidet!“", "correct": true },
+                { "text": "„Qualität ist nicht immer alles, aber fast!“", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Norm ist relevant für das Umweltmanagement in einem Unternehmen?",
+            "answers": [
+                { "text": "Die DIN ISO 9001 ist die relevante Norm für das Umweltmanagement.", "correct": false },
+                { "text": "Die DIN EN ISO 14001 ist die relevante Norm für das Umweltmanagement.", "correct": true },
+                { "text": "Die DIN ISO 45001 ist die relevante Norm für das Umweltmanagement.", "correct": false },
+                { "text": "Die ISO/IEC 27001 ist die relevante Norm für das Umweltmanagement.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Audit im Kontext des Qualitätsmanagements?",
+            "answers": [
+                { "text": "Ein Audit ist eine Prüfung der finanziellen Stabilität eines Unternehmens.", "correct": false },
+                { "text": "Ein Audit ist eine systematische Inspektion, um die Einhaltung von Qualitätsstandards zu überprüfen.", "correct": true },
+                { "text": "Ein Audit ist ein Schulungsprogramm für neue Mitarbeiter in einem Unternehmen.", "correct": false },
+                { "text": "Ein Audit ist ein Bericht zur Jahresbilanz eines Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist eine Zertifizierung nach ISO 9001 für Unternehmen vorteilhaft?",
+            "answers": [
+                { "text": "Eine Zertifizierung nach ISO 9001 senkt die Produktionskosten erheblich.", "correct": false },
+                { "text": "Eine Zertifizierung nach ISO 9001 erhöht die Chancen im Wettbewerb und verbessert die Qualität.", "correct": true },
+                { "text": "Eine Zertifizierung nach ISO 9001 ermöglicht Steuererleichterungen für das Unternehmen.", "correct": false },
+                { "text": "Eine Zertifizierung nach ISO 9001 sorgt für automatische Kundenzufriedenheit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet ein gut implementiertes Qualitätsmanagementsystem für ein Unternehmen?",
+            "answers": [
+                { "text": "Ein Qualitätsmanagementsystem erhöht die Anzahl der Arbeitsstunden pro Mitarbeiter.", "correct": false },
+                { "text": "Ein Qualitätsmanagementsystem senkt die Anzahl der Arbeitskräfte im Unternehmen.", "correct": false },
+                { "text": "Ein Qualitätsmanagementsystem verbessert die Effizienz und die Kundenzufriedenheit.", "correct": true },
+                { "text": "Ein Qualitätsmanagementsystem reduziert den Innovationsbedarf im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Wahrgenommene Qualität die Kundenzufriedenheit beeinflussen?",
+            "answers": [
+                { "text": "Eine hohe wahrgenommene Qualität kann die Kundenzufriedenheit steigern.", "correct": true },
+                { "text": "Eine niedrige wahrgenommene Qualität hat keinen Einfluss auf die Kundenzufriedenheit.", "correct": false },
+                { "text": "Eine hohe wahrgenommene Qualität reduziert die Kundenzufriedenheit.", "correct": false },
+                { "text": "Eine niedrige wahrgenommene Qualität steigert die Kundenzufriedenheit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Fehlerquote ein wichtiger Indikator im Qualitätsmanagement?",
+            "answers": [
+                { "text": "Die Fehlerquote zeigt die Effizienz der Produktionsmaschinen im Unternehmen.", "correct": false },
+                { "text": "Die Fehlerquote gibt Aufschluss über die Qualität der gelieferten Produkte und Dienstleistungen.", "correct": true },
+                { "text": "Die Fehlerquote zeigt, wie gut das Marketing des Unternehmens funktioniert.", "correct": false },
+                { "text": "Die Fehlerquote ist ein Indikator für die Zufriedenheit der Mitarbeiter im Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die kontinuierliche Prozessoptimierung für die Qualitätssicherung in einem Unternehmen?",
+            "answers": [
+                { "text": "Die kontinuierliche Prozessoptimierung reduziert die Notwendigkeit für Kundenzufriedenheitsumfragen.", "correct": false },
+                { "text": "Die kontinuierliche Prozessoptimierung sorgt für die Einhaltung gesetzlicher Vorschriften.", "correct": false },
+                { "text": "Die kontinuierliche Prozessoptimierung verbessert die Qualität durch ständige Anpassung der Prozesse.", "correct": true },
+                { "text": "Die kontinuierliche Prozessoptimierung ermöglicht es, Personalentscheidungen effizienter zu treffen.", "correct": false }
+            ]
+        }
+    ],
+    "1.3.3_81-100":[
+        {
+            "question": "Welche Maßnahmen gehören zur technischen IT-Sicherheit in einem Unternehmen?",
+            "answers": [
+                { "text": "Technische Maßnahmen umfassen die Installation von Brandschutzeinrichtungen, Notstromaggregaten, und Alarmanlagen.", "correct": true },
+                { "text": "Technische Maßnahmen umfassen die Einführung von Gleitzeitmodellen, Home-Office, und Sabbaticals.", "correct": false },
+                { "text": "Technische Maßnahmen umfassen die Optimierung der Geschäftsprozesse, Qualitätsmanagementsysteme, und Kundenfeedback.", "correct": false },
+                { "text": "Technische Maßnahmen umfassen die Durchführung von Mitarbeiterschulungen, Seminaren, und Zertifizierungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter dem Begriff 'Informationssicherheit' im Unternehmenskontext?",
+            "answers": [
+                { "text": "Informationssicherheit bedeutet die Sicherheit von Gebäuden und physischen Anlagen des Unternehmens.", "correct": false },
+                { "text": "Informationssicherheit bedeutet die Einhaltung von Umweltstandards und Nachhaltigkeitszielen.", "correct": false },
+                { "text": "Informationssicherheit bedeutet die Sicherstellung, dass Informationen und Daten vor unberechtigtem Zugriff, Verlust oder Zerstörung geschützt sind.", "correct": true },
+                { "text": "Informationssicherheit bedeutet die Förderung der Mitarbeitergesundheit und Reduzierung des Krankenstandes.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist ein Notstromaggregat wichtig für die Sicherheit eines Unternehmens?",
+            "answers": [
+                { "text": "Ein Notstromaggregat ist wichtig, um bei Stromausfall die fortlaufende Funktion der IT-Systeme zu gewährleisten.", "correct": true },
+                { "text": "Ein Notstromaggregat ist wichtig, um die Mitarbeitergesundheit durch regelmäßige Bewegung zu fördern.", "correct": false },
+                { "text": "Ein Notstromaggregat ist wichtig, um die Umweltauflagen in der Produktion zu erfüllen.", "correct": false },
+                { "text": "Ein Notstromaggregat ist wichtig, um die Kommunikation zwischen den Abteilungen zu verbessern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt ein Katastrophenhandbuch in der IT-Sicherheit eines Unternehmens?",
+            "answers": [
+                { "text": "Ein Katastrophenhandbuch dient der Schulung der Mitarbeiter im Bereich Work-Life-Balance.", "correct": false },
+                { "text": "Ein Katastrophenhandbuch dient als Leitfaden für Maßnahmen und Verhaltensweisen im Falle eines IT-Notfalls oder einer Katastrophe.", "correct": true },
+                { "text": "Ein Katastrophenhandbuch dient der Dokumentation von Umweltzertifizierungen und -analysen.", "correct": false },
+                { "text": "Ein Katastrophenhandbuch dient der Verbesserung der Arbeitsmotivation durch regelmäßige Meetings.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können Benutzerdaten in einem Unternehmen sicher geschützt werden?",
+            "answers": [
+                { "text": "Benutzerdaten können durch die regelmäßige Durchführung von Betriebssport und Fitnessprogrammen geschützt werden.", "correct": false },
+                { "text": "Benutzerdaten können durch die Einführung von Umweltmanagementsystemen und Zertifizierungen geschützt werden.", "correct": false },
+                { "text": "Benutzerdaten können durch die Implementierung von Passwortschutz, Verschlüsselungstechnologien, und Zutrittskontrollen geschützt werden.", "correct": true },
+                { "text": "Benutzerdaten können durch die Optimierung von Produktionsprozessen und Effizienzsteigerungen geschützt werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Maßnahmen tragen zur Vermeidung von Datenverlusten bei?",
+            "answers": [
+                { "text": "Maßnahmen zur Vermeidung von Datenverlusten umfassen die Installation von Brandschutzanlagen, regelmäßige Datensicherungen, und die Nutzung von Antivirensoftware.", "correct": true },
+                { "text": "Maßnahmen zur Vermeidung von Datenverlusten umfassen die Einführung von Work-Life-Balance-Programmen, Fitnessangeboten, und Betriebssport.", "correct": false },
+                { "text": "Maßnahmen zur Vermeidung von Datenverlusten umfassen die Optimierung der Kundenserviceprozesse, regelmäßige Schulungen, und Mitarbeitermotivation.", "correct": false },
+                { "text": "Maßnahmen zur Vermeidung von Datenverlusten umfassen die Implementierung von Umweltzertifizierungen, Nachhaltigkeitsberichten, und Recyclingprogrammen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung hat das polizeiliche Führungszeugnis für die IT-Sicherheit in Unternehmen?",
+            "answers": [
+                { "text": "Das polizeiliche Führungszeugnis ist wichtig, um die rechtliche Grundlage für Umweltzertifizierungen zu schaffen.", "correct": false },
+                { "text": "Das polizeiliche Führungszeugnis ist wichtig, um die Vertrauenswürdigkeit bestimmter Mitarbeiter für sicherheitsrelevante IT-Positionen zu prüfen.", "correct": true },
+                { "text": "Das polizeiliche Führungszeugnis ist wichtig, um die Qualifikation von Mitarbeitern im Bereich Qualitätsmanagement nachzuweisen.", "correct": false },
+                { "text": "Das polizeiliche Führungszeugnis ist wichtig, um die Mitarbeitermotivation und Zufriedenheit zu verbessern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie kann die Verschlüsselung von Daten zur IT-Sicherheit beitragen?",
+            "answers": [
+                { "text": "Die Verschlüsselung von Daten sorgt dafür, dass sensible Informationen vor unbefugtem Zugriff geschützt sind und nur autorisierte Personen darauf zugreifen können.", "correct": true },
+                { "text": "Die Verschlüsselung von Daten sorgt dafür, dass Mitarbeiter ihre Fitnessziele erreichen und ihre Gesundheit verbessern können.", "correct": false },
+                { "text": "Die Verschlüsselung von Daten sorgt dafür, dass Umweltauflagen eingehalten und Nachhaltigkeitsziele erreicht werden.", "correct": false },
+                { "text": "Die Verschlüsselung von Daten sorgt dafür, dass die Arbeitszufriedenheit der Mitarbeiter durch bessere Kommunikation gesteigert wird.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Ursachen können zu einem Datenverlust in einem Unternehmen führen?",
+            "answers": [
+                { "text": "Zu einem Datenverlust können Ursachen wie Computermissbrauch, Feuer, Ausfall, Diebstahl, Stromausfall, und Netzwerkfehler führen.", "correct": true },
+                { "text": "Zu einem Datenverlust können Ursachen wie mangelnde Mitarbeitermotivation, unzureichende Work-Life-Balance, und schlechte Arbeitsbedingungen führen.", "correct": false },
+                { "text": "Zu einem Datenverlust können Ursachen wie falsche Umweltzertifizierungen, unzureichende Nachhaltigkeitsmaßnahmen, und schlechte Recyclingprozesse führen.", "correct": false },
+                { "text": "Zu einem Datenverlust können Ursachen wie schlechte Kundenzufriedenheit, ungenügende Qualitätsstandards, und mangelnde Schulungen führen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche organisatorischen Maßnahmen können die Datensicherheit in einem Unternehmen verbessern?",
+            "answers": [
+                { "text": "Organisatorische Maßnahmen umfassen die Implementierung von Zutrittskontrollen, regelmäßigen Schulungen, und einem umfassenden Datenschutzkonzept.", "correct": true },
+                { "text": "Organisatorische Maßnahmen umfassen die Förderung der Work-Life-Balance, Einführung von Home-Office, und Bereitstellung von Fitnessprogrammen.", "correct": false },
+                { "text": "Organisatorische Maßnahmen umfassen die Optimierung von Produktionsprozessen, Steigerung der Effizienz, und Verbesserung der Kundenbeziehungen.", "correct": false },
+                { "text": "Organisatorische Maßnahmen umfassen die Zertifizierung von Umweltmanagementsystemen, Durchführung von Nachhaltigkeitsanalysen, und Implementierung von Recyclingprogrammen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Maßnahmen zur Work-Life-Balance werden von Unternehmen angeboten?",
+            "answers": [
+                { "text": "Maßnahmen zur Work-Life-Balance umfassen flexible Arbeitszeiten, Home-Office, Sabbaticals, und Betriebssport.", "correct": true },
+                { "text": "Maßnahmen zur Work-Life-Balance umfassen die Optimierung von IT-Sicherheitsrichtlinien, Verschlüsselung von Daten, und Implementierung von Notstromaggregaten.", "correct": false },
+                { "text": "Maßnahmen zur Work-Life-Balance umfassen die Einführung von Umweltzertifizierungen, Erstellung von Nachhaltigkeitsberichten, und Reduzierung des Energieverbrauchs.", "correct": false },
+                { "text": "Maßnahmen zur Work-Life-Balance umfassen die Optimierung von Kundenzufriedenheitsprozessen, regelmäßige Feedbackgespräche, und Verbesserung der Servicequalität.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie tragen Fitnessangebote und Betriebssport zur Gesundheitsförderung der Mitarbeiter bei?",
+            "answers": [
+                { "text": "Fitnessangebote und Betriebssport tragen zur Gesundheitsförderung bei, indem sie die physische Fitness und das Wohlbefinden der Mitarbeiter verbessern.", "correct": true },
+                { "text": "Fitnessangebote und Betriebssport tragen zur Gesundheitsförderung bei, indem sie die IT-Sicherheitsmaßnahmen eines Unternehmens optimieren.", "correct": false },
+                { "text": "Fitnessangebote und Betriebssport tragen zur Gesundheitsförderung bei, indem sie die Umweltauflagen und Recyclingprogramme eines Unternehmens verbessern.", "correct": false },
+                { "text": "Fitnessangebote und Betriebssport tragen zur Gesundheitsförderung bei, indem sie die Produktqualität und Kundenzufriedenheit steigern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt das Arbeitszeitgesetz für die Work-Life-Balance der Mitarbeiter?",
+            "answers": [
+                { "text": "Das Arbeitszeitgesetz sorgt für regelmäßige Pausen, geregelte Arbeitszeiten, und schützt besonders schutzbedürftige Gruppen wie werdende Mütter.", "correct": true },
+                { "text": "Das Arbeitszeitgesetz sorgt für die Verschlüsselung von Benutzerdaten, Implementierung von Notstromaggregaten, und Installation von Brandschutzanlagen.", "correct": false },
+                { "text": "Das Arbeitszeitgesetz sorgt für die Erstellung von Umweltzertifizierungen, Reduzierung des Energieverbrauchs, und Optimierung von Recyclingprozessen.", "correct": false },
+                { "text": "Das Arbeitszeitgesetz sorgt für die Verbesserung der Produktqualität, Steigerung der Kundenzufriedenheit, und Optimierung der Serviceprozesse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Kriterien werden im Umweltmanagement eines Unternehmens bewertet?",
+            "answers": [
+                { "text": "Kriterien wie Energieverbrauch, Abfallmanagement, und Erfüllung gesetzlicher Umweltauflagen werden im Umweltmanagement bewertet.", "correct": true },
+                { "text": "Kriterien wie IT-Sicherheit, Datenschutz, und Verschlüsselung von Benutzerdaten werden im Umweltmanagement bewertet.", "correct": false },
+                { "text": "Kriterien wie Mitarbeiterzufriedenheit, Work-Life-Balance, und Betriebssportangebote werden im Umweltmanagement bewertet.", "correct": false },
+                { "text": "Kriterien wie Qualität der Produkte, Kundenzufriedenheit, und Servicequalität werden im Umweltmanagement bewertet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung haben Nachhaltigkeitsberichte für Unternehmen?",
+            "answers": [
+                { "text": "Nachhaltigkeitsberichte dokumentieren die Umweltauflagen und Nachhaltigkeitsziele, die ein Unternehmen erfüllt, und bieten Transparenz für Stakeholder.", "correct": true },
+                { "text": "Nachhaltigkeitsberichte dokumentieren die IT-Sicherheitsrichtlinien, die Datenschutzmaßnahmen, und die Verschlüsselungstechnologien eines Unternehmens.", "correct": false },
+                { "text": "Nachhaltigkeitsberichte dokumentieren die Work-Life-Balance-Programme, die Fitnessangebote, und die Betriebssportveranstaltungen eines Unternehmens.", "correct": false },
+                { "text": "Nachhaltigkeitsberichte dokumentieren die Qualität der Produkte, die Kundenzufriedenheit, und die Servicequalität eines Unternehmens.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird das Risikopotenzial im Umweltmanagement eines Unternehmens bewertet?",
+            "answers": [
+                { "text": "Das Risikopotenzial wird anhand von Faktoren wie gesetzliche Anforderungen, wirtschaftliche Notwendigkeiten, und potenzielle Umweltauswirkungen bewertet.", "correct": true },
+                { "text": "Das Risikopotenzial wird anhand von Faktoren wie IT-Sicherheitslücken, Datenschutzverletzungen, und unzureichender Verschlüsselung bewertet.", "correct": false },
+                { "text": "Das Risikopotenzial wird anhand von Faktoren wie Mitarbeiterzufriedenheit, Work-Life-Balance, und Gesundheitsmanagement bewertet.", "correct": false },
+                { "text": "Das Risikopotenzial wird anhand von Faktoren wie Kundenzufriedenheit, Produktqualität, und Servicequalität bewertet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Maßnahmen können die Umweltbelastung eines Unternehmens reduzieren?",
+            "answers": [
+                { "text": "Maßnahmen wie Reduzierung des Energieverbrauchs, Optimierung der Abfallentsorgung, und Entwicklung ökologischer Produkte können die Umweltbelastung reduzieren.", "correct": true },
+                { "text": "Maßnahmen wie Einführung von Work-Life-Balance-Programmen, Bereitstellung von Fitnessangeboten, und Organisation von Betriebssportveranstaltungen können die Umweltbelastung reduzieren.", "correct": false },
+                { "text": "Maßnahmen wie Implementierung von IT-Sicherheitsrichtlinien, Verschlüsselung von Benutzerdaten, und Erstellung von Katastrophenhandbüchern können die Umweltbelastung reduzieren.", "correct": false },
+                { "text": "Maßnahmen wie Verbesserung der Produktqualität, Erhöhung der Kundenzufriedenheit, und Optimierung der Servicequalität können die Umweltbelastung reduzieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Hauptaufgaben eines Nachhaltigkeitsbeauftragten in einem Unternehmen?",
+            "answers": [
+                { "text": "Ein Nachhaltigkeitsbeauftragter ist verantwortlich für die Einhaltung von Umweltauflagen, Erstellung von Nachhaltigkeitsberichten, und Entwicklung von Strategien zur Reduzierung der Umweltbelastung.", "correct": true },
+                { "text": "Ein Nachhaltigkeitsbeauftragter ist verantwortlich für die Implementierung von IT-Sicherheitsrichtlinien, Schutz von Benutzerdaten, und Erstellung von Katastrophenhandbüchern.", "correct": false },
+                { "text": "Ein Nachhaltigkeitsbeauftragter ist verantwortlich für die Förderung der Work-Life-Balance, Organisation von Betriebssportveranstaltungen, und Bereitstellung von Fitnessangeboten.", "correct": false },
+                { "text": "Ein Nachhaltigkeitsbeauftragter ist verantwortlich für die Verbesserung der Produktqualität, Erhöhung der Kundenzufriedenheit, und Optimierung der Servicequalität.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden Daten im Rahmen der Primärerhebung und Sekundärerhebung im Umweltmanagement genutzt?",
+            "answers": [
+                { "text": "Primärerhebungen sammeln neue, direkte Daten, während Sekundärerhebungen bereits vorhandene Daten analysieren, um Umweltmaßnahmen zu planen und umzusetzen.", "correct": true },
+                { "text": "Primärerhebungen fördern die Work-Life-Balance, während Sekundärerhebungen die Kundenzufriedenheit und Produktqualität verbessern.", "correct": false },
+                { "text": "Primärerhebungen verbessern die IT-Sicherheit, während Sekundärerhebungen die Verschlüsselung von Benutzerdaten optimieren.", "correct": false },
+                { "text": "Primärerhebungen dokumentieren die Mitarbeiterzufriedenheit, während Sekundärerhebungen den Erfolg von Betriebssportangeboten messen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bringt die Umsetzung eines betrieblichen Gesundheitsmanagementsystems für ein Unternehmen?",
+            "answers": [
+                { "text": "Ein betriebliches Gesundheitsmanagementsystem kann die Mitarbeiterzufriedenheit steigern, den Krankenstand senken und die Produktivität erhöhen.", "correct": true },
+                { "text": "Ein betriebliches Gesundheitsmanagementsystem kann die IT-Sicherheitsrichtlinien verbessern, die Verschlüsselung von Daten optimieren und Katastrophenpläne entwickeln.", "correct": false },
+                { "text": "Ein betriebliches Gesundheitsmanagementsystem kann die Umweltauflagen verschärfen, die Energiekosten erhöhen und die Abfallentsorgung verschlechtern.", "correct": false },
+                { "text": "Ein betriebliches Gesundheitsmanagementsystem kann die Produktqualität verringern, die Kundenunzufriedenheit steigern und den Wettbewerb verschärfen.", "correct": false }
+            ]
+        }
+    ]
+    }

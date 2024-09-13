@@ -1,0 +1,367 @@
+{
+    "1.3.1_1-20":[
+        {
+            "question": "Welche Hauptaufgabe hat ein IT-Systemhaus?",
+            "answers": [
+                { "text": "Bereitstellung von IT-Dienstleistungen und Beratung für Unternehmen", "correct": true },
+                { "text": "Entwicklung von Computerhardware für Endkunden", "correct": false },
+                { "text": "Verkauf von Softwarelizenzen an private Haushalte", "correct": false },
+                { "text": "Schulung von IT-Fachkräften für staatliche Institutionen", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Fernwartung ein wichtiger Bestandteil der Arbeit eines IT-Systemhauses?",
+            "answers": [
+                { "text": "Weil sie eine schnelle Fehlerbehebung ohne Vor-Ort-Besuch ermöglicht", "correct": true },
+                { "text": "Weil sie die IT-Systeme der Kunden vor Viren schützt", "correct": false },
+                { "text": "Weil sie ausschließlich für die Installation von Software verwendet wird", "correct": false },
+                { "text": "Weil sie eine direkte Schulung der Kundenmitarbeiter ermöglicht", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein typisches Merkmal von Vor-Ort-Terminen für ein IT-Systemhaus?",
+            "answers": [
+                { "text": "Persönliche Beratungsgespräche und Implementierung neuer Komponenten", "correct": true },
+                { "text": "Durchführung von Online-Schulungen für Kundenmitarbeiter", "correct": false },
+                { "text": "Verkauf von Computerzubehör an Endkunden", "correct": false },
+                { "text": "Fernsteuerung der Kundensysteme zur Fehlerbehebung", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum schließen sich kleinere Systemhäuser zu größeren Einheiten zusammen?",
+            "answers": [
+                { "text": "Um ein breiteres Leistungsangebot für ihre Kunden bereitstellen zu können", "correct": true },
+                { "text": "Um nur große Unternehmen als Kunden zu gewinnen", "correct": false },
+                { "text": "Um die Anzahl der Mitarbeiter zu reduzieren", "correct": false },
+                { "text": "Um ausschließlich im lokalen Markt tätig zu sein", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Digitalisierung für IT-Systemhäuser?",
+            "answers": [
+                { "text": "Sie sorgt für ein dynamisches Wachstum der IT-Systemhäuser", "correct": true },
+                { "text": "Sie verringert die Anzahl der IT-Berater", "correct": false },
+                { "text": "Sie reduziert den Bedarf an IT-Dienstleistungen", "correct": false },
+                { "text": "Sie führt zur Schließung kleinerer Systemhäuser", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Eigenverantwortung der Auszubildenden im zweiten Ausbildungsjahr gesteigert?",
+            "answers": [
+                { "text": "Durch Übernahme von mehr Eigenverantwortung in Aufgabenbereichen", "correct": true },
+                { "text": "Durch Reduzierung der Arbeitszeit und Aufgaben", "correct": false },
+                { "text": "Durch ausschließlich theoretische Schulungen", "correct": false },
+                { "text": "Durch weniger praktische Tätigkeiten im Betrieb", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist es sinnvoll, dass Auszubildende im ersten Ausbildungsjahr verschiedene Bereiche kennenlernen?",
+            "answers": [
+                { "text": "Damit sie ein breites Verständnis für die unterschiedlichen Arbeitsbereiche im Betrieb entwickeln", "correct": true },
+                { "text": "Damit sie sich auf einen Bereich spezialisieren können", "correct": false },
+                { "text": "Damit sie nur im IT-Support arbeiten müssen", "correct": false },
+                { "text": "Damit sie sich auf eine Aufgabe beschränken", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist das Ziel des Ausbildungsplans für Auszubildende in einem Systemhaus?",
+            "answers": [
+                { "text": "Die Auszubildenden sollen möglichst selbstständig Aufgabenbereiche wahrnehmen", "correct": true },
+                { "text": "Die Auszubildenden sollen ausschließlich in einem Bereich arbeiten", "correct": false },
+                { "text": "Die Auszubildenden sollen keine Verantwortung übernehmen", "correct": false },
+                { "text": "Die Auszubildenden sollen nur theoretisches Wissen erwerben", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie oft wechseln Auszubildende in einem Systemhaus ihren Ausbildungsplatz im ersten Jahr?",
+            "answers": [
+                { "text": "Etwa alle drei Monate", "correct": true },
+                { "text": "Einmal im Jahr", "correct": false },
+                { "text": "Einmal im Monat", "correct": false },
+                { "text": "Alle sechs Monate", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Hauptaufgabe übernehmen Auszubildende im dritten Ausbildungsjahr?",
+            "answers": [
+                { "text": "Mitarbeit an größeren Kundenprojekten", "correct": true },
+                { "text": "Teilnahme an theoretischen Schulungen", "correct": false },
+                { "text": "Durchführung von IT-Supportaufgaben im Büro", "correct": false },
+                { "text": "Übernahme von Verwaltungstätigkeiten im Betrieb", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet die Fernwartung für IT-Systemhäuser?",
+            "answers": [
+                { "text": "Sie ermöglicht eine schnelle Fehlerbehebung ohne Anfahrtszeit", "correct": true },
+                { "text": "Sie reduziert die Notwendigkeit für Kundenschulungen", "correct": false },
+                { "text": "Sie ersetzt den persönlichen Kontakt zu den Kunden", "correct": false },
+                { "text": "Sie erhöht den Bedarf an IT-Fachkräften vor Ort", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Dienstleistungen erbringt ein IT-Systemhaus in der Regel für seine Kunden?",
+            "answers": [
+                { "text": "Beratung, IT-Infrastruktur und IT-Dienste", "correct": true },
+                { "text": "Entwicklung von Software für Endverbraucher", "correct": false },
+                { "text": "Verkauf von Hardware an private Haushalte", "correct": false },
+                { "text": "Bereitstellung von IT-Schulungen für Studenten", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Digitalisierung ein wichtiger Faktor für das Wachstum von IT-Systemhäusern?",
+            "answers": [
+                { "text": "Weil immer mehr Geschäftsprozesse digitalisiert werden", "correct": true },
+                { "text": "Weil die Anzahl der IT-Berater abnimmt", "correct": false },
+                { "text": "Weil die Nachfrage nach IT-Dienstleistungen sinkt", "correct": false },
+                { "text": "Weil kleinere Systemhäuser geschlossen werden", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe übernehmen die zentralen Dienste im Verbund der Systemhäuser?",
+            "answers": [
+                { "text": "Sie unterstützen die Systemhäuser mit gemeinsamen Ressourcen und IT-Lösungen", "correct": true },
+                { "text": "Sie bieten spezialisierte IT-Dienstleistungen für Endkunden an", "correct": false },
+                { "text": "Sie übernehmen die Geschäftsführung der Systemhäuser", "correct": false },
+                { "text": "Sie kümmern sich um die rechtlichen Angelegenheiten der Kunden", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Art von Kunden bedient ein IT-Systemhaus in der Regel?",
+            "answers": [
+                { "text": "Unternehmen, Behörden und Organisationen", "correct": true },
+                { "text": "Private Haushalte und Einzelpersonen", "correct": false },
+                { "text": "Freiberufler und kleine Start-ups", "correct": false },
+                { "text": "Bildungseinrichtungen und Universitäten", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein typisches Merkmal von Vor-Ort-Terminen eines IT-Systemhauses?",
+            "answers": [
+                { "text": "Persönliche Beratungsgespräche und Implementierung neuer Komponenten", "correct": true },
+                { "text": "Durchführung von Online-Schulungen für Kundenmitarbeiter", "correct": false },
+                { "text": "Verkauf von Computerzubehör an Endkunden", "correct": false },
+                { "text": "Fernsteuerung der Kundensysteme zur Fehlerbehebung", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum wechseln Auszubildende in einem IT-Systemhaus im ersten Jahr alle drei Monate den Ausbildungsplatz?",
+            "answers": [
+                { "text": "Um verschiedene Arbeitsbereiche kennenzulernen und ein breites Verständnis zu entwickeln", "correct": true },
+                { "text": "Um sich auf einen Bereich zu spezialisieren", "correct": false },
+                { "text": "Um nur in der IT-Supportabteilung zu arbeiten", "correct": false },
+                { "text": "Um ausschließlich theoretische Schulungen zu besuchen", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Verantwortung übernehmen Auszubildende im zweiten Ausbildungsjahr?",
+            "answers": [
+                { "text": "Übernahme von mehr Eigenverantwortung in spezifischen Aufgabenbereichen", "correct": true },
+                { "text": "Durchführung ausschließlich administrativer Tätigkeiten", "correct": false },
+                { "text": "Reduzierung der Arbeitszeit zur Vorbereitung auf Prüfungen", "correct": false },
+                { "text": "Wechsel in die Verwaltung zur Verwaltungserfahrung", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie trägt die Digitalisierung zur Entwicklung von IT-Systemhäusern bei?",
+            "answers": [
+                { "text": "Durch die stetige Zunahme der digitalen Geschäftsprozesse", "correct": true },
+                { "text": "Durch die Reduzierung des Bedarfs an IT-Dienstleistungen", "correct": false },
+                { "text": "Durch die Verringerung der IT-Berater im Markt", "correct": false },
+                { "text": "Durch die Schließung kleinerer Systemhäuser", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Hauptaufgabe der zentralen Dienste in einem Verbund von Systemhäusern?",
+            "answers": [
+                { "text": "Bereitstellung von gemeinsamen Ressourcen und IT-Lösungen für alle Systemhäuser", "correct": true },
+                { "text": "Verwaltung der Kundenverträge und Rechnungen", "correct": false },
+                { "text": "Verkauf von Hardwareprodukten an Endkunden", "correct": false },
+                { "text": "Bereitstellung von Schulungsunterlagen für Mitarbeiter", "correct": false }
+            ]
+        }
+    ],
+           
+    "1.3.1_21-40":[
+        {
+            "question": "Welche Aufgabe hat ein IT-Systemhaus bei der Migration von Servern in die Cloud?",
+            "answers": [
+                { "text": "Das IT-Systemhaus übernimmt die physische Verlagerung der Server in ein neues Rechenzentrum.", "correct": false },
+                { "text": "Das IT-Systemhaus unterstützt bei der Planung und Durchführung der Migration in die Cloud.", "correct": true },
+                { "text": "Das IT-Systemhaus erstellt lediglich die Backups der bestehenden Serverinhalte.", "correct": false },
+                { "text": "Das IT-Systemhaus bietet keine Unterstützung bei der Migration von Servern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Fernwartung ein wichtiger Bestandteil des Serviceangebots eines IT-Systemhauses?",
+            "answers": [
+                { "text": "Fernwartung ermöglicht die direkte Bearbeitung von IT-Problemen ohne physische Präsenz.", "correct": true },
+                { "text": "Fernwartung ersetzt die Notwendigkeit einer regelmäßigen Wartung der IT-Systeme.", "correct": false },
+                { "text": "Fernwartung wird nur genutzt, um die IT-Sicherheit der Kunden zu verbessern.", "correct": false },
+                { "text": "Fernwartung wird hauptsächlich zur Installation neuer Hardware verwendet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet die Nutzung von Cloud-Hosting für Unternehmen?",
+            "answers": [
+                { "text": "Cloud-Hosting reduziert die Kosten für Hardware und Wartung erheblich.", "correct": true },
+                { "text": "Cloud-Hosting ermöglicht den Kauf von teurer IT-Infrastruktur für Unternehmen.", "correct": false },
+                { "text": "Cloud-Hosting bindet Unternehmen stärker an feste Arbeitszeiten und Standorte.", "correct": false },
+                { "text": "Cloud-Hosting verringert die Flexibilität in der Nutzung von IT-Ressourcen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützt ein IT-Systemhaus Unternehmen bei der digitalen Transformation?",
+            "answers": [
+                { "text": "Es bietet Schulungen zu analogen Techniken und Verfahren an.", "correct": false },
+                { "text": "Es hilft bei der Implementierung moderner Technologien und digitaler Prozesse.", "correct": true },
+                { "text": "Es rät Unternehmen, auf die Nutzung von Digitalisierung zu verzichten.", "correct": false },
+                { "text": "Es übernimmt die gesamte Geschäftsführung der Unternehmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum schließen sich kleinere Systemhäuser oft zu größeren Einheiten zusammen?",
+            "answers": [
+                { "text": "Um ihre Dienstleistungen zu reduzieren und Kosten zu sparen.", "correct": false },
+                { "text": "Um ein breiteres Leistungsspektrum und mehr Ressourcen anbieten zu können.", "correct": true },
+                { "text": "Um weniger Verantwortung in der IT-Branche übernehmen zu müssen.", "correct": false },
+                { "text": "Um ihre Marktposition zu schwächen und weniger wettbewerbsfähig zu sein.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Wartung von IT-Systemen durch ein IT-Systemhaus sichergestellt?",
+            "answers": [
+                { "text": "Durch regelmäßige Schulungen der Kunden in IT-Sicherheit und Systempflege.", "correct": false },
+                { "text": "Durch kontinuierliche Überwachung und Wartung der Systeme, sowohl vor Ort als auch per Fernwartung.", "correct": true },
+                { "text": "Durch die Bereitstellung von Handbüchern zur Selbstwartung der Kunden.", "correct": false },
+                { "text": "Durch die jährliche Überprüfung der Systeme durch externe Anbieter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt die Beratung im IT-Management für Unternehmen?",
+            "answers": [
+                { "text": "Beratung im IT-Management hilft Unternehmen bei der Optimierung ihrer IT-Infrastruktur und -Prozesse.", "correct": true },
+                { "text": "Beratung im IT-Management fokussiert sich auf die Einstellung von IT-Personal.", "correct": false },
+                { "text": "Beratung im IT-Management dient lediglich der Einführung neuer Softwarelösungen.", "correct": false },
+                { "text": "Beratung im IT-Management ist nur auf die Schulung der Mitarbeiter beschränkt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen Cloud-Hosting und Managed-Hosting?",
+            "answers": [
+                { "text": "Cloud-Hosting ermöglicht flexible Skalierung, während Managed-Hosting umfassende Verwaltung bietet.", "correct": true },
+                { "text": "Cloud-Hosting erfordert physische Server, während Managed-Hosting rein virtuell ist.", "correct": false },
+                { "text": "Cloud-Hosting ist für kleine Unternehmen gedacht, Managed-Hosting nur für Großkonzerne.", "correct": false },
+                { "text": "Cloud-Hosting bezieht sich auf Datenbackup, während Managed-Hosting für Netzwerksicherheit steht.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützt ein IT-Systemhaus Unternehmen bei der Implementierung von IT-Sicherheitslösungen?",
+            "answers": [
+                { "text": "Es bietet ausschließlich Beratungsdienste an und führt keine Implementierungen durch.", "correct": false },
+                { "text": "Es entwickelt Sicherheitsrichtlinien, führt Sicherheitsüberprüfungen durch und installiert Sicherheitssysteme.", "correct": true },
+                { "text": "Es stellt kostenlose Antivirenprogramme für alle Unternehmensrechner bereit.", "correct": false },
+                { "text": "Es führt regelmäßige Schulungen für die IT-Mitarbeiter der Unternehmen durch.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Rechenzentren in der Arbeit eines IT-Systemhauses?",
+            "answers": [
+                { "text": "Rechenzentren dienen als physische Lager für IT-Geräte und -Hardware.", "correct": false },
+                { "text": "Rechenzentren bieten Hosting-Dienste, Datensicherung und Netzwerkspeicherung an.", "correct": true },
+                { "text": "Rechenzentren sind hauptsächlich für die Schulung neuer IT-Mitarbeiter verantwortlich.", "correct": false },
+                { "text": "Rechenzentren verwalten ausschließlich die Kommunikation zwischen Kunden und Technikern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist das Thema Nachhaltigkeit für IT-Systemhäuser zunehmend wichtig?",
+            "answers": [
+                { "text": "Nachhaltigkeit erhöht die Betriebskosten erheblich und wird deshalb vermieden.", "correct": false },
+                { "text": "Nachhaltigkeit spielt keine Rolle, da IT-Systemhäuser keine Ressourcen verbrauchen.", "correct": false },
+                { "text": "Nachhaltigkeit ermöglicht den langfristigen Betrieb und reduziert den Energieverbrauch.", "correct": true },
+                { "text": "Nachhaltigkeit ist nur für die Kunden der IT-Systemhäuser relevant, nicht für die Systemhäuser selbst.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgaben übernimmt ein Fachinformatiker/in im Bereich Softwarevertrieb?",
+            "answers": [
+                { "text": "Fachinformatiker/in übernimmt die Entwicklung und den Support der Software.", "correct": false },
+                { "text": "Fachinformatiker/in konzentriert sich auf den Verkauf und die Wartung der Software.", "correct": false },
+                { "text": "Fachinformatiker/in übernimmt die Installation und die Konfiguration der Software.", "correct": true },
+                { "text": "Fachinformatiker/in ist für den Vertrieb und die Pflege der Software verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet die Rolle der IT-Betreuung für Unternehmen im Leistungsportfolio eines IT-Systemhauses?",
+            "answers": [
+                { "text":         "IT-Betreuung bedeutet die Überwachung und Wartung der IT-Infrastruktur eines Unternehmens.", "correct": true },
+                { "text": "IT-Betreuung bedeutet die Verwaltung der Finanzen und Ressourcen eines Unternehmens.", "correct": false },
+                { "text": "IT-Betreuung bedeutet die Ausbildung von IT-Personal eines Unternehmens.", "correct": false },
+                { "text": "IT-Betreuung bedeutet die Bereitstellung von Schulungsmaterialien für IT-Systeme.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielt das Thema Corporate Social Responsibility (CSR) im IT-Systemhaus?",
+            "answers": [
+                { "text": "CSR umfasst Maßnahmen zur Förderung der Work-Life-Balance und nachhaltigem Handeln.", "correct": true },
+                { "text": "CSR konzentriert sich ausschließlich auf die Gewinnmaximierung des Unternehmens.", "correct": false },
+                { "text": "CSR beschränkt sich auf die Erstellung von Marketingkampagnen für IT-Produkte.", "correct": false },
+                { "text": "CSR ist nur für die rechtliche Absicherung von Verträgen verantwortlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche IT-Services werden typischerweise von einem IT-Systemhaus angeboten?",
+            "answers": [
+                { "text": "IT-Service vor Ort, IT-Betreuung, IT-Management und IT-Outsourcing.", "correct": true },
+                { "text": "IT-Service vor Ort, Softwareentwicklung, Hardwareproduktion und Verkauf.", "correct": false },
+                { "text": "IT-Service vor Ort, Bürobedarf, IT-Sicherheitsschulungen und Webdesign.", "correct": false },
+                { "text": "IT-Service vor Ort, IT-Beratung, Grafikdesign und Marketing.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet die Implementierung von virtuellen Servern und Speicherlösungen?",
+            "answers": [
+                { "text": "Virtuelle Server und Speicherlösungen reduzieren den physischen Platzbedarf und erhöhen die Flexibilität.", "correct": true },
+                { "text": "Virtuelle Server und Speicherlösungen erhöhen die Kosten und verringern die Betriebseffizienz.", "correct": false },
+                { "text": "Virtuelle Server und Speicherlösungen sind weniger sicher als physische Systeme.", "correct": false },
+                { "text": "Virtuelle Server und Speicherlösungen benötigen mehr Energie als herkömmliche Lösungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterstützt ein IT-Systemhaus Unternehmen bei der Einführung von Home-Office-Lösungen?",
+            "answers": [
+                { "text": "Durch Bereitstellung von IT-Ausrüstung und sicherem Zugriff auf Unternehmensnetzwerke.", "correct": true },
+                { "text": "Durch Schulung von Mitarbeitern im Büroalltag und Organisation von Team-Events.", "correct": false },
+                { "text": "Durch den Verkauf von Büromöbeln und interner Kommunikationssoftware.", "correct": false },
+                { "text": "Durch die Anmietung von zusätzlichen Büroräumen für Mitarbeiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Remarketing im Kontext eines IT-Systemhauses?",
+            "answers": [
+                { "text": "Remarketing bezeichnet den erneuten Verkauf von aufbereiteten IT-Geräten nach Instandsetzung.", "correct": true },
+                { "text": "Remarketing bezieht sich auf die Entwicklung von neuen Marketingstrategien für IT-Produkte.", "correct": false },
+                { "text": "Remarketing bedeutet die Wiederherstellung von verlorenen Daten nach einem IT-Ausfall.", "correct": false },
+                { "text": "Remarketing ist der Prozess der Neuentwicklung von Softwarelösungen für bestehende Kunden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Work-Life-Balance-Angebote bietet das IT-Systemhaus seinen Mitarbeitern?",
+            "answers": [
+                { "text": "Flexible Arbeitszeiten, Home-Office, Gesundheitsförderung und Sabbaticals.", "correct": true },
+                { "text": "Strenge Arbeitszeiten, verpflichtende Überstunden, Büroanwesenheit und kurze Pausen.", "correct": false },
+                { "text": "Kein Home-Office, ausschließliche Büroarbeit, strikte Zeiterfassung und Urlaubsverzicht.", "correct": false },
+                { "text": "Verpflichtende Schichtarbeit, Wochenendarbeit und begrenzte Urlaubstage.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie fördert das IT-Systemhaus den IT-Nachwuchs?",
+            "answers": [
+                { "text": "Durch Workshops, Infotage, Bewerbertrainings und Sponsoring von Stipendien.", "correct": true },
+                { "text": "Durch die Anstellung ausschließlich von erfahrenen IT-Fachkräften ohne Schulungsangebote.", "correct": false },
+                { "text": "Durch die Bereitstellung von Schulungsmaterialien und bezahltem Urlaub.", "correct": false },
+                { "text": "Durch die Reduzierung der Ausbildungsplätze und die Begrenzung von Weiterbildungsangeboten.", "correct": false }
+            ]
+        }
+    ]
+}
