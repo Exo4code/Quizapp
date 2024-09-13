@@ -15,6 +15,7 @@
     --secondary-bg: #F5F5F7;
     --border-color: #1D1D20;
     --hover-bg: #E6E7EB;
+    font-size: 16px;
 }
 
 body {
@@ -30,6 +31,7 @@ body {
     scroll-behavior: smooth;
     overflow-x: hidden;
     text-align: center;
+    font-size: 1rem;
 }
 
 /* ------------------------------------------------------------ */
@@ -38,10 +40,10 @@ body {
 
 header {
     background-color: var(--secondary-bg);
-    border: 1px solid var(--border-color);
+    border: 0.0625rem solid var(--border-color);
     width: 90%;
-    max-width: 800px;
-    border-radius: 25px;
+    max-width: 50rem;
+    border-radius: 1.5625rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -62,15 +64,15 @@ nav {
     font-weight: 500;
     color: var(--primary-text);
     text-decoration: none;
-    font-size: 18px;
-    padding: 3px 6px;
+    font-size: 1.125rem;
+    padding: 0.1875rem 0.375rem;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .home-link:hover {
     background-color: var(--hover-bg);
     color: var(--primary-text);
-    border-radius: 8px;
+    border-radius: 0.5rem;
 }
 
 /* ------------------------------------------------------------ */
@@ -117,7 +119,7 @@ nav {
     left: 0;
     width: 100%;
     background-color: var(--secondary-bg);
-    border: 1px solid var(--border-color);
+    border: 0.0625rem solid var(--border-color);
     border-top: none;
     border-radius: 0 0 1.25rem 1.25rem;
     z-index: 1001;
@@ -126,7 +128,7 @@ nav {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.5s ease, opacity 0.5s ease;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0.25rem 0.375rem rgba(0, 0, 0, 0.1);
 }
 
 .nav-links li {
@@ -148,7 +150,7 @@ nav {
 .nav-links a:hover {
     background-color: var(--hover-bg);
     color: var(--primary-text);
-    transform: translateY(-2px);
+    transform: translateY(-0.125rem);
 }
 
 .nav-links.show {
@@ -186,7 +188,7 @@ main {
     justify-content: center;
     width: 90%;
     margin: 0 auto;
-    padding: 10px;
+    padding: 0.625rem;
     background-color: var(--primary-bg);
     border-radius: 0;
     box-shadow: none;
@@ -195,22 +197,22 @@ main {
 
 .container {
     width: 90%;
-    max-width: 800px;
+    max-width: 50rem;
     background-color: var(--secondary-bg);
-    padding: 3px;
-    border-radius: 18px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border: 1px solid var(--border-color);
+    padding: 0.1875rem;
+    border-radius: 1.125rem;
+    box-shadow: 0 0.25rem 0.375rem rgba(0, 0, 0, 0.1);
+    border: 0.0625rem solid var(--border-color);
     text-align: center;
     margin: 0 auto;
 }
 
 .container-inner {
     background-color: var(--hover-bg);
-    border: 2px solid var(--border-color);
-    border-radius: 15px;
-    padding: 15px;
-    box-shadow: inset 0px 0px 5px rgba(200, 201, 204, 0.5);
+    border: 0.125rem solid var(--border-color);
+    border-radius: 0.9375rem;
+    padding: 0.9375rem;
+    box-shadow: inset 0px 0px 0.3125rem rgba(200, 201, 204, 0.5);
 }
 
 /* ------------------------------------------------------------ */
@@ -221,7 +223,7 @@ main {
     width: 90%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     background-color: var(--secondary-bg);
     border: 0.0625rem solid var(--border-color);
     border-radius: 0.75rem;
@@ -235,7 +237,8 @@ main {
     margin-bottom: 1rem;
     font-weight: 600;
     color: var(--primary-text);
-    text-align: center;
+    text-align: left;
+    width: 100%;
 }
 
 .quiz-sets ul {
@@ -244,13 +247,13 @@ main {
     margin: 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.125rem;
+    justify-content: flex-start;
+    gap: 0.5rem;
     width: 100%;
 }
 
 .quiz-sets ul li {
-    flex: 1 1 auto;
+    flex: 0 1 auto;
     text-align: center;
 }
 
@@ -264,9 +267,10 @@ main {
     font-weight: 500;
     cursor: pointer;
     transition: all 0.3s ease;
-    width: auto;
+    width: 100%;
     text-align: center;
     box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.1);
+    white-space: nowrap;
 }
 
 .quiz-set-button:hover {
@@ -290,8 +294,15 @@ main {
         font-size: 1.25rem;
     }
 
+    .quiz-sets ul {
+        flex-direction: row;
+        justify-content: flex-start;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+    }
+
     .quiz-sets ul li {
-        flex-basis: auto;
+        flex: 0 0 auto;
     }
 
     .quiz-set-button {
@@ -307,34 +318,34 @@ main {
 
 #info-container, #start-container {
     width: 90%;
-    max-width: 600px;
+    max-width: 37.5rem;
     background-color: var(--secondary-bg);
-    border: 1px solid var(--border-color);
-    padding: 20px;
-    border-radius: 18px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 0.0625rem solid var(--border-color);
+    padding: 1.25rem;
+    border-radius: 1.125rem;
+    box-shadow: 0 0.25rem 0.375rem rgba(0, 0, 0, 0.1);
     text-align: center;
     margin: 0 auto;
 }
 
 #info-container p {
-    font-size: 18px;
+    font-size: 1.125rem;
     color: var(--primary-text);
     line-height: 1.6;
 }
 
 #start-quiz-button {
     background-color: var(--border-color);
-    border: 2.5px solid var(--border-color);
-    border-radius: 12px;
-    padding: 10px 20px;
+    border: 0.15625rem solid var(--border-color);
+    border-radius: 0.75rem;
+    padding: 0.625rem 1.25rem;
     color: var(--primary-bg);
-    font-size: 16px;
+    font-size: 1rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0.125rem 0.3125rem rgba(0, 0, 0, 0.5);
     transition: all 0.3s ease;
 }
 
@@ -348,8 +359,8 @@ main {
 /* ------------------------------------------------------------ */
 
 .question {
-    margin-bottom: 30px;
-    font-size: 32px;
+    margin-bottom: 1.875rem;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--primary-text);
     letter-spacing: 0.004em;
@@ -358,9 +369,9 @@ main {
 }
 
 .question-counter, .category-counter {
-    font-size: 14px;
+    font-size: 0.875rem;
     color: #86868b;
-    margin-top: 15px;
+    margin-top: 0.9375rem;
     text-align: center;
 }
 
@@ -377,13 +388,13 @@ main {
 .answers button {
     display: inline-block;
     width: 90%;
-    margin-bottom: 10px;
-    padding: 15px;
+    margin-bottom: 0.625rem;
+    padding: 0.9375rem;
     background-color: var(--secondary-bg);
     color: var(--primary-text);
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    font-size: 18px;
+    border: 0.0625rem solid var(--border-color);
+    border-radius: 0.5rem;
+    font-size: 1.125rem;
     cursor: pointer;
     transition: background-color 0.3s, border 0.3s;
     text-align: center;
@@ -417,21 +428,44 @@ main {
 /* ------------------------------------------------------------ */
 
 #start-button, .nav-button {
-    padding: 12px 22px;
+    padding: 0.75rem 1.375rem;
     background: linear-gradient(to right, #3071E3, #2855b1);
     color: white;
     border: none;
-    border-radius: 980px;
-    font-size: 17px;
+    border-radius: 61.25rem;
+    font-size: 1.0625rem;
     font-weight: 400;
     cursor: pointer;
     transition: all 0.3s;
-    margin: 10px auto;
-    display: block;
+    margin: 0.625rem 0.3125rem;
+    display: inline-block;
 }
 
 #start-button:hover, .nav-button:hover {
     background: linear-gradient(to top, #3071E3, #2855b1);
+}
+
+#question-navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+#question-navigation .nav-button {
+    flex: 0 0 auto;
+    white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+    #question-navigation {
+        flex-direction: row;
+    }
+    
+    #question-navigation .nav-button {
+        font-size: 0.9rem;
+        padding: 1rem 1rem;
+    }
 }
 
 /* ------------------------------------------------------------ */
@@ -440,12 +474,12 @@ main {
 
 .sidebar-outer {
     width: 90%;
-    max-width: 300px;
+    max-width: 18.75rem;
     background-color: var(--secondary-bg);
-    padding: 3px;
-    border-radius: 18px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    border: 1px solid var(--border-color);
+    padding: 0.1875rem;
+    border-radius: 1.125rem;
+    box-shadow: 0px 0.25rem 0.375rem rgba(0, 0, 0, 0.1);
+    border: 0.0625rem solid var(--border-color);
     text-align: center;
     margin: 0 auto;
     overflow: hidden;
@@ -453,18 +487,18 @@ main {
 
 .sidebar {
     background-color: var(--hover-bg);
-    border: 2px solid var(--border-color);
-    border-radius: 15px;
-    padding: 15px;
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border: 0.125rem solid var(--border-color);
+    border-radius: 0.9375rem;
+    padding: 0.9375rem;
+    box-shadow: 0px 0.25rem 0.375rem rgba(0, 0, 0, 0.1);
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    max-height: 550px;
+    max-height: 34.375rem;
 }
 
 .sidebar h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
     font-weight: 600;
     color: var(--primary-text);
     text-align: center;
@@ -478,15 +512,17 @@ main {
 }
 
 .sidebar ul li {
-    margin-bottom: 12px;
+    margin-bottom: 0.75rem;
 }
 
 .sidebar ul li a {
     text-decoration: none;
     color: var(--primary-text);
     font-weight: 400;
-    font-size: 17px;
+    font-size: 1.0625rem;
     display: block;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem;
     padding: 8px 12px;
     border-radius: 8px;
     transition: color 0.3s, background-color 0.3s;
