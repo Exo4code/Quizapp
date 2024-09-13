@@ -32,21 +32,6 @@ document.addEventListener('DOMContentLoaded', function() {
     resultGrade.style.color = '#000000';
 });
 
-// Darkmode-Umschalter
-document.getElementById('theme-toggle').addEventListener('click', function() {
-    const bodyBackgroundColor = window.getComputedStyle(document.body).backgroundColor;
-    const mainBackgroundColor = window.getComputedStyle(document.querySelector('main')).backgroundColor;
-
-    if (bodyBackgroundColor === 'rgb(29, 29, 31)' || bodyBackgroundColor === '#1d1d1f' ||
-        mainBackgroundColor === 'rgb(29, 29, 31)' || mainBackgroundColor === '#1d1d1f') {
-        document.body.style.backgroundColor = '#FFFFFF';
-        document.querySelector('main').style.backgroundColor = '#FFFFFF';
-    } else {
-        document.body.style.backgroundColor = '#1d1d1f';
-        document.querySelector('main').style.backgroundColor = '#1d1d1f';
-    }
-});
-
 // Fisher-Yates Shuffle-Algorithmus
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
