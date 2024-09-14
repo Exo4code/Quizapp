@@ -199,7 +199,7 @@ nav {
 
 /* INFO AND START CONTAINER STYLES */
 #info-container, #start-container {
-    margin-top: 4.2rem;
+    margin-top: 3rem;
     width: 90%;
     max-width: 40rem;
     background-color: var(--secondary-bg);
@@ -474,11 +474,12 @@ nav {
 
 .sidebar {
     width: 100%;
-    max-width: 40rem;
+    box-sizing: border-box;
+    max-width: max-content;
     background-color: var(--primary-bg);
     border-radius: 0.75rem;
     box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
-    margin: 0.3rem auto;
+    margin: 0.1rem auto;
     border: 1px solid var(--border-color);
     padding: 2rem;
     max-height: 45rem;
@@ -536,92 +537,4 @@ nav {
     background-color: var(--accent-color);
     color: var(--primary-bg);
     font-weight: 600;
-}
-
-
-/* ------------------------------------------------------------ */
-/* RESPONSIVE STYLES */
-/* ------------------------------------------------------------ */
-@media (max-width: 1024px) {
-    main {
-        flex-direction: column;
-        padding: 10px;
-        width: 90%;
-    }
-
-    .sidebar-outer {
-        width: 90%;
-        position: relative;
-        top: auto;
-    }
-
-    .container {
-        width: 90%;
-        max-width: 100%;
-    }
-}
-
-@media (max-width: 768px) {
-    .quiz-sets ul {
-        gap: 15px;
-        align-items: center;
-    }
-
-    .quiz-set-button {
-        width: 90%;
-        max-width: 250px;
-    }
-
-    .sidebar-outer, .sidebar {
-        width: 90%;
-        max-width: 100%;
-        position: relative;
-        top: 0;
-        left: 0;
-        border-radius: 0;
-        box-shadow: none;
-    }
-
-    .sidebar {
-        padding: 15px;
-        max-height: 50vh;
-        overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
-    }
-}
-
-@media (max-width: 600px) {
-    main {
-        width: 100%;
-        padding: 5px;
-    }
-
-    .sidebar-outer, .sidebar, .container {
-        padding: 10px;
-    }
-
-    .nav-links {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .nav-links li {
-        margin: 0.5rem 0;
-    }
-
-    .answers button {
-        width: 100%;
-        margin: 0 0 10px;
-    }
-
-    .quiz-set-button {
-        max-width: 200px;
-    }
-}
-
-@media (max-width: 400px) {
-    .quiz-set-button {
-        max-width: 100%;
-    }
-
 }
