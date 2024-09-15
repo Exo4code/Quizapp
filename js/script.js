@@ -22,7 +22,29 @@ const startContainer = document.getElementById('start-container');
 const currentQuestionElement = document.getElementById('current-question');
 const totalQuestionsElement = document.getElementById('total-questions');
 
-
+// Darkmode Toggle
+document.addEventListener('DOMContentLoaded', function() {
+    const darkmodeToggle = document.querySelector('.darkmode-toggle');
+    if (darkmodeToggle) {
+        darkmodeToggle.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            
+            // CSS-Variablen umkehren
+            const root = document.documentElement;
+            const primaryBg = getComputedStyle(root).getPropertyValue('--primary-bg').trim();
+            const primaryText = getComputedStyle(root).getPropertyValue('--primary-text').trim();
+            const secondaryBg = getComputedStyle(root).getPropertyValue('--secondary-bg').trim();
+            const borderColor = getComputedStyle(root).getPropertyValue('--border-color').trim();
+            
+            root.style.setProperty('--primary-bg', primaryText);
+            root.style.setProperty('--primary-text', primaryBg);
+            root.style.setProperty('--secondary-bg', borderColor);
+            root.style.setProperty('--border-color', secondaryBg);
+        });
+    } else {
+        console.error('Darkmode-Toggle-Element nicht gefunden');
+    }
+});
 
 // Fisher-Yates Shuffle-Algorithmus
 function shuffle(array) {
@@ -277,6 +299,16 @@ document.addEventListener('DOMContentLoaded', function() {
             navLinks.classList.remove('show'); // Dropdown-Menü schließen
         });
     });
+
+// Funktion zum Schließen des Dropdown-Menüs, wenn außerhalb geklickt wird
+document.addEventListener('click', function(event) {
+    const navLinks = document.querySelector('.nav-links');
+    const burgerMenu = document.querySelector('.burger-menu');
+    
+    if (!navLinks.contains(event.target) && !burgerMenu.contains(event.target)) {
+        navLinks.classList.remove('show');
+    }
+});
     
 // Event-Listener für den Start-Quiz-Button
 document.addEventListener('DOMContentLoaded', function() {
@@ -395,26 +427,3 @@ function updateQuestionCounter() {
 // Event-Listener für den Start-Button
 startButton.addEventListener('click', startGame);
 
-// Darkmode Toggle
-document.addEventListener('DOMContentLoaded', function() {
-    const darkmodeToggle = document.querySelector('.darkmode-toggle');
-    if (darkmodeToggle) {
-        darkmodeToggle.addEventListener('click', () => {
-            document.body.classList.toggle('dark-mode');
-            
-            // CSS-Variablen umkehren
-            const root = document.documentElement;
-            const primaryBg = getComputedStyle(root).getPropertyValue('--primary-bg').trim();
-            const primaryText = getComputedStyle(root).getPropertyValue('--primary-text').trim();
-            const secondaryBg = getComputedStyle(root).getPropertyValue('--secondary-bg').trim();
-            const borderColor = getComputedStyle(root).getPropertyValue('--border-color').trim();
-            
-            root.style.setProperty('--primary-bg', primaryText);
-            root.style.setProperty('--primary-text', primaryBg);
-            root.style.setProperty('--secondary-bg', borderColor);
-            root.style.setProperty('--border-color', secondaryBg);
-        });
-    } else {
-        console.error('Darkmode-Toggle-Element nicht gefunden');
-    }
-});
