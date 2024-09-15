@@ -22,15 +22,7 @@ const startContainer = document.getElementById('start-container');
 const currentQuestionElement = document.getElementById('current-question');
 const totalQuestionsElement = document.getElementById('total-questions');
 
-// Standard-Darkmode beim Laden der Seite
-document.addEventListener('DOMContentLoaded', function() {
-    document.body.style.backgroundColor = '#1d1d1f';
-    document.querySelector('main').style.backgroundColor = '#1d1d1f';
-    document.body.style.color = '#FFFFFF';
-    document.querySelector('main').style.color = '#FFFFFF';
-    resultScore.style.color = '#000000';
-    resultGrade.style.color = '#000000';
-});
+
 
 // Fisher-Yates Shuffle-Algorithmus
 function shuffle(array) {
@@ -262,7 +254,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 
-    // Logik für das dynamische Laden der Fragen-Dateien und Start des Quiz
+    // Logik für das dynamisches Laden der Fragen-Dateien und Start des Quiz
     const categoryLinks = document.querySelectorAll('.category-link');
     categoryLinks.forEach(link => {
         link.addEventListener('click', function(event) {
