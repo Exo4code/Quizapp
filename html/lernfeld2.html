@@ -11,6 +11,7 @@
     <header>
         <nav>
             <a href="/index.html" class="home-link"></a>
+            <button class="darkmode-toggle"></button>
             <div class="burger-menu" id="burger-menu">
                 &#9776;
             </div>
@@ -32,12 +33,13 @@
     </div>
     <div class="container-inner" id="quiz-container" style="display: none;">
         <button id="start-button" style="display: none;">Test beginnen</button>
+        <div class="question-counter" style="display: none;">
+            <span id="current-question">1</span> von <span id="total-questions">20</span>
+        </div>
         <div id="question-container" style="display: none;">
             <div id="question" class="question">Wähle einen Fragenblock.</div>
             <div id="answer-buttons" class="answers"></div>
-            <div class="question-counter" style="display: none;">
-                <span id="current-question">1</span> von <span id="total-questions">20</span>
-            </div>
+          
             <div id="question-navigation" style="display: none; margin-top: 20px;">
                 <button id="prev-button" class="nav-button" style="display: none;">Vorherige Frage</button>
                 <button id="next-button" class="nav-button">Nächste Frage</button>
@@ -61,6 +63,7 @@
             <h3 id="result-grade"></h3>
         </div>
     </div>
+
     <aside class="sidebar-outer " > <!-- Seitenleiste für Kategorien -->
         <aside class="sidebar"> <!-- Seitenleiste für Kategorien -->
             <h2>Kategorien</h2> <!-- Überschrift für die Seitenleiste -->
