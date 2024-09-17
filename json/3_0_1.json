@@ -31,7 +31,7 @@
             "question": "Welche Infrastruktur stellt ein Anbieter einer Co-Location bereit?",
             "answers": [
                 { "text": "Netzwerkdienste und Software", "correct": false },
-                { "text": "Kühlung, Stromversorgung, Sicherheit und Rechenzentrum", "correct": true },
+                { "text": "Kühlung, Stromversorgung und Sicherheit", "correct": true },
                 { "text": "Personal für den Betrieb des Netzwerks", "correct": false },
                 { "text": "Hardware und Software für Endnutzer", "correct": false }
             ]
