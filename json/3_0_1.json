@@ -1,0 +1,248 @@
+{
+    "3.0.1_1-20": [
+        {
+            "question": "Welcher Begriff beschreibt den Prozess der Verkapselung von Daten in Pakete bei Virtual Private Networks (VPNs)?",
+            "answers": [
+                { "text": "Encapsulation", "correct": false },
+                { "text": "Encryption", "correct": false },
+                { "text": "Tunneling", "correct": true },
+                { "text": "Forwarding", "correct": false }
+            ]
+        },
+        {
+            "question": "Werden Pakete mit privaten IP-Adressen im Internet weitergeleitet?",
+            "answers": [
+                { "text": "Ja, immer. Private IP-Adressen werden im gesamten Internet problemlos weitergeleitet und erkannt.", "correct": false },
+                { "text": "Nur in bestimmten Fällen, wenn spezielle Routing-Protokolle aktiviert sind und die Internetdienstanbieter dies zulassen.", "correct": false },
+                { "text": "Ausschließlich innerhalb öffentlicher Netzwerke, da private IP-Adressen dort als gültige Adressen behandelt werden.", "correct": false },
+                { "text": "Nein, sie werden in andere IP-Adressen umgewandelt und im Internet weitergeleitet", "correct": true }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einem Storage Area Network (SAN)?",
+            "answers": [
+                { "text": "Ein Netzwerk für schnelle Internetverbindungen", "correct": false },
+                { "text": "Ein Verbindungsnetzwerk für Massenspeicher", "correct": true },
+                { "text": "Ein spezielles Protokoll für sichere Kommunikation", "correct": false },
+                { "text": "Ein Computernetzwerk für Server-Hosting", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Infrastruktur stellt ein Anbieter einer Co-Location bereit?",
+            "answers": [
+                { "text": "Netzwerkdienste und Software", "correct": false },
+                { "text": "Kühlung, Stromversorgung, Sicherheit und Rechenzentrum", "correct": true },
+                { "text": "Personal für den Betrieb des Netzwerks", "correct": false },
+                { "text": "Hardware und Software für Endnutzer", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Dienstleistungen stellt ein externer Dienstleister für ein On-Premises-Rechenzentrum bereit?",
+            "answers": [
+                { "text": "Hardware und Software-Upgrades", "correct": false },
+                { "text": "Netzwerküberwachung und Wartung", "correct": false },
+                { "text": "Nichts", "correct": true },
+                { "text": "Sicherheitslösungen für das gesamte Netzwerk", "correct": false }
+            ]
+        },
+        {
+            "question": "Nennen Sie drei Arten von Servern.",
+            "answers": [
+                { "text": "Print-Server, Mail-Server, DNS-Server", "correct": true },
+                { "text": "Telefon-Server, Mail-Server, Router-Server", "correct": false },
+                { "text": "Firewall-Server, Backup-Server, Print-Server", "correct": false },
+                { "text": "Proxy-Server, File-Server, Video-Server", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie nennt man die Verbindung eines Endgeräts mit einem Standort über VPN?",
+            "answers": [
+                { "text": "Site-to-Site", "correct": false },
+                { "text": "End-to-End", "correct": false },
+                { "text": "End-to-Site", "correct": true },
+                { "text": "Client-to-Server", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie nennt man die Verbindung zwischen zwei Standorten über VPN?",
+            "answers": [
+                { "text": "Site-to-Site", "correct": true },
+                { "text": "Point-to-Point", "correct": false },
+                { "text": "Site-to-Client", "correct": false },
+                { "text": "End-to-Site", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie bezeichnet man eine sichere LAN-Verbindung durch ein unsicheres Netzwerk?",
+            "answers": [
+                { "text": "LAN-Proxy", "correct": false },
+                { "text": "VPN", "correct": true },
+                { "text": "Firewalled LAN", "correct": false },
+                { "text": "Encrypted LAN", "correct": false }
+            ]
+        },
+        {
+            "question": "Was zeichnet einen Fat-Client aus?",
+            "answers": [
+                { "text": "Leichte Hardware mit Remote-Zugriff", "correct": false },
+                { "text": "Software- und Hardwarekomponenten, die vollständig ausgestattet sind", "correct": true },
+                { "text": "Eine minimale Ausstattung für externe Rechenleistung", "correct": false },
+                { "text": "Ein nur für Webanwendungen geeigneter Computer", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Art der Vermittlung erfolgt bei einer dedizierten Leitung?",
+            "answers": [
+                { "text": "Datenvermittlungsnetzwerk", "correct": false },
+                { "text": "Paketvermittlung", "correct": false },
+                { "text": "Leitungsvermittlung", "correct": true },
+                { "text": "Signaldurchschaltung", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Endgeräte in einem Peer-to-Peer-Netzwerk?",
+            "answers": [
+                { "text": "Sie fungieren nur als Clients", "correct": false },
+                { "text": "Sie sind sowohl Server als auch Clients", "correct": true },
+                { "text": "Sie fungieren als Router", "correct": false },
+                { "text": "Sie dienen nur als Speichergeräte", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie nennt man ein Netzwerk, in dem dedizierte Rechner als Server fungieren?",
+            "answers": [
+                { "text": "Peer-to-Peer-Netz", "correct": false },
+                { "text": "Hybrid-Netzwerk", "correct": false },
+                { "text": "Client-Server-Netzwerk", "correct": true },
+                { "text": "Mesh-Netzwerk", "correct": false }
+            ]
+        },
+        {
+            "question": "Nennen Sie ein Beispiel für einen öffentlichen Netzbereich.",
+                "answers": [
+                    { "text": "Local Area Network (LAN)", "correct": false },
+                    { "text": "Metropolitan Area Network (MAN)", "correct": true },
+                    { "text": "Virtual Private Network (VPN)", "correct": false },
+                    { "text": "Personal Area Network (PAN)", "correct": false }
+                ]
+            },
+            {
+                "question": "Nennen Sie ein Beispiel für einen privaten Netzbereich.",
+                "answers": [
+                    { "text": "Wide Area Network (WAN)", "correct": false },
+                    { "text": "Metropolitan Area Network (MAN)", "correct": false },
+                    { "text": "Local Area Network (LAN)", "correct": true },
+                    { "text": "Global Area Network (GAN)", "correct": false }
+                ]
+            },
+            {
+                "question": "Wofür steht der Begriff MAN im Kontext öffentlicher Netzwerke?",
+                "answers": [
+                    { "text": "Managed Area Network", "correct": false },
+                    { "text": "Main Area Network", "correct": false },
+                    { "text": "Metropolitan Area Network", "correct": true },
+                    { "text": "Major Access Network", "correct": false }
+                ]
+            },
+            {
+                "question": "Wofür steht der Begriff WAN im Kontext öffentlicher Netzwerke?",
+                "answers": [
+                    { "text": "Wireless Access Network", "correct": false },
+                    { "text": "Wide Area Network", "correct": true },
+                    { "text": "Web Application Network", "correct": false },
+                    { "text": "Wide Access Node", "correct": false }
+                ]
+            },
+            {
+                "question": "Was bedeutet die Abkürzung DNS in DNS-Servern?",
+                "answers": [
+                    { "text": "Data Network Services", "correct": false },
+                    { "text": "Domain Name System", "correct": true },
+                    { "text": "Direct Name Server", "correct": false },
+                    { "text": "Domain Network Services", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Funktion hat ein DNS-Server?",
+                "answers": [
+                    { "text": "Er wandelt Domain-Namen in IP-Adressen um", "correct": true },
+                    { "text": "Er verwaltet die Benutzerrechte im Netzwerk", "correct": false },
+                    { "text": "Er verschlüsselt Netzwerkpakete", "correct": false },
+                    { "text": "Er verbindet Geräte über das Internet", "correct": false }
+                ]
+            },
+            {
+                "question": "Wofür steht die Abkürzung BYOD?",
+                "answers": [
+                    { "text": "Bring Your Own Data", "correct": false },
+                    { "text": "Bring Your Own Device", "correct": true },
+                    { "text": "Bring Your Own Domain", "correct": false },
+                    { "text": "Bring Your Own Development", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie bezeichnet man ein Rechenzentrum, das nicht im lokalen Netzwerk (LAN) des Unternehmens angesiedelt ist?",
+                "answers": [
+                    { "text": "On-Premises", "correct": false },
+                    { "text": "In-House", "correct": false },
+                    { "text": "Off-Premises", "correct": true },
+                    { "text": "External Site", "correct": false }
+                ]
+            },
+            {
+                "question": "Was versteht man unter cyber-physischen Systemen?",
+                "answers": [
+                    { "text": "Systeme, die physische Eigenschaften simulieren", "correct": false },
+                    { "text": "Vernetzte, computergesteuerte Maschinen oder Roboter", "correct": true },
+                    { "text": "Systeme zur Sicherung physischer Netzwerke", "correct": false },
+                    { "text": "Software zur Steuerung von Netzwerken", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist ein Embedded System?",
+                "answers": [
+                    { "text": "Ein kleines Gerät ohne Netzwerkanbindung", "correct": false },
+                    { "text": "Ein kleiner eingebetteter Rechner mit Netzanbindung", "correct": true },
+                    { "text": "Ein externer Server, der in ein Netzwerk eingebunden ist", "correct": false },
+                    { "text": "Eine Cloud-Lösung für Unternehmen", "correct": false }
+                ]
+            },
+            {
+                "question": "Was verbindet Local Area Networks (LANs) über große Entfernungen hinweg?",
+                "answers": [
+                    { "text": "Ein privater Netzbereich", "correct": false },
+                    { "text": "Der öffentliche Netzbereich", "correct": true },
+                    { "text": "Eine dedizierte Internetverbindung", "correct": false },
+                    { "text": "Ein VPN", "correct": false }
+                ]
+            },
+            {
+                "question": "Welchen Netzbereich nutzen Unternehmen und Behörden üblicherweise?",
+                "answers": [
+                    { "text": "Den öffentlichen Netzbereich", "correct": false },
+                    { "text": "Den privaten Netzbereich", "correct": true },
+                    { "text": "Den internationalen Netzbereich", "correct": false },
+                    { "text": "Den externen Netzbereich", "correct": false }
+                ]
+            },
+            {
+                "question": "Wer ist verantwortlich für die Konfiguration und Sicherheit eines privaten Netzwerks?",
+                "answers": [
+                    { "text": "Der Dienstanbieter", "correct": false },
+                    { "text": "Der Betreiber des Netzwerks", "correct": true },
+                    { "text": "Die Endbenutzer", "correct": false },
+                    { "text": "Der Netzwerktechniker", "correct": false }
+                ]
+            },
+            {
+                "question": "Welcher Anbieter von Netzdiensten erhält sein Entgelt direkt vom Endkunden?",
+                "answers": [
+                    { "text": "Der Rechenzentrumsbetreiber", "correct": false },
+                    { "text": "Der Netzwerkadministrator", "correct": false },
+                    { "text": "Der Internetdienstanbieter (Provider)", "correct": true },
+                    { "text": "Der Cloud-Dienstleister", "correct": false }
+                ]
+            }
+        ]
+    
+}
