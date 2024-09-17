@@ -22,52 +22,7 @@ const startContainer = document.getElementById('start-container');
 const currentQuestionElement = document.getElementById('current-question');
 const totalQuestionsElement = document.getElementById('total-questions');
 
-// Darkmode Toggle
-document.addEventListener('DOMContentLoaded', function() {
-    const darkmodeToggle = document.querySelector('.darkmode-toggle');
 
-    // Funktion zum Umschalten und Speichern des Darkmode
-    function toggleDarkMode() {
-        document.body.classList.toggle('dark-mode');
-        
-        // CSS-Variablen umkehren
-        const root = document.documentElement;
-        const primaryBg = getComputedStyle(root).getPropertyValue('--primary-bg').trim();
-        const primaryText = getComputedStyle(root).getPropertyValue('--primary-text').trim();
-        const secondaryBg = getComputedStyle(root).getPropertyValue('--secondary-bg').trim();
-        const borderColor = getComputedStyle(root).getPropertyValue('--border-color').trim();
-        
-        // Speichern der Einstellung im localStorage
-        localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-    }
-
-    // Funktion zum Anwenden des gespeicherten Darkmode-Status
-    function applyDarkMode() {
-        const isDarkMode = localStorage.getItem('darkMode') === 'true';
-        if (isDarkMode) {
-            document.body.classList.add('dark-mode');
-        } else {
-            document.body.classList.remove('dark-mode');
-        }
-    }
-
-    // Initialer Zustand basierend auf gespeicherter Einstellung
-    applyDarkMode();
-
-    if (darkmodeToggle) {
-        darkmodeToggle.addEventListener('click', toggleDarkMode);
-    } else {
-        console.error('Darkmode-Toggle-Element nicht gefunden');
-    }
-});
-
-// Anwenden des Darkmode bei Seitenwechsel oder Aktualisierung
-window.addEventListener('load', function() {
-    const isDarkMode = localStorage.getItem('darkMode') === 'true';
-    if (isDarkMode) {
-        document.body.classList.add('dark-mode');
-    }
-});
 
 // Fisher-Yates Shuffle-Algorithmus
 function shuffle(array) {
