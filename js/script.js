@@ -37,11 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
         const secondaryBg = getComputedStyle(root).getPropertyValue('--secondary-bg').trim();
         const borderColor = getComputedStyle(root).getPropertyValue('--border-color').trim();
         
-        root.style.setProperty('--primary-bg', primaryText);
-        root.style.setProperty('--primary-text', primaryBg);
-        root.style.setProperty('--secondary-bg', borderColor);
-        root.style.setProperty('--border-color', secondaryBg);
-
         // Speichern der Einstellung im localStorage
         localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
     }
