@@ -1,0 +1,505 @@
+{
+    "3.1_1-20": [
+        {
+            "question": "Was ist ein Switch?",
+            "answers": [
+                { "text": "Ein Gerät, das Datenpakete weiterleitet.", "correct": true },
+                { "text": "Ein Gerät zur Speicherung von Daten.", "correct": false },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
+                { "text": "Ein Drucker für Dokumente.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet LAN?",
+            "answers": [
+                { "text": "Local Area Network, lokales Netzwerk.", "correct": true },
+                { "text": "Large Area Network, großes Netzwerk.", "correct": false },
+                { "text": "Local Access Node, lokaler Zugangspunkt.", "correct": false },
+                { "text": "Link Access Network, Verbindungsnetzwerk.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Router?",
+            "answers": [
+                { "text": "Ein Gerät, das Netzwerke verbindet.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Scanner für Dokumente.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein IP-Telefon?",
+            "answers": [
+                { "text": "Ein Telefon, das über das Netzwerk funktioniert.", "correct": true },
+                { "text": "Ein Mobiltelefon mit WLAN-Funktion.", "correct": false },
+                { "text": "Ein Telefon, das nur über Kabel funktioniert.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Server?",
+            "answers": [
+                { "text": "Ein leistungsfähiger Rechner, der Dienste anbietet.", "correct": true },
+                { "text": "Ein Gerät zur Speicherung von Druckaufträgen.", "correct": false },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
+                { "text": "Ein Gerät zur Verwaltung von IP-Adressen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Datacenter?",
+            "answers": [
+                { "text": "Ein Raum für Server und Netzwerkspeicher.", "correct": true },
+                { "text": "Ein Gerät zur Datenverarbeitung.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false },
+                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Alarmanlage?",
+            "answers": [
+                { "text": "Ein System, das bei Gefahren Alarm auslöst.", "correct": true },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
+                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Host?",
+            "answers": [
+                { "text": "Ein Gerät, das Daten empfängt oder erzeugt.", "correct": true },
+                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Datenendgerät?",
+            "answers": [
+                { "text": "Ein Gerät, das Daten erzeugt oder empfängt.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Scanner?",
+            "answers": [
+                { "text": "Ein Gerät, das Dokumente digitalisiert.", "correct": true },
+                { "text": "Ein Drucker für große Formate.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein System zur Netzwerküberwachung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Drucker?",
+            "answers": [
+                { "text": "Ein Gerät, das Dokumente ausdruckt.", "correct": true },
+                { "text": "Ein Gerät zur Speicherung von Daten.", "correct": false },
+                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Dokumente.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Beamer?",
+            "answers": [
+                { "text": "Ein Gerät, das Bilder auf eine Leinwand projiziert.", "correct": true },
+                { "text": "Ein Drucker für Präsentationen.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Dokumente.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein WLAN?",
+            "answers": [
+                { "text": "Ein drahtloses Netzwerk für Geräte.", "correct": true },
+                { "text": "Ein kabelgebundenes Netzwerk.", "correct": false },
+                { "text": "Ein Netzwerk für Drucker.", "correct": false },
+                { "text": "Ein System zur Datenarchivierung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Load Balancer?",
+            "answers": [
+                { "text": "Ein Gerät zur Verteilung von Netzwerklasten.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Überwachung des Datenverkehrs.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Zutrittskontrolle?",
+            "answers": [
+                { "text": "Ein System zur Kontrolle des Zugangs zu Gebäuden.", "correct": true },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
+                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein IP-Adresse?",
+            "answers": [
+                { "text": "Eine eindeutige Adresse für jedes Netzwerkgerät.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false },
+                { "text": "Ein Drucker für Netzwerkdokumente.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Videoüberwachungssystem?",
+            "answers": [
+                { "text": "Ein System zur Überwachung von Bereichen mit Kameras.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein CRM-System?",
+            "answers": [
+                { "text": "Ein System zur Verwaltung von Kundenbeziehungen.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein ERP-System?",
+            "answers": [
+                { "text": "Ein System zur Planung von Unternehmensressourcen.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        }
+    ],
+    "3.1_21-40": [
+        {
+            "question": "Was ist ein Netzwerkgerät?",
+            "answers": [
+                { "text": "Ein physisches Gerät zur Datenübertragung.", "correct": true },
+                { "text": "Ein System zur Datensicherung.", "correct": false },
+                { "text": "Ein Gerät zur Überwachung des Datenverkehrs.", "correct": false },
+                { "text": "Ein Drucker für Dokumente.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Datacenter?",
+            "answers": [
+                { "text": "Ein Raum für Server und Netzwerkspeicher.", "correct": true },
+                { "text": "Ein Gerät zur Datenverarbeitung.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false },
+                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein PC-Arbeitsplatz?",
+            "answers": [
+                { "text": "Ein Arbeitsplatz mit PC oder Laptop.", "correct": true },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Paket?",
+            "answers": [
+                { "text": "Daten, die in Paketen übertragen werden.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Zeiterfassung?",
+            "answers": [
+                { "text": "Ein System zur Erfassung von Arbeitszeiten.", "correct": true },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
+                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Alarm?",
+            "answers": [
+                { "text": "Ein Signal, das bei Gefahren ausgelöst wird.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Archivierungssystem?",
+            "answers": [
+                { "text": "Ein System zur Sicherung von Daten.", "correct": true },
+                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Anwendungssoftware?",
+            "answers": [
+                { "text": "Programme für spezifische Anwendungen.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Kopierer?",
+            "answers": [
+                { "text": "Ein Gerät, das Dokumente kopiert.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein TK-Anlage?",
+            "answers": [
+                { "text": "Ein System zur Verbindung von Telefonen.", "correct": true },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Videoüberwachungssystem?",
+            "answers": [
+                { "text": "Ein System zur Überwachung mit Kameras.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Smart-Device?",
+            "answers": [
+                { "text": "Ein intelligentes Gerät mit Netzwerkverbindung.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerkprotokoll?",
+            "answers": [
+                { "text": "Regeln für die Kommunikation im Netzwerk.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Access Point?",
+            "answers": [
+                { "text": "Ein Gerät, das WLAN-Zugriff ermöglicht.", "correct": true },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerkadministrator?",
+            "answers": [
+                { "text": "Eine Person, die das Netzwerk verwaltet.", "correct": true },
+                { "text": "Ein Drucker für Dokumente.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Datenstrom?",
+            "answers": [
+                { "text": "Eine kontinuierliche Übertragung von Daten.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        }
+    ],
+    "3.1_41-60": [
+        {
+            "question": "Was ist ein Netzwerkprotokoll?",
+            "answers": [
+                { "text": "Regeln für die Kommunikation im Netzwerk.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerkdienst?",
+            "answers": [
+                { "text": "Ein Service, der im Netzwerk bereitgestellt wird.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Firewall?",
+            "answers": [
+                { "text": "Ein System zum Schutz des Netzwerks.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein VPN?",
+            "answers": [
+                { "text": "Ein virtuelles privates Netzwerk.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Proxy-Server?",
+            "answers": [
+                { "text": "Ein Server, der Anfragen weiterleitet.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerkmonitor?",
+            "answers": [
+                { "text": "Ein Tool zur Überwachung des Netzwerks.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Bandbreitenmanagement?",
+            "answers": [
+                { "text": "Die Kontrolle der Netzwerkbandbreite.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Topologie?",
+            "answers": [
+                { "text": "Die Struktur eines Netzwerks.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Client?",
+            "answers": [
+                { "text": "Ein Gerät, das Dienste von einem Server anfordert.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Interface?",
+            "answers": [
+                { "text": "Ein Punkt, an dem Geräte mit dem Netzwerk verbunden sind.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        }
+    ],
+    "3.1_61-80": [
+        {
+            "question": "Was ist ein Netzwerk-Management?",
+            "answers": [
+                { "text": "Die Verwaltung und Überwachung eines Netzwerks.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Datenbankserver?",
+            "answers": [
+                { "text": "Ein Server, der Datenbanken verwaltet.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Cloud-Computing?",
+            "answers": [
+                { "text": "Die Bereitstellung von Diensten über das Internet.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Backup?",
+            "answers": [
+                { "text": "Die Sicherung von Daten im Netzwerk.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Fehler?",
+            "answers": [
+                { "text": "Ein Problem, das die Netzwerkverbindung beeinträchtigt.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Upgrade?",
+            "answers": [
+                { "text": "Die Verbesserung der Netzwerkhardware oder -software.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Architektur?",
+            "answers": [
+                { "text": "Die Struktur und Organisation eines Netzwerks.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Token?",
+            "answers": [
+                { "text": "Ein Signal, das den Zugriff auf das Netzwerk regelt.", "correct": true },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein System zur Datensicherung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Client?",
+            "answers": [
+                { "text": "Ein Gerät, das Dienste von einem Server anfordert.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Netzwerk-Server?",
+            "answers": [
+                { "text": "Ein Gerät, das Dienste für Clients bereitstellt.", "correct": true },
+                { "text": "Ein Drucker für große Aufträge.", "correct": false },
+                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
+                { "text": "Ein Scanner für Ausweise.", "correct": false }
+            ]
+        }
+    ]
+}
