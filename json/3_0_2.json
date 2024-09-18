@@ -1,0 +1,238 @@
+{
+    "3.0.2_1-20": [
+        {
+            "question": "Mit welchem Buchstaben wird die Datenübertragungsrate beschrieben?",
+                "answers": [
+                    { "text": "B", "correct": false },
+                    { "text": "C", "correct": true },
+                    { "text": "D", "correct": false },
+                    { "text": "E", "correct": false }
+                ]
+            },
+            {
+                "question": "RTS und CTS sind Teil welchen Medienzugriffsverfahrens?",
+                "answers": [
+                    { "text": "CSMA/CD", "correct": false },
+                    { "text": "Token Passing", "correct": false },
+                    { "text": "CSMA/CA", "correct": true },
+                    { "text": "Polling", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie werden Signale in Kupferleitungen übertragen?",
+                "answers": [
+                    { "text": "Mit elektromagnetischen Strahlen", "correct": false },
+                    { "text": "Mit elektrischen Signalen", "correct": true },
+                    { "text": "Mit Lichtsignalen", "correct": false },
+                    { "text": "Mit akustischen Signalen", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie werden Signale in Glasfaserleitungen übertragen?",
+                "answers": [
+                    { "text": "Mit Lichtsignalen", "correct": true },
+                    { "text": "Mit elektrischen Impulsen", "correct": false },
+                    { "text": "Mit elektromagnetischen Wellen", "correct": false },
+                    { "text": "Mit Schallwellen", "correct": false }
+                ]
+            },
+            {
+                "question": "Welchem Oberbegriff lassen sich ARP und DHCP zuordnen?",
+                "answers": [
+                    { "text": "Netzwerk-Tools", "correct": false },
+                    { "text": "Netzwerk-Protokolle", "correct": true },
+                    { "text": "Netzwerk-Dienste", "correct": false },
+                    { "text": "Netzwerk-Interfaces", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Signale verwenden Bluetooth und WLAN?",
+                "answers": [
+                    { "text": "Elektrische Signale", "correct": false },
+                    { "text": "Optische Signale", "correct": false },
+                    { "text": "Elektromagnetische Strahlen", "correct": true },
+                    { "text": "Akustische Signale", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie werden Netzwerkknoten in der Fachsprache auch bezeichnet?",
+                "answers": [
+                    { "text": "Clients", "correct": false },
+                    { "text": "Nodes", "correct": true },
+                    { "text": "Hubs", "correct": false },
+                    { "text": "Switches", "correct": false }
+                ]
+            },
+            {
+                "question": "Wo leitet ein Switch den Datenverkehr?",
+                "answers": [
+                    { "text": "Zwischen Netzwerken", "correct": false },
+                    { "text": "Innerhalb des Netzwerks", "correct": true },
+                    { "text": "Zu externen Geräten", "correct": false },
+                    { "text": "Zu den Routern", "correct": false }
+                ]
+            },
+            {
+                "question": "Wo leitet der Router den Datenverkehr?",
+                "answers": [
+                    { "text": "Innerhalb des Netzwerks", "correct": false },
+                    { "text": "Zwischen verschiedenen Netzwerken", "correct": true },
+                    { "text": "Innerhalb eines Subnetzes", "correct": false },
+                    { "text": "Zu externen Geräten", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist die Schnittstelle einer kabellosen und kabelgebundenen Verbindung?",
+                "answers": [
+                    { "text": "Router", "correct": false },
+                    { "text": "Switch", "correct": false },
+                    { "text": "Access-Point", "correct": true },
+                    { "text": "Modem", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Interfaces kann ein Host haben?",
+                "answers": [
+                    { "text": "Bluetooth, WLAN, Ethernet", "correct": true },
+                    { "text": "Firewire, WLAN, HDMI", "correct": false },
+                    { "text": "Ethernet, USB, VGA", "correct": false },
+                    { "text": "Thunderbolt, NFC, HDMI", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist ein Interface?",
+                "answers": [
+                    { "text": "Ein Kommunikationsprotokoll", "correct": false },
+                    { "text": "Ein Kabeltyp zur Übertragung von Daten", "correct": false },
+                    { "text": "Die Schnittstelle zur Datenvermittlung von Host und Netzwerk", "correct": true },
+                    { "text": "Ein Gerät zur Steuerung des Netzwerks", "correct": false }
+                ]
+            },
+            {
+                "question": "Welcher Sender adressiert einen unbestimmten Empfänger im Netzwerk?",
+                "answers": [
+                    { "text": "Unicast", "correct": false },
+                    { "text": "Broadcast", "correct": false },
+                    { "text": "Anycast", "correct": true },
+                    { "text": "Multicast", "correct": false }
+                ]
+            },
+            {
+                "question": "These: Eine MAC-Adresse besteht aus 48 Bit.",
+                "answers": [
+                    { "text": "Falsch", "correct": false },
+                    { "text": "Richtig", "correct": true },
+                    { "text": "Unbekannt", "correct": false },
+                    { "text": "Teilweise richtig", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie lautet die zentrale Grundregel beim Medienzugriff über Ethernet?",
+                "answers": [
+                    { "text": "CSM", "correct": false },
+                    { "text": "LBT", "correct": true },
+                    { "text": "FDX", "correct": false },
+                    { "text": "SMA", "correct": false }
+                ]
+            },
+            {
+                "question": "Was sind Netzwerkprotokolle?",
+                "answers": [
+                    { "text": "Vorschriften für die Hardwareinstallation", "correct": false },
+                    { "text": "Ein Betriebssystem für Netzwerke", "correct": false },
+                    { "text": "Eine Sammlung von Regeln für die Kommunikation zwischen Systemen", "correct": true },
+                    { "text": "Ein Sicherheitsstandard für Netzwerke", "correct": false }
+                ]
+            },
+            {
+                "question": "Welcher Begriff beschreibt, wie Leitungen verlegt werden und welchen Weg die Daten nehmen?",
+                "answers": [
+                    { "text": "Routing", "correct": false },
+                    { "text": "Topologie", "correct": true },
+                    { "text": "Switching", "correct": false },
+                    { "text": "Adressierung", "correct": false }
+                ]
+            },
+            {
+                "question": "Wie schnell ist ein aktueller USB (3.2)?",
+                "answers": [
+                    { "text": "10-15 Gbit/s", "correct": false },
+                    { "text": "5-10 Gbit/s", "correct": false },
+                    { "text": "20-40 Gbit/s", "correct": true },
+                    { "text": "50-60 Gbit/s", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist TCP/IP?",
+                "answers": [
+                    { "text": "Ein Hardwareprotokoll", "correct": false },
+                    { "text": "Eine Gruppe von Protokollen zur Vermittlung und zum Transport von Datenpaketen", "correct": true },
+                    { "text": "Ein Netzwerk-Sicherheitsprotokoll", "correct": false },
+                    { "text": "Ein Verschlüsselungsverfahren für das Internet", "correct": false }
+                ]
+            },
+            {
+                "question": "These: Anschlussdosen sind Teil der strukturierten Verkabelung.",
+                "answers": [
+                    { "text": "Falsch", "correct": false },
+                    { "text": "Richtig", "correct": true },
+                    { "text": "Teilweise richtig", "correct": false },
+                    { "text": "Unbekannt", "correct": false }
+                ]
+            },
+            {
+                "question": "Was ist der Vorteil von Multiplexing?",
+                "answers": [
+                    { "text": "Höhere Datenintegrität", "correct": false },
+                    { "text": "Verringerung der Latenzzeiten", "correct": false },
+                    { "text": "Mehrfachausnutzung von Netzwerkressourcen", "correct": true },
+                    { "text": "Verbesserte Sicherheit", "correct": false }
+                ]
+            },
+            {
+                "question": "Aus wie vielen Bits besteht eine IPv4-Adresse?",
+                "answers": [
+                    { "text": "16 Bit", "correct": false },
+                    { "text": "32 Bit", "correct": true },
+                    { "text": "64 Bit", "correct": false },
+                    { "text": "128 Bit", "correct": false }
+                ]
+            },
+            {
+                "question": "These: Ein Broadcast ist ein Spezialfall von Multicast.",
+                "answers": [
+                    { "text": "Unbekannt", "correct": false },
+                    { "text": "Teilweise richtig", "correct": false },
+                    { "text": "Falsch", "correct": false },
+                    { "text": "Richtig", "correct": true }
+                ]
+            },
+            {
+                "question": "Nenne mindestens zwei Adressierungsarten im Netzwerk.",
+                "answers": [
+                    { "text": "Point-to-Point, Ringcast", "correct": false },
+                    { "text": "Broadcast, Unicast", "correct": true },
+                    { "text": "Broadcast, Multichat", "correct": false },
+                    { "text": "Hubcast, Starcast", "correct": false }
+                ]
+            },
+            {
+                "question": "Nenne mindestens drei Netzwerkprotokolle.",
+                "answers": [
+                    { "text": "TCP, UDP, DHCP", "correct": true },
+                    { "text": "FTP, HTML, IP", "correct": false },
+                    { "text": "DNS, HTTP, SSL", "correct": false },
+                    { "text": "SMTP, CSS, SSH", "correct": false }
+                ]
+            },
+            {
+                "question": "Mit welcher Übertragungsart arbeitet (VoIP-)Telefonie?",
+                "answers": [
+                    { "text": "Halbduplex", "correct": false },
+                    { "text": "Vollduplex", "correct": true },
+                    { "text": "Simplex", "correct": false },
+                    { "text": "Modem-Duplex", "correct": false }
+                ]
+            }
+        ]
+    }
