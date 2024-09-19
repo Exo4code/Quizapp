@@ -1,0 +1,185 @@
+{
+    "3.2.1_1-20": [
+      {
+        "question": "Was ist ein Computernetz?",
+        "answers": [
+          { "text": "Ein System zur Steuerung von Druckern.", "correct": false },
+          { "text": "Eine Verbindung selbstständiger Rechner für den Datenaustausch.", "correct": true },
+          { "text": "Ein Netzwerk zur Verwaltung von Bürodokumenten.", "correct": false },
+          { "text": "Ein System zur Kontrolle von Internetzugriffen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte zählen zu einem Computernetz?",
+        "answers": [
+          { "text": "PCs, Server, Sensoren und Drucker.", "correct": true },
+          { "text": "Nur PCs und Server.", "correct": false },
+          { "text": "Nur Drucker und Scanner.", "correct": false },
+          { "text": "Nur Sensoren und Aktoren.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet die Abkürzung GAN?",
+        "answers": [
+          { "text": "Global Area Network.", "correct": true },
+          { "text": "Large Access Network.", "correct": false },
+          { "text": "Line Area Network.", "correct": false },
+          { "text": "Local Access Node.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Verbindung nutzt ein VPN?",
+        "answers": [
+          { "text": "Eine sichere, verschlüsselte Verbindung über das Internet.", "correct": true },
+          { "text": "Eine direkte Kabelverbindung zwischen zwei PCs.", "correct": false },
+          { "text": "Eine Funkverbindung für mobile Geräte.", "correct": false },
+          { "text": "Eine Verbindung über das alte Telefonnetz.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Aufgabe von Carriern im Datennetz?",
+        "answers": [
+          { "text": "Betrieb von großflächigen Datennetzen für Datenpakettransport.", "correct": true },
+          { "text": "Verwaltung von Drucker- und Scannergeräten.", "correct": false },
+          { "text": "Bereitstellung von E-Mail-Diensten.", "correct": false },
+          { "text": "Erfassung von Sensorwerten im Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter IP-Telefonie?",
+        "answers": [
+          { "text": "Telefonie über das Internet-Protokoll (Voice over IP).", "correct": true },
+          { "text": "Telefonie über das analoge Telefonnetz.", "correct": false },
+          { "text": "Telefonie über Mobilfunknetze.", "correct": false },
+          { "text": "Telefonie über spezielle Satellitenverbindungen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wie viele Menschen sind weltweit über das Internet vernetzt?",
+        "answers": [
+          { "text": "Über 5 Milliarden Menschen.", "correct": true },
+          { "text": "Rund 3 Milliarden Menschen.", "correct": false },
+          { "text": "Etwa 1 Milliarde Menschen.", "correct": false },
+          { "text": "Mehr als 7 Milliarden Menschen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die ausgeschriebene Bedeutung von VPN?",
+        "answers": [
+          { "text": "Virtuelles Privates Netzwerk.", "correct": true },
+          { "text": "Virtuelles Öffentliches Netzwerk.", "correct": false },
+          { "text": "Virtuelle Persönliche Netzwerke.", "correct": false },
+          { "text": "Virtuelle Netzwerkprotokolle.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was wird als Datacenter bezeichnet?",
+        "answers": [
+          { "text": "Ein Raum mit zentralen IT-Einrichtungen und Servern.", "correct": true },
+          { "text": "Ein Gebäude für Büroarbeitsplätze.", "correct": false },
+          { "text": "Eine spezielle Software zur Datenanalyse.", "correct": false },
+          { "text": "Ein Netzwerkprotokoll für Datensicherheit.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptaufgabe eines Providers?",
+        "answers": [
+          { "text": "Ermöglichen den Zugang zum weltweiten Datennetz.", "correct": true },
+          { "text": "Verwaltung von Netzwerkgeräten im Büro.", "correct": false },
+          { "text": "Steuerung von Druckern und Scannern.", "correct": false },
+          { "text": "Erfassung von Anwesenheitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wie viele Geräte sind weltweit vernetzt?",
+        "answers": [
+          { "text": "Etwa 20 Milliarden Geräte.", "correct": true },
+          { "text": "Rund 10 Milliarden Geräte.", "correct": false },
+          { "text": "Ca. 5 Milliarden Geräte.", "correct": false },
+          { "text": "Über 50 Milliarden Geräte.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist das Hauptziel eines Computernetzes?",
+        "answers": [
+          { "text": "Datenaustausch zwischen verbundenen Geräten.", "correct": true },
+          { "text": "Speicherung von großen Datenmengen.", "correct": false },
+          { "text": "Erfassung von Nutzerdaten.", "correct": false },
+          { "text": "Verwaltung von Druckaufträgen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet der Begriff 'Intranet'?",
+        "answers": [
+          { "text": "Internes Netzwerk innerhalb eines Unternehmens.", "correct": true },
+          { "text": "Globales Netzwerk für alle Benutzer.", "correct": false },
+          { "text": "Ein spezielles Netzwerk für Mobilgeräte.", "correct": false },
+          { "text": "Ein Netzwerkprotokoll für Internetverbindungen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Vorteil von VPN-Verbindungen?",
+        "answers": [
+          { "text": "Sichere Kommunikation über unsichere Netzwerke.", "correct": true },
+          { "text": "Erhöhte Geschwindigkeit bei Datenübertragungen.", "correct": false },
+          { "text": "Kostenlose Internetnutzung.", "correct": false },
+          { "text": "Reduzierung von Netzwerkgeräten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein IoT-Aktor im Netzwerk?",
+        "answers": [
+          { "text": "Ein Gerät, das auf empfangene Daten reagiert und Aktionen ausführt.", "correct": true },
+          { "text": "Ein Gerät zur Erfassung von Bewegungen.", "correct": false },
+          { "text": "Ein Programm zur Verwaltung von Netzwerkzugriffen.", "correct": false },
+          { "text": "Ein Gerät zur Speicherung von Netzwerkdaten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist das Internet der Dinge (IoT)?",
+        "answers": [
+          { "text": "Vernetzung von physischen Geräten zur Kommunikation.", "correct": true },
+          { "text": "Ein spezielles Netzwerkprotokoll.", "correct": false },
+          { "text": "Ein System zur Überwachung von Servern.", "correct": false },
+          { "text": "Ein Softwarepaket zur Verwaltung von Druckern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptaufgabe eines VPN-Tunnels?",
+        "answers": [
+          { "text": "Sichere und verschlüsselte Übertragung von Daten über das Internet.", "correct": true },
+          { "text": "Erhöhung der Netzwerkgeschwindigkeit.", "correct": false },
+          { "text": "Erfassung von Netzwerkfehlern.", "correct": false },
+          { "text": "Verbindung von Druckern und Scannern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter 'Voice over IP' (VoIP)?",
+        "answers": [
+          { "text": "Telefonie über das Internet-Protokoll.", "correct": true },
+          { "text": "Fernsteuerung von Netzwerkgeräten.", "correct": false },
+          { "text": "Speicherung von Sprachdaten im Netzwerk.", "correct": false },
+          { "text": "Eine spezielle Form der Datenverschlüsselung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Unternehmens-Intranet?",
+        "answers": [
+          { "text": "Bereitstellung interner Daten und Anwendungen für Mitarbeiter.", "correct": true },
+          { "text": "Verwaltung von externen Netzwerkverbindungen.", "correct": false },
+          { "text": "Überwachung des Internetverkehrs.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Nutzung des weltweiten Internets (Öffentliches Netz)?",
+        "answers": [
+          { "text": "Kommunikation und Datenaustausch über verschiedene Netzwerke hinweg.", "correct": true },
+          { "text": "Verwaltung von lokalen Druckern und Scannern.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten in Unternehmen.", "correct": false },
+          { "text": "Verwaltung von Mobilgeräten.", "correct": false }
+        ]
+      }
+    ]
+  }
+  

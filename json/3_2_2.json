@@ -1,0 +1,540 @@
+{
+    "3.2.2_1-20": [
+      {
+        "question": "Welche Netzwerke nutzen private IP-Adressen, die nicht im Internet weitergeleitet werden?",
+        "answers": [
+          { "text": "Private Netze", "correct": true },
+          { "text": "Öffentliche Netze", "correct": false },
+          { "text": "Carrier-Netze", "correct": false },
+          { "text": "Provider-Netze", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptaufgabe eines VPN?",
+        "answers": [
+          { "text": "Sichere Verbindung über unsichere Netzwerke", "correct": true },
+          { "text": "Verwaltung von IP-Adressen", "correct": false },
+          { "text": "Speicherung großer Datenmengen", "correct": false },
+          { "text": "Überwachung von Netzwerkzugriffen", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Netzbereich wird von Behörden und Schulen genutzt?",
+        "answers": [
+          { "text": "Private Netze", "correct": true },
+          { "text": "Öffentliche Netze", "correct": false },
+          { "text": "WAN-Netze", "correct": false },
+          { "text": "Metropolitan Area Networks", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netz ermöglicht die drahtlose Verbindung mobiler Geräte in ein LAN?",
+        "answers": [
+          { "text": "WLAN", "correct": true },
+          { "text": "WAN", "correct": false },
+          { "text": "PAN", "correct": false },
+          { "text": "SAN", "correct": false }
+        ]
+      },
+      {
+        "question": "Was zeichnet ein Peer-to-Peer-Netzwerk aus?",
+        "answers": [
+          { "text": "Rechner sind gleichzeitig Client und Server", "correct": true },
+          { "text": "Es wird nur von einem zentralen Server verwaltet", "correct": false },
+          { "text": "Es basiert ausschließlich auf drahtlosen Verbindungen", "correct": false },
+          { "text": "Es ist ausschließlich für Großunternehmen geeignet", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Technologie ermöglicht es, LANs in abgetrennte Bereiche aufzuteilen?",
+        "answers": [
+          { "text": "VLAN", "correct": true },
+          { "text": "WAN", "correct": false },
+          { "text": "VPN", "correct": false },
+          { "text": "SAN", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem SAN?",
+        "answers": [
+          { "text": "Ein Netz für die Verbindung von Massenspeichern", "correct": true },
+          { "text": "Ein drahtloses, persönliches Netzwerk", "correct": false },
+          { "text": "Ein Netz zur sicheren Verbindung über das Internet", "correct": false },
+          { "text": "Ein globales Kommunikationsnetzwerk", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netz verbindet LANs über große Distanzen?",
+        "answers": [
+          { "text": "WAN", "correct": true },
+          { "text": "PAN", "correct": false },
+          { "text": "VLAN", "correct": false },
+          { "text": "SAN", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Netzwerke sind hierarchisch aufgebaut und nutzen öffentliche IP-Adressen?",
+        "answers": [
+          { "text": "Öffentliche Netze", "correct": true },
+          { "text": "Private Netze", "correct": false },
+          { "text": "Metropolitan Area Networks", "correct": false },
+          { "text": "Virtuelle LANs", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem Personal Area Network (PAN)?",
+        "answers": [
+          { "text": "Netzwerk mit geringer Reichweite, das Kleingeräte verbindet", "correct": true },
+          { "text": "Netzwerk zur globalen Kommunikation", "correct": false },
+          { "text": "Speichernetzwerk in Rechenzentren", "correct": false },
+          { "text": "Netzwerk zur sicheren Übertragung über das Internet", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netz wird typischerweise für den Heimarbeitsplatz genutzt?",
+        "answers": [
+          { "text": "End-to-Site-VPN", "correct": true },
+          { "text": "Site-to-Site-VPN", "correct": false },
+          { "text": "End-to-End-VPN", "correct": false },
+          { "text": "Local Area Network", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Art von Netzwerk wird zur sicheren Verbindung zwischen zwei Gaming-PCs genutzt?",
+        "answers": [
+          { "text": "End-to-End-VPN", "correct": true },
+          { "text": "Site-to-Site-VPN", "correct": false },
+          { "text": "End-to-Site-VPN", "correct": false },
+          { "text": "Wide Area Network", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet der Begriff 'IP-Tunneling' im Kontext von VPNs?",
+        "answers": [
+          { "text": "Verpackung von IP-Paketen in andere IP-Pakete", "correct": true },
+          { "text": "Verwendung von alternativen IP-Adressen", "correct": false },
+          { "text": "Nutzung von IP-Adressen im Internet", "correct": false },
+          { "text": "Sicherstellung der Datenübertragungsgeschwindigkeit", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem Client-Server-Netz?",
+        "answers": [
+          { "text": "Zentrale Server bieten Dienste an, die Clients nutzen", "correct": true },
+          { "text": "Alle Rechner sind gleichwertig und bieten Dienste an", "correct": false },
+          { "text": "Es verbindet nur mobile Geräte miteinander", "correct": false },
+          { "text": "Es erfordert keine Server-Administration", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netzwerk ermöglicht den Zugang zu überregionalen Datendiensten?",
+        "answers": [
+          { "text": "Öffentliche Netze", "correct": true },
+          { "text": "Private Netze", "correct": false },
+          { "text": "Virtuelle LANs", "correct": false },
+          { "text": "Personal Area Networks", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Trunk im Zusammenhang mit VLANs?",
+        "answers": [
+          { "text": "Eine Leitung, die VLAN-Kennungen zwischen Switches transportiert", "correct": true },
+          { "text": "Ein spezieller Netzwerkanschluss für Drucker", "correct": false },
+          { "text": "Ein Gerät zur Überwachung des Netzwerkverkehrs", "correct": false },
+          { "text": "Ein Bereich im Netzwerkspeicher", "correct": false }
+        ]
+      },
+      {
+        "question": "Was unterscheidet ein MAN von einem WAN?",
+        "answers": [
+          { "text": "MAN beschränkt sich auf eine Stadt, WAN erstreckt sich über große Distanzen", "correct": true },
+          { "text": "MAN ist drahtlos, WAN ist kabelgebunden", "correct": false },
+          { "text": "MAN ist ein privates, WAN ein öffentliches Netzwerk", "correct": false },
+          { "text": "MAN verwendet nur lokale IP-Adressen, WAN nur globale", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat ein End-to-Site-VPN?",
+        "answers": [
+          { "text": "Verbindung eines Heimarbeitsplatzes mit einem Firmen-LAN", "correct": true },
+          { "text": "Verbindung von zwei Unternehmensstandorten", "correct": false },
+          { "text": "Verbindung zweier Privathaushalte", "correct": false },
+          { "text": "Verbindung von Geräten innerhalb eines LANs", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter untagged ethernet frames?",
+        "answers": [
+          { "text": "Ethernet-Datenpakete ohne VLAN-Tag", "correct": true },
+          { "text": "Datenpakete, die keine IP-Adresse enthalten", "correct": false },
+          { "text": "Verschlüsselte Ethernet-Datenpakete", "correct": false },
+          { "text": "Ethernet-Datenpakete mit doppeltem Header", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat das Ethernet-Protokoll im Netzwerk?",
+        "answers": [
+          { "text": "Es definiert den Rahmen für die Datenübertragung auf der Verbindungsschicht.", "correct": true },
+          { "text": "Es verschlüsselt Datenpakete für sichere Übertragungen.", "correct": false },
+          { "text": "Es verwaltet IP-Adressen und Domain-Namen.", "correct": false },
+          { "text": "Es überprüft die Netzwerkverfügbarkeit für mobile Geräte.", "correct": false }
+        ]
+      }
+    ],
+    "3.2.2_21-40": [
+      {
+        "question": "Was ist die Hauptaufgabe eines Global Area Networks (GAN)?",
+        "answers": [
+          { "text": "Verbindung von Netzwerken weltweit.", "correct": true },
+          { "text": "Bereitstellung von lokalen Diensten.", "correct": false },
+          { "text": "Überwachung von Netzwerksicherheit.", "correct": false },
+          { "text": "Verwaltung von persönlichen Netzwerken.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht ein LPWAN (Low Power WAN)?",
+        "answers": [
+          { "text": "Verbindung von batteriebetriebenen Geräten über große Entfernungen.", "correct": true },
+          { "text": "Übertragung großer Datenmengen bei hoher Geschwindigkeit.", "correct": false },
+          { "text": "Verbindung von Hochleistungsrechnern in Rechenzentren.", "correct": false },
+          { "text": "Echtzeitüberwachung von Netzwerken.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was unterscheidet öffentliche von privaten Netzen?",
+        "answers": [
+          { "text": "Öffentliche Netze nutzen öffentliche IP-Adressen, private Netze nutzen private IP-Adressen.", "correct": true },
+          { "text": "Öffentliche Netze sind schneller als private Netze.", "correct": false },
+          { "text": "Öffentliche Netze sind sicherer als private Netze.", "correct": false },
+          { "text": "Öffentliche Netze sind immer kabellos, private sind kabelgebunden.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat ein Virtual Private Network (VPN)?",
+        "answers": [
+          { "text": "Ermöglicht sichere, verschlüsselte Verbindungen über unsichere Netzwerke.", "correct": true },
+          { "text": "Steuert den Zugriff auf Drucker und Scanner im Netzwerk.", "correct": false },
+          { "text": "Speichert Daten lokal auf den Endgeräten.", "correct": false },
+          { "text": "Erfasst die Verbindungszeiten der Benutzer.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netzwerk ist speziell für den Anschluss von Massenspeichern konzipiert?",
+        "answers": [
+          { "text": "SAN (Storage Area Network)", "correct": true },
+          { "text": "PAN (Personal Area Network)", "correct": false },
+          { "text": "WAN (Wide Area Network)", "correct": false },
+          { "text": "GAN (Global Area Network)", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Aufgabe eines Trunks im VLAN-Kontext?",
+        "answers": [
+          { "text": "Transport von VLAN-Kennungen zwischen Switches.", "correct": true },
+          { "text": "Erhöhung der Bandbreite im Netzwerk.", "correct": false },
+          { "text": "Ermöglichen der drahtlosen Netzwerkverbindung.", "correct": false },
+          { "text": "Speicherung von Netzwerkdaten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was beschreibt der Begriff 'untagged ethernet frames'?",
+        "answers": [
+          { "text": "Ethernet-Datenpakete ohne VLAN-Kennung.", "correct": true },
+          { "text": "Verschlüsselte Ethernet-Datenpakete.", "correct": false },
+          { "text": "Ethernet-Pakete ohne IP-Adresse.", "correct": false },
+          { "text": "Datenpakete mit einer alternativen IP-Adresse.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem Site-to-Site-VPN?",
+        "answers": [
+          { "text": "Sicherer Verbindung von zwei Netzwerken über das Internet.", "correct": true },
+          { "text": "Verbindung eines Heimarbeitsplatzes mit dem Firmennetz.", "correct": false },
+          { "text": "Verbindung zweier Computer in einem LAN.", "correct": false },
+          { "text": "Verbindung von Endgeräten mit einem lokalen Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Unterschied zwischen einem End-to-End-VPN und einem Site-to-Site-VPN?",
+        "answers": [
+          { "text": "End-to-End-VPN verbindet zwei Rechner, Site-to-Site-VPN verbindet zwei Netzwerke.", "correct": true },
+          { "text": "End-to-End-VPN ist für Unternehmen, Site-to-Site-VPN für Privathaushalte.", "correct": false },
+          { "text": "End-to-End-VPN nutzt private IPs, Site-to-Site-VPN öffentliche IPs.", "correct": false },
+          { "text": "End-to-End-VPN ist drahtlos, Site-to-Site-VPN ist kabelgebunden.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Funktion eines VLAN-Tags?",
+        "answers": [
+          { "text": "Kennzeichnung der VLAN-Zugehörigkeit eines Datenpakets.", "correct": true },
+          { "text": "Verschlüsselung von Datenpaketen im Netzwerk.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs auf Sicherheitslücken.", "correct": false },
+          { "text": "Ermöglichung der drahtlosen Verbindung mobiler Geräte.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet die Abkürzung GAN?",
+        "answers": [
+          { "text": "Global Area Network", "correct": true },
+          { "text": "Gateway Access Network", "correct": false },
+          { "text": "Generic Application Network", "correct": false },
+          { "text": "Global Access Node", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem Metropolitan Area Network (MAN)?",
+        "answers": [
+          { "text": "Ein Netzwerk, das sich über eine Stadt erstreckt.", "correct": true },
+          { "text": "Ein privates Netzwerk innerhalb eines Hauses.", "correct": false },
+          { "text": "Ein Netzwerk, das sich über mehrere Länder erstreckt.", "correct": false },
+          { "text": "Ein Netzwerk, das nur für drahtlose Verbindungen genutzt wird.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Unterschied zwischen einem LAN und einem WAN?",
+        "answers": [
+          { "text": "LAN ist lokal begrenzt, WAN erstreckt sich über große Distanzen.", "correct": true },
+          { "text": "LAN nutzt Funkverbindungen, WAN nutzt Kabelverbindungen.", "correct": false },
+          { "text": "LAN ist öffentlich, WAN ist privat.", "correct": false },
+          { "text": "LAN nutzt IP-Adressen, WAN nutzt MAC-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was beschreibt ein Client-Server-Netzwerk?",
+        "answers": [
+          { "text": "Zentrale Server bieten Dienste an, die von Clients genutzt werden.", "correct": true },
+          { "text": "Jeder Rechner bietet seine Dienste selbst an und nutzt andere.", "correct": false },
+          { "text": "Alle Rechner sind gleichberechtigt und benötigen keinen Server.", "correct": false },
+          { "text": "Verbindung zwischen zwei gleichwertigen Netzwerken.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Peer-to-Peer-Netzwerk?",
+        "answers": [
+          { "text": "Jeder Rechner kann gleichzeitig Client und Server sein.", "correct": true },
+          { "text": "Es gibt zentrale Server, die alle Dienste bereitstellen.", "correct": false },
+          { "text": "Es verbindet nur mobile Geräte miteinander.", "correct": false },
+          { "text": "Es basiert auf einer festen hierarchischen Struktur.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netzwerk eignet sich für die Verbindung von Heimgeräten wie PDAs oder Smartphones?",
+        "answers": [
+          { "text": "PAN (Personal Area Network)", "correct": true },
+          { "text": "SAN (Storage Area Network)", "correct": false },
+          { "text": "WAN (Wide Area Network)", "correct": false },
+          { "text": "MAN (Metropolitan Area Network)", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist das Ziel eines Virtual Local Area Network (VLAN)?",
+        "answers": [
+          { "text": "Logische Trennung von Netzwerken auf einer physischen Infrastruktur.", "correct": true },
+          { "text": "Erhöhung der Datenübertragungsrate im Netzwerk.", "correct": false },
+          { "text": "Ermöglichung von drahtlosen Verbindungen in einem LAN.", "correct": false },
+          { "text": "Verwaltung der IP-Adressen im Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Vorteil eines VPN-Tunnels?",
+        "answers": [
+          { "text": "Sichere Datenübertragung über unsichere Netzwerke.", "correct": true },
+          { "text": "Erhöhung der Netzwerkgeschwindigkeit.", "correct": false },
+          { "text": "Speicherung von Daten auf entfernten Servern.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Peer-to-Peer-Netzwerk?",
+        "answers": [
+          { "text": "Rechner sind gleichzeitig Client und Server.", "correct": true },
+          { "text": "Zentrale Verwaltung aller Daten.", "correct": false },
+          { "text": "Verbindung von Netzwerken über große Distanzen.", "correct": false },
+          { "text": "Ermöglichung von drahtlosen Verbindungen.", "correct": false }
+        ]
+      }
+    ],
+    "3.2.2_41-60": [
+      {
+        "question": "Was ist der Hauptvorteil von VLANs?",
+        "answers": [
+          { "text": "Logische Segmentierung ohne zusätzliche Verkabelung.", "correct": true },
+          { "text": "Erhöhung der Bandbreite im Netzwerk.", "correct": false },
+          { "text": "Verschlüsselung aller Netzwerkdaten.", "correct": false },
+          { "text": "Reduzierung der Netzwerkkomplexität.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Netz eignet sich für den Betrieb in einem Rechenzentrum?",
+        "answers": [
+          { "text": "SAN (Storage Area Network)", "correct": true },
+          { "text": "PAN (Personal Area Network)", "correct": false },
+          { "text": "WAN (Wide Area Network)", "correct": false },
+          { "text": "MAN (Metropolitan Area Network)", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat ein LPWAN?",
+        "answers": [
+          { "text": "Verbindung von energieeffizienten Geräten über große Distanzen.", "correct": true },
+          { "text": "Verbindung von Hochleistungsservern in Rechenzentren.", "correct": false },
+          { "text": "Verbindung von Mobilgeräten in einem WLAN.", "correct": false },
+          { "text": "Verbindung von Servern in einem LAN.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein VPN im Unternehmensnetzwerk?",
+        "answers": [
+          { "text": "Sicherer Zugriff auf das interne Netzwerk von außen.", "correct": true },
+          { "text": "Verwaltung aller Druckaufträge im Netzwerk.", "correct": false },
+          { "text": "Speicherung von Daten auf einem zentralen Server.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Unterschied zwischen einem privaten und einem öffentlichen Netzwerk?",
+        "answers": [
+          { "text": "Private Netzwerke nutzen private IP-Adressen, öffentliche nutzen öffentliche.", "correct": true },
+          { "text": "Private Netzwerke sind schneller als öffentliche Netzwerke.", "correct": false },
+          { "text": "Private Netzwerke sind sicherer als öffentliche Netzwerke.", "correct": false },
+          { "text": "Private Netzwerke sind immer drahtlos, öffentliche kabelgebunden.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem VPN-Tunnel?",
+        "answers": [
+          { "text": "Verschlüsselte Verbindung durch ein unsicheres Netzwerk.", "correct": true },
+          { "text": "Ein spezielles Kabel zur Netzwerkverbindung.", "correct": false },
+          { "text": "Eine Verbindung zwischen zwei Netzwerkdruckern.", "correct": false },
+          { "text": "Ein Protokoll zur Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein typisches Merkmal von privaten Netzwerken?",
+        "answers": [
+          { "text": "Verwendung von privaten IP-Adressen.", "correct": true },
+          { "text": "Verbindung von Netzen über große Distanzen.", "correct": false },
+          { "text": "Bereitstellung von öffentlichen Diensten.", "correct": false },
+          { "text": "Nutzung öffentlicher Kommunikationskanäle.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Trunk-Port in einem VLAN-Netzwerk?",
+        "answers": [
+          { "text": "Ein Port, der VLAN-Tags zwischen Switches überträgt.", "correct": true },
+          { "text": "Ein Port zur Verbindung von Druckern.", "correct": false },
+          { "text": "Ein Port zur Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Ein Port zur Speicherung von Netzwerkdaten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptaufgabe eines WAN?",
+        "answers": [
+          { "text": "Verbindung von lokalen Netzwerken über große Distanzen.", "correct": true },
+          { "text": "Bereitstellung drahtloser Verbindungen.", "correct": false },
+          { "text": "Speicherung von Daten auf zentralen Servern.", "correct": false },
+          { "text": "Überwachung des Datenverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet die Abkürzung VPN?",
+        "answers": [
+          { "text": "Virtual Private Network", "correct": true },
+          { "text": "Virtual Public Network", "correct": false },
+          { "text": "Very Private Network", "correct": false },
+          { "text": "Verified Public Network", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein typisches Merkmal eines VLAN?",
+        "answers": [
+          { "text": "Logische Trennung von Netzwerken auf einer physischen Infrastruktur.", "correct": true },
+          { "text": "Erhöhung der Bandbreite im Netzwerk.", "correct": false },
+          { "text": "Verwaltung der IP-Adressen im Netzwerk.", "correct": false },
+          { "text": "Speicherung von Daten auf zentralen Servern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet die Abkürzung LAN?",
+        "answers": [
+          { "text": "Local Area Network", "correct": true },
+          { "text": "Large Access Network", "correct": false },
+          { "text": "Line Access Network", "correct": false },
+          { "text": "Logical Area Network", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Client-Server-Netzwerk?",
+        "answers": [
+          { "text": "Bereitstellung zentraler Dienste für Clients.", "correct": true },
+          { "text": "Verbindung von Netzen über große Distanzen.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen im Netzwerk.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was beschreibt ein Peer-to-Peer-Netzwerk?",
+        "answers": [
+          { "text": "Rechner bieten gleichzeitig Dienste an und nutzen sie.", "correct": true },
+          { "text": "Alle Dienste werden zentral über einen Server bereitgestellt.", "correct": false },
+          { "text": "Es werden ausschließlich mobile Geräte miteinander verbunden.", "correct": false },
+          { "text": "Es basiert auf einer festen hierarchischen Struktur.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat ein Wide Area Network (WAN)?",
+        "answers": [
+          { "text": "Verbindung von lokalen Netzwerken über große Entfernungen.", "correct": true },
+          { "text": "Bereitstellung zentraler Serverdienste.", "correct": false },
+          { "text": "Ermöglichung drahtloser Verbindungen.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein VPN-Tunnel?",
+        "answers": [
+          { "text": "Verschlüsselte Verbindung durch ein unsicheres Netzwerk.", "correct": true },
+          { "text": "Ermöglichung drahtloser Verbindungen.", "correct": false },
+          { "text": "Übertragung großer Datenmengen.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptfunktion eines MAN?",
+        "answers": [
+          { "text": "Verbindung von Netzwerken innerhalb einer Stadt.", "correct": true },
+          { "text": "Verbindung von Heimnetzwerken.", "correct": false },
+          { "text": "Bereitstellung drahtloser Verbindungen.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Site-to-Site-VPN?",
+        "answers": [
+          { "text": "Verbindung von Netzwerken an unterschiedlichen Standorten.", "correct": true },
+          { "text": "Verbindung von zwei Endgeräten.", "correct": false },
+          { "text": "Verbindung von Heimarbeitsplätzen.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte werden typischerweise in einem SAN-Netzwerk verwendet?",
+        "answers": [
+          { "text": "Massenspeicher und Server.", "correct": true },
+          { "text": "Drucker und Scanner.", "correct": false },
+          { "text": "Mobile Geräte und Laptops.", "correct": false },
+          { "text": "Router und Switches.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein VLAN-Tag?",
+        "answers": [
+          { "text": "Kennzeichnung der Zugehörigkeit eines Datenpakets zu einem VLAN.", "correct": true },
+          { "text": "Verschlüsselung von Datenpaketen.", "correct": false },
+          { "text": "Ermöglichung drahtloser Verbindungen.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      }
+    ]
+  }
+  

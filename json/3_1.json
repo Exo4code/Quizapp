@@ -1,505 +1,731 @@
 {
     "3.1_1-20": [
-        {
-            "question": "Was ist ein Switch?",
-            "answers": [
-                { "text": "Ein Gerät, das Datenpakete weiterleitet.", "correct": true },
-                { "text": "Ein Gerät zur Speicherung von Daten.", "correct": false },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
-                { "text": "Ein Drucker für Dokumente.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was bedeutet LAN?",
-            "answers": [
-                { "text": "Local Area Network, lokales Netzwerk.", "correct": true },
-                { "text": "Large Area Network, großes Netzwerk.", "correct": false },
-                { "text": "Local Access Node, lokaler Zugangspunkt.", "correct": false },
-                { "text": "Link Access Network, Verbindungsnetzwerk.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Router?",
-            "answers": [
-                { "text": "Ein Gerät, das Netzwerke verbindet.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Scanner für Dokumente.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein IP-Telefon?",
-            "answers": [
-                { "text": "Ein Telefon, das über das Netzwerk funktioniert.", "correct": true },
-                { "text": "Ein Mobiltelefon mit WLAN-Funktion.", "correct": false },
-                { "text": "Ein Telefon, das nur über Kabel funktioniert.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Server?",
-            "answers": [
-                { "text": "Ein leistungsfähiger Rechner, der Dienste anbietet.", "correct": true },
-                { "text": "Ein Gerät zur Speicherung von Druckaufträgen.", "correct": false },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
-                { "text": "Ein Gerät zur Verwaltung von IP-Adressen.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Datacenter?",
-            "answers": [
-                { "text": "Ein Raum für Server und Netzwerkspeicher.", "correct": true },
-                { "text": "Ein Gerät zur Datenverarbeitung.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false },
-                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist eine Alarmanlage?",
-            "answers": [
-                { "text": "Ein System, das bei Gefahren Alarm auslöst.", "correct": true },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
-                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Host?",
-            "answers": [
-                { "text": "Ein Gerät, das Daten empfängt oder erzeugt.", "correct": true },
-                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Datenendgerät?",
-            "answers": [
-                { "text": "Ein Gerät, das Daten erzeugt oder empfängt.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Scanner?",
-            "answers": [
-                { "text": "Ein Gerät, das Dokumente digitalisiert.", "correct": true },
-                { "text": "Ein Drucker für große Formate.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein System zur Netzwerküberwachung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Drucker?",
-            "answers": [
-                { "text": "Ein Gerät, das Dokumente ausdruckt.", "correct": true },
-                { "text": "Ein Gerät zur Speicherung von Daten.", "correct": false },
-                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Dokumente.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Beamer?",
-            "answers": [
-                { "text": "Ein Gerät, das Bilder auf eine Leinwand projiziert.", "correct": true },
-                { "text": "Ein Drucker für Präsentationen.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Dokumente.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein WLAN?",
-            "answers": [
-                { "text": "Ein drahtloses Netzwerk für Geräte.", "correct": true },
-                { "text": "Ein kabelgebundenes Netzwerk.", "correct": false },
-                { "text": "Ein Netzwerk für Drucker.", "correct": false },
-                { "text": "Ein System zur Datenarchivierung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Load Balancer?",
-            "answers": [
-                { "text": "Ein Gerät zur Verteilung von Netzwerklasten.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Überwachung des Datenverkehrs.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist eine Zutrittskontrolle?",
-            "answers": [
-                { "text": "Ein System zur Kontrolle des Zugangs zu Gebäuden.", "correct": true },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
-                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein IP-Adresse?",
-            "answers": [
-                { "text": "Eine eindeutige Adresse für jedes Netzwerkgerät.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false },
-                { "text": "Ein Drucker für Netzwerkdokumente.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Videoüberwachungssystem?",
-            "answers": [
-                { "text": "Ein System zur Überwachung von Bereichen mit Kameras.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein CRM-System?",
-            "answers": [
-                { "text": "Ein System zur Verwaltung von Kundenbeziehungen.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein ERP-System?",
-            "answers": [
-                { "text": "Ein System zur Planung von Unternehmensressourcen.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        }
+      {
+        "question": "Was ist die Hauptfunktion eines Routers im Netzwerk?",
+        "answers": [
+          { "text": "Verbindet mehrere Netzwerke miteinander.", "correct": true },
+          { "text": "Speichert Daten zentral ab.", "correct": false },
+          { "text": "Erfasst Arbeitszeiten der Mitarbeiter.", "correct": false },
+          { "text": "Überwacht den Eingangsbereich per Video.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Switch im Netzwerk?",
+        "answers": [
+          { "text": "Leitet Datenpakete an die richtigen Endgeräte weiter.", "correct": true },
+          { "text": "Verbindet das LAN mit dem Internet.", "correct": false },
+          { "text": "Scannt Dokumente in digitale Formate.", "correct": false },
+          { "text": "Kontrolliert den Zutritt zum Gebäude.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einer IP-Adresse?",
+        "answers": [
+          { "text": "Eine eindeutige Kennung eines Geräts im Netzwerk.", "correct": true },
+          { "text": "Ein Programm zur Buchhaltung.", "correct": false },
+          { "text": "Ein physisches Netzwerkgerät.", "correct": false },
+          { "text": "Ein drahtloses Netzwerkprotokoll.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte werden als Datenendgeräte bezeichnet?",
+        "answers": [
+          { "text": "Geräte, die Daten empfangen oder erzeugen.", "correct": true },
+          { "text": "Geräte, die Datenpakete weiterleiten.", "correct": false },
+          { "text": "Geräte zur Videoüberwachung.", "correct": false },
+          { "text": "Geräte zur Zeiterfassung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Datacenter im Kontext eines Netzwerks?",
+        "answers": [
+          { "text": "Ein abgeschlossener Raum mit zentralen IT-Einrichtungen.", "correct": true },
+          { "text": "Ein Arbeitsplatz mit speziellen Anwendungen.", "correct": false },
+          { "text": "Ein Gerät zur Zutrittskontrolle.", "correct": false },
+          { "text": "Ein System zur Archivierung von Dokumenten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wofür steht die Abkürzung WLAN?",
+        "answers": [
+          { "text": "Wireless Local Area Network.", "correct": true },
+          { "text": "Wide Local Access Node.", "correct": false },
+          { "text": "Wired LAN Network.", "correct": false },
+          { "text": "Wireless Line Access Network.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat eine Alarmanlage im Netzwerk?",
+        "answers": [
+          { "text": "Löst bei bestimmten Ereignissen Alarm aus.", "correct": true },
+          { "text": "Speichert Daten zentral ab.", "correct": false },
+          { "text": "Verbindet verschiedene Netzwerke.", "correct": false },
+          { "text": "Erfasst Arbeits- und Pausenzeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein CRM-System?",
+        "answers": [
+          { "text": "Ein System für Kundenbeziehungsmanagement.", "correct": true },
+          { "text": "Ein Gerät zur Videoüberwachung.", "correct": false },
+          { "text": "Ein Netzwerkgerät zum Anschluss von Endgeräten.", "correct": false },
+          { "text": "Ein Programm zur Datensicherung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat die Zeiterfassung im Unternehmen?",
+        "answers": [
+          { "text": "Erfasst Anwesenheits-, Arbeits- und Pausenzeiten.", "correct": true },
+          { "text": "Überwacht den Netzwerkverkehr.", "correct": false },
+          { "text": "Kontrolliert den Zugang zum Internet.", "correct": false },
+          { "text": "Verwaltet die IP-Adressen der Geräte.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bezeichnet man als Funktionsverbund in einem Netzwerk?",
+        "answers": [
+          { "text": "Nutzung von Funktionen und Software anderer Arbeitsplätze.", "correct": true },
+          { "text": "Zentrale Speicherung von Daten an einem Ort.", "correct": false },
+          { "text": "Verteilung von Lasten auf mehrere Systeme.", "correct": false },
+          { "text": "Gemeinsame Nutzung von Druckern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Load Balancer?",
+        "answers": [
+          { "text": "Ein Gerät zur gleichmäßigen Auslastung von Servern.", "correct": true },
+          { "text": "Ein Programm zur Buchhaltung.", "correct": false },
+          { "text": "Ein Switch zur Weiterleitung von Datenpaketen.", "correct": false },
+          { "text": "Ein System zur Zutrittskontrolle.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wozu dient ein Dokumentenmanagementsystem?",
+        "answers": [
+          { "text": "Zur Sicherung des aktuellen Datenstands innerhalb einer Anwendung.", "correct": true },
+          { "text": "Zur Kontrolle des Netzwerkverkehrs.", "correct": false },
+          { "text": "Zur Überwachung des Eingangsbereichs.", "correct": false },
+          { "text": "Zur Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter Ressourcenverbund?",
+        "answers": [
+          { "text": "Gemeinsame Nutzung von Betriebsmitteln wie Druckern.", "correct": true },
+          { "text": "Zentrale Speicherung aller Daten.", "correct": false },
+          { "text": "Verteilung von Datenpaketen im Netzwerk.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte zählen zu den Network Devices?",
+        "answers": [
+          { "text": "Physische Geräte, die Datenpakete weiterleiten.", "correct": true },
+          { "text": "Programme zur Buchhaltung.", "correct": false },
+          { "text": "Endgeräte wie PCs und Drucker.", "correct": false },
+          { "text": "Anwendungen für die Zeiterfassung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck einer Gefahrenmeldeanlage?",
+        "answers": [
+          { "text": "Erkennt Gefahren und leitet Schutzmaßnahmen ein.", "correct": true },
+          { "text": "Speichert Daten zentral ab.", "correct": false },
+          { "text": "Verteilt Lasten auf Server.", "correct": false },
+          { "text": "Ermöglicht die drahtlose Netzwerkverbindung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat die Zutrittskontrolle?",
+        "answers": [
+          { "text": "Gewährt oder verhindert den Zutritt zu Gebäuden.", "correct": true },
+          { "text": "Überwacht den Netzwerkverkehr.", "correct": false },
+          { "text": "Erfasst Arbeits- und Pausenzeiten.", "correct": false },
+          { "text": "Speichert Daten in Archiven.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Paket im Netzwerk?",
+        "answers": [
+          { "text": "Eine Einheit, in der Daten übertragen werden.", "correct": true },
+          { "text": "Ein physisches Netzwerkgerät.", "correct": false },
+          { "text": "Ein Programm zur Datensicherung.", "correct": false },
+          { "text": "Ein Protokoll zur Zutrittskontrolle.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wofür steht die Abkürzung ERP?",
+        "answers": [
+          { "text": "Enterprise Resource Planning.", "correct": true },
+          { "text": "Electronic Routing Protocol.", "correct": false },
+          { "text": "Emergency Response Plan.", "correct": false },
+          { "text": "Encrypted Relay Protocol.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Vorteil zentraler Datenspeicherung?",
+        "answers": [
+          { "text": "Sicherung der Datenkonsistenz und Vermeidung von Inkonsistenzen.", "correct": true },
+          { "text": "Erhöhte Ausfallwahrscheinlichkeit der Datenserver.", "correct": false },
+          { "text": "Ermöglichung von individuellen Datensicherungen.", "correct": false },
+          { "text": "Reduzierung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe erfüllt ein Server im Netzwerk?",
+        "answers": [
+          { "text": "Stellt spezielle Dienste im LAN zur Verfügung.", "correct": true },
+          { "text": "Verbindet das LAN mit dem Internet.", "correct": false },
+          { "text": "Kontrolliert den Zugang zu Gebäuden.", "correct": false },
+          { "text": "Erfasst die Arbeitszeiten der Mitarbeiter.", "correct": false }
+        ]
+      }
     ],
     "3.1_21-40": [
-        {
-            "question": "Was ist ein Netzwerkgerät?",
-            "answers": [
-                { "text": "Ein physisches Gerät zur Datenübertragung.", "correct": true },
-                { "text": "Ein System zur Datensicherung.", "correct": false },
-                { "text": "Ein Gerät zur Überwachung des Datenverkehrs.", "correct": false },
-                { "text": "Ein Drucker für Dokumente.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Datacenter?",
-            "answers": [
-                { "text": "Ein Raum für Server und Netzwerkspeicher.", "correct": true },
-                { "text": "Ein Gerät zur Datenverarbeitung.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false },
-                { "text": "Ein Netzwerkgerät zur Datenübertragung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein PC-Arbeitsplatz?",
-            "answers": [
-                { "text": "Ein Arbeitsplatz mit PC oder Laptop.", "correct": true },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Paket?",
-            "answers": [
-                { "text": "Daten, die in Paketen übertragen werden.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist eine Zeiterfassung?",
-            "answers": [
-                { "text": "Ein System zur Erfassung von Arbeitszeiten.", "correct": true },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
-                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Alarm?",
-            "answers": [
-                { "text": "Ein Signal, das bei Gefahren ausgelöst wird.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Archivierungssystem?",
-            "answers": [
-                { "text": "Ein System zur Sicherung von Daten.", "correct": true },
-                { "text": "Ein Gerät zur Überwachung des Netzwerks.", "correct": false },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Anwendungssoftware?",
-            "answers": [
-                { "text": "Programme für spezifische Anwendungen.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Kopierer?",
-            "answers": [
-                { "text": "Ein Gerät, das Dokumente kopiert.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein TK-Anlage?",
-            "answers": [
-                { "text": "Ein System zur Verbindung von Telefonen.", "correct": true },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Videoüberwachungssystem?",
-            "answers": [
-                { "text": "Ein System zur Überwachung mit Kameras.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für Sicherheitsdokumente.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Smart-Device?",
-            "answers": [
-                { "text": "Ein intelligentes Gerät mit Netzwerkverbindung.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerkprotokoll?",
-            "answers": [
-                { "text": "Regeln für die Kommunikation im Netzwerk.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Access Point?",
-            "answers": [
-                { "text": "Ein Gerät, das WLAN-Zugriff ermöglicht.", "correct": true },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerkadministrator?",
-            "answers": [
-                { "text": "Eine Person, die das Netzwerk verwaltet.", "correct": true },
-                { "text": "Ein Drucker für Dokumente.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Datenstrom?",
-            "answers": [
-                { "text": "Eine kontinuierliche Übertragung von Daten.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        }
+      {
+        "question": "Was ermöglicht ein WLAN Access Point?",
+        "answers": [
+          { "text": "Drahtlose Verbindung von Mobilgeräten zum Netzwerk.", "correct": true },
+          { "text": "Verkabelte Verbindung von Druckern.", "correct": false },
+          { "text": "Zentrale Datenspeicherung.", "correct": false },
+          { "text": "Überwachung des Eingangsbereichs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wofür werden Scanner im Netzwerk genutzt?",
+        "answers": [
+          { "text": "Um Dokumente von Papier in Dateiformat zu bringen.", "correct": true },
+          { "text": "Zur Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Zur Kontrolle des Zutritts zum Gebäude.", "correct": false },
+          { "text": "Als zentraler Datenspeicher.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Host im Netzwerk?",
+        "answers": [
+          { "text": "Ein Endgerät, das Daten empfängt oder erzeugt.", "correct": true },
+          { "text": "Ein Netzwerkgerät zum Weiterleiten von Datenpaketen.", "correct": false },
+          { "text": "Ein Server zur Datensicherung.", "correct": false },
+          { "text": "Ein Programm zur Buchhaltung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet der Begriff Last- und Leistungsverbund?",
+        "answers": [
+          { "text": "Verteilung von Lasten auf wenig genutzte Systeme.", "correct": true },
+          { "text": "Gemeinsame Nutzung von Druckern.", "correct": false },
+          { "text": "Zentrale Speicherung von Daten.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Datacenter?",
+        "answers": [
+          { "text": "Unterbringung von Servern und zentralen IT-Einrichtungen.", "correct": true },
+          { "text": "Verbindung von verschiedenen Netzwerken.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Übertragung von Datenpaketen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptfunktion von ERP-Software?",
+        "answers": [
+          { "text": "Planung und Steuerung von Unternehmensressourcen.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Verwaltung von IP-Adressen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte zählen zu den Datenendgeräten?",
+        "answers": [
+          { "text": "Rechner, Server und Drucker.", "correct": true },
+          { "text": "Switches und Router.", "correct": false },
+          { "text": "Überwachungskameras.", "correct": false },
+          { "text": "Zutrittskontrollsysteme.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Videoüberwachung im Unternehmen?",
+        "answers": [
+          { "text": "Überwachung wichtiger Bereiche mit Zeitstempel.", "correct": true },
+          { "text": "Speicherung von Daten in Archiven.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Verbindung von Netzwerken.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wofür wird die Datensicherung durchgeführt?",
+        "answers": [
+          { "text": "Zum Schutz vor Datenverlust durch regelmäßige Backups.", "correct": true },
+          { "text": "Zur Kontrolle des Zutritts zum Gebäude.", "correct": false },
+          { "text": "Zur Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Zur gemeinsamen Nutzung von Druckern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck von redundanten Systemen im Netzwerk?",
+        "answers": [
+          { "text": "Sicherstellung von Datenverfügbarkeit bei Ausfällen.", "correct": true },
+          { "text": "Erhöhung der Netzwerkgeschwindigkeit.", "correct": false },
+          { "text": "Reduzierung des Stromverbrauchs.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Unterschied zwischen LAN und WLAN?",
+        "answers": [
+          { "text": "LAN ist kabelgebunden, WLAN ist drahtlos.", "correct": true },
+          { "text": "LAN ist drahtlos, WLAN ist kabelgebunden.", "correct": false },
+          { "text": "Es gibt keinen Unterschied.", "correct": false },
+          { "text": "LAN ist für Mobilgeräte, WLAN für PCs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist eine TK-Anlage?",
+        "answers": [
+          { "text": "Eine Telefonanlage, die Telefone intern und extern verbindet.", "correct": true },
+          { "text": "Ein Gerät zur Datensicherung.", "correct": false },
+          { "text": "Ein Programm zur Buchhaltung.", "correct": false },
+          { "text": "Ein Netzwerkgerät zum Anschluss von Endgeräten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat der Kommunikationsverbund?",
+        "answers": [
+          { "text": "Schnelle Kommunikation mit allen Arbeitsplätzen.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Zentrale Speicherung von Daten.", "correct": false },
+          { "text": "Überwachung des Eingangsbereichs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Beamer im Kontext eines Besprechungsraums?",
+        "answers": [
+          { "text": "Gerät zur Projektion von Dateien auf eine Leinwand.", "correct": true },
+          { "text": "Netzwerkgerät zur Datenweiterleitung.", "correct": false },
+          { "text": "Programm zur Buchhaltung.", "correct": false },
+          { "text": "System zur Zutrittskontrolle.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet Skalierbarkeit im Netzwerk?",
+        "answers": [
+          { "text": "Anpassung der Leistung an die Netzauslastung.", "correct": true },
+          { "text": "Reduzierung der Netzwerkgeschwindigkeit.", "correct": false },
+          { "text": "Erhöhung des Stromverbrauchs.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Wofür wird ein Netzwerkdrucker verwendet?",
+        "answers": [
+          { "text": "Als zentraler Drucker für mehrere Arbeitsplätze.", "correct": true },
+          { "text": "Zur Speicherung von Daten.", "correct": false },
+          { "text": "Zur Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Zur Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Hauptzweck von Anwendungssoftware?",
+        "answers": [
+          { "text": "Unterstützung bei spezifischen Aufgaben wie CAD.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Verbindung von Netzwerken.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter Datenverbund?",
+        "answers": [
+          { "text": "Zugriff auf verteilte und zentrale Datenbestände.", "correct": true },
+          { "text": "Gemeinsame Nutzung von Druckern.", "correct": false },
+          { "text": "Verteilung von Lasten auf Server.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat eine Firewall im Netzwerk?",
+        "answers": [
+          { "text": "Schutz vor unautorisierten Zugriffen von außen.", "correct": true },
+          { "text": "Überwachung des internen Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Speicherung von Daten in Archiven.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Nutzung von Mobilgeräten im Netzwerk?",
+        "answers": [
+          { "text": "Drahtlose Netzwerke wie WLAN.", "correct": true },
+          { "text": "Verkabelte Verbindungen zu Switches.", "correct": false },
+          { "text": "Spezielle Mobilfunkschnittstellen.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      }
     ],
     "3.1_41-60": [
-        {
-            "question": "Was ist ein Netzwerkprotokoll?",
-            "answers": [
-                { "text": "Regeln für die Kommunikation im Netzwerk.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerkdienst?",
-            "answers": [
-                { "text": "Ein Service, der im Netzwerk bereitgestellt wird.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Firewall?",
-            "answers": [
-                { "text": "Ein System zum Schutz des Netzwerks.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein VPN?",
-            "answers": [
-                { "text": "Ein virtuelles privates Netzwerk.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Proxy-Server?",
-            "answers": [
-                { "text": "Ein Server, der Anfragen weiterleitet.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerkmonitor?",
-            "answers": [
-                { "text": "Ein Tool zur Überwachung des Netzwerks.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Bandbreitenmanagement?",
-            "answers": [
-                { "text": "Die Kontrolle der Netzwerkbandbreite.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Topologie?",
-            "answers": [
-                { "text": "Die Struktur eines Netzwerks.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Client?",
-            "answers": [
-                { "text": "Ein Gerät, das Dienste von einem Server anfordert.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Interface?",
-            "answers": [
-                { "text": "Ein Punkt, an dem Geräte mit dem Netzwerk verbunden sind.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        }
+      {
+        "question": "Was ist der Zweck von Archivierungssoftware?",
+        "answers": [
+          { "text": "Sicherung des aktuellen Datenstands innerhalb einer Anwendung.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Verbindung von Netzwerken.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat die Buchhaltungssoftware im Unternehmen?",
+        "answers": [
+          { "text": "Verwaltung der finanziellen Transaktionen.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Verteilung von Lasten auf Server.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Beispiel für Anwendungssoftware?",
+        "answers": [
+          { "text": "CAD (Computer Aided Design).", "correct": true },
+          { "text": "Switch.", "correct": false },
+          { "text": "Router.", "correct": false },
+          { "text": "Firewall.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte werden häufig als Scanner im Netzwerk eingesetzt?",
+        "answers": [
+          { "text": "Kopierer mit Netzwerkanschluss.", "correct": true },
+          { "text": "Switches.", "correct": false },
+          { "text": "Router.", "correct": false },
+          { "text": "Server.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptaufgabe von CRM-Software?",
+        "answers": [
+          { "text": "Management der Kundenbeziehungen.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Verteilung von Lasten auf Server.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bezeichnet man als Sicherheits- und Verfügbarkeitsverbund?",
+        "answers": [
+          { "text": "Reservelösungen bei Ausfall von Komponenten.", "correct": true },
+          { "text": "Gemeinsame Nutzung von Druckern.", "correct": false },
+          { "text": "Zentrale Speicherung von Daten.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Rolle spielen Server im Netzwerk?",
+        "answers": [
+          { "text": "Sie bieten Dienste im Netzwerk an.", "correct": true },
+          { "text": "Sie verbinden Netzwerke miteinander.", "correct": false },
+          { "text": "Sie erfassen Arbeitszeiten.", "correct": false },
+          { "text": "Sie kontrollieren den Zutritt zum Gebäude.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck von Netzwerkverkabelung?",
+        "answers": [
+          { "text": "Anbindung von Geräten wie Druckern oder Scannern.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Verteilung von Lasten auf Server.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein typisches Merkmal von IP-Telefonen?",
+        "answers": [
+          { "text": "Sie werden über das Netzwerk angeschlossen.", "correct": true },
+          { "text": "Sie benötigen keine Stromversorgung.", "correct": false },
+          { "text": "Sie funktionieren nur intern.", "correct": false },
+          { "text": "Sie sind unabhängig vom Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Nutzung von Beamer und Großbildschirm im Besprechungsraum?",
+        "answers": [
+          { "text": "Präsentation von Dateien für mehrere Personen.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Zentrale Datenspeicherung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptfunktion von Netzwerkspeichern?",
+        "answers": [
+          { "text": "Zentrale Speicherung von Daten im Datacenter.", "correct": true },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Verbindung von Netzwerken.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter der Konsistenz von Daten?",
+        "answers": [
+          { "text": "Daten sind einheitlich und widerspruchsfrei.", "correct": true },
+          { "text": "Daten sind mehrfach gespeichert.", "correct": false },
+          { "text": "Daten sind ungesichert.", "correct": false },
+          { "text": "Daten sind nicht zugänglich.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat die Zahlungsverkehrssoftware?",
+        "answers": [
+          { "text": "Bearbeitung des elektronischen Zahlungsverkehrs.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Zentrale Datenspeicherung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil von zentralen Druckern im Netzwerk?",
+        "answers": [
+          { "text": "Kosteneffizienz gegenüber mehreren Einzelgeräten.", "correct": true },
+          { "text": "Erhöhte Wartungskosten.", "correct": false },
+          { "text": "Reduzierte Verfügbarkeit.", "correct": false },
+          { "text": "Eingeschränkte Funktionalität.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet der Begriff 'inkonsistente Datenbestände'?",
+        "answers": [
+          { "text": "Uneinheitliche und widersprüchliche Daten.", "correct": true },
+          { "text": "Einheitliche und konsistente Daten.", "correct": false },
+          { "text": "Zentral gespeicherte Daten.", "correct": false },
+          { "text": "Sicherheitskopien der Daten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat die Gefahrenmeldeanlage?",
+        "answers": [
+          { "text": "Erkennung von Gefahren und Einleitung von Maßnahmen.", "correct": true },
+          { "text": "Speicherung von Daten.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck von Bewegungsmeldern in Sicherheitssystemen?",
+        "answers": [
+          { "text": "Erkennung von Bewegungen zur Auslösung von Alarmen.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Zentrale Datenspeicherung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Nutzung von Tablets im Netzwerk?",
+        "answers": [
+          { "text": "Zugriff auf zentrale Daten über WLAN.", "correct": true },
+          { "text": "Verbindung über verkabelte Switches.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil der zentralen Datenablage?",
+        "answers": [
+          { "text": "Vermeidung von Datenredundanzen.", "correct": true },
+          { "text": "Erhöhung des Speicherbedarfs.", "correct": false },
+          { "text": "Erhöhte Netzwerkbelastung.", "correct": false },
+          { "text": "Reduzierte Datensicherheit.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bezeichnet man als 'Network Devices'?",
+        "answers": [
+          { "text": "Physische Geräte, die Datenpakete weiterleiten.", "correct": true },
+          { "text": "Software zur Buchhaltung.", "correct": false },
+          { "text": "Endgeräte wie PCs.", "correct": false },
+          { "text": "Anwendungen zur Zeiterfassung.", "correct": false }
+        ]
+      }
     ],
     "3.1_61-80": [
-        {
-            "question": "Was ist ein Netzwerk-Management?",
-            "answers": [
-                { "text": "Die Verwaltung und Überwachung eines Netzwerks.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Datenbankserver?",
-            "answers": [
-                { "text": "Ein Server, der Datenbanken verwaltet.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Cloud-Computing?",
-            "answers": [
-                { "text": "Die Bereitstellung von Diensten über das Internet.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Backup?",
-            "answers": [
-                { "text": "Die Sicherung von Daten im Netzwerk.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Fehler?",
-            "answers": [
-                { "text": "Ein Problem, das die Netzwerkverbindung beeinträchtigt.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Upgrade?",
-            "answers": [
-                { "text": "Die Verbesserung der Netzwerkhardware oder -software.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Architektur?",
-            "answers": [
-                { "text": "Die Struktur und Organisation eines Netzwerks.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Token?",
-            "answers": [
-                { "text": "Ein Signal, das den Zugriff auf das Netzwerk regelt.", "correct": true },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein System zur Datensicherung.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Client?",
-            "answers": [
-                { "text": "Ein Gerät, das Dienste von einem Server anfordert.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        },
-        {
-            "question": "Was ist ein Netzwerk-Server?",
-            "answers": [
-                { "text": "Ein Gerät, das Dienste für Clients bereitstellt.", "correct": true },
-                { "text": "Ein Drucker für große Aufträge.", "correct": false },
-                { "text": "Ein Gerät zur Datenübertragung.", "correct": false },
-                { "text": "Ein Scanner für Ausweise.", "correct": false }
-            ]
-        }
+      {
+        "question": "Was ist der Zweck von Magnetbändern in der Datensicherung?",
+        "answers": [
+          { "text": "Langfristige Speicherung von Backups.", "correct": true },
+          { "text": "Schnelle Datenübertragung.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Nutzung von Smartphones im Netzwerk?",
+        "answers": [
+          { "text": "Zugriff auf zentrale Daten über WLAN.", "correct": true },
+          { "text": "Verbindung über verkabelte Switches.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil von drahtlosen Netzwerken?",
+        "answers": [
+          { "text": "Flexibilität bei der Geräteplatzierung.", "correct": true },
+          { "text": "Höhere Übertragungsgeschwindigkeit als Kabel.", "correct": false },
+          { "text": "Keine Sicherheitsrisiken.", "correct": false },
+          { "text": "Geringerer Stromverbrauch.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter 'Load Balancing'?",
+        "answers": [
+          { "text": "Verteilung der Arbeitslast auf mehrere Server.", "correct": true },
+          { "text": "Speicherung von Daten auf Magnetbändern.", "correct": false },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Geräte können über die Netzwerkverkabelung angebunden werden?",
+        "answers": [
+          { "text": "Drucker, Scanner und PCs.", "correct": true },
+          { "text": "Nur Server.", "correct": false },
+          { "text": "Nur mobile Geräte.", "correct": false },
+          { "text": "Nur Sicherheitskameras.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil von IP-Telefonen?",
+        "answers": [
+          { "text": "Integration in das Datennetzwerk.", "correct": true },
+          { "text": "Unabhängigkeit vom Netzwerk.", "correct": false },
+          { "text": "Bessere Sprachqualität ohne Netzwerk.", "correct": false },
+          { "text": "Kein Strombedarf.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Aufgabe der Systemadministratoren in der IT-Abteilung?",
+        "answers": [
+          { "text": "Betreuung des Netzwerks und der Geräte.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Verwaltung der Buchhaltungssoftware.", "correct": false },
+          { "text": "Überwachung des Eingangsbereichs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht der Zugriff auf ausgelagerte Server über das Internet?",
+        "answers": [
+          { "text": "Nutzung von Cloud-Diensten.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Erhöhung der Netzwerkgeschwindigkeit.", "correct": false },
+          { "text": "Reduzierung der Datenmenge.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil von zentralen Servern im Netzwerk?",
+        "answers": [
+          { "text": "Bereitstellung spezieller Dienste im LAN.", "correct": true },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Erhöhung des Stromverbrauchs.", "correct": false },
+          { "text": "Reduzierung der Datensicherheit.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck von Zeitstempeln in der Videoüberwachung?",
+        "answers": [
+          { "text": "Dokumentation von Ereignissen zu bestimmten Zeiten.", "correct": true },
+          { "text": "Erhöhung der Bildqualität.", "correct": false },
+          { "text": "Reduzierung des Speicherbedarfs.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht die Nutzung von Multi-Media-Geräten im Netzwerk?",
+        "answers": [
+          { "text": "Anzeigen von Videos und Präsentationen.", "correct": true },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Speicherung von Backups.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil von zentraler Datensicherung?",
+        "answers": [
+          { "text": "Schnellere Wiederherstellung im Falle eines Datenverlusts.", "correct": true },
+          { "text": "Reduzierte Speicherkapazität.", "correct": false },
+          { "text": "Erhöhte Netzwerkbelastung.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bezeichnet man als 'Remote Access' im Netzwerk?",
+        "answers": [
+          { "text": "Fernzugriff auf Netzwerkressourcen.", "correct": true },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Speicherung von Daten auf lokalen PCs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck von VLANs in einem Netzwerk?",
+        "answers": [
+          { "text": "Segmentierung des Netzwerks für Sicherheit und Effizienz.", "correct": true },
+          { "text": "Erhöhung der Bandbreite.", "correct": false },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Eingangsbereichs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Rechenzentrum?",
+        "answers": [
+          { "text": "Unterbringung von Servern und zentraler IT-Infrastruktur.", "correct": true },
+          { "text": "Erfassung von Zutrittszeiten.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false },
+          { "text": "Bereitstellung von Arbeitsplätzen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil von zentralen Anwendungen im Netzwerk?",
+        "answers": [
+          { "text": "Einfachere Wartung und Updates.", "correct": true },
+          { "text": "Höhere Kosten pro Arbeitsplatz.", "correct": false },
+          { "text": "Erhöhte Komplexität für Benutzer.", "correct": false },
+          { "text": "Reduzierte Verfügbarkeit der Software.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ermöglicht ein VPN im Unternehmensnetzwerk?",
+        "answers": [
+          { "text": "Sichere Verbindung für externe Mitarbeiter.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Überwachung des Eingangsbereichs.", "correct": false },
+          { "text": "Erhöhung der Netzwerkgeschwindigkeit.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Zweck von Zutrittskontrollsystemen mit Biometrie?",
+        "answers": [
+          { "text": "Erhöhung der Sicherheit durch eindeutige Identifikation.", "correct": true },
+          { "text": "Schnellere Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Reduzierung des Energieverbrauchs.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was bedeutet 'Cloud Computing' im Kontext von Netzwerkdiensten?",
+        "answers": [
+          { "text": "Bereitstellung von Diensten über das Internet.", "correct": true },
+          { "text": "Erfassung von Arbeitszeiten.", "correct": false },
+          { "text": "Speicherung von Daten auf lokalen Servern.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Vorteil von virtuellen Servern im Datacenter?",
+        "answers": [
+          { "text": "Effizientere Ressourcennutzung und Flexibilität.", "correct": true },
+          { "text": "Erhöhter Platzbedarf im Rechenzentrum.", "correct": false },
+          { "text": "Höhere Stromkosten.", "correct": false },
+          { "text": "Komplexere Wartung.", "correct": false }
+        ]
+      }
     ]
-}
+  }
+  
