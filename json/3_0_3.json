@@ -1,0 +1,229 @@
+{
+    "3.0.3_1-20": [
+        {
+            "question": "Welche Information wird durch die Präambel dem Empfänger signalisiert?",
+            "answers": [
+                { "text": "Die Übertragungsrate für das Einlesen der einzelnen Bits.", "correct": true },
+                { "text": "Die Größe des Ethernet-Frames.", "correct": false },
+                { "text": "Die IP-Adresse des Senders.", "correct": false },
+                { "text": "Den Typ des verwendeten Protokolls.", "correct": false }
+            ]
+        },
+        {
+            "question": "Mit welchem Begriff wird die maximale Größe der Nutzdaten in einem Ethernet-Frame bezeichnet?",
+            "answers": [
+                { "text": "MTU (Maximum Transmission Unit).", "correct": true },
+                { "text": "MSS (Maximum Segment Size).", "correct": false },
+                { "text": "TCP (Transmission Control Protocol).", "correct": false },
+                { "text": "UDP (User Datagram Protocol).", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie groß ist die VLAN-ID innerhalb des 4-Byte großen VLAN-Tags?",
+            "answers": [
+                { "text": "12 Bit.", "correct": true },
+                { "text": "16 Bit.", "correct": false },
+                { "text": "8 Bit.", "correct": false },
+                { "text": "32 Bit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches Medienzugriffsverfahren gibt es neben CSMA/CA und CSMA/CD noch?",
+            "answers": [
+                { "text": "Token-Passing (für Bus- und Ring-Topologie).", "correct": true },
+                { "text": "Carrier Sense Multiple Access (CSMA).", "correct": false },
+                { "text": "Time Division Multiple Access (TDMA).", "correct": false },
+                { "text": "Frequency Division Multiple Access (FDMA).", "correct": false }
+            ]
+        },
+        {
+            "question": "Was signalisiert im Ethernet-Frame das Ende der Präambel und den Beginn des Frames?",
+            "answers": [
+                { "text": "SFD (Start Frame Delimiter), mit einer Größe von 8 Bit.", "correct": true },
+                { "text": "MTU (Maximum Transmission Unit), mit einer Größe von 16 Bit.", "correct": false },
+                { "text": "FCS (Frame Check Sequence), mit einer Größe von 4 Bit.", "correct": false },
+                { "text": "CRC (Cyclic Redundancy Check), mit einer Größe von 2 Bit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Netzwerktopologie wird in der strukturierten Verkabelung überwiegend verwendet?",
+            "answers": [
+                { "text": "Erweiterter Stern.", "correct": true },
+                { "text": "Bus-Topologie.", "correct": false },
+                { "text": "Ring-Topologie.", "correct": false },
+                { "text": "Mesh-Topologie.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche zwei Vorteile bietet das UDP-Protokoll?",
+            "answers": [
+                { "text": "Geringe Latenz und geringer Overhead.", "correct": true },
+                { "text": "Fehlerkorrektur und garantierte Lieferung.", "correct": false },
+                { "text": "Zuverlässige Übertragung und sichere Verschlüsselung.", "correct": false },
+                { "text": "Verbindungsaufbau und hohe Sicherheit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was wird in einem Ethernet-Frame im Type-Feld festgelegt?",
+            "answers": [
+                { "text": "Das verwendete Protokoll (z.B. IPv4) und ggf. Angaben zur Größe des Frames.", "correct": true },
+                { "text": "Die IP-Adresse des Absenders und des Empfängers.", "correct": false },
+                { "text": "Die Geschwindigkeit der Übertragung.", "correct": false },
+                { "text": "Die MAC-Adresse des Senders.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches TCP/IP-Protokoll kann fehlende Datensegmente nachliefern, wenn eine Verbindung aufgebaut und gehalten wird?",
+            "answers": [
+                { "text": "TCP.", "correct": true },
+                { "text": "UDP.", "correct": false },
+                { "text": "ICMP.", "correct": false },
+                { "text": "ARP.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lautet die zentrale Grundregel von CSMA/CD, um Kollisionen zu vermeiden?",
+            "answers": [
+                { "text": "LBT (Listen Before Talk).", "correct": true },
+                { "text": "ACK (Acknowledgement).", "correct": false },
+                { "text": "RTS/CTS (Request to Send / Clear to Send).", "correct": false },
+                { "text": "NACK (Negative Acknowledgement).", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird ein Paar aus IP-Adresse und einer Port-Nummer in der IT-Fachsprache genannt?",
+            "answers": [
+                { "text": "Socket.", "correct": true },
+                { "text": "Endpoint.", "correct": false },
+                { "text": "Gateway.", "correct": false },
+                { "text": "Session.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lautet das Synchronisationssignal eines Ethernet-Frames und welche Aufgabe und Größe hat es?",
+            "answers": [
+                { "text": "Die Präambel ist 7 Bytes groß und signalisiert dem Empfänger die Übertragungsrate.", "correct": true },
+                { "text": "Der SFD ist 8 Bytes groß und signalisiert das Frame-Ende.", "correct": false },
+                { "text": "Das CRC ist 4 Bytes groß und überprüft die Datenintegrität.", "correct": false },
+                { "text": "Die MAC-Adresse ist 6 Bytes groß und identifiziert den Sender.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie sind die 65536 verfügbaren Ports unterteilt?",
+            "answers": [
+                { "text": "Well-known-Ports (0-1023), Registered Ports (1024-49151), dynamische Ports (49152-65535).", "correct": true },
+                { "text": "Private Ports (0-1023), Standard Ports (1024-49151), frei verwendbare Ports (49152-65535).", "correct": false },
+                { "text": "Externe Ports (0-1023), Interne Ports (1024-49151), Virtuelle Ports (49152-65535).", "correct": false },
+                { "text": "Öffentliche Ports (0-1023), Netzinterne Ports (1024-49151), Sonderports (49152-65535).", "correct": false }
+            ]
+        },
+        {
+            "question": "In welche zwei Bereiche ist eine IP-Adresse aufgeteilt?",
+            "answers": [
+                { "text": "Netz- und Hostanteil.", "correct": true },
+                { "text": "Sende- und Empfangsbereich.", "correct": false },
+                { "text": "Präfix- und Suffixbereich.", "correct": false },
+                { "text": "Öffentlicher und privater Bereich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Aus welcher Anzahl an Bits wird die verfügbare Anzahl an Ports gebildet?",
+            "answers": [
+                { "text": "16 Bit.", "correct": true },
+                { "text": "8 Bit.", "correct": false },
+                { "text": "32 Bit.", "correct": false },
+                { "text": "24 Bit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum kann die Kollisionserkennung CSMA/CD nur über Ethernet realisiert werden?",
+            "answers": [
+                { "text": "Durch die Verwendung von Vollduplex.", "correct": true },
+                { "text": "Aufgrund der hohen Übertragungsrate.", "correct": false },
+                { "text": "Weil es für drahtlose Verbindungen optimiert ist.", "correct": false },
+                { "text": "Weil es die MAC-Adressen verifiziert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Mit welchem Inhalt beginnt der eigentliche Ethernet-Frame?",
+            "answers": [
+                { "text": "Mit der MAC-Ziel- und Quelladresse.", "correct": true },
+                { "text": "Mit dem Präambel-Header.", "correct": false },
+                { "text": "Mit dem Type-Feld.", "correct": false },
+                { "text": "Mit der CRC-Prüfsumme.", "correct": false }
+            ]
+        },
+        {
+            "question": "Nenne zwei verbindungslose TCP/IP-Protokolle.",
+            "answers": [
+                { "text": "IP und UDP.", "correct": true },
+                { "text": "TCP und ICMP.", "correct": false },
+                { "text": "ARP und RARP.", "correct": false },
+                { "text": "FTP und HTTP.", "correct": false }
+            ]
+        },
+        {
+            "question": "These: IP ist unabhängig von der verwendeten Übertragungstechnik.",
+            "answers": [
+                { "text": "Richtig.", "correct": true },
+                { "text": "Falsch.", "correct": false },
+                { "text": "Teilweise richtig.", "correct": false },
+                { "text": "Nicht feststellbar.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lautet die minimale und maximale Größe der Nutzdaten (Payload) eines Frames?",
+            "answers": [
+                { "text": "46 – 1500 Bytes (Maximum Transmission Unit).", "correct": true },
+                { "text": "64 – 1522 Bytes (Minimum und Maximum Ethernet Frame).", "correct": false },
+                { "text": "42 – 1450 Bytes (Maximale Segmentgröße).", "correct": false },
+                { "text": "56 – 1600 Bytes (Jumbo Frame).", "correct": false }
+            ]
+        },
+        {
+            "question": "These: IP ist ein verbindungsorientiertes Vermittlungsprotokoll.",
+            "answers": [
+                { "text": "Falsch, verbindungslos.", "correct": true },
+                { "text": "Richtig, es ist verbindungsorientiert.", "correct": false },
+                { "text": "Teilweise richtig, je nach Anwendung.", "correct": false },
+                { "text": "Nicht feststellbar.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe hat die Prüfsumme des Ethernet-Frames und wie groß ist sie?",
+            "answers": [
+                { "text": "Die FCS (Frame Check Sequence) ist 4 Byte groß und prüft die Integrität der übertragenen Daten.", "correct": true },
+                { "text": "Die CRC (Cyclic Redundancy Check) ist 8 Byte groß und stellt die MAC-Adressen sicher.", "correct": false },
+                { "text": "Die SFD (Start Frame Delimiter) ist 4 Byte groß und signalisiert das Frame-Ende.", "correct": false },
+                { "text": "Die MTU (Maximum Transmission Unit) ist 4 Byte groß und begrenzt die Frame-Größe.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Mindestanzahl an Sockets ist für eine Kommunikation zwischen zwei Rechnern notwendig?",
+            "answers": [
+                { "text": "Zwei.", "correct": true },
+                { "text": "Drei.", "correct": false },
+                { "text": "Vier.", "correct": false },
+                { "text": "Eins.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lautet das Synchronisationssignal des Ethernet-Frames?",
+            "answers": [
+                { "text": "Präambel.", "correct": true },
+                { "text": "SFD.", "correct": false },
+                { "text": "MTU.", "correct": false },
+                { "text": "CRC.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lautet die Subnetzmaske zu der IP 192.168.0.1/24 in CIDR-Notation?",
+            "answers": [
+                { "text": "255.255.255.0", "correct": true },
+                { "text": "255.255.0.0", "correct": false },
+                { "text": "255.255.255.255", "correct": false },
+                { "text": "255.0.0.0", "correct": false }
+            ]
+        }
+    ]
+}    

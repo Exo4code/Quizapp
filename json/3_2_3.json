@@ -1,0 +1,368 @@
+{
+    "3.2.3_1-20": [
+      {
+        "question": "Was ist die Hauptaufgabe eines lokalen Rechenzentrums (On-Premises)?",
+        "answers": [
+          { "text": "Bereitstellung von Servern im eigenen Betriebsgelände.", "correct": true },
+          { "text": "Vermietung von Stellplätzen für Racks an externe Unternehmen.", "correct": false },
+          { "text": "Überwachung der Netzwerksicherheit im gesamten Internet.", "correct": false },
+          { "text": "Bereitstellung von Cloud-Diensten für externe Kunden.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Anforderung ist für den Betrieb eines Rechenzentrums besonders wichtig?",
+        "answers": [
+          { "text": "Sichere Stromversorgung und Klimatisierung.", "correct": true },
+          { "text": "Hohe Anzahl von Netzwerkdruckern.", "correct": false },
+          { "text": "Anbindung an analoge Telefonleitungen.", "correct": false },
+          { "text": "Verfügbarkeit von mobilen Endgeräten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Vorteil eines externen Rechenzentrums (Off-Premises)?",
+        "answers": [
+          { "text": "Weniger administrativer Aufwand für das Unternehmen.", "correct": true },
+          { "text": "Höhere Betriebskosten für Serverinfrastruktur.", "correct": false },
+          { "text": "Volle Kontrolle über die Klimatisierungssysteme.", "correct": false },
+          { "text": "Unabhängigkeit von Datenverbindungen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was zeichnet eine Colocation-Lösung aus?",
+        "answers": [
+          { "text": "Eigene Serverhardware in einem fremden Rechenzentrum.", "correct": true },
+          { "text": "Virtuelle Serverdienste auf einer geteilten Plattform.", "correct": false },
+          { "text": "Kleine Serverräume auf dem eigenen Betriebsgelände.", "correct": false },
+          { "text": "Externe Serververwaltung durch Cloud-Provider.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein wesentlicher Nachteil eines zentralen Rechenzentrums für mehrere Niederlassungen?",
+        "answers": [
+          { "text": "Bei Ausfall kann keine Niederlassung auf die Daten zugreifen.", "correct": true },
+          { "text": "Erhöhter Bedarf an lokalen Druckern in jeder Niederlassung.", "correct": false },
+          { "text": "Hohe Kosten für lokale Stromversorgung.", "correct": false },
+          { "text": "Notwendigkeit, alle Daten lokal zu speichern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp bietet E-Mail-Dienste im Netzwerk an?",
+        "answers": [
+          { "text": "Mail-Server", "correct": true },
+          { "text": "File-Server", "correct": false },
+          { "text": "Print-Server", "correct": false },
+          { "text": "DNS-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Aufgabe eines DNS-Servers?",
+        "answers": [
+          { "text": "Namensauflösungsdienste bereitstellen.", "correct": true },
+          { "text": "Dateien im Netzwerk speichern.", "correct": false },
+          { "text": "Druckaufträge verwalten.", "correct": false },
+          { "text": "Anwenderprogramme aktualisieren.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp stellt Anwendungen wie Warenwirtschaftssysteme zur Verfügung?",
+        "answers": [
+          { "text": "Anwendungsserver", "correct": true },
+          { "text": "File-Server", "correct": false },
+          { "text": "Web-Server", "correct": false },
+          { "text": "Print-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp wird benötigt, um Updates im Netzwerk zu verteilen?",
+        "answers": [
+          { "text": "Update-Server", "correct": true },
+          { "text": "Web-Server", "correct": false },
+          { "text": "Mail-Server", "correct": false },
+          { "text": "File-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Serverlösung eignet sich für die Bereitstellung browserfähiger Inhalte?",
+        "answers": [
+          { "text": "Web-Server", "correct": true },
+          { "text": "Shop-Server", "correct": false },
+          { "text": "File-Server", "correct": false },
+          { "text": "NAS", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein File-Server im Netzwerk?",
+        "answers": [
+          { "text": "Bereitstellung und Speicherung von Dateien.", "correct": true },
+          { "text": "Verwaltung von E-Mail-Konten.", "correct": false },
+          { "text": "Steuerung von Druckaufträgen.", "correct": false },
+          { "text": "Verteilung von Software-Updates.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem Network Attached Storage (NAS)?",
+        "answers": [
+          { "text": "Netzwerkspeicher für zentralen Zugriff.", "correct": true },
+          { "text": "Server für Druckaufträge.", "correct": false },
+          { "text": "Dienst für Namensauflösung.", "correct": false },
+          { "text": "Server für E-Mail-Dienste.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welches Rechenzentrum erfordert die geringste administrative Betreuung?",
+        "answers": [
+          { "text": "Externes Rechenzentrum (Off-Premises)", "correct": true },
+          { "text": "Lokales Rechenzentrum (On-Premises)", "correct": false },
+          { "text": "Colocation-Lösung", "correct": false },
+          { "text": "Kleines Serverraum-Netzwerk", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil eines externen Rechenzentrums?",
+        "answers": [
+          { "text": "Bedarfsgerechte Anpassung der IT-Infrastruktur.", "correct": true },
+          { "text": "Volle Kontrolle über die Hardwarekonfiguration.", "correct": false },
+          { "text": "Geringere Abhängigkeit von Netzwerkverbindungen.", "correct": false },
+          { "text": "Möglichkeit zur lokalen Stromversorgung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp ermöglicht die Verbindung von Thin Clients?",
+        "answers": [
+          { "text": "Terminal-Server", "correct": true },
+          { "text": "Mail-Server", "correct": false },
+          { "text": "Print-Server", "correct": false },
+          { "text": "DNS-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Eigenschaft ist charakteristisch für eine Colocation-Lösung?",
+        "answers": [
+          { "text": "Eigene Hardware wird in einem fremden Rechenzentrum betrieben.", "correct": true },
+          { "text": "Das Rechenzentrum wird ausschließlich über das Internet betrieben.", "correct": false },
+          { "text": "Alle Daten werden in der Cloud gespeichert.", "correct": false },
+          { "text": "Die Server werden vom Rechenzentrum bereitgestellt.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein typisches Merkmal eines Mail-Servers?",
+        "answers": [
+          { "text": "Stellt E-Mail-Dienste im Netzwerk bereit.", "correct": true },
+          { "text": "Speichert und verwaltet Druckaufträge.", "correct": false },
+          { "text": "Bietet Namensauflösungsdienste.", "correct": false },
+          { "text": "Verwaltet Dateidienste.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp bietet Onlineshop-Dienste an?",
+        "answers": [
+          { "text": "Shop-Server", "correct": true },
+          { "text": "Web-Server", "correct": false },
+          { "text": "File-Server", "correct": false },
+          { "text": "Update-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Hauptaufgabe hat ein Print-Server?",
+        "answers": [
+          { "text": "Steuerung und Verwaltung von Druckaufträgen im Netzwerk.", "correct": true },
+          { "text": "Speicherung von Dateien auf zentralen Servern.", "correct": false },
+          { "text": "Bereitstellung von Web-Inhalten.", "correct": false },
+          { "text": "Verteilung von Software-Updates.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp stellt den Zugriff auf virtuelle Arbeitsplatzrechner sicher?",
+        "answers": [
+          { "text": "Terminal-Server", "correct": true },
+          { "text": "Mail-Server", "correct": false },
+          { "text": "Print-Server", "correct": false },
+          { "text": "DNS-Server", "correct": false }
+        ]
+      }
+    ],
+    "3.2.3_21-40": [
+      {
+        "question": "Was ist eine Voraussetzung für den sicheren Betrieb eines Rechenzentrums?",
+        "answers": [
+          { "text": "Redundante Stromversorgung und Klimatisierung.", "correct": true },
+          { "text": "Verfügbarkeit von mobilen Endgeräten.", "correct": false },
+          { "text": "Anbindung an analoge Telefonleitungen.", "correct": false },
+          { "text": "Hohe Anzahl von Netzwerkdruckern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist der Hauptvorteil eines externen Rechenzentrums?",
+        "answers": [
+          { "text": "Professionelle Betreuung und geringere Betriebskosten.", "correct": true },
+          { "text": "Volle Kontrolle über die Klimatisierungssysteme.", "correct": false },
+          { "text": "Unabhängigkeit von Datenverbindungen.", "correct": false },
+          { "text": "Höhere Betriebskosten für Serverinfrastruktur.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter dem Begriff Colocation?",
+        "answers": [
+          { "text": "Miete von Stellplätzen für eigene Server in einem fremden Rechenzentrum.", "correct": true },
+          { "text": "Bereitstellung von virtuellen Servern in einer Cloud-Umgebung.", "correct": false },
+          { "text": "Nutzung von Remote-Desktops für Mitarbeiter.", "correct": false },
+          { "text": "Verwaltung von E-Mail-Diensten auf lokalen Servern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil einer Colocation-Lösung?",
+        "answers": [
+          { "text": "Nutzung eigener Hardware bei gleichzeitig guter Anbindung ans Internet.", "correct": true },
+          { "text": "Niedrige Kosten für die Einrichtung eines eigenen Rechenzentrums.", "correct": false },
+          { "text": "Vollständige Unabhängigkeit von externen Anbietern.", "correct": false },
+          { "text": "Volle Kontrolle über die Klimatisierung.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Anwendungsserver?",
+        "answers": [
+          { "text": "Bereitstellung von Softwareanwendungen im Netzwerk.", "correct": true },
+          { "text": "Speicherung von Dateien auf zentralen Servern.", "correct": false },
+          { "text": "Verwaltung von Druckaufträgen im Netzwerk.", "correct": false },
+          { "text": "Verteilung von Software-Updates.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Eigenschaft ist typisch für einen Mail-Server?",
+        "answers": [
+          { "text": "Bereitstellung und Verwaltung von E-Mail-Diensten.", "correct": true },
+          { "text": "Speicherung und Verteilung von Druckaufträgen.", "correct": false },
+          { "text": "Bereitstellung von Web-Inhalten.", "correct": false },
+          { "text": "Verwaltung von Software-Updates.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp ist erforderlich, um eine Namensauflösung im Netzwerk zu ermöglichen?",
+        "answers": [
+          { "text": "DNS-Server", "correct": true },
+          { "text": "Mail-Server", "correct": false },
+          { "text": "Web-Server", "correct": false },
+          { "text": "File-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist die Hauptaufgabe eines Print-Servers?",
+        "answers": [
+          { "text": "Verwaltung und Steuerung von Druckaufträgen.", "correct": true },
+          { "text": "Bereitstellung und Verwaltung von E-Mail-Konten.", "correct": false },
+          { "text": "Verteilung von Software-Updates.", "correct": false },
+          { "text": "Bereitstellung von Dateidiensten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Web-Server?",
+        "answers": [
+          { "text": "Bereitstellung von Inhalten, die über einen Browser zugänglich sind.", "correct": true },
+          { "text": "Verwaltung von Druckaufträgen im Netzwerk.", "correct": false },
+          { "text": "Speicherung von Dateien auf zentralen Servern.", "correct": false },
+          { "text": "Verteilung von E-Mails im Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Update-Server?",
+        "answers": [
+          { "text": "Verteilung von Software-Updates an Netzwerkgeräte.", "correct": true },
+          { "text": "Speicherung von Dateien auf zentralen Servern.", "correct": false },
+          { "text": "Bereitstellung von Namensauflösungsdiensten.", "correct": false },
+          { "text": "Steuerung von Druckaufträgen im Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil eines Network Attached Storage (NAS)?",
+        "answers": [
+          { "text": "Zentraler Zugriff auf Speicherressourcen im Netzwerk.", "correct": true },
+          { "text": "Bereitstellung von Druckdiensten für alle Netzwerkgeräte.", "correct": false },
+          { "text": "Verteilung von Software-Updates.", "correct": false },
+          { "text": "Verwaltung von E-Mail-Konten im Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein Terminal-Server?",
+        "answers": [
+          { "text": "Bereitstellung von virtuellen Desktops für Thin Clients.", "correct": true },
+          { "text": "Verwaltung von Druckaufträgen im Netzwerk.", "correct": false },
+          { "text": "Verteilung von Software-Updates.", "correct": false },
+          { "text": "Verwaltung von E-Mail-Diensten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Aufgabe hat ein File-Server?",
+        "answers": [
+          { "text": "Speicherung und Bereitstellung von Dateien im Netzwerk.", "correct": true },
+          { "text": "Verwaltung von E-Mail-Diensten.", "correct": false },
+          { "text": "Verteilung von Druckaufträgen.", "correct": false },
+          { "text": "Bereitstellung von Web-Inhalten.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was versteht man unter einem Datacenter?",
+        "answers": [
+          { "text": "Zentraler Raum mit Servern und IT-Infrastruktur.", "correct": true },
+          { "text": "Zentraler Raum für die Lagerung von Akten.", "correct": false },
+          { "text": "Zentrale Verwaltung von Telefonanschlüssen.", "correct": false },
+          { "text": "Zentrale Verwaltung von Stromversorgungen.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein Vorteil eines lokalen Rechenzentrums?",
+        "answers": [
+          { "text": "Volle Kontrolle über Hardware und Sicherheit.", "correct": true },
+          { "text": "Weniger Bedarf an IT-Personal.", "correct": false },
+          { "text": "Geringere Kosten für Hardware.", "correct": false },
+          { "text": "Einfache Erweiterung durch Cloud-Provider.", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein wesentlicher Nachteil eines zentralen Rechenzentrums?",
+        "answers": [
+          { "text": "Bei Ausfall sind alle verbundenen Niederlassungen betroffen.", "correct": true },
+          { "text": "Hoher Bedarf an lokalen Druckern in jeder Niederlassung.", "correct": false },
+          { "text": "Erhöhter Verwaltungsaufwand für lokale Daten.", "correct": false },
+          { "text": "Notwendigkeit, alle Daten lokal zu speichern.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welche Funktion hat ein Anwendungsserver?",
+        "answers": [
+          { "text": "Bereitstellung von spezifischen Softwareanwendungen.", "correct": true },
+          { "text": "Verwaltung von Druckaufträgen im Netzwerk.", "correct": false },
+          { "text": "Speicherung von Dateien auf zentralen Servern.", "correct": false },
+          { "text": "Verteilung von E-Mails im Netzwerk.", "correct": false }
+        ]
+      },
+      {
+        "question": "Welcher Servertyp ermöglicht die Bereitstellung von Onlineshop-Diensten?",
+        "answers": [
+          { "text": "Shop-Server", "correct": true },
+          { "text": "Web-Server", "correct": false },
+          { "text": "File-Server", "correct": false },
+          { "text": "Mail-Server", "correct": false }
+        ]
+      },
+      {
+        "question": "Was ist ein wesentlicher Vorteil eines externen Rechenzentrums?",
+        "answers": [
+          { "text": "Geringerer administrativer Aufwand für das Unternehmen.", "correct": true },
+          { "text": "Volle Kontrolle über die Hardwarekonfiguration.", "correct": false },
+          { "text": "Geringere Abhängigkeit von Netzwerkverbindungen.", "correct": false },
+          { "text": "Möglichkeit zur lokalen Stromversorgung.", "correct": false }
+        ]
+      },
+
+    {
+        "question": "Welche Aufgabe hat ein Datenbankserver?",
+        "answers": [
+          { "text": "Verwaltung und Speicherung von Datenbankinhalten.", "correct": true },
+          { "text": "Bereitstellung von Druckdiensten im Netzwerk.", "correct": false },
+          { "text": "Verteilung von Software-Updates an Clients.", "correct": false },
+          { "text": "Überwachung des Netzwerkverkehrs.", "correct": false }
+        ]
+    }
+    ]
+  }
+  

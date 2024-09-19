@@ -182,6 +182,16 @@
       }
     ],
     "3.2.2_21-40": [
+
+        {
+            "question": "Was ist ein Trunk?",
+            "answers": [
+                { "text": "Eine Verbindungsleitung zwischen Switches, die VLAN-Kennungen überträgt.", "correct": true },
+                { "text": "Eine Verbindung, die nur für drahtlose Netzwerke verwendet wird.", "correct": false },
+                { "text": "Ein spezielles Kabel zur Netzwerkverbindung.", "correct": false },
+                { "text": "Ein Programm zur Steuerung von Netzwerkdruckern.", "correct": false }
+            ]
+        },
       {
         "question": "Was ist die Hauptaufgabe eines Global Area Networks (GAN)?",
         "answers": [
