@@ -285,6 +285,7 @@ document.addEventListener('DOMContentLoaded', function() {
             loadLernfeldContent(lernfeld);
 
             navLinks.classList.remove('show'); // Dropdown-Menü schließen
+            window.scrollTo(0, 0); // Scrollt die Seite nach oben
         });
     });
 
@@ -294,6 +295,7 @@ document.addEventListener('DOMContentLoaded', function() {
             quizContainer.style.display = 'none';
             startContainer.style.display = 'none'; // Versteckt den Start-Container, falls sichtbar
             navLinks.classList.remove('show'); // Dropdown-Menü schließen
+            window.scrollTo(0, 0); // Scrollt die Seite nach oben
         }
     });
 });
@@ -320,6 +322,7 @@ document.addEventListener('DOMContentLoaded', function() {
             };
             document.body.appendChild(script);
             navLinks.classList.remove('show'); // Dropdown-Menü schließen
+            window.scrollTo(0, 0); // Scrollt die Seite nach oben
         });
     });
 
@@ -407,6 +410,7 @@ document.querySelectorAll('.category-link').forEach(link => {
         infoContainer.style.display = 'none';
         startContainer.style.display = 'block';
         quizContainer.style.display = 'none';
+        window.scrollTo(0, 0); // Scrollt die Seite nach oben
     });
 });
 
@@ -449,4 +453,3 @@ function updateQuestionCounter() {
 
 // Event-Listener für den Start-Button
 startButton.addEventListener('click', startGame);
-
