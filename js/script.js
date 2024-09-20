@@ -342,10 +342,15 @@ document.addEventListener('DOMContentLoaded', function() {
     const startContainer = document.getElementById('start-container');
     const quizContainer = document.getElementById('quiz-container');
     const infoContainer = document.getElementById('info-container');
+    const questionElement = document.getElementById('question');
+    const answerButtonsElement = document.getElementById('answer-buttons');
 
     startQuizButton.addEventListener('click', function() {
         startContainer.style.display = 'none';
         quizContainer.style.display = 'block';
+        questions.length = 0; // Leere das questions-Array vollständig
+        questionElement.innerText = ''; // Entferne die letzte Frage
+        answerButtonsElement.innerHTML = ''; // Entferne alle Antwort-Buttons
         startGame();
     });
 });
