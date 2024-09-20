@@ -458,3 +458,5 @@ function updateQuestionCounter() {
 
 // Event-Listener für den Start-Button
 startButton.addEventListener('click', startGame);
+
+
