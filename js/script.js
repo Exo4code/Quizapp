@@ -335,7 +335,6 @@ document.addEventListener('click', function(event) {
         navLinks.classList.remove('show');
     }
 });
-    
 // Event-Listener für den Start-Quiz-Button
 document.addEventListener('DOMContentLoaded', function() {
     const startQuizButton = document.getElementById('start-quiz-button');
@@ -348,25 +347,12 @@ document.addEventListener('DOMContentLoaded', function() {
     startQuizButton.addEventListener('click', function() {
         startContainer.style.display = 'none';
         quizContainer.style.display = 'block';
-        questions.length = 0; // Leere das questions-Array vollständig
-        questionElement.innerText = ''; // Entferne die letzte Frage
-        answerButtonsElement.innerHTML = ''; // Entferne alle Antwort-Buttons
+        questions.length = 0;
+        questionElement.innerText = '';
+        answerButtonsElement.innerHTML = '';
         startGame();
     });
 });
-
-// Funktion zum Laden einer JSON-Datei (synchron)
-function loadJSON(file) {
-    var xhr = new XMLHttpRequest();
-    xhr.open('GET', `/json/${file}`, false);
-    xhr.send();
-    if (xhr.status === 200) {
-        return JSON.parse(xhr.responseText);
-    } else {
-        console.error('Fehler beim Laden der JSON-Datei:', xhr.status);
-        return null;
-    }
-}
 
 // Funktion zum Laden einer JSON-Datei (asynchron, mit Callback)
 function loadJSON(file, callback) {
@@ -382,21 +368,48 @@ function loadJSON(file, callback) {
     xhr.send();
 }
 
-// Überprüft und zeigt Quiz-Set-Buttons an
+// Überprüft und zeigt Quiz-Set-Buttons dynamisch an
 function checkAndDisplayQuizSetButtons(categoryNumber) {
     const quizSetButtons = document.querySelectorAll('.quiz-set-button');
-    quizSetButtons.forEach(button => {
-        const selectedSet = button.dataset.set;
-        const key = `${categoryNumber}_${selectedSet}`;
-        const file = `${categoryNumber.replace(/\./g, '_')}.json`;
+    const file = `${categoryNumber.replace(/\./g, '_')}.json`;
 
-        loadJSON(file, function(data) {
-            if (data && data[key]) {
-                button.style.display = 'inline-block';
-            } else {
-                button.style.display = 'none';
+    loadJSON(file, function(data) {
+        if (data) {
+            const totalQuestions = Object.values(data).reduce((acc, curr) => acc + curr.length, 0);
+            let blocks = [];
+            let currentBlock = [];
+            let questionCount = 0;
+
+            Object.values(data).flat().forEach((question, index) => {
+                currentBlock.push(question);
+                questionCount++;
+
+                if (questionCount === 20 || index === totalQuestions - 1) {
+                    blocks.push(currentBlock);
+                    currentBlock = [];
+                    questionCount = 0;
+                }
+            });
+
+            // Zusammenfassen der letzten beiden Blöcke, wenn der letzte Block weniger als 15 Fragen hat
+            if (blocks.length > 1 && blocks[blocks.length - 1].length < 15) {
+                const lastBlock = blocks.pop();
+                blocks[blocks.length - 1] = blocks[blocks.length - 1].concat(lastBlock);
             }
-        });
+
+            quizSetButtons.forEach((button, index) => {
+                if (index < blocks.length) {
+                    const startQuestion = blocks.slice(0, index).reduce((acc, block) => acc + block.length, 0) + 1;
+                    const endQuestion = startQuestion + blocks[index].length - 1;
+                    
+                    button.style.display = 'inline-block';
+                    button.textContent = `Block ${startQuestion}-${endQuestion}`;
+                    button.dataset.set = `${startQuestion}-${endQuestion}`;
+                } else {
+                    button.style.display = 'none';
+                }
+            });
+        }
     });
 }
 
@@ -404,9 +417,7 @@ function checkAndDisplayQuizSetButtons(categoryNumber) {
 document.querySelectorAll('.category-link').forEach(link => {
     link.addEventListener('click', function(event) {
         event.preventDefault();
-        const file = this.dataset.file;
         const categoryText = this.textContent;
-
         currentCategoryElement.textContent = categoryText;
 
         const categoryNumber = categoryText.split(' ')[0];
@@ -415,7 +426,7 @@ document.querySelectorAll('.category-link').forEach(link => {
         infoContainer.style.display = 'none';
         startContainer.style.display = 'block';
         quizContainer.style.display = 'none';
-        window.scrollTo(0, 0); // Scrollt die Seite nach oben
+        window.scrollTo(0, 0);
     });
 });
 
@@ -425,20 +436,20 @@ quizSetButtons.forEach(button => {
     button.addEventListener('click', function(event) {
         event.preventDefault();
         const selectedSet = this.dataset.set;
+        const [start, end] = selectedSet.split('-').map(Number);
         const currentCategory = currentCategoryElement.textContent;
         const categoryNumber = currentCategory.split(' ')[0];
-        const key = `${categoryNumber}_${selectedSet}`;
         const file = `${categoryNumber.replace(/\./g, '_')}.json`;
 
         loadJSON(file, function(data) {
-            if (data && data[key]) {
-                questions = data[key];
+            if (data) {
+                questions = Object.values(data).flat().slice(start - 1, end);
                 infoContainer.style.display = 'none';
                 startContainer.style.display = 'none';
                 quizContainer.style.display = 'block';
                 startGame();
             } else {
-                console.error(`Fragenblock ${key} nicht gefunden.`);
+                console.error(`Fehler beim Laden der Fragen für ${categoryNumber}, Set ${selectedSet}`);
                 alert(`Fehler beim Laden der Fragen. Bitte versuchen Sie es später erneut.`);
             }
         });
