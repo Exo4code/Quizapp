@@ -1,0 +1,229 @@
+{
+    "3.0.4_1-20": [
+    {
+        "question": "Wofür ist das ARP (Address Resolution Protocol) in einem Netzwerk zuständig?",
+        "answers": [
+            { "text": "Es setzt IP-Adressen in MAC-Adressen um.", "correct": true },
+            { "text": "Es wandelt MAC-Adressen in IP-Adressen um.", "correct": false },
+            { "text": "Es dient zur Verwaltung von IP-Adressen.", "correct": false },
+            { "text": "Es optimiert die Bandbreite im Netzwerk.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was unterscheidet einen Edge-Server von einem Cloud Server?",
+        "answers": [
+            { "text": "Edge Server sind näher an den Datenquellen.", "correct": true },
+            { "text": "Cloud Server sind immer schneller als Edge Server.", "correct": false },
+            { "text": "Edge Server haben mehr Rechenleistung.", "correct": false },
+            { "text": "Cloud Server speichern Daten lokal.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie wird eine hohe Anzahl kleiner, vernetzter Geräte und Sensoren genannt?",
+        "answers": [
+            { "text": "Fog-Computing", "correct": true },
+            { "text": "Cloud-Computing", "correct": false },
+            { "text": "Edge-Computing", "correct": false },
+            { "text": "Grid-Computing", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie lautet der Fachbegriff für den Namen eines WLAN-Netzwerkes?",
+        "answers": [
+            { "text": "SSID (Service Set Identifier)", "correct": true },
+            { "text": "BSSID (Basic Service Set Identifier)", "correct": false },
+            { "text": "ESSID (Extended Service Set Identifier)", "correct": false },
+            { "text": "WPA (Wi-Fi Protected Access)", "correct": false }
+        ]
+    },
+    {
+        "question": "Was unterscheidet ein Client-Server-Netz von einem Peer-to-Peer Netz?",
+        "answers": [
+            { "text": "Ein dedizierter Server für Clients", "correct": true },
+            { "text": "Schnellere Datenübertragung", "correct": false },
+            { "text": "Mehr Benutzer können teilnehmen", "correct": false },
+            { "text": "Nur Clients können Daten speichern", "correct": false }
+        ]
+    },
+    {
+        "question": "Fog- und Edge Computing sind die logische Folge von IoT.",
+        "answers": [
+            { "text": "Richtig, da Netzwerke entlastet werden", "correct": true },
+            { "text": "Falsch, da sie nicht zusammenhängen", "correct": false },
+            { "text": "Richtig, da Daten in der Cloud gespeichert werden", "correct": false },
+            { "text": "Falsch, da IoT veraltete Technologie ist", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie lauten die ersten beiden Oktette einer IP-Adresse ohne DHCP?",
+        "answers": [
+            { "text": "168.254.x.x", "correct": true },
+            { "text": "192.168.x.x", "correct": false },
+            { "text": "10.0.x.x", "correct": false },
+            { "text": "172.16.x.x", "correct": false }
+        ]
+    },
+    {
+        "question": "Was passiert, wenn die Nutzdaten eines Ethernet-Frames zu kurz sind?",
+        "answers": [
+            { "text": "Padding, Frame wird aufgefüllt", "correct": true },
+            { "text": "Frame wird verworfen", "correct": false },
+            { "text": "Checksumme wird geändert", "correct": false },
+            { "text": "Frame wird verlängert", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Bestandteile befinden sich im Ethernet-Frame Header?",
+        "answers": [
+            { "text": "Ziel-MAC, Quell-MAC, Typenfeld", "correct": true },
+            { "text": "Nutzdaten, FCS, Typenfeld", "correct": false },
+            { "text": "IP-Adresse, Quell-MAC, FCS", "correct": false },
+            { "text": "Ziel-MAC, Typenfeld, Nutzdaten", "correct": false }
+        ]
+    },
+    {
+        "question": "Auf welche Ansicht muss im Cisco Packet Tracer geschaltet werden?",
+        "answers": [
+            { "text": "Realtime", "correct": true },
+            { "text": "Simulation", "correct": false },
+            { "text": "Design", "correct": false },
+            { "text": "Config", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie lautet der aktuelle Verschlüsselungsalgorithmus für drahtlose Netzwerke?",
+        "answers": [
+            { "text": "AES (Advanced Encryption Standard)", "correct": true },
+            { "text": "WEP (Wired Equivalent Privacy)", "correct": false },
+            { "text": "TKIP (Temporal Key Integrity Protocol)", "correct": false },
+            { "text": "RSA (Rivest-Shamir-Adleman)", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Lösung bietet sich für eine Firma an, die teure Server besitzt, aber nicht selbst administrieren möchte?",
+        "answers": [
+            { "text": "Colocation", "correct": true },
+            { "text": "Cloud-Hosting", "correct": false },
+            { "text": "Dedicated Server", "correct": false },
+            { "text": "Virtual Private Server", "correct": false }
+        ]
+    },
+    {
+        "question": "Welcher Cloud-Computing-Dienst stellt dem Kunden virtualisierte Hardware zur Verfügung?",
+        "answers": [
+            { "text": "IaaS (Infrastructure as a Service)", "correct": true },
+            { "text": "PaaS (Platform as a Service)", "correct": false },
+            { "text": "SaaS (Software as a Service)", "correct": false },
+            { "text": "DaaS (Database as a Service)", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Kopplungsgeräte stellen normalerweise Nodes in einem LAN dar?",
+        "answers": [
+            { "text": "Switche", "correct": true },
+            { "text": "Router", "correct": false },
+            { "text": "Modems", "correct": false },
+            { "text": "Firewalls", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie wird die Gesamtanzahl an IPv4 Adressen errechnet?",
+        "answers": [
+            { "text": "232 = 4.294.967.296", "correct": true },
+            { "text": "264 = 18.446.744.073.709.551.616", "correct": false },
+            { "text": "2128 = 340.282.366.920.938.463.463.374.607.431.768.211.456", "correct": false },
+            { "text": "22 = 4", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie viele Hosts sind im einem Klasse C Netz (/24) adressierbar?",
+        "answers": [
+            { "text": "254", "correct": true },
+            { "text": "128", "correct": false },
+            { "text": "510", "correct": false },
+            { "text": "1022", "correct": false }
+        ]
+    },
+    {
+        "question": "Was zeichnet die Topologie des Incomplete Mash aus?",
+        "answers": [
+            { "text": "Ausfallsicher durch Redundanz", "correct": true },
+            { "text": "Hohe Skalierbarkeit", "correct": false },
+            { "text": "Einfache Installation", "correct": false },
+            { "text": "Geringe Kosten", "correct": false }
+        ]
+    },
+    {
+        "question": "Eine Punkt-zu-Punkt Verbindung ist dasselbe wie ein Peer-to-Peer Netz.",
+        "answers": [
+            { "text": "Falsch, direkte Verbindung zweier Geräte", "correct": true },
+            { "text": "Richtig, beide Konzepte sind gleich", "correct": false },
+            { "text": "Falsch, Peer-to-Peer ist schneller", "correct": false },
+            { "text": "Richtig, keine Unterschiede vorhanden", "correct": false }
+        ]
+    },
+    {
+        "question": "Nenne drei Bestandteile der strukturierten Verkabelung.",
+        "answers": [
+            { "text": "Verteiler, TAs, Leitungen", "correct": true },
+            { "text": "Modems, Router, Leitungen", "correct": false },
+            { "text": "Switche, Firewalls, Patchfelder", "correct": false },
+            { "text": "Hubs, Stecker, Kabelkanäle", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie lautet das aktuelle Sicherheitsprotokoll für drahtlose Netzwerke?",
+        "answers": [
+            { "text": "Wi-Fi Protected Access 3", "correct": true },
+            { "text": "WPA2 (Wi-Fi Protected Access 2)", "correct": false },
+            { "text": "WEP (Wired Equivalent Privacy)", "correct": false },
+            { "text": "TKIP (Temporal Key Integrity Protocol)", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Bestandteile eines Ethernet-Frames befinden sich im Ethernet-Frame Trailer?",
+        "answers": [
+            { "text": "Frame Check Sequence (FCS)", "correct": true },
+            { "text": "Ziel-MAC-Adresse", "correct": false },
+            { "text": "Quell-MAC-Adresse", "correct": false },
+            { "text": "Typenfeld", "correct": false }
+        ]
+    },
+    {
+        "question": "Was unterscheidet ein Netzwerkknoten von einem Netzwerkgerät?",
+        "answers": [
+            { "text": "Nodes empfangen, senden oder leiten Daten weiter", "correct": true },
+            { "text": "Nodes sind Hardware, Geräte sind Software", "correct": false },
+            { "text": "Geräte können Daten analysieren", "correct": false },
+            { "text": "Nodes speichern keine Daten", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie lautet die Formel für die Berechnung der Übertragungszeit von Daten?",
+        "answers": [
+            { "text": "Datenmenge (D) / Datenübertragungsrate (C) = t", "correct": true },
+            { "text": "Übertragungsrate (C) / Datenmenge (D) = t", "correct": false },
+            { "text": "t = D * C", "correct": false },
+            { "text": "C = D / t", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie werden Softwareprogramme genannt, die über ein Netzwerk kommunizieren und Daten austauschen?",
+        "answers": [
+            { "text": "Applikationen", "correct": true },
+            { "text": "Dienste", "correct": false },
+            { "text": "Skripte", "correct": false },
+            { "text": "Agenten", "correct": false }
+        ]
+    },
+    {
+        "question": "Was wird unter der Konsistenz von Daten verstanden?",
+        "answers": [
+            { "text": "Alle Kopien eines Datensatzes haben denselben Wert", "correct": true },
+            { "text": "Daten sind auf allen Servern gleich verteilt", "correct": false },
+            { "text": "Daten werden regelmäßig aktualisiert", "correct": false },
+            { "text": "Daten sind in Echtzeit verfügbar", "correct": false }
+        ]
+    }
+]
+}
