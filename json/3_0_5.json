@@ -1,0 +1,247 @@
+{
+    "3.0.5_1-20": [
+    {
+        "question": "Was wird durch eine Kabelschirmung abgewehrt?",
+        "answers": [
+            { "text": "Elektromagnetische Störungen", "correct": true },
+            { "text": "Mechanische Beschädigungen", "correct": false },
+            { "text": "Feuchtigkeit", "correct": false },
+            { "text": "Überspannungen", "correct": false }
+        ]
+    },
+    {
+        "question": "Was unterscheidet ein F/UTP von einem SF/UTP Kabel?",
+        "answers": [
+            { "text": "F/UTP hat eine Folie als Gesamtschirm", "correct": true },
+            { "text": "F/UTP hat ein Kupfergeflecht als Gesamtschirm", "correct": false },
+            { "text": "SF/UTP hat keine Schirmung", "correct": false },
+            { "text": "SF/UTP hat nur eine Folie als Schirm", "correct": false }
+        ]
+    },
+    {
+        "question": "Ein Etagenverteiler wird ab welcher Flächengröße eingesetzt?",
+        "answers": [
+            { "text": "1000m²", "correct": true },
+            { "text": "500m²", "correct": false },
+            { "text": "2000m²", "correct": false },
+            { "text": "1500m²", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches internationale Normungsgremium erarbeitet Normen auf allen Gebieten, mit Ausnahme von Elektrotechnik?",
+        "answers": [
+            { "text": "ISO (International Organization für Standardization)", "correct": true },
+            { "text": "IEC (International Electrotechnical Commission)", "correct": false },
+            { "text": "ITU (International Telecommunication Union)", "correct": false },
+            { "text": "DIN (Deutsches Institut für Normung)", "correct": false }
+        ]
+    },
+    {
+        "question": "Zwischen welchen Verteilern findet die Tertiärverkabelung statt?",
+        "answers": [
+            { "text": "EV -> TA", "correct": true },
+            { "text": "GV -> EV", "correct": false },
+            { "text": "TA -> TA", "correct": false },
+            { "text": "SV -> GV", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Dezimalzahl ergibt sich, wenn das erste und letzte Bit in einem Byte aktiv geschaltet sind?",
+        "answers": [
+            { "text": "129", "correct": true },
+            { "text": "128", "correct": false },
+            { "text": "255", "correct": false },
+            { "text": "1", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Betriebsart in einem Funknetz stellt ein Access Point bereit?",
+        "answers": [
+            { "text": "Infrastruktur Modus", "correct": true },
+            { "text": "Ad-hoc Modus", "correct": false },
+            { "text": "Mesh Modus", "correct": false },
+            { "text": "Bridge Modus", "correct": false }
+        ]
+    },
+    {
+        "question": "Auf welcher OSI-Schicht arbeitet ein Router und wie heißt diese?",
+        "answers": [
+            { "text": "Auf Schicht 3, der Vermittlungsschicht", "correct": true },
+            { "text": "Auf Schicht 2, der Sicherungsschicht", "correct": false },
+            { "text": "Auf Schicht 1, der Bitübertragungsschicht", "correct": false },
+            { "text": "Auf Schicht 4, der Transportschicht", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie wird eine Verbindung von nur zwei Stationen in der Topologie genannt?",
+        "answers": [
+            { "text": "P2P", "correct": true },
+            { "text": "Bus", "correct": false },
+            { "text": "Stern", "correct": false },
+            { "text": "Ring", "correct": false }
+        ]
+    },
+    {
+        "question": "Erläutere, warum in der Tertiärverkabelung häufig Kupferkabel verwendet werden.",
+        "answers": [
+            { "text": "Die höheren LWL-Übertragungsraten sind für EDV-Arbeitsplätze oft nicht notwendig.", "correct": true },
+            { "text": "Kupferkabel sind günstiger als Glasfaserkabel.", "correct": false },
+            { "text": "Kupferkabel sind leichter zu verlegen.", "correct": false },
+            { "text": "Kupferkabel haben eine höhere Bandbreite.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Netzwerksmedien werden vom Standortverteiler zum Gebäudeverteiler gelegt?",
+        "answers": [
+            { "text": "LWL", "correct": true },
+            { "text": "Kupferkabel", "correct": false },
+            { "text": "Koaxialkabel", "correct": false },
+            { "text": "Twisted-Pair-Kabel", "correct": false }
+        ]
+    },
+    {
+        "question": "Was ist ein Interface?",
+        "answers": [
+            { "text": "Die Schnittstelle zur Datenvermittlung von Host und Netzwerk.", "correct": true },
+            { "text": "Eine Hardwarekomponente zur Netzwerkerweiterung.", "correct": false },
+            { "text": "Ein Netzwerkprotokoll zur Datenübertragung.", "correct": false },
+            { "text": "Ein Stecker zum Verbinden von Netzwerkkabeln.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wofür ist das Netzwerkprotokoll ARP (Address Resolution Protocol) zuständig?",
+        "answers": [
+            { "text": "Es löst die IP-Adresse in eine MAC-Adresse auf.", "correct": true },
+            { "text": "Es übersetzt Domain-Namen in IP-Adressen.", "correct": false },
+            { "text": "Es stellt eine sichere Datenübertragung sicher.", "correct": false },
+            { "text": "Es ermöglicht die Verbindung von Netzwerken.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wofür ist das DNS (Domain Name System) zuständig?",
+        "answers": [
+            { "text": "Es löst Domain-Namen in IP-Adressen auf.", "correct": true },
+            { "text": "Es übersetzt IP-Adressen in MAC-Adressen.", "correct": false },
+            { "text": "Es sichert die Datenübertragung im Internet.", "correct": false },
+            { "text": "Es ermöglicht den Aufbau von VPNs.", "correct": false }
+        ]
+    },
+    {
+        "question": "Was beschreibt die Netzwerknorm IEEE 802.11?",
+        "answers": [
+            { "text": "Wireless LAN", "correct": true },
+            { "text": "Ethernet", "correct": false },
+            { "text": "Bluetooth", "correct": false },
+            { "text": "Zigbee", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Netzwerkkabel Kategorie bezeichnet das Kabel mit der geringsten Datenrate?",
+        "answers": [
+            { "text": "Cat5. Bis 100 Mbit/s.", "correct": true },
+            { "text": "Cat6. Bis 1 Gbit/s.", "correct": false },
+            { "text": "Cat6a. Bis 10 Gbit/s.", "correct": false },
+            { "text": "Cat7. Bis 10 Gbit/s.", "correct": false }
+        ]
+    },
+    {
+        "question": "Zwischen welchen Verteilern findet die Sekundärverkabelung statt?",
+        "answers": [
+            { "text": "GV -> EV", "correct": true },
+            { "text": "EV -> TA", "correct": false },
+            { "text": "GV -> TA", "correct": false },
+            { "text": "SV -> GV", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Maßnahmen sollen helfen die vorgenommene Verkabelung nachzuvollziehen?",
+        "answers": [
+            { "text": "Beschriftung der TAs, Ordner mit Grundrissplänen, eindeutige Kennzeichnung (mit Leitungstyp)", "correct": true },
+            { "text": "Einsatz von Farbmarkierungen an den Kabeln", "correct": false },
+            { "text": "Verwendung von RFID-Chips an den Kabeln", "correct": false },
+            { "text": "Dokumentation im elektronischen Katalog", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Maßnahme dient der Ausfallsicherheit der Gebäudeverkabelung?",
+        "answers": [
+            { "text": "Querverbindungen zu GVs und EVs auf derselben Ebene (als Incomplete Mesh)", "correct": true },
+            { "text": "Verwendung von doppelt geschirmten Kabeln", "correct": false },
+            { "text": "Installation von Überspannungsschutz", "correct": false },
+            { "text": "Verwendung von redundanten Switchen", "correct": false }
+        ]
+    },
+    {
+        "question": "These: Funknetze über Access-Points werden über Sekundärverkabelung gespeist.",
+        "answers": [
+            { "text": "Falsch. Ausschließlich über Tertiärverkabelung.", "correct": true },
+            { "text": "Richtig. Über Sekundärverkabelung.", "correct": false },
+            { "text": "Richtig. Über Primärverkabelung.", "correct": false },
+            { "text": "Falsch. Nur über Direktverbindungen.", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche Anzahl aktiv geschalteter Bits hat die Dezimalzahl 13 in einem Oktett (1Byte)?",
+        "answers": [
+            { "text": "3", "correct": true },
+            { "text": "4", "correct": false },
+            { "text": "2", "correct": false },
+            { "text": "5", "correct": false }
+        ]
+    },
+    {
+        "question": "Welche optischen, leitungsgebundenen Netzwerkmedien unterscheiden wir?",
+        "answers": [
+            { "text": "Multimode-Faser (Faserkerngröße 50-62,5µm) und Singlemode-Faser (Faserkerngröße 9µm)", "correct": true },
+            { "text": "Kupferkabel und Koaxialkabel", "correct": false },
+            { "text": "Cat5 und Cat6 Kabel", "correct": false },
+            { "text": "Twisted-Pair-Kabel und Glasfaserkabel", "correct": false }
+        ]
+    },
+    {
+        "question": "Welches Normungsgremium ist auf den Bereich Elektrotechnik/Elektronik spezialisiert?",
+        "answers": [
+            { "text": "IEC (International Electrotechnical Commission)", "correct": true },
+            { "text": "ISO (International Organization für Standardization)", "correct": false },
+            { "text": "ITU (International Telecommunication Union)", "correct": false },
+            { "text": "DIN (Deutsches Institut für Normung)", "correct": false }
+        ]
+    },
+    {
+        "question": "In welcher Funknetz Betriebsart können sich mehrere Teilnehmer gleichberechtigt miteinander verbinden?",
+        "answers": [
+            { "text": "Ad-hoc-Netz", "correct": true },
+            { "text": "Infrastruktur Modus", "correct": false },
+            { "text": "Mesh-Netz", "correct": false },
+            { "text": "Bridge Modus", "correct": false }
+        ]
+    },
+    {
+        "question": "Die grundlegenden Netzwerknormen wurden von welchem Berufsverband erarbeitet?",
+        "answers": [
+            { "text": "Institute of Electrical and Electronics Engineers, mit Sitz in New York", "correct": true },
+            { "text": "International Organization for Standardization, mit Sitz in Genf", "correct": false },
+            { "text": "Deutsches Institut für Normung, mit Sitz in Berlin", "correct": false },
+            { "text": "International Telecommunication Union, mit Sitz in Genf", "correct": false }
+        ]
+    },
+    {
+        "question": "Was zeichnet ein S/FTP Kabel besonders aus?",
+        "answers": [
+            { "text": "Das S/FTP Kabel hat neben einem Alugeflecht als Gesamtschirm noch eine Schirmung der einzelnen Aderpaare mit Folie.", "correct": true },
+            { "text": "Das S/FTP Kabel ist besonders für Outdoor-Einsätze geeignet.", "correct": false },
+            { "text": "Das S/FTP Kabel hat eine besonders hohe Temperaturbeständigkeit.", "correct": false },
+            { "text": "Das S/FTP Kabel kann auch ohne Isolierung verlegt werden.", "correct": false }
+        ]
+    },
+    {
+        "question": "Wie heißt unser nationales Normungsinstitut mit Sitz in Berlin?",
+        "answers": [
+            { "text": "DIN (Deutsches Institut für Normungen)", "correct": true },
+            { "text": "ISO (International Organization for Standardization)", "correct": false },
+            { "text": "IEC (International Electrotechnical Commission)", "correct": false },
+            { "text": "VDI (Verein Deutscher Ingenieure)", "correct": false }
+        ]
+    }
+    ]
+}
