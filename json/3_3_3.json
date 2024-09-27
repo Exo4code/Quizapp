@@ -1,0 +1,184 @@
+{
+    "3.3.3_1-20": [
+        {
+            "question": "Welche Funktion hat die Preamble im Ethernet-Frame?",
+            "answers": [
+                { "text": "Sie dient der Synchronisation und stellt die Empfänger auf die Übertragungsrate ein.", "correct": true },
+                { "text": "Sie gibt die maximale Nutzdatengröße im Ethernet-Frame an.", "correct": false },
+                { "text": "Sie enthält die Zieladresse des Empfängers.", "correct": false },
+                { "text": "Sie verschlüsselt die Nutzdaten vor der Übertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie groß ist das Synchronisationssignal (Preamble) inkl. SFD im Ethernet-Frame?",
+            "answers": [
+                { "text": "Es ist 8 Byte lang und wird Bit für Bit übertragen.", "correct": true },
+                { "text": "Es ist 4 Byte lang und signalisiert das Frame-Ende.", "correct": false },
+                { "text": "Es ist 6 Byte lang und gibt die Datenrate an.", "correct": false },
+                { "text": "Es ist 2 Byte lang und enthält die Prüfsumme.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was gibt die Zieladresse im Ethernet-Frame an?",
+            "answers": [
+                { "text": "Die MAC-Adresse des Empfängers.", "correct": true },
+                { "text": "Die Netzwerkkarte des Absenders der Daten.", "correct": false },
+                { "text": "Die maximale Datenrate des Netzwerks.", "correct": false },
+                { "text": "Die Anzahl der übertragenen Datenpakete.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Information enthält die Absenderadresse im Ethernet-Frame?",
+            "answers": [
+                { "text": "Die Adresse des Interfaces, welches die Daten sendet.", "correct": true },
+                { "text": "Die maximale Größe der Nutzdaten.", "correct": false },
+                { "text": "Die Anzahl der gesendeten Datenpakete.", "correct": false },
+                { "text": "Die Frequenz der Übertragungssignale.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was wird im Typ-Feld eines Ethernet-Frames festgelegt?",
+            "answers": [
+                { "text": "Der Typ der folgenden Nutzdaten, wie z.B. ein IP-Paket.", "correct": true },
+                { "text": "Die Länge der Synchronisation im Frame.", "correct": false },
+                { "text": "Die Anzahl der gesendeten Datenpakete.", "correct": false },
+                { "text": "Der maximale Abstand zwischen den Paketen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie groß müssen die Nutzdaten in einem Ethernet-Frame mindestens sein?",
+            "answers": [
+                { "text": "Die Nutzdaten müssen mindestens 46 Byte groß sein.", "correct": true },
+                { "text": "Die Nutzdaten müssen mindestens 100 Byte groß sein.", "correct": false },
+                { "text": "Die Nutzdaten müssen mindestens 512 Byte groß sein.", "correct": false },
+                { "text": "Die Nutzdaten müssen mindestens 64 Byte groß sein.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie groß dürfen die Nutzdaten in einem Ethernet-Frame maximal sein?",
+            "answers": [
+                { "text": "Die Nutzdaten dürfen maximal 1500 Byte groß sein.", "correct": true },
+                { "text": "Die Nutzdaten dürfen maximal 1000 Byte groß sein.", "correct": false },
+                { "text": "Die Nutzdaten dürfen maximal 1200 Byte groß sein.", "correct": false },
+                { "text": "Die Nutzdaten dürfen maximal 1600 Byte groß sein.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter der Maximum Transmission Unit (MTU) im Ethernet?",
+            "answers": [
+                { "text": "Die maximale Größe der Nutzdaten im Ethernet-Frame.", "correct": true },
+                { "text": "Die minimale Größe der Nutzdaten im Ethernet-Frame.", "correct": false },
+                { "text": "Die Anzahl der übertragenen Datenpakete im Netzwerk.", "correct": false },
+                { "text": "Die maximale Anzahl der Schnittstellen im Netzwerk.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe hat die Prüfsumme im Ethernet-Frame?",
+            "answers": [
+                { "text": "Sie dient dem Erkennen von Übertragungsfehlern.", "correct": true },
+                { "text": "Sie gibt an, ob die Pakete erfolgreich übertragen wurden.", "correct": false },
+                { "text": "Sie enthält die maximale Datenrate des Netzwerks.", "correct": false },
+                { "text": "Sie bestimmt die Größe der gesendeten Pakete.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie viele Bytes umfasst der Protokolloverhead im Ethernet-Frame?",
+            "answers": [
+                { "text": "Der Protokolloverhead umfasst 18 Byte.", "correct": true },
+                { "text": "Der Protokolloverhead umfasst 20 Byte.", "correct": false },
+                { "text": "Der Protokolloverhead umfasst 12 Byte.", "correct": false },
+                { "text": "Der Protokolloverhead umfasst 10 Byte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bezeichnet man als Protokollkopf (Header) im Ethernet-Frame?",
+            "answers": [
+                { "text": "Die Interfaceadressen und das Typ-Feld des Frames.", "correct": true },
+                { "text": "Die Prüfsumme und die Zieladresse des Frames.", "correct": false },
+                { "text": "Die Synchronisation und die Prüfsumme des Frames.", "correct": false },
+                { "text": "Die Nutzdaten und die Synchronisation des Frames.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Kennung wird im Typ-Feld bei der Übertragung eines IP-Pakets verwendet?",
+            "answers": [
+                { "text": "Die Kennung 0x8100 wird im Typ-Feld verwendet.", "correct": true },
+                { "text": "Die Kennung 0x0000 wird im Typ-Feld verwendet.", "correct": false },
+                { "text": "Die Kennung 0xFFFF wird im Typ-Feld verwendet.", "correct": false },
+                { "text": "Die Kennung 0x1234 wird im Typ-Feld verwendet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was passiert, wenn die Nutzdaten im Ethernet-Frame kleiner als 46 Byte sind?",
+            "answers": [
+                { "text": "Der Frame wird durch Füllbytes auf die Mindestgröße gebracht.", "correct": true },
+                { "text": "Der Frame wird ohne Änderungen gesendet.", "correct": false },
+                { "text": "Der Frame wird zurückgewiesen und nicht gesendet.", "correct": false },
+                { "text": "Der Frame wird durch ein JAM-Signal ergänzt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Prüfsumme im Ethernet-Frame berechnet?",
+            "answers": [
+                { "text": "Durch eine mathematische Berechnung aus den vorherigen Daten.", "correct": true },
+                { "text": "Durch eine zufällige Zahlenerzeugung für die Daten.", "correct": false },
+                { "text": "Durch eine Vorhersage der nächsten Datenpakete.", "correct": false },
+                { "text": "Durch eine Signalüberprüfung des Senders.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Hauptaufgabe des Typ-Feldes in einem Ethernet-Frame?",
+            "answers": [
+                { "text": "Den Typ der nachfolgenden Nutzdaten anzugeben.", "correct": true },
+                { "text": "Die Größe des Ethernet-Frames festzulegen.", "correct": false },
+                { "text": "Die Synchronisation der Übertragung sicherzustellen.", "correct": false },
+                { "text": "Die Priorität der Daten im Frame zu bestimmen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat die Ziel-Interface-Adresse im Ethernet-Frame?",
+            "answers": [
+                { "text": "Sie bestimmt die MAC-Adresse der Netzwerkkarte des Zielrechners.", "correct": true },
+                { "text": "Sie gibt die maximale Datenrate des Netzwerks an.", "correct": false },
+                { "text": "Sie legt die Größe der Nutzdaten im Frame fest.", "correct": false },
+                { "text": "Sie synchronisiert den Datenempfang des Senders.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wofür steht die Abkürzung „MTU“ im Kontext des Ethernet-Frames?",
+            "answers": [
+                { "text": "Für die maximale Übertragungsgröße der Nutzdaten.", "correct": true },
+                { "text": "Für die minimale Größe der Nutzdaten im Frame.", "correct": false },
+                { "text": "Für die Anzahl der gesendeten Datenpakete.", "correct": false },
+                { "text": "Für die maximale Anzahl der Netzwerkgeräte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie groß ist der gesamte Ethernet-Frame, wenn die Nutzdaten 46 Byte betragen?",
+            "answers": [
+                { "text": "Der gesamte Frame umfasst 64 Byte.", "correct": true },
+                { "text": "Der gesamte Frame umfasst 100 Byte.", "correct": false },
+                { "text": "Der gesamte Frame umfasst 128 Byte.", "correct": false },
+                { "text": "Der gesamte Frame umfasst 1500 Byte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist die Präamble für die Synchronisation im Ethernet-Frame wichtig?",
+            "answers": [
+                { "text": "Weil sie den Empfänger auf die Übertragungsrate einstellt.", "correct": true },
+                { "text": "Weil sie die Größe der Nutzdaten bestimmt.", "correct": false },
+                { "text": "Weil sie die Prüfsumme für den Frame enthält.", "correct": false },
+                { "text": "Weil sie die Absenderadresse festlegt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie viele Bytes umfasst ein Ethernet-Frame ohne Berücksichtigung der Nutzdaten?",
+            "answers": [
+                { "text": "Ein Ethernet-Frame umfasst 18 Byte ohne Nutzdaten.", "correct": true },
+                { "text": "Ein Ethernet-Frame umfasst 64 Byte ohne Nutzdaten.", "correct": false },
+                { "text": "Ein Ethernet-Frame umfasst 128 Byte ohne Nutzdaten.", "correct": false },
+                { "text": "Ein Ethernet-Frame umfasst 1500 Byte ohne Nutzdaten.", "correct": false }
+            ]
+        }
+    ]
+}
