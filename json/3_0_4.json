@@ -57,7 +57,7 @@
         {
             "question": "Wie lauten die ersten beiden Oktette einer IP-Adresse auf einem Windows OS, wenn kein DHCP-Server im Netzwerk verfügbar ist.",
             "answers": [
-                { "text": "168.254.x.x (Automatic Private IP Addressing).", "correct": true },
+                { "text": "169.254.x.x (Automatic Private IP Addressing).", "correct": true },
                 { "text": "192.168.x.x (Private IP Addressing).", "correct": false },
                 { "text": "10.0.x.x (Automatic Private IP Addressing).", "correct": false },
                 { "text": "172.16.x.x (Private IP Addressing).", "correct": false }
