@@ -1,0 +1,247 @@
+{
+    "3.0.6_1-20": [
+        {
+            "question": "Ab welcher Byte-Zahl schickt der Switch im Fragment-Free Betrieb den Frame weiter?",
+            "answers": [
+                { "text": "64 Byte.", "correct": true },
+                { "text": "60 Byte.", "correct": false },
+                { "text": "70 Byte.", "correct": false },
+                { "text": "65 Byte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches Gerät ermöglicht PoE bei Switches ohne voreingebaute PoE Funktion?",
+            "answers": [
+                { "text": "PoE Injector.", "correct": true },
+                { "text": "PoE Amplifier.", "correct": false },
+                { "text": "PoE Distributor.", "correct": false },
+                { "text": "PoE Controller.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welchen Vorgang beschriebt Authentifikation (authentication)?",
+            "answers": [
+                { "text": "Identifizieren (wer?).", "correct": true },
+                { "text": "Zulassen (wer?).", "correct": false },
+                { "text": "Zugreifen (wer?).", "correct": false },
+                { "text": "Erlauben (wer?).", "correct": false }
+            ]
+        },
+        {
+            "question": "Welchen Vorgang beschriebt Autorisierung (authorisation)?",
+            "answers": [
+                { "text": "Bereitstellung (was?).", "correct": true },
+                { "text": "Erlauben (was?).", "correct": false },
+                { "text": "Zugriff gewähren (was?).", "correct": false },
+                { "text": "Zuweisung (was?).", "correct": false }
+            ]
+        },
+        {
+            "question": "Welcher Switch-Betriebsmodus wartet auf den vollständigen Frame vor der Weiterleitung oder dem Verwerfen?",
+            "answers": [
+                { "text": "Store-and-Forward.", "correct": true },
+                { "text": "Forward-and-Store.", "correct": false },
+                { "text": "Buffer-and-Forward.", "correct": false },
+                { "text": "Receive-and-Forward.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welcher Server ist das Client-Server Protokoll zur Umsetzung des AAA-Konzeptes?",
+            "answers": [
+                { "text": "RADIUS-Server (Remote Authentication Dial-In User Service).", "correct": true },
+                { "text": "TACACS-Server (Terminal Access Controller Access-Control System).", "correct": false },
+                { "text": "LDAP-Server (Lightweight Directory Access Protocol).", "correct": false },
+                { "text": "Kerberos-Server (Netzwerk-Authentifizierungsprotokoll).", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches Protokoll als Teil eines Switch Funktion soll eine Schleifenfreiheit und kreisende Pakete innerhalb einer Topologie verhindern?",
+            "answers": [
+                { "text": "STP (Spanning Tree Protocol).", "correct": true },
+                { "text": "RSTP (Rapid Spanning Tree Protocol).", "correct": false },
+                { "text": "MSTP (Multiple Spanning Tree Protocol).", "correct": false },
+                { "text": "VTP (VLAN Trunking Protocol).", "correct": false }
+            ]
+        },
+        {
+            "question": "Was trifft auf die Präambel und SFD in Bezug auf die Gesamtgröße eines Frames zu?",
+            "answers": [
+                { "text": "Sie dienen der Synchronisation und sind nicht Teil der eigentlichen Framegröße von 1518 Byte.", "correct": true },
+                { "text": "Sie sind notwendig für die Frame-Größe von 1518 Byte.", "correct": false },
+                { "text": "Sie erhöhen die Frame-Größe signifikant.", "correct": false },
+                { "text": "Sie sind für die Adressierung innerhalb des Frames zuständig.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lautet die Subnetzmaske eines Klasse-A-Netzes im IPv4-Adressraum?",
+            "answers": [
+                { "text": "255.0.0.0.", "correct": true },
+                { "text": "255.255.0.0.", "correct": false },
+                { "text": "255.255.255.0.", "correct": false },
+                { "text": "255.255.255.128.", "correct": false }
+            ]
+        },
+        {
+            "question": "Über was gibt die TTL (time to live) beim Routing Auskunft?",
+            "answers": [
+                { "text": "Die max. Anzahl an Hops, die das Paket durchlaufen darf, bevor es verworfen wird.", "correct": true },
+                { "text": "Die Anzahl der Router, die das Paket passieren kann.", "correct": false },
+                { "text": "Die Zeitdauer, die das Paket im Netzwerk verbleiben darf.", "correct": false },
+                { "text": "Die maximale Paketgröße, die übertragen werden kann.", "correct": false }
+            ]
+        },
+        {
+            "question": "Worin ist eine MAC-Adresse aufgeteilt?",
+            "answers": [
+                { "text": "Herstellerkennung (OUI - 3 Oktette) und eine fortlaufende Nummer des Herstellers (3 Oktette).", "correct": true },
+                { "text": "IP-Adresse und Subnetzmaske (6 Oktette).", "correct": false },
+                { "text": "Host- und Netzwerkanteil (4 Oktette).", "correct": false },
+                { "text": "Protokoll-ID und Herstellerkennung (5 Oktette).", "correct": false }
+            ]
+        },
+        {
+            "question": "Das Sicherheitskonzept AAA organisiert die Zugangskontrolle in einem Netzwerk. Wofür stehen die A?",
+            "answers": [
+                { "text": "Authentication - Authorization – Accounting.", "correct": true },
+                { "text": "Access - Authentication – Accounting.", "correct": false },
+                { "text": "Authorization - Authentication – Accounting.", "correct": false },
+                { "text": "Authentication - Access - Accountability.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was unterscheidet ein RAID 4 von einem RAID 5?",
+            "answers": [
+                { "text": "RAID 4 verwendet eine dedizierte Paritätsplatte.", "correct": true },
+                { "text": "RAID 5 nutzt mehrere Paritätsplatten.", "correct": false },
+                { "text": "RAID 4 ist schneller bei Schreibvorgängen.", "correct": false },
+                { "text": "RAID 5 verwendet keine Paritätsplatte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie lässt sich die Ausfallsicherheit eines RAID 5 noch steigern?",
+            "answers": [
+                { "text": "RAID51. Zwei RAID 5, die über ein RAID 1 gespiegelt werden.", "correct": true },
+                { "text": "Durch den Einsatz eines zusätzlichen RAID 6.", "correct": false },
+                { "text": "Durch die Verwendung von mehr als fünf Platten.", "correct": false },
+                { "text": "Durch Reduzierung der Plattenanzahl auf zwei.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Aufgabe von Servern?",
+            "answers": [
+                { "text": "Sie stellen Dienste im Netzwerk bereit.", "correct": true },
+                { "text": "Sie speichern lokal alle Daten.", "correct": false },
+                { "text": "Sie sind nur für die Verwaltung von Benutzern zuständig.", "correct": false },
+                { "text": "Sie leiten Daten nur zwischen Endgeräten weiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wieviel Festplatten besitzt ein RAID 5 mindestens?",
+            "answers": [
+                { "text": "Drei Platten im Verbund.", "correct": true },
+                { "text": "Zwei Platten im Verbund.", "correct": false },
+                { "text": "Vier Platten im Verbund.", "correct": false },
+                { "text": "Fünf Platten im Verbund.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wieviel Festplatten besitzt ein RAID 6 mindestens?",
+            "answers": [
+                { "text": "Vier Platten im Verbund.", "correct": true },
+                { "text": "Drei Platten im Verbund.", "correct": false },
+                { "text": "Fünf Platten im Verbund.", "correct": false },
+                { "text": "Zwei Platten im Verbund.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welcher Prozess beschreibt die genaue Abrechnung der Nutzung von Ressourcen durch den User?",
+            "answers": [
+                { "text": "Accounting.", "correct": true },
+                { "text": "Authorization.", "correct": false },
+                { "text": "Authentication.", "correct": false },
+                { "text": "Auditing.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie funktioniert eine inkrementelle Sicherung von Daten?",
+            "answers": [
+                { "text": "Es werden nur Änderungen seit dem letzten Backup gesichert.", "correct": true },
+                { "text": "Es werden alle Daten gesichert, ohne Einschränkung.", "correct": false },
+                { "text": "Es wird ein vollständiges Backup aller Daten erstellt.", "correct": false },
+                { "text": "Es werden nur die ältesten Daten gesichert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Nenne zwei Vorteile eines Hardware-RAID gegenüber eines Software-RAID.",
+            "answers": [
+                { "text": "Zusätzlicher Festplattencache und Schonung der CPU-Ressourcen.", "correct": true },
+                { "text": "Einfachere Installation und niedrigere Kosten.", "correct": false },
+                { "text": "Bessere Datensicherung und weniger Platzbedarf.", "correct": false },
+                { "text": "Höhere Geschwindigkeit bei der Datenübertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird das Spiegeln von einzelnen Ports auf einem Monitor-Port zur Fehlerbehebung genannt?",
+            "answers": [
+                { "text": "Mirroring.", "correct": true },
+                { "text": "Shadowing.", "correct": false },
+                { "text": "Monitoring.", "correct": false },
+                { "text": "Reflecting.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches RAID-System bietet eine besonders hohe Ausfallsicherheit und wieso?",
+            "answers": [
+                { "text": "RAID 6, aufgrund von 2 Paritätsplatten mit Block-Level-Striping.", "correct": true },
+                { "text": "RAID 5, weil es die schnellste Zugriffsgeschwindigkeit hat.", "correct": false },
+                { "text": "RAID 0, wegen seiner hohen Leistung.", "correct": false },
+                { "text": "RAID 1, da es Daten spiegelt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Ab welcher Byte-Zahl schickt der Switch im Cut-Through Betrieb den Frame weiter?",
+            "answers": [
+                { "text": "14 Byte. Direkt nach dem Auslesen der Zieladresse + Präambel (mit SFD).", "correct": true },
+                { "text": "12 Byte. Sofort nach dem Auslesen der Zieladresse.", "correct": false },
+                { "text": "16 Byte. Direkt nach der Übertragung der Daten.", "correct": false },
+                { "text": "15 Byte. Nach der Analyse der Zieladresse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: Ein RAID ist eine anerkannte Form der Datensicherung.",
+            "answers": [
+                { "text": "Falsch. Ein RAID gewährleistet lediglich temporäre Ausfallsicherheit.", "correct": true },
+                { "text": "Richtig. Ein RAID ist eine sichere Backup-Lösung.", "correct": false },
+                { "text": "Falsch. RAID bietet keinen Schutz vor Datenverlust.", "correct": false },
+                { "text": "Richtig. RAID sichert Daten dauerhaft ab.", "correct": false }
+            ]
+        },
+        {
+            "question": "Die Subnetzmaske 255.255.255.192 hat wie viele Subnetze?",
+            "answers": [
+                { "text": "4.", "correct": true },
+                { "text": "2.", "correct": false },
+                { "text": "8.", "correct": false },
+                { "text": "6.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was unterscheidet einen Channel-Link von einem Permanent-Link?",
+            "answers": [
+                { "text": "Der Permanent-Link ist fest verkabelt und hat eine maximale Länge von 90m.", "correct": true },
+                { "text": "Der Channel-Link hat immer eine Länge von über 100m.", "correct": false },
+                { "text": "Der Channel-Link ist eine temporäre Verbindung.", "correct": false },
+                { "text": "Der Permanent-Link ist flexibler und einfacher zu installieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie funktioniert eine differentielle Sicherung von Daten?",
+            "answers": [
+                { "text": "Es werden neu hinzugefügte Daten auf die jeweiligen Sicherungen des Vortages gesichert.", "correct": true },
+                { "text": "Es werden alle Daten im Backup erneut gesichert.", "correct": false },
+                { "text": "Es wird ein vollständiges Backup aller Daten erstellt.", "correct": false },
+                { "text": "Es werden keine neuen Daten gesichert.", "correct": false }
+            ]
+        }
+    ]
+}
