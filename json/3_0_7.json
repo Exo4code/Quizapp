@@ -1,0 +1,283 @@
+{
+    "3.0.7_1-20": [
+        {
+            "question": "Worin unterscheiden sind IaaS, PaaS und SaaS voneinander?",
+            "answers": [
+                { "text": "IaaS stellt Hardware – PaaS stellt HW, DB und OS – SaaS stellt alles und Anwendungssoftware.", "correct": true },
+                { "text": "IaaS bietet Software, PaaS bietet Hardware und SaaS stellt nur Dienste zur Verfügung.", "correct": false },
+                { "text": "IaaS bietet alles an, PaaS beschränkt sich auf Anwendungssoftware und SaaS nur auf DB.", "correct": false },
+                { "text": "IaaS stellt alles bereit, PaaS bietet nur Datenbanken und SaaS bietet Hardware.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie viele Hosts sind im Netz 192.168.10.0/25 pro Subnetz nutzbar?",
+            "answers": [
+                { "text": "126.", "correct": true },
+                { "text": "128.", "correct": false },
+                { "text": "124.", "correct": false },
+                { "text": "120.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche USV schützt neben Netzausfällen vor kurzfristigen Spannungsschwankungen und -spitzen?",
+            "answers": [
+                { "text": "VFD Offline-USV (Voltage and Frequency Dependant).", "correct": true },
+                { "text": "VFD Online-USV (Voltage and Frequency Dependant).", "correct": false },
+                { "text": "VFD Standby-USV (Voltage and Frequency Dependant).", "correct": false },
+                { "text": "VFD Hybrid-USV (Voltage and Frequency Dependant).", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: Edge-Server und Fog-Computing zeichnen sich durch ihre physische Nähe zum Ort der Datenentstehung aus.",
+            "answers": [
+                { "text": "Richtig.", "correct": true },
+                { "text": "Falsch.", "correct": false },
+                { "text": "Teils richtig.", "correct": false },
+                { "text": "Unklar.", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: mit IP-Adresse und Portnummer können laufende Applikationen auf einem Rechner eindeutig identifiziert werden.",
+            "answers": [
+                { "text": "Richtig (Socket).", "correct": true },
+                { "text": "Falsch (Socket).", "correct": false },
+                { "text": "Richtig (Channel).", "correct": false },
+                { "text": "Falsch (Port).", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: MAC-Adressen sind unterteilt in Herstellerkennung und Gerätekennung.",
+            "answers": [
+                { "text": "Richtig.", "correct": true },
+                { "text": "Falsch.", "correct": false },
+                { "text": "Teils richtig.", "correct": false },
+                { "text": "Unklar.", "correct": false }
+            ]
+        },
+        {
+            "question": "Nenne zwei dir bekannte Cloud Arten.",
+            "answers": [
+                { "text": "Private Cloud – Public Cloud – Hybrid Cloud – Community Cloud.", "correct": true },
+                { "text": "Private Cloud – Shared Cloud – Community Cloud.", "correct": false },
+                { "text": "Public Cloud – Open Cloud.", "correct": false },
+                { "text": "Hybrid Cloud – Multi Cloud.", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: USB überträgt Daten in Bits über mehrere Leitungen.",
+            "answers": [
+                { "text": "Falsch: USB überträgt seriell, nicht parallel.", "correct": true },
+                { "text": "Richtig: USB überträgt Daten parallel.", "correct": false },
+                { "text": "Falsch: USB überträgt nur in Bytes.", "correct": false },
+                { "text": "Richtig: USB nutzt beide Methoden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe hat FCS in einem Ethernet-Frame?",
+            "answers": [
+                { "text": "Die Frame Check Sequence (Prüfsumme) erkennt Übertragungsfehler.", "correct": true },
+                { "text": "Die Frame Check Sequence sorgt für eine schnellere Übertragung.", "correct": false },
+                { "text": "Die Frame Check Sequence garantiert die Datenintegrität.", "correct": false },
+                { "text": "Die Frame Check Sequence leitet Frames weiter.", "correct": false }
+            ]
+        },
+        {
+            "question": "Cat5 Kabel gelten weiterhin als der niedrigwertigste Standard. Welche Übertragungsrate bietet es?",
+            "answers": [
+                { "text": "100 Mbps – Cat5e bis zu 1Gbps – Cat6 10Gbps (37-55m).", "correct": true },
+                { "text": "50 Mbps – Cat5e bis zu 2Gbps – Cat6 5Gbps (30-50m).", "correct": false },
+                { "text": "150 Mbps – Cat5e bis zu 1Gbps – Cat6 5Gbps (20-30m).", "correct": false },
+                { "text": "75 Mbps – Cat5e bis zu 500Mbps – Cat6 10Gbps (20-40m).", "correct": false }
+            ]
+        },
+        {
+            "question": "Wieviel Hosts können bei 192.168.1.1/29 pro Subnetz genutzt werden?",
+            "answers": [
+                { "text": "6.", "correct": true },
+                { "text": "4.", "correct": false },
+                { "text": "8.", "correct": false },
+                { "text": "2.", "correct": false }
+            ]
+        },
+        {
+            "question": "Nenne den englischen Begriff für die Bitübertragungsschicht und was sie definiert.",
+            "answers": [
+                { "text": "Physical-Layer. Umwandlung der Bits in ein zum Medium passendes Signal und physikalische Übertragung.", "correct": true },
+                { "text": "Data-Layer. Verarbeitung der Daten für die Übertragung.", "correct": false },
+                { "text": "Transport-Layer. Regelung der Datenübertragung.", "correct": false },
+                { "text": "Link-Layer. Verwaltung der Datenverbindungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: Hops sind übersprungene Bits einer Datenübertragung in einem Netzwerk.",
+            "answers": [
+                { "text": "Falsch. Hops gibt die Zwischenstationen an, die ein Datenpaket auf dem Weg zu seinem Ziel nehmen muss.", "correct": true },
+                { "text": "Richtig. Hops bezeichnen verlorene Datenbits.", "correct": false },
+                { "text": "Falsch. Hops beziehen sich auf die Gesamtzahl der Daten.", "correct": false },
+                { "text": "Richtig. Hops sind die Sprünge zwischen Daten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Nenne ein verbindungsorientiertes Transportprotokoll.",
+            "answers": [
+                { "text": "TCP (Transmission Control Protocol).", "correct": true },
+                { "text": "UDP (User Datagram Protocol).", "correct": false },
+                { "text": "ICMP (Internet Control Message Protocol).", "correct": false },
+                { "text": "RIP (Routing Information Protocol).", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Trunk Port und wo finden wir ihn?",
+            "answers": [
+                { "text": "Eine Schnittstelle für die markierte Zuordnung von Frames über mehrere Switches.", "correct": true },
+                { "text": "Ein Port für den Zugriff auf einzelne Geräte.", "correct": false },
+                { "text": "Ein Port für die Verbindung von Servern.", "correct": false },
+                { "text": "Ein Port für die physische Verbindung zu Routern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Bei einer fehlenden (DHCP) IP-Konfiguration wird unter WIN welche IP-Adresse angezeigt?",
+            "answers": [
+                { "text": "169.254.x.x. APIPA (Automatic Private IP Addressing).", "correct": true },
+                { "text": "192.168.1.x.", "correct": false },
+                { "text": "10.0.0.x.", "correct": false },
+                { "text": "172.16.x.x.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was benötigen IoT Devices als IT-Infrastruktur für ideale Performance?",
+            "answers": [
+                { "text": "Edge- und Fog Computing.", "correct": true },
+                { "text": "Zentralisierte Server und Cloud-Speicher.", "correct": false },
+                { "text": "Viel Speicherplatz und Netzwerkbandbreite.", "correct": false },
+                { "text": "Externe Festplatten und lokale Server.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie ist die Nettokapazität eines RAID 6 aus einem Verbund von 5 Platten, wenn hierfür 4 1TB und 5 500 GB Platten zur Auswahl stehen?",
+            "answers": [
+                { "text": "1,5 TB.", "correct": true },
+                { "text": "2,0 TB.", "correct": false },
+                { "text": "1,0 TB.", "correct": false },
+                { "text": "2,5 TB.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Typen von Glasfasern unterscheiden wir?",
+            "answers": [
+                { "text": "Multimode und Singlemode (50/62,5 bzw. 9 Mikrometer).", "correct": true },
+                { "text": "Singlemode und Twisted Pair (100 Mikrometer).", "correct": false },
+                { "text": "Multimode und Coaxial (75 Mikrometer).", "correct": false },
+                { "text": "Singlemode und Duplex (50 Mikrometer).", "correct": false }
+            ]
+        },
+        {
+            "question": "Wofür steht das S und wofür das F in einem S/FTP Twisted-Pair-Kabel?",
+            "answers": [
+                { "text": "(Screened) geschirmte Ummantelung / (Foil) einzeln foliertes Twisted Pair.", "correct": true },
+                { "text": "(Shielded) abgeschirmte Ummantelung / (Fiber) optisches Kabel.", "correct": false },
+                { "text": "(Solid) feste Ummantelung / (Foil) dünne Ummantelung.", "correct": false },
+                { "text": "(Secure) gesicherte Verbindung / (Flexible) flexible Kabel.", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: Die differenzielle Sicherung hat Vorteile bei der Sicherungsgeschwindigkeit.",
+            "answers": [
+                { "text": "Falsch. Dies gilt nur für den Vergleich mit der Vollsicherung. Inkrementell ist schneller.", "correct": true },
+                { "text": "Richtig. Differenzielle Sicherungen sind am schnellsten.", "correct": false },
+                { "text": "Falsch. Differenzielle Sicherungen sind immer langsamer als Vollsicherungen.", "correct": false },
+                { "text": "Richtig. Vollsicherungen sind schneller als differenzielle Sicherungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Vorteile bietet ein Backup auf einem Cloud Speicher eines IT-Dienstleisters?",
+            "answers": [
+                { "text": "Wartung, Schutz vor Datenverlusten, Stromversorgung, Kühlung etc. übernimmt der Anbieter.", "correct": true },
+                { "text": "Alle Daten sind lokal gespeichert und vom Anbieter verwaltet.", "correct": false },
+                { "text": "Der Anbieter gewährleistet 100% Verfügbarkeit aller Daten.", "correct": false },
+                { "text": "Schnelle Wiederherstellung aller Daten in jedem Fall.", "correct": false }
+            ]
+        },
+        {
+            "question": "Behauptung: Wavelength Division Multiplex (WDM) ist ein Vollduplex Verfahren.",
+            "answers": [
+                { "text": "Falsch. TDM, FDM, WDM nutzen mehrere Datenkanäle unabhängig voneinander.", "correct": true },
+                { "text": "Richtig. WDM nutzt nur einen Kanal für die Übertragung.", "correct": false },
+                { "text": "Falsch. WDM ist ein einfaches Übertragungsverfahren.", "correct": false },
+                { "text": "Richtig. WDM funktioniert nur in eine Richtung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Auf welcher ISO/OSI Schicht werden Funktionen für Anwendungen und die Dateneingabe und -ausgabe gesteuert?",
+            "answers": [
+                { "text": "7. Schicht (Anwendungsschicht - Application Layer).", "correct": true },
+                { "text": "6. Schicht (Präsentationsschicht - Presentation Layer).", "correct": false },
+                { "text": "5. Schicht (Sitzungsschicht - Session Layer).", "correct": false },
+                { "text": "4. Schicht (Transportschicht - Transport Layer).", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist bei der Aufbewahrung eines Off-Premises Backups zu beachten?",
+            "answers": [
+                { "text": "Ein Mindestentfernung von mindestens 3 Kilometer vom Entstehungsort.", "correct": true },
+                { "text": "Eine maximale Entfernung von 10 Kilometern ist ausreichend.", "correct": false },
+                { "text": "Die Backup-Daten müssen im gleichen Gebäude aufbewahrt werden.", "correct": false },
+                { "text": "Eine Entfernung von mindestens 5 Kilometer vom Entstehungsort.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welchen Vorteil bietet ein durch ein NAS bereitgestelltes Netzlaufwerk im Gegensatz zu einem lokalen Ordner?",
+            "answers": [
+                { "text": "Dezentralisierte Bereitstellung über einen Server. Mehrere Nutzer haben Zugriff.", "correct": true },
+                { "text": "Zentralisierte Speicherung mit eingeschränktem Zugriff.", "correct": false },
+                { "text": "Schnellere Übertragungsraten als lokale Ordner.", "correct": false },
+                { "text": "Einfacherer Zugang nur für autorisierte Nutzer.", "correct": false }
+            ]
+        },
+        {
+            "question": "Auf welcher Schicht arbeitet ein Proxyserver, der Daten von http Anfragen zwischenspeichert, um Anfragen zu verkürzen und White-/Blacklists zu erstellen?",
+            "answers": [
+                { "text": "7. Schicht (Anwendungsschicht - Application Layer).", "correct": true },
+                { "text": "6. Schicht (Präsentationsschicht - Presentation Layer).", "correct": false },
+                { "text": "5. Schicht (Sitzungsschicht - Session Layer).", "correct": false },
+                { "text": "4. Schicht (Transportschicht - Transport Layer).", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie ist eine Topologie definiert?",
+            "answers": [
+                { "text": "Die Art und Weise, wie Leitungen physisch verlegt werden.", "correct": true },
+                { "text": "Die Art der verwendeten Protokolle im Netzwerk.", "correct": false },
+                { "text": "Die Anzahl der Verbindungen zwischen den Geräten.", "correct": false },
+                { "text": "Die Art der Daten, die übertragen werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Sicherheit und Verfügbarkeit von Daten werden womit in der Informatik beschrieben?",
+            "answers": [
+                { "text": "Redundanz.", "correct": true },
+                { "text": "Backup-Kopien.", "correct": false },
+                { "text": "Sicherheitsprotokolle.", "correct": false },
+                { "text": "Datenverschlüsselung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche USV schützt neben Netzausfällen vor Spannungsschwankungen und kurzfristigen Spannungsspitzen?",
+            "answers": [
+                { "text": "VI Line Interactive-USV (Voltage Independent).", "correct": true },
+                { "text": "VI Offline-USV (Voltage Independent).", "correct": false },
+                { "text": "VI Online-USV (Voltage Independent).", "correct": false },
+                { "text": "VI Standby-USV (Voltage Independent).", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Aufgabe eines Load Balancers?",
+            "answers": [
+                { "text": "Er sorgt für eine gleichmäßige Auslastung der vorhandenen Server.", "correct": true },
+                { "text": "Er speichert Daten für schnelle Zugriffe.", "correct": false },
+                { "text": "Er leitet Datenverkehr zwischen Routern weiter.", "correct": false },
+                { "text": "Er analysiert den Netzwerkverkehr zur Verbesserung.", "correct": false }
+            ]
+        }
+    ]
+}
