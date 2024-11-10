@@ -57,7 +57,7 @@
         {
             "question": "Wie lauten die ersten beiden Oktette einer IP-Adresse auf einem Windows OS, wenn kein DHCP-Server im Netzwerk verfügbar ist.",
             "answers": [
-                { "text": "168.254.x.x (Automatic Private IP Addressing).", "correct": true },
+                { "text": "169.254.x.x (Automatic Private IP Addressing).", "correct": true },
                 { "text": "192.168.x.x (Private IP Addressing).", "correct": false },
                 { "text": "10.0.x.x (Automatic Private IP Addressing).", "correct": false },
                 { "text": "172.16.x.x (Private IP Addressing).", "correct": false }
@@ -129,10 +129,10 @@
         {
             "question": "Wie wird die Gesamtanzahl an IPv4 Adressen errechnet?",
             "answers": [
-                { "text": "232 = 4.294.967.296", "correct": true },
-                { "text": "264 = 18.446.744.073.709.551.616", "correct": false },
-                { "text": "2128 = 340.282.366.920.938.463...", "correct": false },
-                { "text": "224 = 16.777.216", "correct": false }
+                { "text": "2^32 = 4.294.967.296", "correct": true },
+                { "text": "2^64 = 18.446.744.073.709.551.616", "correct": false },
+                { "text": "2^128 = 340.282.366.920.938.463...", "correct": false },
+                { "text": "2^24 = 16.777.216", "correct": false }
             ]
         },
         {

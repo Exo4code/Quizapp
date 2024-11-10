@@ -1,0 +1,184 @@
+{
+    "3.3.2_1-20": [
+        {
+            "question": "Was versteht man unter einer Kollision im Netzwerkverkehr?",
+            "answers": [
+                { "text": "Wenn Daten von zwei Stationen gleichzeitig gesendet werden.", "correct": true },
+                { "text": "Wenn eine Station zu langsam auf Datenanforderungen reagiert.", "correct": false },
+                { "text": "Wenn eine Verbindung durch einen physischen Defekt getrennt wird.", "correct": false },
+                { "text": "Wenn eine Station keine Verbindung zum Netzwerk herstellen kann.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie funktioniert das Listen Before Talk (LBT) Verfahren bei Ethernet?",
+            "answers": [
+                { "text": "Stationen prüfen, ob das Medium frei ist, bevor sie senden.", "correct": true },
+                { "text": "Stationen senden sofort nach dem Einschalten ein Signal.", "correct": false },
+                { "text": "Stationen warten, bis eine Kollision erkannt wird, bevor sie senden.", "correct": false },
+                { "text": "Stationen senden gleichzeitig mit einer festgelegten Reihenfolge.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet CSMA/CD und wofür wird es eingesetzt?",
+            "answers": [
+                { "text": "Ein Protokoll zur Kollisionserkennung und Vermeidung bei Ethernet.", "correct": true },
+                { "text": "Ein Verfahren zur Verschlüsselung von Daten in WLAN-Netzwerken.", "correct": false },
+                { "text": "Ein Mechanismus zur Steuerung der Bandbreite in Glasfasernetzen.", "correct": false },
+                { "text": "Ein Verfahren zur Synchronisation von Geräten in Token-Ring-Netzwerken.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich CSMA/CA von CSMA/CD?",
+            "answers": [
+                { "text": "CSMA/CA vermeidet Kollisionen durch vorheriges Abhören.", "correct": true },
+                { "text": "CSMA/CA erlaubt nur eine Station gleichzeitig im Netzwerk.", "correct": false },
+                { "text": "CSMA/CA erkennt Kollisionen durch Zeitstempel auf den Daten.", "correct": false },
+                { "text": "CSMA/CA verhindert Kollisionen durch eine Prioritätswarteschlange.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was beschreibt der Begriff „Carrier Sense“ im Kontext von Netzwerken?",
+            "answers": [
+                { "text": "Das Abhören des Mediums, um zu prüfen, ob es frei ist.", "correct": true },
+                { "text": "Das Senden von Datenpaketen an alle Netzwerkteilnehmer.", "correct": false },
+                { "text": "Das Verschlüsseln von Daten vor dem Senden im Netzwerk.", "correct": false },
+                { "text": "Das Aufteilen der Bandbreite zwischen mehreren Stationen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet „Multiple Access“ bei Medienzugriffsverfahren?",
+            "answers": [
+                { "text": "Mehrere Stationen können das Medium gleichzeitig nutzen.", "correct": true },
+                { "text": "Nur eine Station kann das Medium zu einer Zeit nutzen.", "correct": false },
+                { "text": "Stationen senden Daten direkt an eine zentrale Instanz.", "correct": false },
+                { "text": "Nur autorisierte Stationen dürfen das Medium verwenden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird eine Kollision im CSMA/CD-Verfahren erkannt?",
+            "answers": [
+                { "text": "Die Station hört während des Sendens auf das Medium.", "correct": true },
+                { "text": "Die Station prüft nach dem Senden auf Fehlerberichte.", "correct": false },
+                { "text": "Die Station sendet ein Testsignal vor dem Datensenden.", "correct": false },
+                { "text": "Die Station wartet auf eine Empfangsbestätigung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe hat die zentrale Steuerung im Medienzugriff?",
+            "answers": [
+                { "text": "Erteilen der Sendeerlaubnis an alle angeschlossenen Stationen.", "correct": true },
+                { "text": "Verteilung der Netzwerkressourcen auf die Teilnehmer.", "correct": false },
+                { "text": "Sicherstellung der Datenverschlüsselung bei Übertragung.", "correct": false },
+                { "text": "Überwachung der Netzwerksicherheit durch Firewalls.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind RTS- und CTS-Pakete im Zusammenhang mit WLAN?",
+            "answers": [
+                { "text": "Pakete zur Steuerung des Medienzugriffs im WLAN.", "correct": true },
+                { "text": "Pakete zur Verschlüsselung der WLAN-Verbindung.", "correct": false },
+                { "text": "Pakete zur Datenkomprimierung in WLAN-Netzwerken.", "correct": false },
+                { "text": "Pakete zur Priorisierung des Datenverkehrs im WLAN.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Token und welche Rolle spielt er im Token Passing Verfahren?",
+            "answers": [
+                { "text": "Ein Kontrollsignal, das die Sendeerlaubnis erteilt.", "correct": true },
+                { "text": "Ein Datenpaket zur Übertragung von Fehlerberichten.", "correct": false },
+                { "text": "Ein Verschlüsselungsschlüssel zur Datensicherung.", "correct": false },
+                { "text": "Ein Signal zur Synchronisation der Netzwerkgeräte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Zweck einer zufälligen Backoff-Zeit im CSMA/CD?",
+            "answers": [
+                { "text": "Vermeidung erneuter Kollisionen nach einer erkannten Kollision.", "correct": true },
+                { "text": "Erhöhung der Übertragungsgeschwindigkeit bei Kollisionen.", "correct": false },
+                { "text": "Optimierung der Bandbreite durch Verzögerung.", "correct": false },
+                { "text": "Reduzierung der Paketgröße zur Vermeidung von Fehlern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat das Senden eines JAM-Signals im CSMA/CD-Verfahren?",
+            "answers": [
+                { "text": "Das Senden eines Störsignals, um eine Kollision anzuzeigen.", "correct": true },
+                { "text": "Das Senden eines Fehlersignals bei Datenverlust.", "correct": false },
+                { "text": "Das Senden eines Synchronisationssignals an alle Stationen.", "correct": false },
+                { "text": "Das Senden eines Bestätigungssignals bei erfolgreicher Übertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter „Collision Avoidance“ im Funknetzwerk?",
+            "answers": [
+                { "text": "Das Verhindern von Kollisionen durch vorheriges Abhören des Mediums.", "correct": true },
+                { "text": "Das Erkennen von Kollisionen durch Überwachung des Datenverkehrs.", "correct": false },
+                { "text": "Das Beheben von Kollisionen durch erneutes Senden der Daten.", "correct": false },
+                { "text": "Das Speichern von Datenpaketen bei Kollisionen im Netzwerk.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird der Zugriff auf das Netzwerkmedium bei WLAN geregelt?",
+            "answers": [
+                { "text": "Durch das Senden von RTS/CTS-Paketen zur Sendeerlaubnis.", "correct": true },
+                { "text": "Durch die Zuweisung von IP-Adressen an die Stationen.", "correct": false },
+                { "text": "Durch das Senden von Signalen an alle Stationen gleichzeitig.", "correct": false },
+                { "text": "Durch die Einrichtung von Zugangspunkten für jede Station.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ist Token Ring als Zugriffsverfahren heute veraltet?",
+            "answers": [
+                { "text": "Aufgrund der geringen Übertragungsgeschwindigkeit und Komplexität.", "correct": true },
+                { "text": "Aufgrund der hohen Kosten für die Hardwareinstallation.", "correct": false },
+                { "text": "Aufgrund der mangelnden Sicherheit bei der Datenübertragung.", "correct": false },
+                { "text": "Aufgrund der fehlenden Unterstützung durch moderne Betriebssysteme.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Aufgabe eines Fehlermeldungssignals in höheren Netzwerkschichten?",
+            "answers": [
+                { "text": "Information über Fehler im Netzwerk an andere Schichten weitergeben.", "correct": true },
+                { "text": "Datenverlust im Netzwerk durch erneutes Senden beheben.", "correct": false },
+                { "text": "Netzwerkgeschwindigkeit durch Anpassen der Bandbreite erhöhen.", "correct": false },
+                { "text": "Übertragungsgeschwindigkeit durch Datenkomprimierung steigern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie verhindert das CSMA/CA-Verfahren Kollisionen in Funknetzen?",
+            "answers": [
+                { "text": "Durch Abhören des Mediums und Verzögerung des Sendens.", "correct": true },
+                { "text": "Durch gleichzeitiges Senden von Daten und Prüfsignalen.", "correct": false },
+                { "text": "Durch sofortiges Senden von Datenpaketen nach Aktivierung.", "correct": false },
+                { "text": "Durch Priorisierung der Stationen anhand der IP-Adresse.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was beschreibt das Konzept „Carrier Sense Multiple Access“ in Netzwerken?",
+            "answers": [
+                { "text": "Das Abhören des Mediums und die gemeinsame Nutzung durch mehrere Stationen.", "correct": true },
+                { "text": "Die gleichzeitige Datenübertragung auf mehreren Leitungen.", "correct": false },
+                { "text": "Die Verschlüsselung der Daten vor dem Senden im Netzwerk.", "correct": false },
+                { "text": "Das Reservieren von Bandbreite für priorisierte Stationen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was unterscheidet die zentrale Steuerung von dezentralen Zugriffsverfahren?",
+            "answers": [
+                { "text": "Die zentrale Steuerung erteilt Sendeerlaubnisse, dezentrale Verfahren nicht.", "correct": true },
+                { "text": "Dezentrale Verfahren nutzen keine Bandbreite, zentrale schon.", "correct": false },
+                { "text": "Die zentrale Steuerung nutzt nur eine Leitung, dezentrale nutzen viele.", "correct": false },
+                { "text": "Dezentrale Verfahren sind nur bei Glasfasernetzen möglich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aufgabe hat ein JAM-Signal im CSMA/CD-Verfahren?",
+            "answers": [
+                { "text": "Das Senden eines Störsignals, um eine Kollision anzuzeigen.", "correct": true },
+                { "text": "Das Senden eines Fehlersignals bei Datenverlust.", "correct": false },
+                { "text": "Das Senden eines Synchronisationssignals an alle Stationen.", "correct": false },
+                { "text": "Das Senden eines Bestätigungssignals bei erfolgreicher Übertragung.", "correct": false }
+            ]
+        }
+    ]
+}

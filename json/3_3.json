@@ -1,0 +1,185 @@
+{
+    "3.3_1-20": [
+        {
+            "question": "Was versteht man unter einem Netzwerkknoten?",
+            "answers": [
+                { "text": "Ein physisches Gerät, das in einem Netzwerk Informationen verarbeitet.", "correct": true },
+                { "text": "Ein Programm, das Daten im Netzwerk verwaltet.", "correct": false },
+                { "text": "Eine zentrale Datenbank im Netzwerk.", "correct": false },
+                { "text": "Ein Protokoll zur Übertragung von Daten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion hat ein Switch in einem Computernetzwerk?",
+            "answers": [
+                { "text": "Er stellt Daten für Clients bereit.", "correct": false },
+                { "text": "Er leitet Daten vom Sender zum Empfänger weiter.", "correct": true },
+                { "text": "Er speichert Daten temporär.", "correct": false },
+                { "text": "Er verbindet Clients mit der Cloud.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind Clients in einem Netzwerk?",
+            "answers": [
+                { "text": "Geräte, die Dienste von Servern anfordern.", "correct": true },
+                { "text": "Geräte, die Daten im Netzwerk speichern.", "correct": false },
+                { "text": "Zentrale Systeme, die Anwendungen verwalten.", "correct": false },
+                { "text": "Netzwerkgeräte, die Informationen transportieren.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was stellt ein Server in einem Computernetzwerk bereit?",
+            "answers": [
+                { "text": "Verbindungsmöglichkeiten für mobile Geräte.", "correct": false },
+                { "text": "Dienste für Clients wie Daten und Anwendungen.", "correct": true },
+                { "text": "Hardware zur Verbesserung der Netzwerkgeschwindigkeit.", "correct": false },
+                { "text": "Die physische Infrastruktur des Netzwerks.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen Drucker in einem Netzwerk?",
+            "answers": [
+                { "text": "Sie speichern Daten für den späteren Druck.", "correct": false },
+                { "text": "Sie sind Clients, die Dienste von Servern anfordern.", "correct": false },
+                { "text": "Sie drucken Daten, die von Clients angefordert werden.", "correct": true },
+                { "text": "Sie übertragen Daten zwischen verschiedenen Netzwerkknoten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was kennzeichnet ein Access Point?",
+            "answers": [
+                { "text": "Er sorgt für die Verbindung von Geräten im Netzwerk.", "correct": true },
+                { "text": "Er speichert Netzwerkprotokolle.", "correct": false },
+                { "text": "Er verwaltet die IP-Adressen im Netzwerk.", "correct": false },
+                { "text": "Er dient als zentraler Server für Anwendungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was beschreibt die Netzwerk-Topologie?",
+            "answers": [
+                { "text": "Die Anzahl der Knoten in einem Netzwerk.", "correct": false },
+                { "text": "Die Art und Weise, wie Geräte miteinander verbunden sind.", "correct": true },
+                { "text": "Die Geschwindigkeit der Datenübertragung im Netzwerk.", "correct": false },
+                { "text": "Die Art der verwendeten Netzwerkprotokolle.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Beispiel für Netzwerkprotokolle?",
+            "answers": [
+                { "text": "DHCP, das IP-Adressen verteilt.", "correct": true },
+                { "text": "Netzwerkgeräte wie Switches und Router.", "correct": false },
+                { "text": "Cloud-Dienste für Datenspeicherung.", "correct": false },
+                { "text": "Hardware zur Verbesserung der Netzwerkgeschwindigkeit.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ermöglicht Cloud Computing?",
+            "answers": [
+                { "text": "Speicher und Rechenleistung über das Internet bereitzustellen.", "correct": true },
+                { "text": "Daten lokal auf Servern zu speichern.", "correct": false },
+                { "text": "Die Kommunikation zwischen Geräten im LAN zu optimieren.", "correct": false },
+                { "text": "Die Netzwerkgeschwindigkeit zu erhöhen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind Netzwerk-Medien?",
+            "answers": [
+                { "text": "Die Protokolle, die für die Datenübertragung verwendet werden.", "correct": false },
+                { "text": "Die physikalischen Verbindungen zwischen Netzwerkgeräten.", "correct": true },
+                { "text": "Die Anwendungen, die im Netzwerk laufen.", "correct": false },
+                { "text": "Die Benutzeroberflächen der Clients.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Aufgabe eines Routers?",
+            "answers": [
+                { "text": "Er leitet Daten zwischen verschiedenen Netzwerken weiter.", "correct": true },
+                { "text": "Er druckt Daten aus, die von Clients gesendet werden.", "correct": false },
+                { "text": "Er speichert Daten für einen späteren Zugriff.", "correct": false },
+                { "text": "Er verbindet Clients mit einem lokalen Server.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Adresse wird als MAC-Adresse bezeichnet?",
+            "answers": [
+                { "text": "Eine 32-Bit IP-Adresse für das Netzwerk.", "correct": false },
+                { "text": "Eine 48-Bit Adresse, die ein Gerät im Netzwerk identifiziert.", "correct": true },
+                { "text": "Eine 128-Bit Adresse für IPv6 Netzwerke.", "correct": false },
+                { "text": "Eine 32-Bit Subnetmask, die Netz- und Host-Anteile trennt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Subnetmask?",
+            "answers": [
+                { "text": "Eine 48-Bit Adresse, die einen Netzwerk-Knoten identifiziert.", "correct": false },
+                { "text": "Eine 32-Bit Adresse, die Netz- und Host-Anteil trennt.", "correct": true },
+                { "text": "Ein Protokoll zur Datenübertragung.", "correct": false },
+                { "text": "Ein Gerät, das Daten im Netzwerk speichert.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was beschreibt eine IP-Adresse?",
+            "answers": [
+                { "text": "Eine eindeutige Kennung für ein Gerät im Netzwerk.", "correct": true },
+                { "text": "Die Geschwindigkeit der Netzwerkverbindung.", "correct": false },
+                { "text": "Die Hardware, die im Netzwerk verwendet wird.", "correct": false },
+                { "text": "Eine Software-Anwendung im Netzwerk.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches der folgenden Elemente gehört nicht zu einem LAN?",
+            "answers": [
+                { "text": "Clients, die Dienste anfordern.", "correct": false },
+                { "text": "Server, die Daten bereitstellen.", "correct": false },
+                { "text": "Cloud-Dienste zur Datenspeicherung.", "correct": true },
+                { "text": "Drucker, die Informationen ausdrucken.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter einem Host im Netzwerk?",
+            "answers": [
+                { "text": "Ein Gerät, das Daten sendet oder empfängt.", "correct": true },
+                { "text": "Ein zentraler Server im Netzwerk.", "correct": false },
+                { "text": "Ein Gerät, das nur druckt.", "correct": false },
+                { "text": "Ein Protokoll zur Datenübertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet das Netzwerkprotokoll TCP/IP?",
+            "answers": [
+                { "text": "Regeln zum Versenden und Empfangen von Daten über das Netzwerk.", "correct": true },
+                { "text": "Die Hardware, die für die Netzwerkinfrastruktur benötigt wird.", "correct": false },
+                { "text": "Die physische Verbindung von Netzwerkgeräten.", "correct": false },
+                { "text": "Eine Methode zur Datenkompression.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Verteiler in einem Computernetzwerk?",
+            "answers": [
+                { "text": "Ein Gerät, das Daten speichert.", "correct": false },
+                { "text": "Ein Element zur Verbindung von verschiedenen Netzwerkgeräten.", "correct": true },
+                { "text": "Ein Protokoll zur Kommunikation im Netzwerk.", "correct": false },
+                { "text": "Eine Software zur Verwaltung von Netzwerkressourcen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Funktion haben Anschlussdosen in einem Netzwerk?",
+            "answers": [
+                { "text": "Sie speichern die Konfiguration des Netzwerks.", "correct": false },
+                { "text": "Sie verbinden verschiedene Netzwerkgeräte über Kabel.", "correct": true },
+                { "text": "Sie leiten Daten zwischen Servern weiter.", "correct": false },
+                { "text": "Sie erzeugen drahtlose Netzwerksignale.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine typische Anwendung für einen Webservice auf einem Host?",
+            "answers": [
+                { "text": "Daten drucken von einem Netzwerkdrucker.", "correct": false },
+                { "text": "Bereitstellung von Informationen über das Internet.", "correct": true },
+                { "text": "Verwaltung der Netzwerkinfrastruktur.", "correct": false },
+                { "text": "Erstellung von Netzwerksicherheitsrichtlinien.", "correct": false }
+            ]
+        }
+    ],
+    "3.3_21-40": []
+}

@@ -3,7 +3,7 @@
         {
             "question": "Welcher Begriff beschreibt den Prozess der Verkapselung von Daten in Pakete bei Virtual Private Networks (VPNs)?",
             "answers": [
-                { "text": "Encapsulation", "correct": false },
+                { "text": "Packaging", "correct": false },
                 { "text": "Encryption", "correct": false },
                 { "text": "Tunneling", "correct": true },
                 { "text": "Forwarding", "correct": false }

@@ -1,0 +1,367 @@
+{
+    "3.3.1_1-20": [
+        {
+            "question": "Was versteht man unter der Datenübertragungsrate?",
+            "answers": [
+                { "text": "Die Anzahl der Datenpakete, die pro Minute übertragen werden.", "correct": false },
+                { "text": "Die Datenmenge, die pro Zeiteinheit über ein Medium übertragen wird.", "correct": true },
+                { "text": "Die Zeit, die ein Signal braucht, um einen Empfänger zu erreichen.", "correct": false },
+                { "text": "Die maximale Anzahl an Geräten, die ein Netzwerk verbinden kann.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Datenausbreitungsgeschwindigkeit definiert?",
+            "answers": [
+                { "text": "Die Geschwindigkeit, mit der sich Daten über das Netzwerk verbreiten.", "correct": false },
+                { "text": "Die Zeit, die benötigt wird, um eine Datei zu kopieren.", "correct": false },
+                { "text": "Die Laufzeit eines Signals von Sender zu Empfänger.", "correct": true },
+                { "text": "Die Anzahl der Daten, die in einer Stunde verarbeitet werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was definiert ein Bit?",
+            "answers": [
+                { "text": "Ein Bit ist die kleinste Informationseinheit in der digitalen Datenverarbeitung.", "correct": true },
+                { "text": "Ein Bit ist eine Gruppe von 8 Informationseinheiten.", "correct": false },
+                { "text": "Ein Bit ist ein Bier", "correct": false },
+                { "text": "Ein Bit ist ein Speichermedium für digitale Daten.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Kanalkapazität im Kontext der Datenübertragung?",
+            "answers": [
+                { "text": "Die maximale Anzahl der Datenpakete, die ein Netzwerk verarbeiten kann.", "correct": false },
+                { "text": "Die maximale Datenmenge, die in einer bestimmten Zeit übertragen werden kann.", "correct": true },
+                { "text": "Die Anzahl der Geräte, die gleichzeitig Daten empfangen können.", "correct": false },
+                { "text": "Die Zeit, die ein Netzwerk braucht, um alle Daten zu übertragen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheiden sich die Begriffe Durchsatz und Datenrate?",
+            "answers": [
+                { "text": "Datenrate ist die Geschwindigkeit der Übertragung, Durchsatz ist die Datenmenge pro Zeit.", "correct": true },
+                { "text": "Durchsatz ist die Geschwindigkeit der Übertragung, Datenrate ist die Anzahl der Pakete.", "correct": false },
+                { "text": "Durchsatz ist die Anzahl der Pakete, Datenrate ist die Menge pro Zeit.", "correct": false },
+                { "text": "Datenrate ist die Geschwindigkeit, Durchsatz ist die Menge an Datenpaketen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Arten von Netzwerkmedien gibt es und wie funktionieren sie?",
+            "answers": [
+                { "text": "Kupfer, Glasfaser, Funkwellen; sie übertragen Daten unterschiedlich schnell.", "correct": true },
+                { "text": "Holz, Plastik, Metall; sie übertragen Daten auf verschiedene Weisen.", "correct": false },
+                { "text": "Elektronik, Mechanik, Pneumatik; sie ermöglichen unterschiedliche Übertragungen.", "correct": false },
+                { "text": "LED, LCD, Plasma; sie stellen Daten auf verschiedene Weisen dar.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Aufgabe eines Netzwerkknotens (Node)?",
+            "answers": [
+                { "text": "Ein Netzwerkknoten verstärkt das Signal eines Netzwerks.", "correct": false },
+                { "text": "Ein Netzwerkknoten sendet oder empfängt Daten im Netzwerk.", "correct": true },
+                { "text": "Ein Netzwerkknoten reguliert die Netzwerksicherheit.", "correct": false },
+                { "text": "Ein Netzwerkknoten speichert alle Daten des Netzwerks.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie beeinflusst die Bandbreite die Leistung eines Netzwerks?",
+            "answers": [
+                { "text": "Höhere Bandbreite erlaubt mehr Geräte, aber langsame Übertragung.", "correct": false },
+                { "text": "Höhere Bandbreite ermöglicht eine höhere Datenübertragungsrate.", "correct": true },
+                { "text": "Höhere Bandbreite reduziert die Signalstärke.", "correct": false },
+                { "text": "Höhere Bandbreite erhöht die Sicherheit des Netzwerks.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Bedeutung haben Lichtsignale in der Datenübertragung?",
+            "answers": [
+                { "text": "Lichtsignale bieten eine hohe Datenrate und sind störanfällig.", "correct": false },
+                { "text": "Lichtsignale ermöglichen drahtlose Übertragung ohne Kabel.", "correct": false },
+                { "text": "Lichtsignale werden nur für Funknetzwerke verwendet.", "correct": false },
+                { "text": "Lichtsignale erlauben Übertragungen über Glasfaser mit hoher Geschwindigkeit.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was sind elektrische Signale und wie werden sie in Netzwerken verwendet?",
+            "answers": [
+                { "text": "Elektrische Signale steuern die Hardware eines Netzwerks.", "correct": false },
+                { "text": "Elektrische Signale übertragen Daten über Kupferleitungen.", "correct": true },
+                { "text": "Elektrische Signale verbessern die Netzwerksicherheit.", "correct": false },
+                { "text": "Elektrische Signale ermöglichen die drahtlose Kommunikation.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Rolle spielen WLAN und Bluetooth in der drahtlosen Datenübertragung?",
+            "answers": [
+                { "text": "WLAN und Bluetooth erlauben das Teilen von Internetverbindungen.", "correct": false },
+                { "text": "WLAN und Bluetooth dienen der drahtlosen Datenübertragung.", "correct": true },
+                { "text": "WLAN und Bluetooth verstärken das Signal des Netzwerks.", "correct": false },
+                { "text": "WLAN und Bluetooth sind ausschließlich für Sprachübertragungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen einem Server und einem Arbeitsplatzrechner im Netzwerk?",
+            "answers": [
+                { "text": "Ein Server speichert Daten, ein Arbeitsplatzrechner verarbeitet sie.", "correct": false },
+                { "text": "Ein Server hostet Dienste, ein Arbeitsplatzrechner nutzt diese.", "correct": true },
+                { "text": "Ein Server verwaltet Netzwerke, ein Arbeitsplatzrechner erstellt sie.", "correct": false },
+                { "text": "Ein Server sendet Daten, ein Arbeitsplatzrechner empfängt sie.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie ist der Begriff „Internet“ technisch definiert?",
+            "answers": [
+                { "text": "Das Internet ist ein weltweites Netzwerk, das alle LANs verbindet.", "correct": true },
+                { "text": "Das Internet ist ein Netzwerk, das nur Computer verbindet.", "correct": false },
+                { "text": "Das Internet ist ein Dienst, der Dateien speichert und verteilt.", "correct": false },
+                { "text": "Das Internet ist ein Kabelnetzwerk, das Daten überträgt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen Bits und Bytes?",
+            "answers": [
+                { "text": "Bits sind langsamer, Bytes schneller.", "correct": false },
+                { "text": "Bits definieren Geschwindigkeit, Bytes die Datenmenge.", "correct": false },
+                { "text": "Bits sind die kleinste Einheit, Bytes bestehen aus mehreren Bits.", "correct": true },
+                { "text": "Bits werden digital gespeichert, Bytes analog.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff „Durchsatz“ in der Netzwerkkommunikation?",
+            "answers": [
+                { "text": "Die Menge an Daten, die ein Netzwerk in einer Stunde verarbeiten kann.", "correct": false },
+                { "text": "Die Geschwindigkeit der Datenübertragung über ein Netzwerk.", "correct": false },
+                { "text": "Die Datenmenge, die ein Netzwerk in einer bestimmten Zeit transportiert.", "correct": true },
+                { "text": "Die Anzahl der Geräte, die gleichzeitig Daten empfangen können.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche physikalischen Unterschiede bestehen zwischen Glasfaser- und Kupferleitungen?",
+            "answers": [
+                { "text": "Glasfaser verwendet Licht, Kupfer elektrische Signale zur Übertragung.", "correct": true },
+                { "text": "Glasfaser ist teurer, Kupfer ist schneller und effizienter.", "correct": false },
+                { "text": "Glasfaser hat geringere Geschwindigkeit, Kupfer ist robuster.", "correct": false },
+                { "text": "Glasfaser nutzt Laser, Kupfer verwendet magnetische Felder.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Datendurchsatz und wie wird er berechnet?",
+            "answers": [
+                { "text": "Die Datenmenge pro Sekunde und Zeit: Datendurchsatz = D/t.", "correct": true },
+                { "text": "Die Anzahl der Datenpakete pro Sekunde: Datendurchsatz = D x t.", "correct": false },
+                { "text": "Die Geschwindigkeit der Datenübertragung: Datendurchsatz = D/t².", "correct": false },
+                { "text": "Die Menge der Fehlerkorrekturen: Datendurchsatz = D - t.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Signalgeschwindigkeit und wie wird sie gemessen?",
+            "answers": [
+                { "text": "Die Datenmenge, die über ein Medium übertragen wird.", "correct": false },
+                { "text": "Die Laufzeit eines Signals von einem Punkt zum anderen.", "correct": true },
+                { "text": "Die Zeit, die für die Fehlersuche benötigt wird.", "correct": false },
+                { "text": "Die Anzahl der Datenpakete, die pro Sekunde gesendet werden.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird die Übertragungszeit für eine gegebene Datenmenge berechnet?",
+            "answers": [
+                { "text": "Übertragungszeit = Datenmenge x Übertragungsrate.", "correct": false },
+                { "text": "Übertragungszeit = Datenmenge / Übertragungsrate.", "correct": true },
+                { "text": "Übertragungszeit = Datenmenge + Übertragungsrate.", "correct": false },
+                { "text": "Übertragungszeit = Datenmenge - Übertragungsrate.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie unterscheidet sich die Datenrate von der Kanalkapazität?",
+            "answers": [
+                { "text": "Datenrate beschreibt die Übertragungsmenge, Kanalkapazität die Maximalmenge.", "correct": true },
+                { "text": "Datenrate ist die Maximalmenge, Kanalkapazität die Übertragungsmenge.", "correct": false },
+                { "text": "Datenrate ist die Datenmenge, Kanalkapazität die Geschwindigkeit.", "correct": false },
+                { "text": "Datenrate und Kanalkapazität sind dasselbe und können synonym verwendet werden.", "correct": false }
+            ]
+        }
+    ],
+    
+    "3.3.1_21-40": [
+        {
+            "question": "Was bedeutet die Abkürzung „Mbit/s“ und wie unterscheidet sie sich von „Gbit/s“?",
+            "answers": [
+                { "text": "Mbit/s steht für Megabit pro Sekunde, Gbit/s für Gigabit pro Sekunde.", "correct": true },
+                { "text": "Mbit/s steht für Megabyte pro Sekunde, Gbit/s für Gigabyte pro Sekunde.", "correct": false },
+                { "text": "Mbit/s und Gbit/s sind gleichbedeutend.", "correct": false },
+                { "text": "Mbit/s steht für Millionbit pro Sekunde, Gbit/s für Billionbit pro Sekunde.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Datenübertragungsrate ist in älteren Büroverkabelungen üblich?",
+            "answers": [
+                { "text": "10 Mbit/s", "correct": false },
+                { "text": "100 Mbit/s", "correct": true },
+                { "text": "1 Gbit/s", "correct": false },
+                { "text": "10 Gbit/s", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist der Unterschied zwischen USB 3.2 und USB 4.0 in Bezug auf die Datenübertragungsrate?",
+            "answers": [
+                { "text": "USB 3.2 hat eine höhere Geschwindigkeit als USB 4.0.", "correct": false },
+                { "text": "USB 4.0 bietet 40 Gbit/s, während USB 3.2 20-40 Gbit/s bietet.", "correct": true },
+                { "text": "USB 4.0 unterstützt nur 20 Gbit/s.", "correct": false },
+                { "text": "USB 3.2 und USB 4.0 bieten die gleiche Datenrate.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Datenrate wird derzeit in Rechenzentren eingesetzt?",
+            "answers": [
+                { "text": "1000 Gbit/s", "correct": false },
+                { "text": "40 Gbit/s", "correct": false },
+                { "text": "200 Gbit/s - 500 Gbit/s", "correct": false },
+                { "text": "40 Gbit/s - 100 Gbit/s", "correct": true }
+            ]
+        },
+        {
+            "question": "Was bedeutet der Begriff „Thunderbolt-Technologie“ im Zusammenhang mit USB 4.0?",
+            "answers": [
+                { "text": "Eine Technologie zur kabellosen Datenübertragung.", "correct": false },
+                { "text": "Eine Technologie zur schnelleren Ladeleistung.", "correct": false },
+                { "text": "Eine Technologie zur Erhöhung der Netzwerksicherheit.", "correct": false },
+                { "text": "Eine Technologie zur Erhöhung der Datenübertragungsrate.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was versteht man unter serieller Datenübertragung?",
+            "answers": [
+                { "text": "Daten werden parallel über mehrere Leitungen übertragen.", "correct": false },
+                { "text": "Daten werden gleichzeitig in beide Richtungen gesendet.", "correct": false },
+                { "text": "Daten werden Bit für Bit nacheinander über eine Leitung übertragen.", "correct": true },
+                { "text": "Daten werden nur in eine Richtung gesendet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet parallele Datenübertragung und wie funktioniert sie?",
+            "answers": [
+                { "text": "Daten werden nacheinander über eine Leitung übertragen.", "correct": false },
+                { "text": "Daten werden gleichzeitig über mehrere Leitungen übertragen.", "correct": true },
+                { "text": "Daten werden nur in eine Richtung gesendet.", "correct": false },
+                { "text": "Daten werden verschlüsselt übermittelt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie definiert man die Übertragungsart Simplex?",
+            "answers": [
+                { "text": "Datenübertragung erfolgt nur in eine Richtung.", "correct": true },
+                { "text": "Datenübertragung erfolgt in beide Richtungen gleichzeitig.", "correct": false },
+                { "text": "Datenübertragung erfolgt abwechselnd in beide Richtungen.", "correct": false },
+                { "text": "Datenübertragung erfolgt über mehrere Leitungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Duplex-Kanal in der Datenübertragung?",
+            "answers": [
+                { "text": "Datenübertragung erfolgt nur in eine Richtung.", "correct": false },
+                { "text": "Datenübertragung erfolgt in beide Richtungen.", "correct": true },
+                { "text": "Datenübertragung erfolgt nur abwechselnd.", "correct": false },
+                { "text": "Datenübertragung erfolgt nur bei Rundfunk.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter der Bandbreite in einem Netzwerk?",
+            "answers": [
+                { "text": "Die maximale Datenmenge, die in einer bestimmten Zeit übertragen werden kann.", "correct": true },
+                { "text": "Die Anzahl der Geräte, die gleichzeitig verbunden werden können.", "correct": false },
+                { "text": "Die Geschwindigkeit, mit der Daten verarbeitet werden.", "correct": false },
+                { "text": "Die Entfernung, die ein Signal zurücklegen kann.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Multiplexing in der Netzwerktechnik?",
+            "answers": [
+                { "text": "Datenübertragung nur in eine Richtung.", "correct": false },
+                { "text": "Nutzung mehrerer Kanäle auf demselben Medium.", "correct": true },
+                { "text": "Datenübertragung mit erhöhter Geschwindigkeit.", "correct": false },
+                { "text": "Datenübertragung mit einer einzigen Frequenz.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie funktioniert Zeitmultiplexing und wofür wird es genutzt?",
+            "answers": [
+                { "text": "Mehrere Signale nutzen nacheinander dasselbe Medium.", "correct": true },
+                { "text": "Mehrere Signale nutzen gleichzeitig dasselbe Medium.", "correct": false },
+                { "text": "Ein Signal nutzt mehrere Medien gleichzeitig.", "correct": false },
+                { "text": "Ein Signal nutzt verschiedene Frequenzen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist Frequenzmultiplexing und wie werden die Kanäle unterschieden?",
+            "answers": [
+                { "text": "Kanäle nutzen unterschiedliche Zeiten zur Übertragung.", "correct": false },
+                { "text": "Kanäle nutzen unterschiedliche Frequenzen zur Übertragung.", "correct": true },
+                { "text": "Kanäle nutzen verschiedene Wellenlängen zur Übertragung.", "correct": false },
+                { "text": "Kanäle nutzen verschiedene Medien zur Übertragung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist die Definition von Wellenlängenmultiplexing (WDM)?",
+            "answers": [
+                { "text": "Datenübertragung erfolgt auf verschiedenen Leitungen.", "correct": false },
+                { "text": "Datenübertragung erfolgt in verschiedene Richtungen.", "correct": false },
+                { "text": "Datenübertragung erfolgt über verschiedene Frequenzen.", "correct": false },
+                { "text": "Datenübertragung erfolgt über unterschiedliche Wellenlängen.", "correct": true }
+            ]
+        },
+        {
+            "question": "Was versteht man unter Unicast im Netzwerk?",
+            "answers": [
+                { "text": "Ein Sender überträgt an alle Empfänger im Netzwerk.", "correct": false },
+                { "text": "Ein Sender überträgt an eine Gruppe von Empfängern.", "correct": false },
+                { "text": "Ein Sender überträgt an einen bestimmten Empfänger.", "correct": true },
+                { "text": "Ein Sender überträgt an einen unbestimmten Empfänger.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie wird der Begriff Multicast in der Netzwerktechnik definiert?",
+            "answers": [
+                { "text": "Ein Sender überträgt an alle Empfänger.", "correct": false },
+                { "text": "Ein Sender überträgt an einen bestimmten Empfänger.", "correct": false },
+                { "text": "Ein Sender überträgt an eine Gruppe von Empfängern.", "correct": true },
+                { "text": "Ein Sender überträgt an einen zufälligen Empfänger.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist ein Broadcast und wie unterscheidet er sich von Unicast?",
+            "answers": [
+                { "text": "Broadcast überträgt an einen bestimmten Empfänger, Unicast an alle.", "correct": false },
+                { "text": "Broadcast überträgt an eine Gruppe von Empfängern, Unicast an einen.", "correct": false },
+                { "text": "Broadcast überträgt an alle Empfänger, Unicast an einen.", "correct": true },
+                { "text": "Broadcast überträgt an einen unbestimmten Empfänger, Unicast an alle.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was bedeutet Anycast und wie funktioniert es in der Praxis?",
+            "answers": [
+                { "text": "Ein Sender überträgt Daten an alle Empfänger im Netzwerk, was als Broadcast bezeichnet wird.", "correct": false },
+                { "text": "Ein Sender adressiert einen unbestimmten Empfänger einer bestimmten Gruppe.", "correct": true },
+                { "text": "Ein Sender überträgt Daten an eine Gruppe von Empfängern, was als Multicast bekannt ist.", "correct": false },
+                { "text": "Ein Sender überträgt Daten an einen bestimmten Empfänger, was als Unicast bezeichnet wird.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Vollduplex-Verbindung und wie unterscheidet sie sich von Halbduplex?",
+            "answers": [
+                { "text": "Vollduplex überträgt Daten nacheinander, Halbduplex gleichzeitig.", "correct": false },
+                { "text": "Vollduplex überträgt Daten in beide Richtungen gleichzeitig, Halbduplex nur abwechselnd.", "correct": true },
+                { "text": "Vollduplex überträgt Daten schneller als Halbduplex.", "correct": false },
+                { "text": "Vollduplex ist nur in eine Richtung verfügbar, Halbduplex in beide.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie definiert man Simplex im Vergleich zu Duplex?",
+            "answers": [
+                { "text": "Simplex überträgt Daten nur in eine Richtung, Duplex in beide.", "correct": true },
+                { "text": "Simplex überträgt Daten in beide Richtungen gleichzeitig, Duplex nacheinander.", "correct": false },
+                { "text": "Simplex und Duplex haben die gleiche Übertragungsart.", "correct": false },
+                { "text": "Simplex nutzt mehrere Leitungen, Duplex nur eine.", "correct": false }
+            ]
+        }
+    ]
+} 

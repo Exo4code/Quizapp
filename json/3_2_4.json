@@ -1,0 +1,185 @@
+{
+    "3.1_1-20": [
+        {
+            "question": "Was ist ein Fat Client?",
+            "answers": [
+                { "text": "Ein Rechner, der ohne Massenspeicher arbeitet und das Betriebssystem aus dem Netzwerk lädt.", "correct": false },
+                { "text": "Ein leistungsstarker Rechner, der alle Anwendungen lokal ausführt.", "correct": true },
+                { "text": "Ein kleiner Rechner, der als Terminal ohne lokale Anwendungen dient.", "correct": false },
+                { "text": "Ein eingebettetes System mit Sensoren und Aktoren in der Produktion.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aussage beschreibt einen Thin Client am besten?",
+            "answers": [
+                { "text": "Ein voll ausgestatteter Rechner, der autonom arbeitet.", "correct": false },
+                { "text": "Ein abgespeckter Rechner, der Anwendungen auf einem Server ausführt.", "correct": true },
+                { "text": "Ein mobiles Gerät mit Telefoniefunktion und WLAN.", "correct": false },
+                { "text": "Ein leistungsstarker Rechner im Netzwerk, der lokal arbeitet.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was versteht man unter BYOD im Unternehmenskontext?",
+            "answers": [
+                { "text": "Mitarbeiter nutzen ihre eigenen Geräte im Firmennetzwerk.", "correct": true },
+                { "text": "Ein spezieller Thin Client für den Heimgebrauch.", "correct": false },
+                { "text": "Ein Verfahren zur sicheren Datenübertragung.", "correct": false },
+                { "text": "Ein eingebettetes System in der Produktion.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welcher Vorteil ergibt sich durch den Einsatz von Thin Clients hinsichtlich der Energieeffizienz?",
+            "answers": [
+                { "text": "Sie verbrauchen mehr Energie durch ständige Netzwerkverbindung.", "correct": false },
+                { "text": "Ihr geringer Leistungsbedarf reduziert den Energieverbrauch.", "correct": true },
+                { "text": "Sie benötigen zusätzliche Hardware, was den Energiebedarf erhöht.", "correct": false },
+                { "text": "Sie haben keinen Einfluss auf den Energieverbrauch.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum sind Thin Clients weniger anfällig für Schadsoftware?",
+            "answers": [
+                { "text": "Sie verfügen über starke Antivirensoftware.", "correct": false },
+                { "text": "Sie haben keine Schnittstellen für externe Speichermedien.", "correct": true },
+                { "text": "Sie sind ständig offline und nicht vernetzt.", "correct": false },
+                { "text": "Sie verwenden ein spezielles Betriebssystem.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Netzwerkanbindung nutzen mobile Geräte mit BYOD typischerweise im Unternehmen?",
+            "answers": [
+                { "text": "LAN-Verbindung über Kabel.", "correct": false },
+                { "text": "WLAN-Verbindung aufgrund der Mobilität.", "correct": true },
+                { "text": "Verbindung über ISDN-Telefonleitungen.", "correct": false },
+                { "text": "Keine Netzwerkanbindung erforderlich.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind Cyber-Physische Systeme (CPS)?",
+            "answers": [
+                { "text": "Mobile Geräte mit Telefoniefunktion.", "correct": false },
+                { "text": "Elektrisch-mechanische Systeme mit Netzwerkanbindung in der Produktion.", "correct": true },
+                { "text": "Leistungsstarke Arbeitsplatzrechner auf dem Tisch.", "correct": false },
+                { "text": "Kleine Rechner ohne Massenspeicher.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche besondere Anforderung besteht bei der Netzwerkanbindung von CPS?",
+            "answers": [
+                { "text": "Hohe Datenübertragungsrate.", "correct": false },
+                { "text": "Niedrige Latenzzeiten im Netzwerk.", "correct": true },
+                { "text": "Keine besonderen Anforderungen.", "correct": false },
+                { "text": "Ausschließliche Nutzung von WLAN.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum kann der Datenverkehr zwischen Thin Client und Terminalserver als horizontaler Datenfluss bezeichnet werden?",
+            "answers": [
+                { "text": "Weil der Thin Client eine virtuelle Maschine auf dem Terminalserver ist.", "correct": true },
+                { "text": "Weil Daten nur in eine Richtung fließen.", "correct": false },
+                { "text": "Weil der Datenverkehr außerhalb des Rechenzentrums stattfindet.", "correct": false },
+                { "text": "Weil der Datenfluss zwischen verschiedenen Ebenen erfolgt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie werden Thin Clients auch genannt?",
+            "answers": [
+                { "text": "Fat Clients oder Workstations.", "correct": false },
+                { "text": "Stirn Clients oder Lean Clients.", "correct": true },
+                { "text": "Embedded Systems oder SPS.", "correct": false },
+                { "text": "Desktop-PCs oder Tower-PCs.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was sind die Hauptaufgaben eines Terminalservers in einer Thin Client Umgebung?",
+            "answers": [
+                { "text": "Betriebssysteme an Thin Clients verteilen.", "correct": false },
+                { "text": "Als zentraler Speicher für Massenspeicher dienen.", "correct": false },
+                { "text": "Anwendungen ausführen und virtuelle Desktops bereitstellen.", "correct": true },
+                { "text": "Netzwerkverbindungen zu externen Geräten herstellen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches Merkmal trifft auf ein Embedded System zu?",
+            "answers": [
+                { "text": "Voll ausgestatteter Rechner für autonome Arbeit.", "correct": false },
+                { "text": "Kleiner Rechner mit Sensoren und Aktoren, oft mit WLAN.", "correct": true },
+                { "text": "Großes System mit vielen externen Schnittstellen.", "correct": false },
+                { "text": "Rechner ohne Netzwerkanbindung.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ermöglicht die Nutzung von 5G in Produktionsumgebungen?",
+            "answers": [
+                { "text": "Hohe Datenraten für Multimedia-Streaming.", "correct": false },
+                { "text": "Kabellose Anbindung von Maschinen mit geringer Latenz.", "correct": true },
+                { "text": "Ersatz von WLAN in Bürogebäuden.", "correct": false },
+                { "text": "Kommunikation zwischen Mitarbeitern.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie können ältere PCs als Thin Clients weiterverwendet werden?",
+            "answers": [
+                { "text": "Durch Aufrüstung der Hardware.", "correct": false },
+                { "text": "Mit einem abgespeckten Betriebssystem und Client-Software.", "correct": true },
+                { "text": "Indem sie als Fat Clients eingesetzt werden.", "correct": false },
+                { "text": "Durch Verwendung als Cyber-Physische Systeme.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Aussage trifft auf den Datenverkehr zwischen Server und Thin Client zu?",
+            "answers": [
+                { "text": "Er ist sehr hoch wegen der vielen übertragenen Anwendungen.", "correct": false },
+                { "text": "Er ist gering, hauptsächlich Bildschirmdaten und Eingaben.", "correct": true },
+                { "text": "Er erfordert eine schnelle Internetverbindung.", "correct": false },
+                { "text": "Er erfolgt ausschließlich über ISDN-Leitungen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Warum ermöglichen Thin Clients Homeoffice-Arbeitsplätze auch ohne schnelles Internet?",
+            "answers": [
+                { "text": "Weil sie offline arbeiten können.", "correct": false },
+                { "text": "Weil sie nur geringe Datenmengen übertragen.", "correct": true },
+                { "text": "Weil sie keine Netzwerkanbindung benötigen.", "correct": false },
+                { "text": "Weil sie über integrierte Mobilfunkmodule verfügen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Was ist eine Diskless Workstation?",
+            "answers": [
+                { "text": "Ein Rechner ohne Netzwerkkarte.", "correct": false },
+                { "text": "Ein Rechner ohne Massenspeicher, der das Betriebssystem über das Netzwerk bezieht.", "correct": true },
+                { "text": "Ein Rechner mit besonders großer Festplatte.", "correct": false },
+                { "text": "Ein mobiler Rechner mit Touchscreen.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welche Gefahr besteht bei BYOD für Unternehmensnetzwerke?",
+            "answers": [
+                { "text": "Höherer Energieverbrauch durch zusätzliche Geräte.", "correct": false },
+                { "text": "Sicherheitslücken durch private Geräte der Mitarbeiter.", "correct": true },
+                { "text": "Überlastung des Netzwerks durch zu viele Verbindungen.", "correct": false },
+                { "text": "Unzureichende Hardwareleistung der mitgebrachten Geräte.", "correct": false }
+            ]
+        },
+        {
+            "question": "Welches der folgenden Geräte ist kein typischer Thin Client?",
+            "answers": [
+                { "text": "Ein kleiner Rechner ohne Massenspeicher.", "correct": false },
+                { "text": "Ein voll ausgestatteter Arbeitsplatzrechner.", "correct": true },
+                { "text": "Ein Terminal mit minimaler Rechenleistung.", "correct": false },
+                { "text": "Ein Gerät, das sein Betriebssystem aus dem Netzwerk lädt.", "correct": false }
+            ]
+        },
+        {
+            "question": "Wie verbindet sich ein Thin Client mit einer virtuellen Maschine?",
+            "answers": [
+                { "text": "Durch lokale Ausführung von Anwendungen.", "correct": false },
+                { "text": "Über das Netzwerk mit dem Terminalserver.", "correct": true },
+                { "text": "Direkt über eine serielle Schnittstelle.", "correct": false },
+                { "text": "Ohne Netzwerkverbindung.", "correct": false }
+            ]
+        }
+    ],
+    "3.1_21-40": []
+}
